@@ -1,0 +1,374 @@
+{
+ "date": "2026-10-09",
+ "queries": [
+  {
+   "q": "What causes rice yield loss in Myanmar?",
+   "n": 256,
+   "top": [
+    "P11",
+    "P05",
+    "P08",
+    "P17",
+    "P01"
+   ],
+   "ok": true,
+   "verdict": "Useful: problem records for losses (post-harvest, flood, conflict, pests, yield gap) ranked first"
+  },
+  {
+   "q": "Show studies about labor shortages after 2015",
+   "n": 64,
+   "top": [
+    "S301",
+    "S132",
+    "S263",
+    "S268",
+    "S164"
+   ],
+   "ok": true,
+   "verdict": "Useful: establishment-method, mechanization and wage studies; year filter applied"
+  },
+  {
+   "q": "Find research that actually reached farmers",
+   "n": 237,
+   "top": [
+    "S059",
+    "S287",
+    "S286",
+    "S131",
+    "S132"
+   ],
+   "ok": true,
+   "verdict": "Useful: evidence linked to at-scale interventions (dams, combine services, MADB credit) ranks first"
+  },
+  {
+   "q": "Show proposed solutions that never scaled",
+   "n": 3,
+   "top": [
+    "I18",
+    "I06",
+    "I03"
+   ],
+   "ok": true,
+   "verdict": "Useful: the three D-status interventions (rodent management, index insurance, Rice Crop Manager)"
+  },
+  {
+   "q": "What datasets can measure rainfall and rice yield?",
+   "n": 9,
+   "top": [
+    "D01",
+    "D13",
+    "D28",
+    "D02",
+    "D29"
+   ],
+   "ok": true,
+   "verdict": "Useful: PSD, CHIRPS, FAOSTAT, MAPS"
+  },
+  {
+   "q": "Show studies using Sentinel or Landsat",
+   "n": 16,
+   "top": [
+    "S060",
+    "S087",
+    "S144",
+    "S155",
+    "S213"
+   ],
+   "ok": true,
+   "verdict": "Useful: 16 remote-sensing studies, Sentinel-1 national mapping first"
+  },
+  {
+   "q": "Find research in Ayeyarwady",
+   "n": 87,
+   "top": [
+    "P01",
+    "P05",
+    "P07",
+    "P09",
+    "P10"
+   ],
+   "ok": true,
+   "verdict": "Useful: region filter applied; Delta problems, interventions and 72 studies"
+  },
+  {
+   "q": "Show monthly datasets related to rice agriculture",
+   "n": 10,
+   "top": [
+    "D06",
+    "D13",
+    "D14",
+    "D15",
+    "D16"
+   ],
+   "ok": true,
+   "verdict": "Useful: 10 monthly datasets (prices, rainfall, reanalysis, water, trade)"
+  },
+  {
+   "q": "Find optimization studies",
+   "n": 10,
+   "top": [
+    "S156",
+    "S070",
+    "S267",
+    "S107",
+    "S106"
+   ],
+   "ok": true,
+   "verdict": "Partly useful: genuine optimization studies are few (insurance contract, drying, harvesting); corpus gap, not a search failure"
+  },
+  {
+   "q": "How has Vietnam reduced rice production labor?",
+   "n": 219,
+   "top": [
+    "S075",
+    "S070",
+    "S309",
+    "S095",
+    "B04"
+   ],
+   "ok": true,
+   "verdict": "Useful but ranking imperfect: mDSR and combine-diffusion cases appear in top 6 after two Vietnam studies"
+  },
+  {
+   "q": "What interventions from Thailand may transfer to Myanmar?",
+   "n": 2,
+   "top": [
+    "B11",
+    "B10"
+   ],
+   "ok": true,
+   "verdict": "Useful: both Thai cases with transferability ratings"
+  },
+  {
+   "q": "Show high-impact problems with good data availability",
+   "n": 19,
+   "top": [
+    "P01",
+    "P02",
+    "P04",
+    "P05",
+    "P08"
+   ],
+   "ok": true,
+   "verdict": "Useful: P01, P02, P04, P05 lead"
+  },
+  {
+   "q": "Find research gaps suitable for a data science project",
+   "n": 12,
+   "top": [
+    "G03",
+    "G02",
+    "G07",
+    "G08",
+    "G04"
+   ],
+   "ok": true,
+   "verdict": "Useful: flood-loss monitoring, nutrient-tool implementation gap, seeding services, optimum N"
+  },
+  {
+   "q": "Which project can save farmer time or labor?",
+   "n": 6,
+   "top": [
+    "PR04",
+    "PR16",
+    "PR02",
+    "PR01",
+    "PR13"
+   ],
+   "ok": true,
+   "verdict": "Useful: crop-establishment model (PR04) first"
+  },
+  {
+   "q": "Show studies with quantitative yield effects",
+   "n": 154,
+   "top": [
+    "S200",
+    "S262",
+    "S090",
+    "S302",
+    "S252"
+   ],
+   "ok": true,
+   "verdict": "Useful: studies with extracted effect sizes ranked first"
+  },
+  {
+   "q": "Show conflicting research about fertilizer",
+   "n": 95,
+   "top": [
+    "S090",
+    "S158",
+    "S267",
+    "P04",
+    "S289"
+   ],
+   "ok": true,
+   "verdict": "Useful: S090 vs S158 disagreement on fertilizer levels surfaces first; few true contradictions exist in the corpus"
+  },
+  {
+   "q": "Which studies use the same dataset?",
+   "n": 10,
+   "top": [
+    "D04",
+    "D32",
+    "D18",
+    "D09",
+    "D12"
+   ],
+   "ok": true,
+   "verdict": "Useful: datasets ranked by number of studies (MAPS used by most)"
+  },
+  {
+   "q": "What research has the strongest implementation evidence?",
+   "n": 53,
+   "top": [
+    "I01",
+    "I07",
+    "I15",
+    "S286",
+    "S263"
+   ],
+   "ok": true,
+   "verdict": "Useful: at-scale interventions (mechanization services, MADB credit) first"
+  },
+  {
+   "q": "mechanization",
+   "n": 84,
+   "top": [
+    "I01",
+    "S131",
+    "S085",
+    "S263",
+    "S229"
+   ],
+   "ok": true,
+   "verdict": "Exact term search works"
+  },
+  {
+   "q": "mechanisation Myanmar",
+   "n": 84,
+   "top": [
+    "S131",
+    "S085",
+    "S263",
+    "I01",
+    "S229"
+   ],
+   "ok": true,
+   "verdict": "British spelling normalised"
+  },
+  {
+   "q": "fertiliser optimisaton",
+   "n": 103,
+   "top": [
+    "S267",
+    "S124",
+    "S115",
+    "P04",
+    "S289"
+   ],
+   "ok": true,
+   "verdict": "Typo corrected on whole words (optimisaton → optimization) + British spelling tolerated"
+  },
+  {
+   "q": "\"alternate wetting\"",
+   "n": 8,
+   "top": [
+    "I16",
+    "B05",
+    "S201",
+    "S157",
+    "S124"
+   ],
+   "ok": true,
+   "verdict": "Phrase match restricts to 8 AWD records"
+  },
+  {
+   "q": "မြေဩဇာ ဈေးနှုန်း",
+   "n": 193,
+   "top": [
+    "S272",
+    "S239",
+    "P02",
+    "S267",
+    "P04"
+   ],
+   "ok": true,
+   "verdict": "Burmese terms mapped to fertilizer + price"
+  },
+  {
+   "q": "flood impact on rice yield",
+   "n": 238,
+   "top": [
+    "S023",
+    "S217",
+    "P05",
+    "S302",
+    "S253"
+   ],
+   "ok": true,
+   "verdict": "Concept search: flood-tolerance RCT, flood shock assessments, P05"
+  },
+  {
+   "q": "research with farmer-level datasets",
+   "n": 10,
+   "top": [
+    "D04",
+    "D31",
+    "D06",
+    "D11",
+    "D34"
+   ],
+   "ok": true,
+   "verdict": "Farm-level survey datasets (MAPS, DIEM) first"
+  },
+  {
+   "q": "solutions used in Vietnam but not Myanmar",
+   "n": 3,
+   "top": [
+    "B03",
+    "B04",
+    "B02"
+   ],
+   "ok": true,
+   "verdict": "Vietnam neighbour cases"
+  },
+  {
+   "q": "xylophone quantum",
+   "n": 0,
+   "top": [],
+   "ok": true,
+   "verdict": "No-result query shows an empty state with recovery actions"
+  },
+  {
+   "q": "(empty query)",
+   "n": 439,
+   "top": [
+    "P01",
+    "P02",
+    "P03",
+    "P04",
+    "P05"
+   ],
+   "ok": true,
+   "verdict": "Empty query lists all records, problems first"
+  }
+ ],
+ "checks": [
+  {
+   "ok": true,
+   "t": "Search + multiple filters (flood + Study + Ayeyarwady + High confidence + 2018-2026) returns 21 studies, all within the year range; active-filter chips and Clear all work"
+  },
+  {
+   "ok": true,
+   "t": "All 11 views render without JavaScript errors in headless Chromium (desktop 1440 px)"
+  },
+  {
+   "ok": true,
+   "t": "Link check: 354 of 354 study and dataset links resolved (HTTP 2xx/3xx; DOIs redirect from doi.org) on 2026-10-09"
+  },
+  {
+   "ok": true,
+   "t": "UI audit 2026-10-09: 72-test Playwright regression suite (layout geometry at 14 viewport sizes, dialogs, history, search, filters, contrast) passes; 53 of these fail on the pre-audit build."
+  }
+ ]
+}

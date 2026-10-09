@@ -1,0 +1,225 @@
+[
+ {
+  "gap_id": "G01",
+  "gap_type": "Knowledge",
+  "title": "No representative post-2020 estimate of harvest and post-harvest losses",
+  "description": "Loss evidence comes from field experiments and two-township rodent studies; national loss rates under current mechanization are unknown.",
+  "problem_ids": [
+   "P11",
+   "P17",
+   "P19"
+  ],
+  "evidence_ids": [
+   "S119",
+   "S052"
+  ],
+  "priority": "Medium",
+  "data_availability": 2,
+  "record_type": "Gap",
+  "id": "G01"
+ },
+ {
+  "gap_id": "G02",
+  "gap_type": "Implementation",
+  "title": "Proven nutrient decision tools never reached Myanmar farmers",
+  "description": "Site-specific nutrient advice raised yields 17-19% in India (S267) and integrated recommendations scaled to 20.9 million farmers in China (S076); a Myanmar Rice Crop Manager prototype (2019) has no deployment record.",
+  "problem_ids": [
+   "P04",
+   "P14"
+  ],
+  "evidence_ids": [
+   "S112",
+   "S267",
+   "S076"
+  ],
+  "priority": "High",
+  "data_availability": 4,
+  "record_type": "Gap",
+  "id": "G02"
+ },
+ {
+  "gap_id": "G03",
+  "gap_type": "Decision",
+  "title": "No operational township-level flood/drought loss monitoring",
+  "description": "Relief, seed replacement and anticipatory decisions lack a near-real-time link between satellite hazard data and farm yield losses.",
+  "problem_ids": [
+   "P05",
+   "P06",
+   "P10"
+  ],
+  "evidence_ids": [
+   "S302",
+   "S252",
+   "S072",
+   "S060"
+  ],
+  "priority": "High",
+  "data_availability": 5,
+  "record_type": "Gap",
+  "id": "G03"
+ },
+ {
+  "gap_id": "G04",
+  "gap_type": "Data",
+  "title": "Official subnational production statistics not public after 2020",
+  "description": "Analysts rely on phone panels and satellites; disagreement between sources cannot be adjudicated.",
+  "problem_ids": [
+   "P16",
+   "P08"
+  ],
+  "evidence_ids": [
+   "S251"
+  ],
+  "priority": "High",
+  "data_availability": 3,
+  "record_type": "Gap",
+  "id": "G04"
+ },
+ {
+  "gap_id": "G05",
+  "gap_type": "Implementation",
+  "title": "Quality seed does not reach farmers after shocks",
+  "description": "Off-farm seed raises yields, but its use falls after shocks except near early-generation seed farms.",
+  "problem_ids": [
+   "P09",
+   "P01"
+  ],
+  "evidence_ids": [
+   "S299",
+   "S252"
+  ],
+  "priority": "Medium",
+  "data_availability": 3,
+  "record_type": "Gap",
+  "id": "G05"
+ },
+ {
+  "gap_id": "G06",
+  "gap_type": "Decision",
+  "title": "Season-ahead profitability is invisible to farmers and policymakers",
+  "description": "Profit swings of +41% to -40% between seasons are only documented after the fact.",
+  "problem_ids": [
+   "P02",
+   "P13"
+  ],
+  "evidence_ids": [
+   "S217",
+   "S253",
+   "S302"
+  ],
+  "priority": "Medium",
+  "data_availability": 4,
+  "record_type": "Gap",
+  "id": "G06"
+ },
+ {
+  "gap_id": "G07",
+  "gap_type": "Technology",
+  "title": "Precision/row seeding services absent while broadcasting spreads",
+  "description": "Labour scarcity drives broadcast DSR with a perceived yield penalty; Vietnam's mechanized seeding shows an alternative.",
+  "problem_ids": [
+   "P18",
+   "P03",
+   "P12"
+  ],
+  "evidence_ids": [
+   "S301",
+   "S309"
+  ],
+  "priority": "High",
+  "data_availability": 4,
+  "record_type": "Gap",
+  "id": "G07"
+ },
+ {
+  "gap_id": "G08",
+  "gap_type": "Knowledge",
+  "title": "Economic-optimum N rates under current prices are not estimated",
+  "description": "Yield response to N is weakening under conflict (S269); recommendations ignore the urea:paddy price ratio and establishment method.",
+  "problem_ids": [
+   "P04"
+  ],
+  "evidence_ids": [
+   "S269",
+   "S302",
+   "S158",
+   "S090"
+  ],
+  "priority": "High",
+  "data_availability": 4,
+  "record_type": "Gap",
+  "id": "G08"
+ },
+ {
+  "gap_id": "G09",
+  "gap_type": "Data",
+  "title": "Coastal salinity and elevation data are thin or inconsistent",
+  "description": "Satellite salinity models lack in-situ EC; elevation datasets disagree (S195).",
+  "problem_ids": [
+   "P07",
+   "P05"
+  ],
+  "evidence_ids": [
+   "S155",
+   "S195"
+  ],
+  "priority": "Medium",
+  "data_availability": 2,
+  "record_type": "Gap",
+  "id": "G09"
+ },
+ {
+  "gap_id": "G10",
+  "gap_type": "Knowledge",
+  "title": "Farmgate price transmission under the dual FX regime is not monitored continuously",
+  "description": "FX policy hurt incentives more than conflict (S239), but no routine monitor exists.",
+  "problem_ids": [
+   "P15",
+   "P02"
+  ],
+  "evidence_ids": [
+   "S239"
+  ],
+  "priority": "Medium",
+  "data_availability": 4,
+  "record_type": "Gap",
+  "id": "G10"
+ },
+ {
+  "gap_id": "G11",
+  "gap_type": "Implementation",
+  "title": "No randomized evidence on digital advisory effects for rice",
+  "description": "Current DCAS evidence is non-random and implementer-affiliated (S262).",
+  "problem_ids": [
+   "P14"
+  ],
+  "evidence_ids": [
+   "S262",
+   "S259",
+   "S274"
+  ],
+  "priority": "High",
+  "data_availability": 2,
+  "record_type": "Gap",
+  "id": "G11"
+ },
+ {
+  "gap_id": "G12",
+  "gap_type": "Knowledge",
+  "title": "Effect of mechanization cost spikes on timeliness losses unquantified",
+  "description": "Fees rose 42-59%; consequences for harvest timing and losses are not measured.",
+  "problem_ids": [
+   "P12",
+   "P11"
+  ],
+  "evidence_ids": [
+   "S252",
+   "S253",
+   "S302"
+  ],
+  "priority": "Medium",
+  "data_availability": 3,
+  "record_type": "Gap",
+  "id": "G12"
+ }
+]

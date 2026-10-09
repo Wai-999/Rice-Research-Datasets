@@ -1,0 +1,1559 @@
+source_id,relationship_type,target_id,evidence,confidence,source_url,origin
+S002,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.1007/s10333-004-0038-3,auto-tagged
+S002,evidence on intervention,I09,Listed as evidence in implementation audit,Medium,https://doi.org/10.1007/s10333-004-0038-3,curated
+S003,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.1080/14735903.2004.9684570,auto-tagged
+S004,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1626/jcs.74.260,auto-tagged
+S004,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.1626/jcs.74.260,auto-tagged
+S004,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1626/jcs.74.260,auto-tagged
+S005,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.5109/4678,auto-tagged
+S006,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.7132/jrcsa.kj00004364655,auto-tagged
+S006,evidence on intervention,I09,Listed as evidence in implementation audit,Medium,https://doi.org/10.7132/jrcsa.kj00004364655,curated
+S007,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.7132/jrcsa.kj00004557609,auto-tagged
+S007,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.7132/jrcsa.kj00004557609,auto-tagged
+S007,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.7132/jrcsa.kj00004557609,auto-tagged
+S008,studies problem,P01,Problem link curated,High,https://doi.org/10.1017/s0014479707005340,curated
+S008,studies problem,P14,Problem link curated,High,https://doi.org/10.1017/s0014479707005340,curated
+S008,evidence on intervention,I12,Listed as evidence in implementation audit,Medium,https://doi.org/10.1017/s0014479707005340,curated
+S009,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.22459/m.10.2007.07,auto-tagged
+S010,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1142/9789812814319_0077,auto-tagged
+S010,studies problem,P11,Problem link auto-tagged,Low,https://doi.org/10.1142/9789812814319_0077,auto-tagged
+S011,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1355/9789814311489-015,auto-tagged
+S011,studies problem,P13,Problem link auto-tagged,Low,https://doi.org/10.1355/9789814311489-015,auto-tagged
+S012,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1007/s10668-010-9247-7,auto-tagged
+S013,studies problem,P15,Problem link curated,High,https://doi.org/10.37801/ajad2010.7.2.6,curated
+S014,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1590/s1982-56762010000100001,auto-tagged
+S014,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1590/s1982-56762010000100001,auto-tagged
+S014,studies problem,P17,Problem link auto-tagged,Low,https://doi.org/10.1590/s1982-56762010000100001,auto-tagged
+S015,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.5109/17801,auto-tagged
+S015,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.5109/17801,auto-tagged
+S015,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.5109/17801,auto-tagged
+S016,studies problem,P17,Problem link auto-tagged,Low,https://doi.org/10.1007/s13313-011-0029-y,auto-tagged
+S018,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1007/s00122-012-1880-0,auto-tagged
+S018,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.1007/s00122-012-1880-0,auto-tagged
+S019,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.1057/9780230389427_7,auto-tagged
+S020,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.1007/s10333-012-0336-0,auto-tagged
+S021,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1186/1939-8433-5-20,auto-tagged
+S021,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.1186/1939-8433-5-20,auto-tagged
+S021,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.1186/1939-8433-5-20,auto-tagged
+S022,studies problem,P17,Problem link curated,High,https://doi.org/10.1002/ps.3292,curated
+S022,studies problem,P05,Problem link curated,High,https://doi.org/10.1002/ps.3292,curated
+S022,evidence on intervention,I18,Listed as evidence in implementation audit,Medium,https://doi.org/10.1002/ps.3292,curated
+S023,studies problem,P05,Problem link curated,High,https://doi.org/10.1038/srep03315,curated
+S024,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.3389/fpls.2013.00158,auto-tagged
+S024,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.3389/fpls.2013.00158,auto-tagged
+S024,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.3389/fpls.2013.00158,auto-tagged
+S024,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.3389/fpls.2013.00158,auto-tagged
+S024,studies problem,P11,Problem link auto-tagged,Low,https://doi.org/10.3389/fpls.2013.00158,auto-tagged
+S024,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.3389/fpls.2013.00158,auto-tagged
+S025,studies problem,P11,Problem link auto-tagged,Low,https://doi.org/10.17660/actahortic.2013.989.33,auto-tagged
+S026,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.5891/jafps.39.213,auto-tagged
+S027,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1163/15685411-00002719,auto-tagged
+S027,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.1163/15685411-00002719,auto-tagged
+S027,studies problem,P17,Problem link auto-tagged,Low,https://doi.org/10.1163/15685411-00002719,auto-tagged
+S028,studies problem,P17,Problem link auto-tagged,Low,https://doi.org/10.1080/03235408.2012.740982,auto-tagged
+S029,studies problem,P01,Problem link curated,High,https://doi.org/10.37801/ajad2013.10.1.1,curated
+S029,studies problem,P14,Problem link curated,High,https://doi.org/10.37801/ajad2013.10.1.1,curated
+S030,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.2166/wcc.2014.114,auto-tagged
+S030,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.2166/wcc.2014.114,auto-tagged
+S030,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.2166/wcc.2014.114,auto-tagged
+S030,evidence on intervention,I09,Listed as evidence in implementation audit,Medium,https://doi.org/10.2166/wcc.2014.114,curated
+S031,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.1080/10942912.2013.822884,auto-tagged
+S031,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1080/10942912.2013.822884,auto-tagged
+S032,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.1596/17278,auto-tagged
+S033,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1596/21119,auto-tagged
+S034,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1596/17782,auto-tagged
+S034,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.1596/17782,auto-tagged
+S034,studies problem,P13,Problem link auto-tagged,Low,https://doi.org/10.1596/17782,auto-tagged
+S034,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.1596/17782,auto-tagged
+S034,evidence on intervention,I07,Listed as evidence in implementation audit,Medium,https://doi.org/10.1596/17782,curated
+S035,studies problem,P03,Problem link auto-tagged,Low,https://hdl.handle.net/10568/150126,auto-tagged
+S035,studies problem,P09,Problem link auto-tagged,Low,https://hdl.handle.net/10568/150126,auto-tagged
+S035,studies problem,P15,Problem link auto-tagged,Low,https://hdl.handle.net/10568/150126,auto-tagged
+S035,evidence on intervention,I15,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/150126,curated
+S036,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.7753/ijsea0303.1003,auto-tagged
+S037,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.5109/1543425,auto-tagged
+S038,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.11644/kiep.jeai.2015.19.2.295,auto-tagged
+S038,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.11644/kiep.jeai.2015.19.2.295,auto-tagged
+S038,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.11644/kiep.jeai.2015.19.2.295,auto-tagged
+S039,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.12778/235108618x15452373185453,auto-tagged
+S039,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.12778/235108618x15452373185453,auto-tagged
+S039,evidence on intervention,I14,Listed as evidence in implementation audit,Medium,https://doi.org/10.12778/235108618x15452373185453,curated
+S040,studies problem,P19,Problem link auto-tagged,Low,https://doi.org/10.1007/s12053-015-9359-x,auto-tagged
+S041,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.1080/17565529.2014.989188,auto-tagged
+S042,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.4172/2157-7617.1000258,auto-tagged
+S042,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.4172/2157-7617.1000258,auto-tagged
+S042,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.4172/2157-7617.1000258,auto-tagged
+S042,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.4172/2157-7617.1000258,auto-tagged
+S042,studies problem,P07,Problem link auto-tagged,Low,https://doi.org/10.4172/2157-7617.1000258,auto-tagged
+S042,studies problem,P13,Problem link auto-tagged,Low,https://doi.org/10.4172/2157-7617.1000258,auto-tagged
+S042,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.4172/2157-7617.1000258,auto-tagged
+S043,studies problem,P17,Problem link auto-tagged,Low,https://doi.org/10.1080/03235408.2016.1140562,auto-tagged
+S044,studies problem,P01,Problem link auto-tagged,Low,https://hdl.handle.net/10568/150031,auto-tagged
+S044,studies problem,P02,Problem link auto-tagged,Low,https://hdl.handle.net/10568/150031,auto-tagged
+S044,studies problem,P04,Problem link auto-tagged,Low,https://hdl.handle.net/10568/150031,auto-tagged
+S044,studies problem,P09,Problem link auto-tagged,Low,https://hdl.handle.net/10568/150031,auto-tagged
+S044,studies problem,P10,Problem link auto-tagged,Low,https://hdl.handle.net/10568/150031,auto-tagged
+S044,studies problem,P12,Problem link auto-tagged,Low,https://hdl.handle.net/10568/150031,auto-tagged
+S044,studies problem,P14,Problem link auto-tagged,Low,https://hdl.handle.net/10568/150031,auto-tagged
+S044,studies problem,P15,Problem link auto-tagged,Low,https://hdl.handle.net/10568/150031,auto-tagged
+S045,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.3178/hrl.9.97,auto-tagged
+S045,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.3178/hrl.9.97,auto-tagged
+S045,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.3178/hrl.9.97,auto-tagged
+S045,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.3178/hrl.9.97,auto-tagged
+S045,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.3178/hrl.9.97,curated/auto
+S046,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1186/s40064-015-0901-2,auto-tagged
+S046,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.1186/s40064-015-0901-2,auto-tagged
+S046,studies problem,P19,Problem link auto-tagged,Low,https://doi.org/10.1186/s40064-015-0901-2,auto-tagged
+S048,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.1080/14498596.2016.1266972,auto-tagged
+S048,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.1080/14498596.2016.1266972,auto-tagged
+S048,uses dataset,D12,Dataset named in curated record or abstract,Medium,https://doi.org/10.1080/14498596.2016.1266972,curated/auto
+S049,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.3923/ajar.2016.175.184,auto-tagged
+S049,evidence on intervention,I14,Listed as evidence in implementation audit,Medium,https://doi.org/10.3923/ajar.2016.175.184,curated
+S050,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1270/jsbbs.16033,auto-tagged
+S051,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1596/24711,auto-tagged
+S051,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.1596/24711,auto-tagged
+S051,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.1596/24711,auto-tagged
+S052,studies problem,P11,Problem link curated,High,https://doi.org/10.1002/ps.4292,curated
+S052,studies problem,P17,Problem link curated,High,https://doi.org/10.1002/ps.4292,curated
+S052,evidence on intervention,I18,Listed as evidence in implementation audit,Medium,https://doi.org/10.1002/ps.4292,curated
+S053,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.5109/1686506,auto-tagged
+S055,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.1016/j.proeng.2017.09.600,auto-tagged
+S055,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.1016/j.proeng.2017.09.600,auto-tagged
+S055,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.1016/j.proeng.2017.09.600,auto-tagged
+S056,studies problem,P08,Problem link auto-tagged,Low,https://doi.org/10.1079/9781786390592.0115,auto-tagged
+S056,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.1079/9781786390592.0115,auto-tagged
+S057,studies problem,P01,Problem link curated,High,https://hdl.handle.net/10568/147423,curated
+S057,studies problem,P10,Problem link curated,High,https://hdl.handle.net/10568/147423,curated
+S057,studies problem,P05,Problem link curated,High,https://hdl.handle.net/10568/147423,curated
+S058,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.1108/ijccsm-09-2015-0134,auto-tagged
+S058,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1108/ijccsm-09-2015-0134,auto-tagged
+S058,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.1108/ijccsm-09-2015-0134,auto-tagged
+S059,studies problem,P10,Problem link curated,High,https://doi.org/10.5897/jdae2017.0824,curated
+S059,evidence on intervention,I09,Listed as evidence in implementation audit,Medium,https://doi.org/10.5897/jdae2017.0824,curated
+S060,studies problem,P16,Problem link curated,High,https://doi.org/10.3390/rs9020119,curated
+S060,studies problem,P05,Problem link curated,High,https://doi.org/10.3390/rs9020119,curated
+S060,uses dataset,D09,Dataset named in curated record or abstract,Medium,https://doi.org/10.3390/rs9020119,curated/auto
+S060,uses dataset,D11,Dataset named in curated record or abstract,Medium,https://doi.org/10.3390/rs9020119,curated/auto
+S060,evidence on intervention,I23,Listed as evidence in implementation audit,Medium,https://doi.org/10.3390/rs9020119,curated
+S061,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.1038/sdata.2017.74,auto-tagged
+S061,uses dataset,D07,Dataset named in curated record or abstract,Medium,https://doi.org/10.1038/sdata.2017.74,curated/auto
+S062,studies problem,P01,Problem link auto-tagged,Low,https://hdl.handle.net/10568/148373,auto-tagged
+S062,studies problem,P04,Problem link auto-tagged,Low,https://hdl.handle.net/10568/148373,auto-tagged
+S063,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.1355/9789814818551-009,auto-tagged
+S064,studies problem,P02,Problem link auto-tagged,Low,https://hdl.handle.net/10568/147309,auto-tagged
+S064,studies problem,P12,Problem link auto-tagged,Low,https://hdl.handle.net/10568/147309,auto-tagged
+S064,studies problem,P15,Problem link auto-tagged,Low,https://hdl.handle.net/10568/147309,auto-tagged
+S065,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.35762/aer.2018.40.1.1,auto-tagged
+S065,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.35762/aer.2018.40.1.1,auto-tagged
+S065,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.35762/aer.2018.40.1.1,auto-tagged
+S065,studies problem,P07,Problem link auto-tagged,Low,https://doi.org/10.35762/aer.2018.40.1.1,auto-tagged
+S065,studies problem,P13,Problem link auto-tagged,Low,https://doi.org/10.35762/aer.2018.40.1.1,auto-tagged
+S066,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.3390/su10124441,auto-tagged
+S066,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.3390/su10124441,auto-tagged
+S066,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.3390/su10124441,auto-tagged
+S067,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.11648/j.mlr.20180302.14,auto-tagged
+S067,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.11648/j.mlr.20180302.14,auto-tagged
+S067,studies problem,P11,Problem link auto-tagged,Low,https://doi.org/10.11648/j.mlr.20180302.14,auto-tagged
+S067,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.11648/j.mlr.20180302.14,auto-tagged
+S067,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.11648/j.mlr.20180302.14,auto-tagged
+S067,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.11648/j.mlr.20180302.14,auto-tagged
+S068,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.29322/ijsrp.8.8.2018.p8078,auto-tagged
+S068,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.29322/ijsrp.8.8.2018.p8078,auto-tagged
+S069,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.17265/2328-7144/2018.04.006,auto-tagged
+S069,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.17265/2328-7144/2018.04.006,auto-tagged
+S069,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.17265/2328-7144/2018.04.006,auto-tagged
+S069,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.17265/2328-7144/2018.04.006,auto-tagged
+S069,evidence on intervention,I13,Listed as evidence in implementation audit,Medium,https://doi.org/10.17265/2328-7144/2018.04.006,curated
+S070,studies problem,P11,Problem link curated,High,https://doi.org/10.1080/1343943x.2018.1543547,curated
+S070,evidence on intervention,I10,Listed as evidence in implementation audit,Medium,https://doi.org/10.1080/1343943x.2018.1543547,curated
+S071,studies problem,P01,Problem link auto-tagged,Low,https://hdl.handle.net/10568/147420,auto-tagged
+S071,studies problem,P02,Problem link auto-tagged,Low,https://hdl.handle.net/10568/147420,auto-tagged
+S071,studies problem,P13,Problem link auto-tagged,Low,https://hdl.handle.net/10568/147420,auto-tagged
+S072,studies problem,P06,Problem link curated,High,https://doi.org/10.5539/sar.v7n2p46,curated
+S072,uses dataset,D12,Dataset named in curated record or abstract,Medium,https://doi.org/10.5539/sar.v7n2p46,curated/auto
+S072,uses dataset,D13,Dataset named in curated record or abstract,Medium,https://doi.org/10.5539/sar.v7n2p46,curated/auto
+S073,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1080/15481603.2018.1482855,auto-tagged
+S073,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1080/15481603.2018.1482855,auto-tagged
+S073,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.1080/15481603.2018.1482855,auto-tagged
+S073,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.1080/15481603.2018.1482855,auto-tagged
+S073,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.1080/15481603.2018.1482855,auto-tagged
+S073,uses dataset,D12,Dataset named in curated record or abstract,Medium,https://doi.org/10.1080/15481603.2018.1482855,curated/auto
+S074,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.56669/zxcs8160,auto-tagged
+S075,studies problem,P04,Problem link curated,High,https://doi.org/10.1016/j.fcr.2018.10.001,curated
+S076,studies problem,P04,Problem link curated,High,https://doi.org/10.1038/nature25785,curated
+S077,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1016/j.agsy.2018.04.003,auto-tagged
+S077,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1016/j.agsy.2018.04.003,auto-tagged
+S077,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.1016/j.agsy.2018.04.003,auto-tagged
+S078,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.17265/1934-7391/2018.02.006,auto-tagged
+S078,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.17265/1934-7391/2018.02.006,auto-tagged
+S078,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.17265/1934-7391/2018.02.006,auto-tagged
+S078,evidence on intervention,I13,Listed as evidence in implementation audit,Medium,https://doi.org/10.17265/1934-7391/2018.02.006,curated
+S079,studies problem,P03,Problem link auto-tagged,Low,https://hdl.handle.net/10568/120765,auto-tagged
+S079,evidence on intervention,I02,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/120765,curated
+S080,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1002/ird.2214,auto-tagged
+S080,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.1002/ird.2214,auto-tagged
+S080,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.1002/ird.2214,auto-tagged
+S080,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.1002/ird.2214,auto-tagged
+S081,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1007/s11442-018-1519-4,auto-tagged
+S081,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1007/s11442-018-1519-4,auto-tagged
+S082,studies problem,P13,Problem link curated,High,https://doi.org/10.1111/1477-9552.12299,curated
+S082,evidence on intervention,I07,Listed as evidence in implementation audit,Medium,https://doi.org/10.1111/1477-9552.12299,curated
+S083,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.5337/2019.213,auto-tagged
+S083,evidence on intervention,I08,Listed as evidence in implementation audit,Medium,https://doi.org/10.5337/2019.213,curated
+S084,studies problem,P01,Problem link curated,High,https://hdl.handle.net/10568/121682,curated
+S084,studies problem,P14,Problem link curated,High,https://hdl.handle.net/10568/121682,curated
+S084,evidence on intervention,I02,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/121682,curated
+S085,studies problem,P02,Problem link auto-tagged,Low,https://hdl.handle.net/10568/147253,auto-tagged
+S085,studies problem,P10,Problem link auto-tagged,Low,https://hdl.handle.net/10568/147253,auto-tagged
+S085,studies problem,P12,Problem link auto-tagged,Low,https://hdl.handle.net/10568/147253,auto-tagged
+S085,studies problem,P13,Problem link auto-tagged,Low,https://hdl.handle.net/10568/147253,auto-tagged
+S085,studies problem,P15,Problem link auto-tagged,Low,https://hdl.handle.net/10568/147253,auto-tagged
+S085,studies problem,P18,Problem link auto-tagged,Low,https://hdl.handle.net/10568/147253,auto-tagged
+S086,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.37801/ajad2019.16.1.3,auto-tagged
+S086,studies problem,P13,Problem link auto-tagged,Low,https://doi.org/10.37801/ajad2019.16.1.3,auto-tagged
+S086,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.37801/ajad2019.16.1.3,auto-tagged
+S086,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.37801/ajad2019.16.1.3,auto-tagged
+S087,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.3390/land8060095,auto-tagged
+S087,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.3390/land8060095,auto-tagged
+S087,studies problem,P08,Problem link auto-tagged,Low,https://doi.org/10.3390/land8060095,auto-tagged
+S087,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.3390/land8060095,auto-tagged
+S087,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.3390/land8060095,auto-tagged
+S087,uses dataset,D09,Dataset named in curated record or abstract,Medium,https://doi.org/10.3390/land8060095,curated/auto
+S087,uses dataset,D10,Dataset named in curated record or abstract,Medium,https://doi.org/10.3390/land8060095,curated/auto
+S087,uses dataset,D11,Dataset named in curated record or abstract,Medium,https://doi.org/10.3390/land8060095,curated/auto
+S088,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.133204,auto-tagged
+S088,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.133204,auto-tagged
+S089,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.9734/jeai/2019/v40i330369,auto-tagged
+S089,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.9734/jeai/2019/v40i330369,auto-tagged
+S090,studies problem,P01,Problem link curated,High,https://doi.org/10.1016/j.fcr.2019.01.004,curated
+S090,studies problem,P04,Problem link curated,High,https://doi.org/10.1016/j.fcr.2019.01.004,curated
+S090,studies problem,P03,Problem link curated,High,https://doi.org/10.1016/j.fcr.2019.01.004,curated
+S091,studies problem,P12,Problem link auto-tagged,Low,https://hdl.handle.net/10568/121695,auto-tagged
+S091,studies problem,P15,Problem link auto-tagged,Low,https://hdl.handle.net/10568/121695,auto-tagged
+S092,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1080/09670874.2019.1647369,auto-tagged
+S092,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1080/09670874.2019.1647369,auto-tagged
+S092,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.1080/09670874.2019.1647369,auto-tagged
+S092,studies problem,P17,Problem link auto-tagged,Low,https://doi.org/10.1080/09670874.2019.1647369,auto-tagged
+S093,studies problem,P05,Problem link auto-tagged,Low,https://hdl.handle.net/10568/122674,auto-tagged
+S093,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/122674,curated/auto
+S093,evidence on intervention,I22,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/122674,curated
+S094,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.3390/cli7050064,auto-tagged
+S095,studies problem,P03,Problem link auto-tagged,Low,https://hdl.handle.net/10568/121702,auto-tagged
+S095,studies problem,P11,Problem link auto-tagged,Low,https://hdl.handle.net/10568/121702,auto-tagged
+S095,evidence on intervention,I10,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/121702,curated
+S096,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.5539/jas.v11n5p35,auto-tagged
+S096,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.5539/jas.v11n5p35,auto-tagged
+S096,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.5539/jas.v11n5p35,auto-tagged
+S096,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.5539/jas.v11n5p35,auto-tagged
+S096,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.5539/jas.v11n5p35,auto-tagged
+S096,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.5539/jas.v11n5p35,auto-tagged
+S096,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.5539/jas.v11n5p35,auto-tagged
+S096,studies problem,P13,Problem link auto-tagged,Low,https://doi.org/10.5539/jas.v11n5p35,auto-tagged
+S097,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.29322/ijsrp.9.09.2019.p9325,auto-tagged
+S097,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.29322/ijsrp.9.09.2019.p9325,auto-tagged
+S097,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.29322/ijsrp.9.09.2019.p9325,auto-tagged
+S097,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.29322/ijsrp.9.09.2019.p9325,auto-tagged
+S097,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.29322/ijsrp.9.09.2019.p9325,auto-tagged
+S097,studies problem,P13,Problem link auto-tagged,Low,https://doi.org/10.29322/ijsrp.9.09.2019.p9325,auto-tagged
+S098,studies problem,P01,Problem link auto-tagged,Low,https://hdl.handle.net/10568/107257,auto-tagged
+S098,studies problem,P05,Problem link auto-tagged,Low,https://hdl.handle.net/10568/107257,auto-tagged
+S098,studies problem,P14,Problem link auto-tagged,Low,https://hdl.handle.net/10568/107257,auto-tagged
+S098,studies problem,P15,Problem link auto-tagged,Low,https://hdl.handle.net/10568/107257,auto-tagged
+S098,studies problem,P16,Problem link auto-tagged,Low,https://hdl.handle.net/10568/107257,auto-tagged
+S098,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/107257,curated/auto
+S099,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.21474/ijar01/9347,auto-tagged
+S099,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.21474/ijar01/9347,auto-tagged
+S100,studies problem,P01,Problem link auto-tagged,Low,https://hdl.handle.net/10568/106828,auto-tagged
+S100,studies problem,P05,Problem link auto-tagged,Low,https://hdl.handle.net/10568/106828,auto-tagged
+S100,studies problem,P09,Problem link auto-tagged,Low,https://hdl.handle.net/10568/106828,auto-tagged
+S100,evidence on intervention,I22,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/106828,curated
+S101,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.26855/ijfsa.2019.09.003,auto-tagged
+S101,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.26855/ijfsa.2019.09.003,auto-tagged
+S101,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.26855/ijfsa.2019.09.003,auto-tagged
+S101,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.26855/ijfsa.2019.09.003,auto-tagged
+S101,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.26855/ijfsa.2019.09.003,auto-tagged
+S101,evidence on intervention,I13,Listed as evidence in implementation audit,Medium,https://doi.org/10.26855/ijfsa.2019.09.003,curated
+S102,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1071/mf19182,auto-tagged
+S102,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1071/mf19182,auto-tagged
+S102,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.1071/mf19182,auto-tagged
+S102,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.1071/mf19182,auto-tagged
+S102,studies problem,P08,Problem link auto-tagged,Low,https://doi.org/10.1071/mf19182,auto-tagged
+S102,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.1071/mf19182,auto-tagged
+S102,studies problem,P17,Problem link auto-tagged,Low,https://doi.org/10.1071/mf19182,auto-tagged
+S102,studies problem,P19,Problem link auto-tagged,Low,https://doi.org/10.1071/mf19182,auto-tagged
+S102,evidence on intervention,I17,Listed as evidence in implementation audit,Medium,https://doi.org/10.1071/mf19182,curated
+S103,studies problem,P10,Problem link curated,High,https://hdl.handle.net/10568/147307,curated
+S104,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.37801/ajad2019.16.2.1,auto-tagged
+S104,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.37801/ajad2019.16.2.1,auto-tagged
+S104,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.37801/ajad2019.16.2.1,auto-tagged
+S104,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.37801/ajad2019.16.2.1,auto-tagged
+S104,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.37801/ajad2019.16.2.1,auto-tagged
+S104,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.37801/ajad2019.16.2.1,auto-tagged
+S104,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.37801/ajad2019.16.2.1,auto-tagged
+S104,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.37801/ajad2019.16.2.1,auto-tagged
+S106,studies problem,P11,Problem link auto-tagged,Low,https://hdl.handle.net/10568/122420,auto-tagged
+S106,evidence on intervention,I10,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/122420,curated
+S107,studies problem,P12,Problem link auto-tagged,Low,https://hdl.handle.net/10568/122518,auto-tagged
+S108,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.133220,auto-tagged
+S108,studies problem,P11,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.133220,auto-tagged
+S108,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.133220,auto-tagged
+S109,studies problem,P06,Problem link auto-tagged,Low,https://hdl.handle.net/10568/121387,auto-tagged
+S109,studies problem,P10,Problem link auto-tagged,Low,https://hdl.handle.net/10568/121387,auto-tagged
+S109,evidence on intervention,I20,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/121387,curated
+S110,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.24997/kjae.2019.60.3.219,auto-tagged
+S111,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.11648/j.ajaf.20190701.15,auto-tagged
+S111,evidence on intervention,I13,Listed as evidence in implementation audit,Medium,https://doi.org/10.11648/j.ajaf.20190701.15,curated
+S112,studies problem,P04,Problem link curated,High,https://hdl.handle.net/10568/122470,curated
+S112,studies problem,P14,Problem link curated,High,https://hdl.handle.net/10568/122470,curated
+S112,evidence on intervention,I03,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/122470,curated
+S114,studies problem,P01,Problem link curated,High,https://doi.org/10.1016/j.fcr.2019.107631,curated
+S114,studies problem,P06,Problem link curated,High,https://doi.org/10.1016/j.fcr.2019.107631,curated
+S114,studies problem,P07,Problem link curated,High,https://doi.org/10.1016/j.fcr.2019.107631,curated
+S115,studies problem,P06,Problem link curated,High,https://doi.org/10.1016/j.agsy.2018.12.001,curated
+S115,studies problem,P01,Problem link curated,High,https://doi.org/10.1016/j.agsy.2018.12.001,curated
+S116,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1186/s40100-019-0128-6,auto-tagged
+S116,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1186/s40100-019-0128-6,auto-tagged
+S116,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.1186/s40100-019-0128-6,auto-tagged
+S116,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.1186/s40100-019-0128-6,auto-tagged
+S116,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.1186/s40100-019-0128-6,auto-tagged
+S116,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.1186/s40100-019-0128-6,auto-tagged
+S116,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.1186/s40100-019-0128-6,auto-tagged
+S117,studies problem,P02,Problem link auto-tagged,Low,https://hdl.handle.net/10568/122506,auto-tagged
+S117,studies problem,P15,Problem link auto-tagged,Low,https://hdl.handle.net/10568/122506,auto-tagged
+S118,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1016/j.ijdrr.2020.101745,auto-tagged
+S118,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.1016/j.ijdrr.2020.101745,auto-tagged
+S118,studies problem,P13,Problem link auto-tagged,Low,https://doi.org/10.1016/j.ijdrr.2020.101745,auto-tagged
+S119,studies problem,P11,Problem link curated,High,https://doi.org/10.1038/s41598-020-76639-5,curated
+S119,studies problem,P12,Problem link curated,High,https://doi.org/10.1038/s41598-020-76639-5,curated
+S119,studies problem,P19,Problem link curated,High,https://doi.org/10.1038/s41598-020-76639-5,curated
+S119,evidence on intervention,I01,Listed as evidence in implementation audit,Medium,https://doi.org/10.1038/s41598-020-76639-5,curated
+S119,evidence on intervention,I10,Listed as evidence in implementation audit,Medium,https://doi.org/10.1038/s41598-020-76639-5,curated
+S120,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.1016/j.worlddev.2019.104864,auto-tagged
+S120,studies problem,P08,Problem link auto-tagged,Low,https://doi.org/10.1016/j.worlddev.2019.104864,auto-tagged
+S121,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.3390/su12145798,auto-tagged
+S121,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.3390/su12145798,auto-tagged
+S121,studies problem,P19,Problem link auto-tagged,Low,https://doi.org/10.3390/su12145798,auto-tagged
+S121,evidence on intervention,I16,Listed as evidence in implementation audit,Medium,https://doi.org/10.3390/su12145798,curated
+S123,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.3923/ja.2021.9.16,auto-tagged
+S124,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.9734/ijpss/2020/v32i1930394,auto-tagged
+S124,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.9734/ijpss/2020/v32i1930394,auto-tagged
+S124,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.9734/ijpss/2020/v32i1930394,auto-tagged
+S124,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.9734/ijpss/2020/v32i1930394,auto-tagged
+S124,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.9734/ijpss/2020/v32i1930394,auto-tagged
+S124,studies problem,P11,Problem link auto-tagged,Low,https://doi.org/10.9734/ijpss/2020/v32i1930394,auto-tagged
+S124,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.9734/ijpss/2020/v32i1930394,auto-tagged
+S124,studies problem,P19,Problem link auto-tagged,Low,https://doi.org/10.9734/ijpss/2020/v32i1930394,auto-tagged
+S124,evidence on intervention,I16,Listed as evidence in implementation audit,Medium,https://doi.org/10.9734/ijpss/2020/v32i1930394,curated
+S125,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.3390/agriculture10010026,auto-tagged
+S125,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.3390/agriculture10010026,auto-tagged
+S125,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.3390/agriculture10010026,auto-tagged
+S125,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.3390/agriculture10010026,auto-tagged
+S126,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.3390/agriculture10070249,auto-tagged
+S126,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.3390/agriculture10070249,auto-tagged
+S126,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.3390/agriculture10070249,auto-tagged
+S126,studies problem,P13,Problem link auto-tagged,Low,https://doi.org/10.3390/agriculture10070249,auto-tagged
+S126,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.3390/agriculture10070249,auto-tagged
+S127,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1002/ghg.2011,auto-tagged
+S127,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.1002/ghg.2011,auto-tagged
+S127,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.1002/ghg.2011,auto-tagged
+S127,studies problem,P11,Problem link auto-tagged,Low,https://doi.org/10.1002/ghg.2011,auto-tagged
+S127,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.1002/ghg.2011,auto-tagged
+S127,studies problem,P19,Problem link auto-tagged,Low,https://doi.org/10.1002/ghg.2011,auto-tagged
+S127,evidence on intervention,I16,Listed as evidence in implementation audit,Medium,https://doi.org/10.1002/ghg.2011,curated
+S128,studies problem,P10,Problem link curated,High,https://doi.org/10.23846/dpw1ie108,curated
+S128,studies problem,P19,Problem link curated,High,https://doi.org/10.23846/dpw1ie108,curated
+S128,evidence on intervention,I16,Listed as evidence in implementation audit,Medium,https://doi.org/10.23846/dpw1ie108,curated
+S129,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.2306/scienceasia1513-1874.2020.070,auto-tagged
+S129,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.2306/scienceasia1513-1874.2020.070,auto-tagged
+S129,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.2306/scienceasia1513-1874.2020.070,auto-tagged
+S129,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.2306/scienceasia1513-1874.2020.070,auto-tagged
+S130,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.3390/cli8010009,auto-tagged
+S130,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.3390/cli8010009,auto-tagged
+S130,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.3390/cli8010009,auto-tagged
+S131,studies problem,P12,Problem link curated,High,https://hdl.handle.net/10568/145417,curated
+S131,evidence on intervention,I01,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/145417,curated
+S132,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.2499/9780896293809_08,auto-tagged
+S132,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.2499/9780896293809_08,auto-tagged
+S132,evidence on intervention,I01,Listed as evidence in implementation audit,Medium,https://doi.org/10.2499/9780896293809_08,curated
+S133,studies problem,P10,Problem link curated,High,https://hdl.handle.net/10568/121771,curated
+S133,evidence on intervention,I08,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/121771,curated
+S134,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1080/15427528.2020.1746457,auto-tagged
+S134,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.1080/15427528.2020.1746457,auto-tagged
+S134,studies problem,P07,Problem link auto-tagged,Low,https://doi.org/10.1080/15427528.2020.1746457,auto-tagged
+S134,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1080/15427528.2020.1746457,auto-tagged
+S135,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.1111/sjtg.12315,auto-tagged
+S136,studies problem,P09,Problem link curated,High,https://doi.org/10.18174/526840,curated
+S136,evidence on intervention,I15,Listed as evidence in implementation audit,Medium,https://doi.org/10.18174/526840,curated
+S137,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.133687,auto-tagged
+S137,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.133687,auto-tagged
+S137,studies problem,P13,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.133687,auto-tagged
+S138,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1080/09614524.2020.1787350,auto-tagged
+S138,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.1080/09614524.2020.1787350,auto-tagged
+S138,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1080/09614524.2020.1787350,auto-tagged
+S139,studies problem,P09,Problem link curated,High,https://hdl.handle.net/10568/143265,curated
+S140,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.134311,auto-tagged
+S140,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.134311,auto-tagged
+S140,uses dataset,D32,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.134311,curated/auto
+S141,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.134307,auto-tagged
+S141,studies problem,P13,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.134307,auto-tagged
+S141,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.134307,auto-tagged
+S142,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.35188/unu-wider/2021/121-1,auto-tagged
+S142,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.35188/unu-wider/2021/121-1,auto-tagged
+S143,studies problem,P07,Problem link curated,High,https://doi.org/10.1007/s10333-021-00870-7,curated
+S143,studies problem,P09,Problem link curated,High,https://doi.org/10.1007/s10333-021-00870-7,curated
+S143,studies problem,P05,Problem link curated,High,https://doi.org/10.1007/s10333-021-00870-7,curated
+S144,studies problem,P16,Problem link curated,High,https://doi.org/10.1007/s10333-021-00857-4,curated
+S144,studies problem,P01,Problem link curated,High,https://doi.org/10.1007/s10333-021-00857-4,curated
+S144,uses dataset,D11,Dataset named in curated record or abstract,Medium,https://doi.org/10.1007/s10333-021-00857-4,curated/auto
+S144,uses dataset,D12,Dataset named in curated record or abstract,Medium,https://doi.org/10.1007/s10333-021-00857-4,curated/auto
+S145,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.13169/jfairtrade.2.2.0024,auto-tagged
+S147,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.134402,auto-tagged
+S147,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.134402,auto-tagged
+S147,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.134402,auto-tagged
+S148,studies problem,P05,Problem link curated,High,https://doi.org/10.1007/s10333-021-00842-x,curated
+S148,uses dataset,D21,Dataset named in curated record or abstract,Medium,https://doi.org/10.1007/s10333-021-00842-x,curated/auto
+S149,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1111/wbm.12240,auto-tagged
+S149,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1111/wbm.12240,auto-tagged
+S149,studies problem,P17,Problem link auto-tagged,Low,https://doi.org/10.1111/wbm.12240,auto-tagged
+S150,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1016/j.energy.2020.119104,auto-tagged
+S150,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1016/j.energy.2020.119104,auto-tagged
+S150,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.1016/j.energy.2020.119104,auto-tagged
+S150,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1016/j.energy.2020.119104,auto-tagged
+S150,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.1016/j.energy.2020.119104,auto-tagged
+S150,studies problem,P18,Problem link auto-tagged,Low,https://doi.org/10.1016/j.energy.2020.119104,auto-tagged
+S150,studies problem,P19,Problem link auto-tagged,Low,https://doi.org/10.1016/j.energy.2020.119104,auto-tagged
+S151,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.15666/aeer/1901_507524,auto-tagged
+S151,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.15666/aeer/1901_507524,auto-tagged
+S151,studies problem,P18,Problem link auto-tagged,Low,https://doi.org/10.15666/aeer/1901_507524,auto-tagged
+S152,studies problem,P11,Problem link auto-tagged,Low,https://hdl.handle.net/10568/122512,auto-tagged
+S153,studies problem,P05,Problem link curated,High,https://doi.org/10.1007/s10333-020-00838-z,curated
+S153,studies problem,P07,Problem link curated,High,https://doi.org/10.1007/s10333-020-00838-z,curated
+S153,evidence on intervention,I06,Listed as evidence in implementation audit,Medium,https://doi.org/10.1007/s10333-020-00838-z,curated
+S154,studies problem,P01,Problem link curated,High,https://doi.org/10.7744/kjoas.20200100,curated
+S154,studies problem,P04,Problem link curated,High,https://doi.org/10.7744/kjoas.20200100,curated
+S155,studies problem,P07,Problem link curated,High,https://doi.org/10.1007/s10333-020-00837-0,curated
+S155,studies problem,P16,Problem link curated,High,https://doi.org/10.1007/s10333-020-00837-0,curated
+S155,uses dataset,D10,Dataset named in curated record or abstract,Medium,https://doi.org/10.1007/s10333-020-00837-0,curated/auto
+S156,studies problem,P05,Problem link curated,High,https://doi.org/10.1007/s10333-021-00859-2,curated
+S156,evidence on intervention,I06,Listed as evidence in implementation audit,Medium,https://doi.org/10.1007/s10333-021-00859-2,curated
+S157,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.47363/jeesr/2021(3)159,auto-tagged
+S157,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.47363/jeesr/2021(3)159,auto-tagged
+S157,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.47363/jeesr/2021(3)159,auto-tagged
+S157,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.47363/jeesr/2021(3)159,auto-tagged
+S157,studies problem,P11,Problem link auto-tagged,Low,https://doi.org/10.47363/jeesr/2021(3)159,auto-tagged
+S157,studies problem,P19,Problem link auto-tagged,Low,https://doi.org/10.47363/jeesr/2021(3)159,auto-tagged
+S158,studies problem,P04,Problem link curated,High,https://doi.org/10.3390/agriculture11010065,curated
+S159,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1080/14735903.2021.1918471,auto-tagged
+S159,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1080/14735903.2021.1918471,auto-tagged
+S159,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.1080/14735903.2021.1918471,auto-tagged
+S159,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.1080/14735903.2021.1918471,auto-tagged
+S159,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1080/14735903.2021.1918471,auto-tagged
+S159,studies problem,P11,Problem link auto-tagged,Low,https://doi.org/10.1080/14735903.2021.1918471,auto-tagged
+S159,studies problem,P17,Problem link auto-tagged,Low,https://doi.org/10.1080/14735903.2021.1918471,auto-tagged
+S160,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.134368,auto-tagged
+S160,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.134368,auto-tagged
+S160,studies problem,P13,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.134368,auto-tagged
+S160,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.134368,auto-tagged
+S161,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1016/j.jrurstud.2020.12.006,auto-tagged
+S161,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.1016/j.jrurstud.2020.12.006,auto-tagged
+S161,studies problem,P13,Problem link auto-tagged,Low,https://doi.org/10.1016/j.jrurstud.2020.12.006,auto-tagged
+S162,studies problem,P12,Problem link curated,High,https://doi.org/10.1016/j.foodpol.2021.102095,curated
+S162,studies problem,P03,Problem link curated,High,https://doi.org/10.1016/j.foodpol.2021.102095,curated
+S162,evidence on intervention,I01,Listed as evidence in implementation audit,Medium,https://doi.org/10.1016/j.foodpol.2021.102095,curated
+S163,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1007/s10333-021-00862-7,auto-tagged
+S163,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.1007/s10333-021-00862-7,auto-tagged
+S163,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.1007/s10333-021-00862-7,auto-tagged
+S163,studies problem,P07,Problem link auto-tagged,Low,https://doi.org/10.1007/s10333-021-00862-7,auto-tagged
+S163,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.1007/s10333-021-00862-7,auto-tagged
+S163,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.1007/s10333-021-00862-7,auto-tagged
+S163,evidence on intervention,I06,Listed as evidence in implementation audit,Medium,https://doi.org/10.1007/s10333-021-00862-7,curated
+S164,studies problem,P03,Problem link curated,High,https://doi.org/10.2499/p15738coll2.134860,curated
+S164,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.134860,curated/auto
+S165,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.136310,auto-tagged
+S166,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.135054,auto-tagged
+S166,studies problem,P08,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.135054,auto-tagged
+S166,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.135054,auto-tagged
+S167,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1016/j.fcr.2021.108400,auto-tagged
+S167,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.1016/j.fcr.2021.108400,auto-tagged
+S168,studies problem,P05,Problem link curated,High,https://doi.org/10.5194/nhess-2022-4,curated
+S168,studies problem,P16,Problem link curated,High,https://doi.org/10.5194/nhess-2022-4,curated
+S168,uses dataset,D21,Dataset named in curated record or abstract,Medium,https://doi.org/10.5194/nhess-2022-4,curated/auto
+S171,studies problem,P01,Problem link auto-tagged,Low,https://hdl.handle.net/10568/123687,auto-tagged
+S171,studies problem,P02,Problem link auto-tagged,Low,https://hdl.handle.net/10568/123687,auto-tagged
+S171,studies problem,P03,Problem link auto-tagged,Low,https://hdl.handle.net/10568/123687,auto-tagged
+S171,studies problem,P06,Problem link auto-tagged,Low,https://hdl.handle.net/10568/123687,auto-tagged
+S171,evidence on intervention,I20,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/123687,curated
+S172,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.37801/ajad2022.19.1.p1,auto-tagged
+S172,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.37801/ajad2022.19.1.p1,auto-tagged
+S172,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.37801/ajad2022.19.1.p1,auto-tagged
+S172,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.37801/ajad2022.19.1.p1,auto-tagged
+S172,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.37801/ajad2022.19.1.p1,auto-tagged
+S172,studies problem,P17,Problem link auto-tagged,Low,https://doi.org/10.37801/ajad2022.19.1.p1,auto-tagged
+S172,evidence on intervention,I20,Listed as evidence in implementation audit,Medium,https://doi.org/10.37801/ajad2022.19.1.p1,curated
+S173,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.4060/cc1306en,auto-tagged
+S173,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.4060/cc1306en,auto-tagged
+S173,evidence on intervention,I26,Listed as evidence in implementation audit,Medium,https://doi.org/10.4060/cc1306en,curated
+S174,studies problem,P15,Problem link curated,High,https://doi.org/10.1111/1477-9552.12461,curated
+S174,studies problem,P11,Problem link curated,High,https://doi.org/10.1111/1477-9552.12461,curated
+S174,uses dataset,D32,Dataset named in curated record or abstract,Medium,https://doi.org/10.1111/1477-9552.12461,curated/auto
+S175,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.3390/app122211822,auto-tagged
+S176,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.4038/jdza.v8i1.55,auto-tagged
+S176,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.4038/jdza.v8i1.55,auto-tagged
+S176,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.4038/jdza.v8i1.55,auto-tagged
+S176,studies problem,P17,Problem link auto-tagged,Low,https://doi.org/10.4038/jdza.v8i1.55,auto-tagged
+S177,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.4060/cc1163en,auto-tagged
+S177,evidence on intervention,I26,Listed as evidence in implementation audit,Medium,https://doi.org/10.4060/cc1163en,curated
+S178,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.5539/jas.v14n9p26,auto-tagged
+S178,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.5539/jas.v14n9p26,auto-tagged
+S178,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.5539/jas.v14n9p26,auto-tagged
+S179,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.135937,auto-tagged
+S179,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.135937,auto-tagged
+S179,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.135937,curated/auto
+S180,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.136476,auto-tagged
+S180,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.136476,curated/auto
+S182,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.5539/jas.v14n7p1,auto-tagged
+S182,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.5539/jas.v14n7p1,auto-tagged
+S182,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.5539/jas.v14n7p1,auto-tagged
+S182,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.5539/jas.v14n7p1,auto-tagged
+S182,studies problem,P07,Problem link auto-tagged,Low,https://doi.org/10.5539/jas.v14n7p1,auto-tagged
+S182,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.5539/jas.v14n7p1,auto-tagged
+S183,studies problem,P01,Problem link curated,High,https://doi.org/10.2499/p15738coll2.135927,curated
+S183,studies problem,P04,Problem link curated,High,https://doi.org/10.2499/p15738coll2.135927,curated
+S183,studies problem,P08,Problem link curated,High,https://doi.org/10.2499/p15738coll2.135927,curated
+S183,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.135927,curated/auto
+S184,studies problem,P04,Problem link curated,High,https://doi.org/10.2499/p15738coll2.136477,curated
+S184,studies problem,P02,Problem link curated,High,https://doi.org/10.2499/p15738coll2.136477,curated
+S184,studies problem,P08,Problem link curated,High,https://doi.org/10.2499/p15738coll2.136477,curated
+S184,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.136477,curated/auto
+S185,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.3390/agronomy12051230,auto-tagged
+S185,studies problem,P19,Problem link auto-tagged,Low,https://doi.org/10.3390/agronomy12051230,auto-tagged
+S186,studies problem,P01,Problem link curated,High,https://doi.org/10.1177/00307270221086008,curated
+S186,studies problem,P14,Problem link curated,High,https://doi.org/10.1177/00307270221086008,curated
+S186,evidence on intervention,I02,Listed as evidence in implementation audit,Medium,https://doi.org/10.1177/00307270221086008,curated
+S187,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.14445/22315381/ijett-v70i12p207,auto-tagged
+S187,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.14445/22315381/ijett-v70i12p207,auto-tagged
+S187,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.14445/22315381/ijett-v70i12p207,auto-tagged
+S187,uses dataset,D09,Dataset named in curated record or abstract,Medium,https://doi.org/10.14445/22315381/ijett-v70i12p207,curated/auto
+S188,studies problem,P06,Problem link auto-tagged,Low,https://hdl.handle.net/10568/127739,auto-tagged
+S188,evidence on intervention,I17,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/127739,curated
+S189,studies problem,P01,Problem link curated,High,https://doi.org/10.1038/s43016-022-00477-z,curated
+S189,uses dataset,D28,Dataset named in curated record or abstract,Medium,https://doi.org/10.1038/s43016-022-00477-z,curated/auto
+S189,uses dataset,D01,Dataset named in curated record or abstract,Medium,https://doi.org/10.1038/s43016-022-00477-z,curated/auto
+S190,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.136432,auto-tagged
+S190,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.136432,curated/auto
+S190,uses dataset,D05,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.136432,curated/auto
+S191,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.136713,auto-tagged
+S191,studies problem,P17,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.136713,auto-tagged
+S191,evidence on intervention,I05,Listed as evidence in implementation audit,Medium,https://doi.org/10.2499/p15738coll2.136713,curated
+S192,studies problem,P12,Problem link curated,High,https://doi.org/10.2499/p15738coll2.136706,curated
+S192,studies problem,P08,Problem link curated,High,https://doi.org/10.2499/p15738coll2.136706,curated
+S192,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.136706,curated/auto
+S192,evidence on intervention,I01,Listed as evidence in implementation audit,Medium,https://doi.org/10.2499/p15738coll2.136706,curated
+S193,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.136640,auto-tagged
+S193,uses dataset,D05,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.136640,curated/auto
+S193,uses dataset,D30,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.136640,curated/auto
+S194,studies problem,P08,Problem link auto-tagged,Low,https://doi.org/10.1371/journal.pone.0283420,auto-tagged
+S194,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.1371/journal.pone.0283420,auto-tagged
+S194,studies problem,P19,Problem link auto-tagged,Low,https://doi.org/10.1371/journal.pone.0283420,auto-tagged
+S195,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.5194/hess-27-2257-2023,auto-tagged
+S195,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.5194/hess-27-2257-2023,auto-tagged
+S195,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.5194/hess-27-2257-2023,auto-tagged
+S196,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.3390/cli11060124,auto-tagged
+S196,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.3390/cli11060124,auto-tagged
+S196,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.3390/cli11060124,auto-tagged
+S197,studies problem,P03,Problem link auto-tagged,Low,https://hdl.handle.net/10568/137388,auto-tagged
+S197,studies problem,P05,Problem link auto-tagged,Low,https://hdl.handle.net/10568/137388,auto-tagged
+S197,studies problem,P15,Problem link auto-tagged,Low,https://hdl.handle.net/10568/137388,auto-tagged
+S198,studies problem,P03,Problem link auto-tagged,Low,https://hdl.handle.net/10568/137551,auto-tagged
+S198,studies problem,P05,Problem link auto-tagged,Low,https://hdl.handle.net/10568/137551,auto-tagged
+S198,studies problem,P15,Problem link auto-tagged,Low,https://hdl.handle.net/10568/137551,auto-tagged
+S199,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1108/meq-11-2022-0300,auto-tagged
+S199,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.1108/meq-11-2022-0300,auto-tagged
+S199,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.1108/meq-11-2022-0300,auto-tagged
+S199,studies problem,P13,Problem link auto-tagged,Low,https://doi.org/10.1108/meq-11-2022-0300,auto-tagged
+S200,studies problem,P08,Problem link curated,High,https://doi.org/10.2499/p15738coll2.136600,curated
+S200,studies problem,P14,Problem link curated,High,https://doi.org/10.2499/p15738coll2.136600,curated
+S200,studies problem,P12,Problem link curated,High,https://doi.org/10.2499/p15738coll2.136600,curated
+S200,studies problem,P01,Problem link curated,High,https://doi.org/10.2499/p15738coll2.136600,curated
+S200,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.136600,curated/auto
+S200,uses dataset,D18,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.136600,curated/auto
+S201,studies problem,P01,Problem link curated,High,https://doi.org/10.1007/978-3-031-37947-5_2,curated
+S201,studies problem,P11,Problem link curated,High,https://doi.org/10.1007/978-3-031-37947-5_2,curated
+S201,studies problem,P04,Problem link curated,High,https://doi.org/10.1007/978-3-031-37947-5_2,curated
+S201,evidence on intervention,I02,Listed as evidence in implementation audit,Medium,https://doi.org/10.1007/978-3-031-37947-5_2,curated
+S202,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.59978/ar01030016,auto-tagged
+S202,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.59978/ar01030016,auto-tagged
+S202,studies problem,P13,Problem link auto-tagged,Low,https://doi.org/10.59978/ar01030016,auto-tagged
+S202,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.59978/ar01030016,auto-tagged
+S202,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.59978/ar01030016,auto-tagged
+S203,studies problem,P17,Problem link auto-tagged,Low,https://doi.org/10.1080/09583157.2023.2165038,auto-tagged
+S203,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.1080/09583157.2023.2165038,curated/auto
+S204,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.37034/infeb.v5i2.553,auto-tagged
+S204,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.37034/infeb.v5i2.553,auto-tagged
+S204,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.37034/infeb.v5i2.553,auto-tagged
+S204,studies problem,P13,Problem link auto-tagged,Low,https://doi.org/10.37034/infeb.v5i2.553,auto-tagged
+S206,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.137018,auto-tagged
+S206,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.137018,auto-tagged
+S206,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.137018,auto-tagged
+S206,studies problem,P13,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.137018,auto-tagged
+S206,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.137018,auto-tagged
+S206,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.137018,auto-tagged
+S206,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.137018,curated/auto
+S207,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.136782,curated/auto
+S208,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.136693,auto-tagged
+S208,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.136693,curated/auto
+S209,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.136906,auto-tagged
+S209,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.136906,curated/auto
+S210,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.136644,curated/auto
+S212,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.53555/sfs.v10i4s.1567,auto-tagged
+S212,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.53555/sfs.v10i4s.1567,auto-tagged
+S212,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.53555/sfs.v10i4s.1567,auto-tagged
+S212,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.53555/sfs.v10i4s.1567,auto-tagged
+S212,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.53555/sfs.v10i4s.1567,auto-tagged
+S212,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.53555/sfs.v10i4s.1567,auto-tagged
+S212,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.53555/sfs.v10i4s.1567,auto-tagged
+S212,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.53555/sfs.v10i4s.1567,auto-tagged
+S212,studies problem,P17,Problem link auto-tagged,Low,https://doi.org/10.53555/sfs.v10i4s.1567,auto-tagged
+S213,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.1109/icca51723.2023.10181337,auto-tagged
+S213,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.1109/icca51723.2023.10181337,auto-tagged
+S213,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.1109/icca51723.2023.10181337,auto-tagged
+S213,uses dataset,D11,Dataset named in curated record or abstract,Medium,https://doi.org/10.1109/icca51723.2023.10181337,curated/auto
+S213,uses dataset,D13,Dataset named in curated record or abstract,Medium,https://doi.org/10.1109/icca51723.2023.10181337,curated/auto
+S214,studies problem,P10,Problem link curated,High,https://doi.org/10.3390/agriculture13040851,curated
+S214,studies problem,P16,Problem link curated,High,https://doi.org/10.3390/agriculture13040851,curated
+S214,uses dataset,D12,Dataset named in curated record or abstract,Medium,https://doi.org/10.3390/agriculture13040851,curated/auto
+S214,evidence on intervention,I09,Listed as evidence in implementation audit,Medium,https://doi.org/10.3390/agriculture13040851,curated
+S215,studies problem,P01,Problem link curated,High,https://doi.org/10.2499/p15738coll2.136705,curated
+S215,studies problem,P02,Problem link curated,High,https://doi.org/10.2499/p15738coll2.136705,curated
+S215,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.136705,curated/auto
+S216,studies problem,P19,Problem link auto-tagged,Low,https://doi.org/10.46488/nept.2023.v22i03.002,auto-tagged
+S217,studies problem,P02,Problem link curated,High,https://doi.org/10.2499/p15738coll2.136904,curated
+S217,studies problem,P05,Problem link curated,High,https://doi.org/10.2499/p15738coll2.136904,curated
+S217,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.2499/p15738coll2.136904,curated/auto
+S218,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.5772/intechopen.109831,auto-tagged
+S218,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.5772/intechopen.109831,auto-tagged
+S218,studies problem,P08,Problem link auto-tagged,Low,https://doi.org/10.5772/intechopen.109831,auto-tagged
+S219,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1111/deve.12366,auto-tagged
+S219,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.1111/deve.12366,auto-tagged
+S220,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.136516,auto-tagged
+S220,studies problem,P08,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.136516,auto-tagged
+S220,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.136516,auto-tagged
+S221,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.3390/rs15061537,auto-tagged
+S221,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.3390/rs15061537,auto-tagged
+S221,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.3390/rs15061537,auto-tagged
+S221,studies problem,P19,Problem link auto-tagged,Low,https://doi.org/10.3390/rs15061537,auto-tagged
+S221,uses dataset,D11,Dataset named in curated record or abstract,Medium,https://doi.org/10.3390/rs15061537,curated/auto
+S222,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.136807,auto-tagged
+S222,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.136807,auto-tagged
+S222,studies problem,P08,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.136807,auto-tagged
+S222,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.2499/p15738coll2.136807,auto-tagged
+S223,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.1007/978-3-031-16648-8_3,auto-tagged
+S223,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.1007/978-3-031-16648-8_3,auto-tagged
+S223,evidence on intervention,I08,Listed as evidence in implementation audit,Medium,https://doi.org/10.1007/978-3-031-16648-8_3,curated
+S224,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.3354/cr01738,auto-tagged
+S224,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.3354/cr01738,auto-tagged
+S224,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.3354/cr01738,auto-tagged
+S224,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.3354/cr01738,auto-tagged
+S224,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.3354/cr01738,auto-tagged
+S224,studies problem,P13,Problem link auto-tagged,Low,https://doi.org/10.3354/cr01738,auto-tagged
+S225,studies problem,P03,Problem link auto-tagged,Low,https://hdl.handle.net/10568/155170,auto-tagged
+S225,studies problem,P12,Problem link auto-tagged,Low,https://hdl.handle.net/10568/155170,auto-tagged
+S225,studies problem,P15,Problem link auto-tagged,Low,https://hdl.handle.net/10568/155170,auto-tagged
+S226,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.1016/b978-0-323-99519-1.02002-0,auto-tagged
+S227,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.59978/ar02020009,auto-tagged
+S228,studies problem,P08,Problem link curated,High,https://hdl.handle.net/10568/144029,curated
+S228,studies problem,P15,Problem link curated,High,https://hdl.handle.net/10568/144029,curated
+S228,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/144029,curated/auto
+S228,uses dataset,D18,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/144029,curated/auto
+S229,studies problem,P08,Problem link curated,High,https://hdl.handle.net/10568/141582,curated
+S229,studies problem,P15,Problem link curated,High,https://hdl.handle.net/10568/141582,curated
+S229,studies problem,P11,Problem link curated,High,https://hdl.handle.net/10568/141582,curated
+S229,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/141582,curated/auto
+S229,uses dataset,D32,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/141582,curated/auto
+S230,studies problem,P05,Problem link curated,High,https://hdl.handle.net/10568/141963,curated
+S230,studies problem,P14,Problem link curated,High,https://hdl.handle.net/10568/141963,curated
+S230,evidence on intervention,I04,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/141963,curated
+S231,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1007/978-981-97-1188-8_11,auto-tagged
+S231,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.1007/978-981-97-1188-8_11,auto-tagged
+S232,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.3390/land13122212,auto-tagged
+S233,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1016/j.foodpol.2024.102711,auto-tagged
+S233,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.1016/j.foodpol.2024.102711,auto-tagged
+S233,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1016/j.foodpol.2024.102711,auto-tagged
+S233,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.1016/j.foodpol.2024.102711,auto-tagged
+S233,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.1016/j.foodpol.2024.102711,auto-tagged
+S234,studies problem,P08,Problem link curated,High,https://doi.org/10.1111/agec.12855,curated
+S234,studies problem,P12,Problem link curated,High,https://doi.org/10.1111/agec.12855,curated
+S234,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.1111/agec.12855,curated/auto
+S234,uses dataset,D18,Dataset named in curated record or abstract,Medium,https://doi.org/10.1111/agec.12855,curated/auto
+S235,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.2174/0118743315293141240424062821,auto-tagged
+S235,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.2174/0118743315293141240424062821,auto-tagged
+S235,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.2174/0118743315293141240424062821,auto-tagged
+S235,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.2174/0118743315293141240424062821,auto-tagged
+S235,studies problem,P18,Problem link auto-tagged,Low,https://doi.org/10.2174/0118743315293141240424062821,auto-tagged
+S235,studies problem,P19,Problem link auto-tagged,Low,https://doi.org/10.2174/0118743315293141240424062821,auto-tagged
+S236,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.1088/1748-9326/ad5b07,auto-tagged
+S236,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.1088/1748-9326/ad5b07,auto-tagged
+S236,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.1088/1748-9326/ad5b07,auto-tagged
+S236,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.1088/1748-9326/ad5b07,auto-tagged
+S237,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.1109/icca62361.2024.10532869,auto-tagged
+S237,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.1109/icca62361.2024.10532869,auto-tagged
+S237,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.1109/icca62361.2024.10532869,auto-tagged
+S237,uses dataset,D09,Dataset named in curated record or abstract,Medium,https://doi.org/10.1109/icca62361.2024.10532869,curated/auto
+S238,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1080/1343943x.2024.2308336,auto-tagged
+S238,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1080/1343943x.2024.2308336,auto-tagged
+S238,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.1080/1343943x.2024.2308336,auto-tagged
+S239,studies problem,P15,Problem link curated,High,https://hdl.handle.net/10568/155358,curated
+S239,studies problem,P02,Problem link curated,High,https://hdl.handle.net/10568/155358,curated
+S239,studies problem,P03,Problem link curated,High,https://hdl.handle.net/10568/155358,curated
+S239,studies problem,P08,Problem link curated,High,https://hdl.handle.net/10568/155358,curated
+S239,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/155358,curated/auto
+S239,uses dataset,D36,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/155358,curated/auto
+S240,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1016/j.rsci.2024.06.008,auto-tagged
+S240,studies problem,P17,Problem link auto-tagged,Low,https://doi.org/10.1016/j.rsci.2024.06.008,auto-tagged
+S241,studies problem,P02,Problem link auto-tagged,Low,https://hdl.handle.net/10568/163169,auto-tagged
+S241,studies problem,P03,Problem link auto-tagged,Low,https://hdl.handle.net/10568/163169,auto-tagged
+S241,studies problem,P04,Problem link auto-tagged,Low,https://hdl.handle.net/10568/163169,auto-tagged
+S241,studies problem,P08,Problem link auto-tagged,Low,https://hdl.handle.net/10568/163169,auto-tagged
+S241,studies problem,P09,Problem link auto-tagged,Low,https://hdl.handle.net/10568/163169,auto-tagged
+S241,studies problem,P10,Problem link auto-tagged,Low,https://hdl.handle.net/10568/163169,auto-tagged
+S241,studies problem,P12,Problem link auto-tagged,Low,https://hdl.handle.net/10568/163169,auto-tagged
+S241,studies problem,P13,Problem link auto-tagged,Low,https://hdl.handle.net/10568/163169,auto-tagged
+S241,studies problem,P14,Problem link auto-tagged,Low,https://hdl.handle.net/10568/163169,auto-tagged
+S241,studies problem,P15,Problem link auto-tagged,Low,https://hdl.handle.net/10568/163169,auto-tagged
+S241,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/163169,curated/auto
+S242,studies problem,P02,Problem link auto-tagged,Low,https://hdl.handle.net/10568/148696,auto-tagged
+S242,studies problem,P03,Problem link auto-tagged,Low,https://hdl.handle.net/10568/148696,auto-tagged
+S242,studies problem,P04,Problem link auto-tagged,Low,https://hdl.handle.net/10568/148696,auto-tagged
+S242,studies problem,P08,Problem link auto-tagged,Low,https://hdl.handle.net/10568/148696,auto-tagged
+S242,studies problem,P09,Problem link auto-tagged,Low,https://hdl.handle.net/10568/148696,auto-tagged
+S242,studies problem,P12,Problem link auto-tagged,Low,https://hdl.handle.net/10568/148696,auto-tagged
+S242,studies problem,P13,Problem link auto-tagged,Low,https://hdl.handle.net/10568/148696,auto-tagged
+S242,studies problem,P14,Problem link auto-tagged,Low,https://hdl.handle.net/10568/148696,auto-tagged
+S242,studies problem,P15,Problem link auto-tagged,Low,https://hdl.handle.net/10568/148696,auto-tagged
+S242,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/148696,curated/auto
+S243,studies problem,P02,Problem link auto-tagged,Low,https://hdl.handle.net/10568/144146,auto-tagged
+S243,studies problem,P03,Problem link auto-tagged,Low,https://hdl.handle.net/10568/144146,auto-tagged
+S243,studies problem,P04,Problem link auto-tagged,Low,https://hdl.handle.net/10568/144146,auto-tagged
+S243,studies problem,P05,Problem link auto-tagged,Low,https://hdl.handle.net/10568/144146,auto-tagged
+S243,studies problem,P08,Problem link auto-tagged,Low,https://hdl.handle.net/10568/144146,auto-tagged
+S243,studies problem,P10,Problem link auto-tagged,Low,https://hdl.handle.net/10568/144146,auto-tagged
+S243,studies problem,P12,Problem link auto-tagged,Low,https://hdl.handle.net/10568/144146,auto-tagged
+S243,studies problem,P15,Problem link auto-tagged,Low,https://hdl.handle.net/10568/144146,auto-tagged
+S243,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/144146,curated/auto
+S244,studies problem,P02,Problem link auto-tagged,Low,https://hdl.handle.net/10568/148779,auto-tagged
+S244,studies problem,P03,Problem link auto-tagged,Low,https://hdl.handle.net/10568/148779,auto-tagged
+S244,studies problem,P04,Problem link auto-tagged,Low,https://hdl.handle.net/10568/148779,auto-tagged
+S244,studies problem,P09,Problem link auto-tagged,Low,https://hdl.handle.net/10568/148779,auto-tagged
+S244,studies problem,P12,Problem link auto-tagged,Low,https://hdl.handle.net/10568/148779,auto-tagged
+S244,studies problem,P13,Problem link auto-tagged,Low,https://hdl.handle.net/10568/148779,auto-tagged
+S244,studies problem,P14,Problem link auto-tagged,Low,https://hdl.handle.net/10568/148779,auto-tagged
+S244,studies problem,P15,Problem link auto-tagged,Low,https://hdl.handle.net/10568/148779,auto-tagged
+S244,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/148779,curated/auto
+S244,uses dataset,D05,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/148779,curated/auto
+S246,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.36956/rwae.v6i1.1340,auto-tagged
+S246,studies problem,P17,Problem link auto-tagged,Low,https://doi.org/10.36956/rwae.v6i1.1340,auto-tagged
+S247,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.1007/s44274-024-00028-2,auto-tagged
+S247,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.1007/s44274-024-00028-2,auto-tagged
+S248,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.1109/icca62361.2024.10532841,auto-tagged
+S248,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.1109/icca62361.2024.10532841,auto-tagged
+S248,uses dataset,D12,Dataset named in curated record or abstract,Medium,https://doi.org/10.1109/icca62361.2024.10532841,curated/auto
+S249,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.2174/0118743315290024240122052257,auto-tagged
+S249,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.2174/0118743315290024240122052257,auto-tagged
+S249,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.2174/0118743315290024240122052257,auto-tagged
+S249,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.2174/0118743315290024240122052257,auto-tagged
+S249,studies problem,P18,Problem link auto-tagged,Low,https://doi.org/10.2174/0118743315290024240122052257,auto-tagged
+S249,studies problem,P19,Problem link auto-tagged,Low,https://doi.org/10.2174/0118743315290024240122052257,auto-tagged
+S250,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.19080/artoaj.2024.28.556411,auto-tagged
+S251,studies problem,P16,Problem link curated,High,https://doi.org/10.1109/igarss53475.2024.10642947,curated
+S251,studies problem,P01,Problem link curated,High,https://doi.org/10.1109/igarss53475.2024.10642947,curated
+S251,uses dataset,D09,Dataset named in curated record or abstract,Medium,https://doi.org/10.1109/igarss53475.2024.10642947,curated/auto
+S251,uses dataset,D29,Dataset named in curated record or abstract,Medium,https://doi.org/10.1109/igarss53475.2024.10642947,curated/auto
+S251,evidence on intervention,I23,Listed as evidence in implementation audit,Medium,https://doi.org/10.1109/igarss53475.2024.10642947,curated
+S252,studies problem,P01,Problem link curated,High,https://hdl.handle.net/10568/141875,curated
+S252,studies problem,P04,Problem link curated,High,https://hdl.handle.net/10568/141875,curated
+S252,studies problem,P05,Problem link curated,High,https://hdl.handle.net/10568/141875,curated
+S252,studies problem,P06,Problem link curated,High,https://hdl.handle.net/10568/141875,curated
+S252,studies problem,P09,Problem link curated,High,https://hdl.handle.net/10568/141875,curated
+S252,studies problem,P12,Problem link curated,High,https://hdl.handle.net/10568/141875,curated
+S252,studies problem,P17,Problem link curated,High,https://hdl.handle.net/10568/141875,curated
+S252,studies problem,P18,Problem link curated,High,https://hdl.handle.net/10568/141875,curated
+S252,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/141875,curated/auto
+S252,evidence on intervention,I01,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/141875,curated
+S253,studies problem,P02,Problem link curated,High,https://hdl.handle.net/10568/159895,curated
+S253,studies problem,P05,Problem link curated,High,https://hdl.handle.net/10568/159895,curated
+S253,studies problem,P12,Problem link curated,High,https://hdl.handle.net/10568/159895,curated
+S253,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/159895,curated/auto
+S254,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.5194/essd-2024-90,auto-tagged
+S254,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.5194/essd-2024-90,auto-tagged
+S254,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.5194/essd-2024-90,auto-tagged
+S254,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.5194/essd-2024-90,auto-tagged
+S254,studies problem,P19,Problem link auto-tagged,Low,https://doi.org/10.5194/essd-2024-90,auto-tagged
+S254,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.5194/essd-2024-90,curated/auto
+S254,uses dataset,D09,Dataset named in curated record or abstract,Medium,https://doi.org/10.5194/essd-2024-90,curated/auto
+S254,uses dataset,D10,Dataset named in curated record or abstract,Medium,https://doi.org/10.5194/essd-2024-90,curated/auto
+S254,uses dataset,D08,Dataset named in curated record or abstract,Medium,https://doi.org/10.5194/essd-2024-90,curated/auto
+S255,studies problem,P01,Problem link curated,High,https://hdl.handle.net/10568/155118,curated
+S255,studies problem,P04,Problem link curated,High,https://hdl.handle.net/10568/155118,curated
+S255,studies problem,P08,Problem link curated,High,https://hdl.handle.net/10568/155118,curated
+S255,studies problem,P12,Problem link curated,High,https://hdl.handle.net/10568/155118,curated
+S255,studies problem,P15,Problem link curated,High,https://hdl.handle.net/10568/155118,curated
+S255,studies problem,P18,Problem link curated,High,https://hdl.handle.net/10568/155118,curated
+S255,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/155118,curated/auto
+S255,evidence on intervention,I01,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/155118,curated
+S256,studies problem,P05,Problem link auto-tagged,Low,https://doi.org/10.1016/j.ijdrr.2024.104723,auto-tagged
+S256,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.1016/j.ijdrr.2024.104723,auto-tagged
+S256,studies problem,P19,Problem link auto-tagged,Low,https://doi.org/10.1016/j.ijdrr.2024.104723,auto-tagged
+S257,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1007/s44218-024-00053-x,auto-tagged
+S257,studies problem,P19,Problem link auto-tagged,Low,https://doi.org/10.1007/s44218-024-00053-x,auto-tagged
+S257,evidence on intervention,I17,Listed as evidence in implementation audit,Medium,https://doi.org/10.1007/s44218-024-00053-x,curated
+S258,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.1007/s41885-025-00176-6,auto-tagged
+S259,studies problem,P14,Problem link curated,High,https://hdl.handle.net/10568/180824,curated
+S259,studies problem,P05,Problem link curated,High,https://hdl.handle.net/10568/180824,curated
+S259,evidence on intervention,I04,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/180824,curated
+S260,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.13057/asianjagric/g090120,auto-tagged
+S260,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.13057/asianjagric/g090120,auto-tagged
+S261,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1007/978-981-96-1741-8_48,auto-tagged
+S261,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.1007/978-981-96-1741-8_48,auto-tagged
+S262,studies problem,P05,Problem link curated,High,https://hdl.handle.net/10568/174486,curated
+S262,studies problem,P14,Problem link curated,High,https://hdl.handle.net/10568/174486,curated
+S262,evidence on intervention,I04,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/174486,curated
+S263,studies problem,P12,Problem link curated,High,https://doi.org/10.1002/aepp.13480,curated
+S263,studies problem,P03,Problem link curated,High,https://doi.org/10.1002/aepp.13480,curated
+S263,evidence on intervention,I01,Listed as evidence in implementation audit,Medium,https://doi.org/10.1002/aepp.13480,curated
+S264,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.9734/arja/2025/v18i3727,auto-tagged
+S264,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.9734/arja/2025/v18i3727,auto-tagged
+S264,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.9734/arja/2025/v18i3727,auto-tagged
+S264,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.9734/arja/2025/v18i3727,auto-tagged
+S264,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.9734/arja/2025/v18i3727,auto-tagged
+S264,evidence on intervention,I14,Listed as evidence in implementation audit,Medium,https://doi.org/10.9734/arja/2025/v18i3727,curated
+S265,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.9734/arja/2025/v18i4777,auto-tagged
+S265,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.9734/arja/2025/v18i4777,auto-tagged
+S265,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.9734/arja/2025/v18i4777,auto-tagged
+S265,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.9734/arja/2025/v18i4777,auto-tagged
+S265,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.9734/arja/2025/v18i4777,auto-tagged
+S265,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.9734/arja/2025/v18i4777,auto-tagged
+S265,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.9734/arja/2025/v18i4777,auto-tagged
+S265,evidence on intervention,I15,Listed as evidence in implementation audit,Medium,https://doi.org/10.9734/arja/2025/v18i4777,curated
+S267,studies problem,P04,Problem link curated,High,https://doi.org/10.3389/fsufs.2025.1571263,curated
+S267,studies problem,P14,Problem link curated,High,https://doi.org/10.3389/fsufs.2025.1571263,curated
+S267,evidence on intervention,I03,Listed as evidence in implementation audit,Medium,https://doi.org/10.3389/fsufs.2025.1571263,curated
+S268,studies problem,P01,Problem link auto-tagged,Low,https://hdl.handle.net/10568/179100,auto-tagged
+S268,studies problem,P02,Problem link auto-tagged,Low,https://hdl.handle.net/10568/179100,auto-tagged
+S268,studies problem,P03,Problem link auto-tagged,Low,https://hdl.handle.net/10568/179100,auto-tagged
+S268,studies problem,P04,Problem link auto-tagged,Low,https://hdl.handle.net/10568/179100,auto-tagged
+S268,studies problem,P08,Problem link auto-tagged,Low,https://hdl.handle.net/10568/179100,auto-tagged
+S268,studies problem,P09,Problem link auto-tagged,Low,https://hdl.handle.net/10568/179100,auto-tagged
+S268,studies problem,P12,Problem link auto-tagged,Low,https://hdl.handle.net/10568/179100,auto-tagged
+S268,studies problem,P13,Problem link auto-tagged,Low,https://hdl.handle.net/10568/179100,auto-tagged
+S268,studies problem,P14,Problem link auto-tagged,Low,https://hdl.handle.net/10568/179100,auto-tagged
+S268,studies problem,P15,Problem link auto-tagged,Low,https://hdl.handle.net/10568/179100,auto-tagged
+S268,studies problem,P17,Problem link auto-tagged,Low,https://hdl.handle.net/10568/179100,auto-tagged
+S268,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/179100,curated/auto
+S269,studies problem,P04,Problem link curated,High,https://doi.org/10.1016/j.foodpol.2024.102786,curated
+S269,studies problem,P08,Problem link curated,High,https://doi.org/10.1016/j.foodpol.2024.102786,curated
+S269,studies problem,P14,Problem link curated,High,https://doi.org/10.1016/j.foodpol.2024.102786,curated
+S269,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.1016/j.foodpol.2024.102786,curated/auto
+S269,uses dataset,D18,Dataset named in curated record or abstract,Medium,https://doi.org/10.1016/j.foodpol.2024.102786,curated/auto
+S270,studies problem,P01,Problem link curated,High,https://doi.org/10.1080/09614524.2025.2466047,curated
+S270,studies problem,P03,Problem link curated,High,https://doi.org/10.1080/09614524.2025.2466047,curated
+S271,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1186/s12284-025-00877-2,auto-tagged
+S271,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.1186/s12284-025-00877-2,auto-tagged
+S271,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.1186/s12284-025-00877-2,auto-tagged
+S271,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.1186/s12284-025-00877-2,auto-tagged
+S272,studies problem,P01,Problem link auto-tagged,Low,https://hdl.handle.net/10568/175338,auto-tagged
+S272,studies problem,P02,Problem link auto-tagged,Low,https://hdl.handle.net/10568/175338,auto-tagged
+S272,studies problem,P04,Problem link auto-tagged,Low,https://hdl.handle.net/10568/175338,auto-tagged
+S272,studies problem,P14,Problem link auto-tagged,Low,https://hdl.handle.net/10568/175338,auto-tagged
+S272,studies problem,P15,Problem link auto-tagged,Low,https://hdl.handle.net/10568/175338,auto-tagged
+S273,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.1016/j.geodrs.2025.e01001,auto-tagged
+S273,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.1016/j.geodrs.2025.e01001,auto-tagged
+S273,uses dataset,D17,Dataset named in curated record or abstract,Medium,https://doi.org/10.1016/j.geodrs.2025.e01001,curated/auto
+S274,studies problem,P14,Problem link curated,High,https://doi.org/10.1111/agec.70058,curated
+S274,studies problem,P08,Problem link curated,High,https://doi.org/10.1111/agec.70058,curated
+S274,studies problem,P17,Problem link curated,High,https://doi.org/10.1111/agec.70058,curated
+S274,evidence on intervention,I05,Listed as evidence in implementation audit,Medium,https://doi.org/10.1111/agec.70058,curated
+S275,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.33022/ijcs.v13i6.4586,auto-tagged
+S275,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.33022/ijcs.v13i6.4586,auto-tagged
+S275,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.33022/ijcs.v13i6.4586,auto-tagged
+S276,studies problem,P02,Problem link auto-tagged,Low,https://hdl.handle.net/10568/175362,auto-tagged
+S276,studies problem,P03,Problem link auto-tagged,Low,https://hdl.handle.net/10568/175362,auto-tagged
+S276,studies problem,P04,Problem link auto-tagged,Low,https://hdl.handle.net/10568/175362,auto-tagged
+S276,studies problem,P09,Problem link auto-tagged,Low,https://hdl.handle.net/10568/175362,auto-tagged
+S276,studies problem,P12,Problem link auto-tagged,Low,https://hdl.handle.net/10568/175362,auto-tagged
+S276,studies problem,P13,Problem link auto-tagged,Low,https://hdl.handle.net/10568/175362,auto-tagged
+S276,studies problem,P14,Problem link auto-tagged,Low,https://hdl.handle.net/10568/175362,auto-tagged
+S276,studies problem,P15,Problem link auto-tagged,Low,https://hdl.handle.net/10568/175362,auto-tagged
+S276,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/175362,curated/auto
+S276,uses dataset,D05,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/175362,curated/auto
+S277,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.1596/42624,auto-tagged
+S278,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.48130/nc-0025-0009,auto-tagged
+S278,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.48130/nc-0025-0009,auto-tagged
+S279,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.56726/irjmets81664,auto-tagged
+S279,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.56726/irjmets81664,auto-tagged
+S279,studies problem,P17,Problem link auto-tagged,Low,https://doi.org/10.56726/irjmets81664,auto-tagged
+S280,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.55248/gengpi.6.0825.2821,auto-tagged
+S280,studies problem,P17,Problem link auto-tagged,Low,https://doi.org/10.55248/gengpi.6.0825.2821,auto-tagged
+S281,studies problem,P01,Problem link curated,High,https://hdl.handle.net/10568/178419,curated
+S281,studies problem,P02,Problem link curated,High,https://hdl.handle.net/10568/178419,curated
+S281,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/178419,curated/auto
+S282,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.9734/arja/2025/v18i3757,auto-tagged
+S282,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.9734/arja/2025/v18i3757,auto-tagged
+S282,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.9734/arja/2025/v18i3757,auto-tagged
+S282,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.9734/arja/2025/v18i3757,auto-tagged
+S282,studies problem,P09,Problem link auto-tagged,Low,https://doi.org/10.9734/arja/2025/v18i3757,auto-tagged
+S282,studies problem,P10,Problem link auto-tagged,Low,https://doi.org/10.9734/arja/2025/v18i3757,auto-tagged
+S282,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.9734/arja/2025/v18i3757,auto-tagged
+S282,evidence on intervention,I15,Listed as evidence in implementation audit,Medium,https://doi.org/10.9734/arja/2025/v18i3757,curated
+S284,studies problem,P02,Problem link auto-tagged,Low,https://hdl.handle.net/10568/176592,auto-tagged
+S284,studies problem,P03,Problem link auto-tagged,Low,https://hdl.handle.net/10568/176592,auto-tagged
+S284,studies problem,P04,Problem link auto-tagged,Low,https://hdl.handle.net/10568/176592,auto-tagged
+S284,studies problem,P06,Problem link auto-tagged,Low,https://hdl.handle.net/10568/176592,auto-tagged
+S284,studies problem,P08,Problem link auto-tagged,Low,https://hdl.handle.net/10568/176592,auto-tagged
+S284,studies problem,P12,Problem link auto-tagged,Low,https://hdl.handle.net/10568/176592,auto-tagged
+S284,studies problem,P13,Problem link auto-tagged,Low,https://hdl.handle.net/10568/176592,auto-tagged
+S284,uses dataset,D32,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/176592,curated/auto
+S284,evidence on intervention,I01,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/176592,curated
+S285,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.1016/j.cliser.2026.100673,auto-tagged
+S285,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1016/j.cliser.2026.100673,auto-tagged
+S285,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.1016/j.cliser.2026.100673,auto-tagged
+S285,studies problem,P08,Problem link auto-tagged,Low,https://doi.org/10.1016/j.cliser.2026.100673,auto-tagged
+S285,studies problem,P13,Problem link auto-tagged,Low,https://doi.org/10.1016/j.cliser.2026.100673,auto-tagged
+S285,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.1016/j.cliser.2026.100673,auto-tagged
+S285,evidence on intervention,I04,Listed as evidence in implementation audit,Medium,https://doi.org/10.1016/j.cliser.2026.100673,curated
+S286,studies problem,P13,Problem link curated,High,https://hdl.handle.net/10568/183542,curated
+S286,studies problem,P08,Problem link curated,High,https://hdl.handle.net/10568/183542,curated
+S286,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/183542,curated/auto
+S286,uses dataset,D32,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/183542,curated/auto
+S286,evidence on intervention,I07,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/183542,curated
+S287,studies problem,P02,Problem link auto-tagged,Low,https://hdl.handle.net/10568/182639,auto-tagged
+S287,studies problem,P03,Problem link auto-tagged,Low,https://hdl.handle.net/10568/182639,auto-tagged
+S287,studies problem,P04,Problem link auto-tagged,Low,https://hdl.handle.net/10568/182639,auto-tagged
+S287,studies problem,P06,Problem link auto-tagged,Low,https://hdl.handle.net/10568/182639,auto-tagged
+S287,studies problem,P08,Problem link auto-tagged,Low,https://hdl.handle.net/10568/182639,auto-tagged
+S287,studies problem,P12,Problem link auto-tagged,Low,https://hdl.handle.net/10568/182639,auto-tagged
+S287,studies problem,P13,Problem link auto-tagged,Low,https://hdl.handle.net/10568/182639,auto-tagged
+S287,uses dataset,D32,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/182639,curated/auto
+S287,evidence on intervention,I01,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/182639,curated
+S288,studies problem,P08,Problem link curated,High,https://hdl.handle.net/10568/183196,curated
+S288,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/183196,curated/auto
+S288,uses dataset,D18,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/183196,curated/auto
+S289,studies problem,P01,Problem link auto-tagged,Low,https://doi.org/10.3389/fsufs.2026.1839167,auto-tagged
+S289,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.3389/fsufs.2026.1839167,auto-tagged
+S289,studies problem,P03,Problem link auto-tagged,Low,https://doi.org/10.3389/fsufs.2026.1839167,auto-tagged
+S289,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.3389/fsufs.2026.1839167,auto-tagged
+S289,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.3389/fsufs.2026.1839167,auto-tagged
+S289,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.3389/fsufs.2026.1839167,auto-tagged
+S290,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.56726/irjmets99296,auto-tagged
+S290,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.56726/irjmets99296,auto-tagged
+S291,studies problem,P08,Problem link auto-tagged,Low,https://doi.org/10.1080/1389224x.2026.2667795,auto-tagged
+S291,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.1080/1389224x.2026.2667795,auto-tagged
+S291,evidence on intervention,I05,Listed as evidence in implementation audit,Medium,https://doi.org/10.1080/1389224x.2026.2667795,curated
+S292,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.22434/ifamr.1204,auto-tagged
+S292,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.22434/ifamr.1204,auto-tagged
+S292,studies problem,P08,Problem link auto-tagged,Low,https://doi.org/10.22434/ifamr.1204,auto-tagged
+S292,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.22434/ifamr.1204,auto-tagged
+S293,studies problem,P12,Problem link auto-tagged,Low,https://doi.org/10.2139/ssrn.7436419,auto-tagged
+S293,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.2139/ssrn.7436419,auto-tagged
+S293,studies problem,P17,Problem link auto-tagged,Low,https://doi.org/10.2139/ssrn.7436419,auto-tagged
+S294,studies problem,P01,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183097,auto-tagged
+S294,studies problem,P02,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183097,auto-tagged
+S294,studies problem,P03,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183097,auto-tagged
+S294,studies problem,P04,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183097,auto-tagged
+S294,studies problem,P08,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183097,auto-tagged
+S294,studies problem,P12,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183097,auto-tagged
+S294,studies problem,P13,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183097,auto-tagged
+S294,studies problem,P14,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183097,auto-tagged
+S294,studies problem,P15,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183097,auto-tagged
+S294,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/183097,curated/auto
+S295,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.3390/su18146943,auto-tagged
+S295,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.3390/su18146943,auto-tagged
+S296,studies problem,P04,Problem link auto-tagged,Low,https://doi.org/10.3390/foods15173066,auto-tagged
+S296,studies problem,P14,Problem link auto-tagged,Low,https://doi.org/10.3390/foods15173066,auto-tagged
+S296,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.3390/foods15173066,auto-tagged
+S296,studies problem,P16,Problem link auto-tagged,Low,https://doi.org/10.3390/foods15173066,auto-tagged
+S297,studies problem,P16,Problem link curated,High,https://doi.org/10.1111/1477-9552.70082,curated
+S297,studies problem,P03,Problem link curated,High,https://doi.org/10.1111/1477-9552.70082,curated
+S297,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://doi.org/10.1111/1477-9552.70082,curated/auto
+S297,uses dataset,D18,Dataset named in curated record or abstract,Medium,https://doi.org/10.1111/1477-9552.70082,curated/auto
+S298,studies problem,P14,Problem link curated,High,https://hdl.handle.net/10568/182936,curated
+S298,evidence on intervention,I04,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/182936,curated
+S299,studies problem,P09,Problem link curated,High,https://hdl.handle.net/10568/185645,curated
+S299,studies problem,P08,Problem link curated,High,https://hdl.handle.net/10568/185645,curated
+S299,studies problem,P05,Problem link curated,High,https://hdl.handle.net/10568/185645,curated
+S299,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/185645,curated/auto
+S299,uses dataset,D18,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/185645,curated/auto
+S299,evidence on intervention,I15,Listed as evidence in implementation audit,Medium,https://hdl.handle.net/10568/185645,curated
+S300,studies problem,P02,Problem link auto-tagged,Low,https://doi.org/10.1016/j.indic.2026.101560,auto-tagged
+S300,studies problem,P06,Problem link auto-tagged,Low,https://doi.org/10.1016/j.indic.2026.101560,auto-tagged
+S301,studies problem,P18,Problem link curated,High,https://hdl.handle.net/10568/183444,curated
+S301,studies problem,P03,Problem link curated,High,https://hdl.handle.net/10568/183444,curated
+S301,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/183444,curated/auto
+S302,studies problem,P01,Problem link curated,High,https://hdl.handle.net/10568/183098,curated
+S302,studies problem,P02,Problem link curated,High,https://hdl.handle.net/10568/183098,curated
+S302,studies problem,P03,Problem link curated,High,https://hdl.handle.net/10568/183098,curated
+S302,studies problem,P04,Problem link curated,High,https://hdl.handle.net/10568/183098,curated
+S302,studies problem,P05,Problem link curated,High,https://hdl.handle.net/10568/183098,curated
+S302,studies problem,P08,Problem link curated,High,https://hdl.handle.net/10568/183098,curated
+S302,studies problem,P18,Problem link curated,High,https://hdl.handle.net/10568/183098,curated
+S302,uses dataset,D04,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/183098,curated/auto
+S303,studies problem,P01,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183199,auto-tagged
+S303,studies problem,P02,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183199,auto-tagged
+S303,studies problem,P03,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183199,auto-tagged
+S303,studies problem,P04,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183199,auto-tagged
+S303,studies problem,P06,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183199,auto-tagged
+S303,studies problem,P08,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183199,auto-tagged
+S303,studies problem,P09,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183199,auto-tagged
+S303,studies problem,P12,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183199,auto-tagged
+S303,studies problem,P13,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183199,auto-tagged
+S303,studies problem,P14,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183199,auto-tagged
+S303,studies problem,P15,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183199,auto-tagged
+S303,studies problem,P18,Problem link auto-tagged,Low,https://hdl.handle.net/10568/183199,auto-tagged
+S304,studies problem,P02,Problem link curated,High,https://hdl.handle.net/10568/183599,curated
+S304,studies problem,P04,Problem link curated,High,https://hdl.handle.net/10568/183599,curated
+S304,studies problem,P15,Problem link curated,High,https://hdl.handle.net/10568/183599,curated
+S304,uses dataset,D32,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/183599,curated/auto
+S305,studies problem,P11,Problem link curated,High,https://hdl.handle.net/10568/182623,curated
+S305,studies problem,P15,Problem link curated,High,https://hdl.handle.net/10568/182623,curated
+S305,uses dataset,D32,Dataset named in curated record or abstract,Medium,https://hdl.handle.net/10568/182623,curated/auto
+S320,studies problem,P08,Problem link auto-tagged,Low,https://doi.org/10.1016/j.worlddev.2023.106244,auto-tagged
+S320,studies problem,P15,Problem link auto-tagged,Low,https://doi.org/10.1016/j.worlddev.2023.106244,auto-tagged
+S306,studies problem,P01,Problem link curated,High,https://doi.org/10.1016/j.fcr.2005.05.003,curated
+S306,evidence on intervention,I12,Listed as evidence in implementation audit,Medium,https://doi.org/10.1016/j.fcr.2005.05.003,curated
+S307,studies problem,P01,Problem link curated,High,https://news.irri.org/2016/03/irris-involvement-in-rice-sector.html,curated
+S307,studies problem,P15,Problem link curated,High,https://news.irri.org/2016/03/irris-involvement-in-rice-sector.html,curated
+S307,studies problem,P14,Problem link curated,High,https://news.irri.org/2016/03/irris-involvement-in-rice-sector.html,curated
+S307,evidence on intervention,I21,Listed as evidence in implementation audit,Medium,https://news.irri.org/2016/03/irris-involvement-in-rice-sector.html,curated
+S308,studies problem,P04,Problem link curated,High,https://www.tropentag.de/2021/abstracts/links/Wehmeyer_h42OHODF.php,curated
+S308,studies problem,P09,Problem link curated,High,https://www.tropentag.de/2021/abstracts/links/Wehmeyer_h42OHODF.php,curated
+S309,studies problem,P18,Problem link curated,High,https://www.cgiar.org/initiative-result/mechanized-direct-seeding-transforms-rice-production-boosting-yield-profit-and-reducing-carbon-footprint-in-vietnams-mekong-river-delta,curated
+S309,studies problem,P04,Problem link curated,High,https://www.cgiar.org/initiative-result/mechanized-direct-seeding-transforms-rice-production-boosting-yield-profit-and-reducing-carbon-footprint-in-vietnams-mekong-river-delta,curated
+S310,studies problem,P12,Problem link curated,High,https://ageconsearch.umn.edu/record/314902/files/22_135.pdf,curated
+S311,studies problem,P12,Problem link curated,High,https://www.ifpri.org/?p=28240,curated
+S311,studies problem,P03,Problem link curated,High,https://www.ifpri.org/?p=28240,curated
+S312,studies problem,P04,Problem link curated,High,https://static.pib.gov.in/WriteReadData/userfiles/Study%20on%20Impact%20of%20Soil%20Health%20Card%20Scheme.pdf,curated
+S313,studies problem,P19,Problem link curated,High,https://www.asean-agrifood.org/wp-content/uploads/2025/05/Mitigation-Action-Facility_Thai-Rice-Factsheet.pdf,curated
+S313,studies problem,P04,Problem link curated,High,https://www.asean-agrifood.org/wp-content/uploads/2025/05/Mitigation-Action-Facility_Thai-Rice-Factsheet.pdf,curated
+S313,studies problem,P10,Problem link curated,High,https://www.asean-agrifood.org/wp-content/uploads/2025/05/Mitigation-Action-Facility_Thai-Rice-Factsheet.pdf,curated
+S314,studies problem,P05,Problem link curated,High,https://bangkokpost.com/thailand/pr/2070415/baac-paid-out-over-370-million-baht-for-liabilities-under-the-annual-rice-cultivation-insurance-scheme-in-2020,curated
+S314,studies problem,P06,Problem link curated,High,https://bangkokpost.com/thailand/pr/2070415/baac-paid-out-over-370-million-baht-for-liabilities-under-the-annual-rice-cultivation-insurance-scheme-in-2020,curated
+S315,studies problem,P11,Problem link curated,High,https://news.irri.org/2013/06/cambodia-postharvest-project-assesses.html,curated
+S316,studies problem,P01,Problem link curated,High,https://www.aciar.gov.au/sites/default/files/legacy/node/14104/extending_rice_crop_yield_improvements_in_lao_pdr__96805.pdf,curated
+S316,studies problem,P09,Problem link curated,High,https://www.aciar.gov.au/sites/default/files/legacy/node/14104/extending_rice_crop_yield_improvements_in_lao_pdr__96805.pdf,curated
+S316,studies problem,P14,Problem link curated,High,https://www.aciar.gov.au/sites/default/files/legacy/node/14104/extending_rice_crop_yield_improvements_in_lao_pdr__96805.pdf,curated
+S317,studies problem,P10,Problem link curated,High,https://doi.org/10.3390/su11205839,curated
+S318,studies problem,P01,Problem link curated,High,https://www.canr.msu.edu/resources/a-strategic-agricultural-sector-and-food-security-diagnostic-for-myanmar,curated
+S318,studies problem,P14,Problem link curated,High,https://www.canr.msu.edu/resources/a-strategic-agricultural-sector-and-food-security-diagnostic-for-myanmar,curated
+S319,studies problem,P02,Problem link curated,High,https://openknowledge.worldbank.org/handle/10986/24584,curated
+S319,studies problem,P01,Problem link curated,High,https://openknowledge.worldbank.org/handle/10986/24584,curated
+S007,cites / builds on,S002,Crossref reference list,High,https://doi.org/10.7132/jrcsa.kj00004557609,crossref-references
+S007,cites / builds on,S006,Crossref reference list,High,https://doi.org/10.7132/jrcsa.kj00004557609,crossref-references
+S028,cites / builds on,S014,Crossref reference list,High,https://doi.org/10.1080/03235408.2012.740982,crossref-references
+S050,cites / builds on,S021,Crossref reference list,High,https://doi.org/10.1270/jsbbs.16033,crossref-references
+S082,cites / builds on,S049,Crossref reference list,High,https://doi.org/10.1111/1477-9552.12299,crossref-references
+S087,cites / builds on,S060,Crossref reference list,High,https://doi.org/10.3390/land8060095,crossref-references
+S092,cites / builds on,S016,Crossref reference list,High,https://doi.org/10.1080/09670874.2019.1647369,crossref-references
+S092,cites / builds on,S027,Crossref reference list,High,https://doi.org/10.1080/09670874.2019.1647369,crossref-references
+S094,cites / builds on,S058,Crossref reference list,High,https://doi.org/10.3390/cli7050064,crossref-references
+S115,cites / builds on,S077,Crossref reference list,High,https://doi.org/10.1016/j.agsy.2018.12.001,crossref-references
+S119,cites / builds on,S038,Crossref reference list,High,https://doi.org/10.1038/s41598-020-76639-5,crossref-references
+S119,cites / builds on,S070,Crossref reference list,High,https://doi.org/10.1038/s41598-020-76639-5,crossref-references
+S119,cites / builds on,S052,Crossref reference list,High,https://doi.org/10.1038/s41598-020-76639-5,crossref-references
+S119,cites / builds on,S040,Crossref reference list,High,https://doi.org/10.1038/s41598-020-76639-5,crossref-references
+S119,cites / builds on,S127,Crossref reference list,High,https://doi.org/10.1038/s41598-020-76639-5,crossref-references
+S121,cites / builds on,S046,Crossref reference list,High,https://doi.org/10.3390/su12145798,crossref-references
+S123,cites / builds on,S050,Crossref reference list,High,https://doi.org/10.3923/ja.2021.9.16,crossref-references
+S123,cites / builds on,S089,Crossref reference list,High,https://doi.org/10.3923/ja.2021.9.16,crossref-references
+S126,cites / builds on,S125,Crossref reference list,High,https://doi.org/10.3390/agriculture10070249,crossref-references
+S130,cites / builds on,S058,Crossref reference list,High,https://doi.org/10.3390/cli8010009,crossref-references
+S134,cites / builds on,S023,Crossref reference list,High,https://doi.org/10.1080/15427528.2020.1746457,crossref-references
+S134,cites / builds on,S049,Crossref reference list,High,https://doi.org/10.1080/15427528.2020.1746457,crossref-references
+S135,cites / builds on,S029,Crossref reference list,High,https://doi.org/10.1111/sjtg.12315,crossref-references
+S135,cites / builds on,S063,Crossref reference list,High,https://doi.org/10.1111/sjtg.12315,crossref-references
+S138,cites / builds on,S038,Crossref reference list,High,https://doi.org/10.1080/09614524.2020.1787350,crossref-references
+S143,cites / builds on,S049,Crossref reference list,High,https://doi.org/10.1007/s10333-021-00870-7,crossref-references
+S143,cites / builds on,S134,Crossref reference list,High,https://doi.org/10.1007/s10333-021-00870-7,crossref-references
+S144,cites / builds on,S002,Crossref reference list,High,https://doi.org/10.1007/s10333-021-00857-4,crossref-references
+S144,cites / builds on,S059,Crossref reference list,High,https://doi.org/10.1007/s10333-021-00857-4,crossref-references
+S144,cites / builds on,S155,Crossref reference list,High,https://doi.org/10.1007/s10333-021-00857-4,crossref-references
+S144,cites / builds on,S048,Crossref reference list,High,https://doi.org/10.1007/s10333-021-00857-4,crossref-references
+S146,cites / builds on,S047,Crossref reference list,High,https://doi.org/10.20495/seas.10.3_359,crossref-references
+S150,cites / builds on,S008,Crossref reference list,High,https://doi.org/10.1016/j.energy.2020.119104,crossref-references
+S150,cites / builds on,S040,Crossref reference list,High,https://doi.org/10.1016/j.energy.2020.119104,crossref-references
+S156,cites / builds on,S022,Crossref reference list,High,https://doi.org/10.1007/s10333-021-00859-2,crossref-references
+S159,cites / builds on,S038,Crossref reference list,High,https://doi.org/10.1080/14735903.2021.1918471,crossref-references
+S163,cites / builds on,S153,Crossref reference list,High,https://doi.org/10.1007/s10333-021-00862-7,crossref-references
+S163,cites / builds on,S156,Crossref reference list,High,https://doi.org/10.1007/s10333-021-00862-7,crossref-references
+S163,cites / builds on,S148,Crossref reference list,High,https://doi.org/10.1007/s10333-021-00862-7,crossref-references
+S163,cites / builds on,S155,Crossref reference list,High,https://doi.org/10.1007/s10333-021-00862-7,crossref-references
+S163,cites / builds on,S144,Crossref reference list,High,https://doi.org/10.1007/s10333-021-00862-7,crossref-references
+S189,cites / builds on,S119,Crossref reference list,High,https://doi.org/10.1038/s43016-022-00477-z,crossref-references
+S195,cites / builds on,S036,Crossref reference list,High,https://doi.org/10.5194/hess-27-2257-2023,crossref-references
+S195,cites / builds on,S155,Crossref reference list,High,https://doi.org/10.5194/hess-27-2257-2023,crossref-references
+S195,cites / builds on,S060,Crossref reference list,High,https://doi.org/10.5194/hess-27-2257-2023,crossref-references
+S196,cites / builds on,S115,Crossref reference list,High,https://doi.org/10.3390/cli11060124,crossref-references
+S196,cites / builds on,S130,Crossref reference list,High,https://doi.org/10.3390/cli11060124,crossref-references
+S196,cites / builds on,S094,Crossref reference list,High,https://doi.org/10.3390/cli11060124,crossref-references
+S196,cites / builds on,S059,Crossref reference list,High,https://doi.org/10.3390/cli11060124,crossref-references
+S196,cites / builds on,S058,Crossref reference list,High,https://doi.org/10.3390/cli11060124,crossref-references
+S196,cites / builds on,S041,Crossref reference list,High,https://doi.org/10.3390/cli11060124,crossref-references
+S199,cites / builds on,S055,Crossref reference list,High,https://doi.org/10.1108/meq-11-2022-0300,crossref-references
+S199,cites / builds on,S066,Crossref reference list,High,https://doi.org/10.1108/meq-11-2022-0300,crossref-references
+S199,cites / builds on,S058,Crossref reference list,High,https://doi.org/10.1108/meq-11-2022-0300,crossref-references
+S199,cites / builds on,S130,Crossref reference list,High,https://doi.org/10.1108/meq-11-2022-0300,crossref-references
+S199,cites / builds on,S041,Crossref reference list,High,https://doi.org/10.1108/meq-11-2022-0300,crossref-references
+S214,cites / builds on,S162,Crossref reference list,High,https://doi.org/10.3390/agriculture13040851,crossref-references
+S224,cites / builds on,S042,Crossref reference list,High,https://doi.org/10.3354/cr01738,crossref-references
+S224,cites / builds on,S058,Crossref reference list,High,https://doi.org/10.3354/cr01738,crossref-references
+S224,cites / builds on,S041,Crossref reference list,High,https://doi.org/10.3354/cr01738,crossref-references
+S224,cites / builds on,S196,Crossref reference list,High,https://doi.org/10.3354/cr01738,crossref-references
+S226,cites / builds on,S030,Crossref reference list,High,https://doi.org/10.1016/b978-0-323-99519-1.02002-0,crossref-references
+S226,cites / builds on,S041,Crossref reference list,High,https://doi.org/10.1016/b978-0-323-99519-1.02002-0,crossref-references
+S231,cites / builds on,S072,Crossref reference list,High,https://doi.org/10.1007/978-981-97-1188-8_11,crossref-references
+S232,cites / builds on,S221,Crossref reference list,High,https://doi.org/10.3390/land13122212,crossref-references
+S234,cites / builds on,S162,Crossref reference list,High,https://doi.org/10.1111/agec.12855,crossref-references
+S234,cites / builds on,S183,Crossref reference list,High,https://doi.org/10.1111/agec.12855,crossref-references
+S235,cites / builds on,S158,Crossref reference list,High,https://doi.org/10.2174/0118743315293141240424062821,crossref-references
+S235,cites / builds on,S038,Crossref reference list,High,https://doi.org/10.2174/0118743315293141240424062821,crossref-references
+S235,cites / builds on,S104,Crossref reference list,High,https://doi.org/10.2174/0118743315293141240424062821,crossref-references
+S235,cites / builds on,S178,Crossref reference list,High,https://doi.org/10.2174/0118743315293141240424062821,crossref-references
+S235,cites / builds on,S249,Crossref reference list,High,https://doi.org/10.2174/0118743315293141240424062821,crossref-references
+S236,cites / builds on,S195,Crossref reference list,High,https://doi.org/10.1088/1748-9326/ad5b07,crossref-references
+S237,cites / builds on,S187,Crossref reference list,High,https://doi.org/10.1109/icca62361.2024.10532869,crossref-references
+S248,cites / builds on,S072,Crossref reference list,High,https://doi.org/10.1109/icca62361.2024.10532841,crossref-references
+S249,cites / builds on,S127,Crossref reference list,High,https://doi.org/10.2174/0118743315290024240122052257,crossref-references
+S249,cites / builds on,S119,Crossref reference list,High,https://doi.org/10.2174/0118743315290024240122052257,crossref-references
+S249,cites / builds on,S158,Crossref reference list,High,https://doi.org/10.2174/0118743315290024240122052257,crossref-references
+S256,cites / builds on,S036,Crossref reference list,High,https://doi.org/10.1016/j.ijdrr.2024.104723,crossref-references
+S256,cites / builds on,S118,Crossref reference list,High,https://doi.org/10.1016/j.ijdrr.2024.104723,crossref-references
+S256,cites / builds on,S236,Crossref reference list,High,https://doi.org/10.1016/j.ijdrr.2024.104723,crossref-references
+S256,cites / builds on,S195,Crossref reference list,High,https://doi.org/10.1016/j.ijdrr.2024.104723,crossref-references
+S256,cites / builds on,S155,Crossref reference list,High,https://doi.org/10.1016/j.ijdrr.2024.104723,crossref-references
+S257,cites / builds on,S157,Crossref reference list,High,https://doi.org/10.1007/s44218-024-00053-x,crossref-references
+S257,cites / builds on,S127,Crossref reference list,High,https://doi.org/10.1007/s44218-024-00053-x,crossref-references
+S258,cites / builds on,S096,Crossref reference list,High,https://doi.org/10.1007/s41885-025-00176-6,crossref-references
+S258,cites / builds on,S196,Crossref reference list,High,https://doi.org/10.1007/s41885-025-00176-6,crossref-references
+S258,cites / builds on,S130,Crossref reference list,High,https://doi.org/10.1007/s41885-025-00176-6,crossref-references
+S270,cites / builds on,S042,Crossref reference list,High,https://doi.org/10.1080/09614524.2025.2466047,crossref-references
+S270,cites / builds on,S125,Crossref reference list,High,https://doi.org/10.1080/09614524.2025.2466047,crossref-references
+S273,cites / builds on,S115,Crossref reference list,High,https://doi.org/10.1016/j.geodrs.2025.e01001,crossref-references
+S274,cites / builds on,S269,Crossref reference list,High,https://doi.org/10.1111/agec.70058,crossref-references
+S278,cites / builds on,S189,Crossref reference list,High,https://doi.org/10.48130/nc-0025-0009,crossref-references
+S278,cites / builds on,S158,Crossref reference list,High,https://doi.org/10.48130/nc-0025-0009,crossref-references
+S285,cites / builds on,S234,Crossref reference list,High,https://doi.org/10.1016/j.cliser.2026.100673,crossref-references
+S285,cites / builds on,S196,Crossref reference list,High,https://doi.org/10.1016/j.cliser.2026.100673,crossref-references
+S285,cites / builds on,S256,Crossref reference list,High,https://doi.org/10.1016/j.cliser.2026.100673,crossref-references
+S291,cites / builds on,S222,Crossref reference list,High,https://doi.org/10.1080/1389224x.2026.2667795,crossref-references
+S291,cites / builds on,S234,Crossref reference list,High,https://doi.org/10.1080/1389224x.2026.2667795,crossref-references
+S296,cites / builds on,S186,Crossref reference list,High,https://doi.org/10.3390/foods15173066,crossref-references
+S296,cites / builds on,S258,Crossref reference list,High,https://doi.org/10.3390/foods15173066,crossref-references
+S296,cites / builds on,S144,Crossref reference list,High,https://doi.org/10.3390/foods15173066,crossref-references
+S296,cites / builds on,S073,Crossref reference list,High,https://doi.org/10.3390/foods15173066,crossref-references
+S296,cites / builds on,S320,Crossref reference list,High,https://doi.org/10.3390/foods15173066,crossref-references
+S296,cites / builds on,S162,Crossref reference list,High,https://doi.org/10.3390/foods15173066,crossref-references
+S296,cites / builds on,S199,Crossref reference list,High,https://doi.org/10.3390/foods15173066,crossref-references
+S296,cites / builds on,S087,Crossref reference list,High,https://doi.org/10.3390/foods15173066,crossref-references
+S297,cites / builds on,S270,Crossref reference list,High,https://doi.org/10.1111/1477-9552.70082,crossref-references
+S297,cites / builds on,S320,Crossref reference list,High,https://doi.org/10.1111/1477-9552.70082,crossref-references
+S297,cites / builds on,S222,Crossref reference list,High,https://doi.org/10.1111/1477-9552.70082,crossref-references
+S297,cites / builds on,S269,Crossref reference list,High,https://doi.org/10.1111/1477-9552.70082,crossref-references
+S300,cites / builds on,S224,Crossref reference list,High,https://doi.org/10.1016/j.indic.2026.101560,crossref-references
+S300,cites / builds on,S041,Crossref reference list,High,https://doi.org/10.1016/j.indic.2026.101560,crossref-references
+S234,published version of,S200,Same analysis; journal version of IFPRI working paper,High,https://doi.org/10.1111/agec.12855,curated
+S174,published version of,S140,Journal version of IFPRI working paper on rice mills and COVID-19,High,https://doi.org/10.1111/1477-9552.12461,curated
+S140,same analysis as,S141,Working paper and research note on the same rice-mill survey,High,https://doi.org/10.2499/p15738coll2.134311,curated
+S320,published version of,S166,World Development version of IFPRI paper,High,https://doi.org/10.1016/j.worlddev.2023.106244,curated
+S263,contradicts (partially),S119,Combine use not associated with higher paddy margins (S263) vs mechanized post-harvest +30-50% net income in a field experiment (S119); different designs and outcomes,High,https://doi.org/10.1002/aepp.13480,curated
+S263,extends,S162,Adds seasonality of combine outsourcing,High,https://doi.org/10.1002/aepp.13480,curated
+S192,extends,S162,Mechanization fees and plot-size productivity,High,https://doi.org/10.2499/p15738coll2.136706,curated
+S269,extends,S200,Conflict channel through fertilizer,High,https://doi.org/10.1016/j.foodpol.2024.102786,curated
+S082,challenges assumption in,S071,"Subsidised credit did not raise yields (fuzzy RDD), though credit access is widely believed to constrain productivity",High,https://doi.org/10.1111/1477-9552.12299,curated
+S158,qualifies (differs from),S090,"Central Myanmar farmers (S158) applied more fertilizer than reported national averages, while lower-Myanmar benchmark farms (S090, 2010) reached top yields with only 40 kg N/ha; different regions and periods, so treat fertilizer-use levels as contested",High,https://doi.org/10.3390/agriculture11010065,curated
+S255,internal inconsistency flagged,S184,S255 text says dry-season fertilizer use slipped in 2022 while its table shows +31.2% (2020-2022); S184 reports -6% for 2022 vs 2021,High,https://hdl.handle.net/10568/155118,curated
+S306,contests,S008,SRI yield advantage over best management questioned in empirical synopsis,High,https://doi.org/10.1016/j.fcr.2005.05.003,curated
+S189,corroborates,S029,Both find large Myanmar yield gaps,High,https://doi.org/10.1038/s43016-022-00477-z,curated
+S299,extends,S139,From seed demand to shock-resilient seed access,High,https://hdl.handle.net/10568/185645,curated
+S301,corroborates,S302,More broadcasting linked to lower productivity,High,https://hdl.handle.net/10568/183444,curated
+S302,updates,S252,Next monsoon assessment (2025 vs 2023),High,https://hdl.handle.net/10568/183098,curated
+S252,updates,S215,Next monsoon assessment,High,https://hdl.handle.net/10568/141875,curated
+S215,updates,S183,Next monsoon assessment,High,https://doi.org/10.2499/p15738coll2.136705,curated
+S217,updates,S184,Next dry-season assessment,High,https://doi.org/10.2499/p15738coll2.136904,curated
+S253,updates,S217,Next dry-season assessment,High,https://hdl.handle.net/10568/159895,curated
+S281,updates,S253,Next dry-season assessment,High,https://hdl.handle.net/10568/178419,curated
+S155,same research programme,S163,JIRCAS coastal Myanmar WII project (Paddy and Water Environment 2021),High,https://doi.org/10.1007/s10333-020-00837-0,curated
+S153,same research programme,S163,JIRCAS WII project,High,https://doi.org/10.1007/s10333-020-00838-z,curated
+S156,same research programme,S163,JIRCAS WII project,High,https://doi.org/10.1007/s10333-021-00859-2,curated
+S148,same research programme,S163,JIRCAS WII project,High,https://doi.org/10.1007/s10333-021-00842-x,curated
+S143,same research programme,S163,JIRCAS WII project,High,https://doi.org/10.1007/s10333-021-00870-7,curated
+S254,extends,S060,Regional Sentinel-based cropping intensity mapping,High,https://doi.org/10.5194/essd-2024-90,curated
+S251,uses similar method,S060,Satellite rice monitoring,High,https://doi.org/10.1109/igarss53475.2024.10642947,curated
+S262,same intervention as,S259,Village Link DCAS evaluation,High,https://hdl.handle.net/10568/174486,curated
+S298,scales,S230,"DCAS pilot to 139,000 farmers",High,https://hdl.handle.net/10568/182936,curated
+S267,tests comparable intervention to,S112,RCM in India vs Myanmar RCM prototype,High,https://doi.org/10.3389/fsufs.2025.1571263,curated
+S186,evaluates,S079,BMP adoption effects in Bago,High,https://doi.org/10.1177/00307270221086008,curated
+S297,validates data used by,S302,Bias assessment of MAPS wage data,High,https://doi.org/10.1111/1477-9552.70082,curated
+I01,addresses,P03,"Market-based mechanization outsourcing (tractor, combine, thresher services)",Medium,,curated
+I01,addresses,P11,"Market-based mechanization outsourcing (tractor, combine, thresher services)",Medium,,curated
+I01,addresses,P12,"Market-based mechanization outsourcing (tractor, combine, thresher services)",Medium,,curated
+I01,addresses,P18,"Market-based mechanization outsourcing (tractor, combine, thresher services)",Medium,,curated
+I02,addresses,P01,"CORIGAP best management practices (drum seeders, laser land levelling, nutrient/water/post-harvest BMPs)",Medium,,curated
+I02,addresses,P18,"CORIGAP best management practices (drum seeders, laser land levelling, nutrient/water/post-harvest BMPs)",Medium,,curated
+I02,addresses,P11,"CORIGAP best management practices (drum seeders, laser land levelling, nutrient/water/post-harvest BMPs)",Medium,,curated
+I03,addresses,P04,Rice Crop Manager (site-specific nutrient advice) - Myanmar version,Medium,,curated
+I03,addresses,P14,Rice Crop Manager (site-specific nutrient advice) - Myanmar version,Medium,,curated
+I03,addresses,P01,Rice Crop Manager (site-specific nutrient advice) - Myanmar version,Medium,,curated
+I04,addresses,P05,Digital climate advisory services (Village Link Htwet Toe app),Medium,,curated
+I04,addresses,P14,Digital climate advisory services (Village Link Htwet Toe app),Medium,,curated
+I04,addresses,P06,Digital climate advisory services (Village Link Htwet Toe app),Medium,,curated
+I05,addresses,P14,SMS and lead-farmer digital extension (fall armyworm RCT),Medium,,curated
+I05,addresses,P08,SMS and lead-farmer digital extension (fall armyworm RCT),Medium,,curated
+I05,addresses,P17,SMS and lead-farmer digital extension (fall armyworm RCT),Medium,,curated
+I06,addresses,P05,Weather / flood index insurance for rice,Medium,,curated
+I06,addresses,P07,Weather / flood index insurance for rice,Medium,,curated
+I07,addresses,P13,Subsidised seasonal rice credit (MADB),Medium,,curated
+I07,addresses,P02,Subsidised seasonal rice credit (MADB),Medium,,curated
+I08,addresses,P10,Water users' associations in pump irrigation schemes,Medium,,curated
+I08,addresses,P06,Water users' associations in pump irrigation schemes,Medium,,curated
+I09,addresses,P10,Large dam and canal irrigation schemes,Medium,,curated
+I10,addresses,P11,Flatbed dryers and downdraft rice-husk furnaces,Medium,,curated
+I12,addresses,P01,System of Rice Intensification via Farmer Field Schools (northern Myanmar),Medium,,curated
+I12,addresses,P14,System of Rice Intensification via Farmer Field Schools (northern Myanmar),Medium,,curated
+I13,addresses,P01,Hybrid rice extension (Palethwe/Pearl Thwe),Medium,,curated
+I13,addresses,P09,Hybrid rice extension (Palethwe/Pearl Thwe),Medium,,curated
+I14,addresses,P02,Paw San premium variety cultivation,Medium,,curated
+I14,addresses,P09,Paw San premium variety cultivation,Medium,,curated
+I15,addresses,P09,Quality seed systems: early-generation seed farms and contract seed production,Medium,,curated
+I16,addresses,P19,Alternate wetting and drying (AWD),Medium,,curated
+I16,addresses,P10,Alternate wetting and drying (AWD),Medium,,curated
+I17,addresses,P02,Rice-fish co-culture,Medium,,curated
+I18,addresses,P17,"Ecologically-based rodent management (synchronous planting, sanitation)",Medium,,curated
+I18,addresses,P11,"Ecologically-based rodent management (synchronous planting, sanitation)",Medium,,curated
+I20,addresses,P06,Climate-smart villages and CSA investment framework,Medium,,curated
+I20,addresses,P05,Climate-smart villages and CSA investment framework,Medium,,curated
+I21,addresses,P01,"Myanmar Rice Sector Development Strategy (MRSDS, 2015)",Medium,,curated
+I21,addresses,P15,"Myanmar Rice Sector Development Strategy (MRSDS, 2015)",Medium,,curated
+I21,addresses,P14,"Myanmar Rice Sector Development Strategy (MRSDS, 2015)",Medium,,curated
+I22,addresses,P05,Geospatial flood/land-water maps for Department of Agriculture,Medium,,curated
+I22,addresses,P16,Geospatial flood/land-water maps for Department of Agriculture,Medium,,curated
+I23,addresses,P16,Satellite + AI rice yield monitoring (SERVIR-Mekong),Medium,,curated
+I23,addresses,P01,Satellite + AI rice yield monitoring (SERVIR-Mekong),Medium,,curated
+I26,addresses,P14,"Farmer Field School ICM curricula (FAO, Central Dry Zone)",Medium,,curated
+I26,addresses,P01,"Farmer Field School ICM curricula (FAO, Central Dry Zone)",Medium,,curated
+B01,comparable solution for,P04,"Transferable with modification: The principle (local trials → price-aware recommendations → mass delivery) transfers; Myanmar lacks the trial network and public extension, so delivery would rely on phone panels and private digital platforms.",High,,curated
+B01,comparable solution for,P01,"Transferable with modification: The principle (local trials → price-aware recommendations → mass delivery) transfers; Myanmar lacks the trial network and public extension, so delivery would rely on phone panels and private digital platforms.",High,,curated
+S076,evidence for benchmark,B01,Source of benchmark figures,High,https://doi.org/10.1038/nature25785,curated
+B02,comparable solution for,P04,"Transferable with modification: Myanmar's problem is often under- or mistimed use rather than overuse, and extension is weaker; the packaging lesson transfers, not the reductions.",Medium,,curated
+B02,comparable solution for,P01,"Transferable with modification: Myanmar's problem is often under- or mistimed use rather than overuse, and extension is weaker; the packaging lesson transfers, not the reductions.",Medium,,curated
+B02,comparable solution for,P09,"Transferable with modification: Myanmar's problem is often under- or mistimed use rather than overuse, and extension is weaker; the packaging lesson transfers, not the reductions.",Medium,,curated
+S308,evidence for benchmark,B02,Source of benchmark figures,Medium,https://www.tropentag.de/2021/abstracts/links/Wehmeyer_h42OHODF.php,curated
+S201,evidence for benchmark,B02,Source of benchmark figures,Medium,https://doi.org/10.1007/978-3-031-37947-5_2,curated
+S075,evidence for benchmark,B02,Source of benchmark figures,Medium,https://doi.org/10.1016/j.fcr.2018.10.001,curated
+B03,comparable solution for,P18,"Transferable with modification: Myanmar already direct-seeds ~50-75% of farms by broadcasting (S301); precision seeding could recover the perceived yield penalty while keeping labour savings, but needs service providers and fuel.",Medium,,curated
+B03,comparable solution for,P03,"Transferable with modification: Myanmar already direct-seeds ~50-75% of farms by broadcasting (S301); precision seeding could recover the perceived yield penalty while keeping labour savings, but needs service providers and fuel.",Medium,,curated
+B03,comparable solution for,P04,"Transferable with modification: Myanmar already direct-seeds ~50-75% of farms by broadcasting (S301); precision seeding could recover the perceived yield penalty while keeping labour savings, but needs service providers and fuel.",Medium,,curated
+S309,evidence for benchmark,B03,Source of benchmark figures,Medium,https://www.cgiar.org/initiative-result/mechanized-direct-seeding-transforms-rice-production-boosting-yield-profit-and-reducing-carbon-footprint-in-vietnams-mekong-river-delta,curated
+S301,evidence for benchmark,B03,Source of benchmark figures,Medium,https://hdl.handle.net/10568/183444,curated
+B04,comparable solution for,P12,Directly transferable: Myanmar followed the same path 2011-2020 (S162); the lesson is sustaining services under fuel and security shocks.,Medium,,curated
+B04,comparable solution for,P11,Directly transferable: Myanmar followed the same path 2011-2020 (S162); the lesson is sustaining services under fuel and security shocks.,Medium,,curated
+B04,comparable solution for,P03,Directly transferable: Myanmar followed the same path 2011-2020 (S162); the lesson is sustaining services under fuel and security shocks.,Medium,,curated
+S310,evidence for benchmark,B04,Source of benchmark figures,Medium,https://ageconsearch.umn.edu/record/314902/files/22_135.pdf,curated
+S107,evidence for benchmark,B04,Source of benchmark figures,Medium,https://hdl.handle.net/10568/122518,curated
+S091,evidence for benchmark,B04,Source of benchmark figures,Medium,https://hdl.handle.net/10568/121695,curated
+B05,comparable solution for,P10,Difficult: Benefits depend on volumetric water pricing; Myanmar canal schemes rarely price water volumetrically - pump schemes (diesel) are the plausible niche.,High,,curated
+B05,comparable solution for,P19,Difficult: Benefits depend on volumetric water pricing; Myanmar canal schemes rarely price water volumetrically - pump schemes (diesel) are the plausible niche.,High,,curated
+S128,evidence for benchmark,B05,Source of benchmark figures,High,https://doi.org/10.23846/dpw1ie108,curated
+B06,comparable solution for,P12,Not suitable: Myanmar mechanized without subsidies through private outsourcing (S162); a large subsidy is fiscally and institutionally unrealistic now.,Medium,,curated
+B06,comparable solution for,P03,Not suitable: Myanmar mechanized without subsidies through private outsourcing (S162); a large subsidy is fiscally and institutionally unrealistic now.,Medium,,curated
+S311,evidence for benchmark,B06,Source of benchmark figures,Medium,https://www.ifpri.org/?p=28240,curated
+B07,comparable solution for,P05,Transferable with modification: Delta flood losses are large (S302); transfer depends on locally adapted tolerant varieties and seed system capacity (P09). Myanmar availability of Sub1 varieties was not verified in this build.,High,,curated
+S023,evidence for benchmark,B07,Source of benchmark figures,High,https://doi.org/10.1038/srep03315,curated
+B08,comparable solution for,P04,Transferable with modification: Myanmar has an RCM prototype (S112) that never scaled; delivery via private digital advisory (I04) could substitute for state extension.,High,,curated
+B08,comparable solution for,P14,Transferable with modification: Myanmar has an RCM prototype (S112) that never scaled; delivery via private digital advisory (I04) could substitute for state extension.,High,,curated
+S267,evidence for benchmark,B08,Source of benchmark figures,High,https://doi.org/10.3389/fsufs.2025.1571263,curated
+S112,evidence for benchmark,B08,Source of benchmark figures,High,https://hdl.handle.net/10568/122470,curated
+B09,comparable solution for,P04,Difficult: Requires lab network absent in Myanmar; evidence is a non-experimental government study (low confidence).,Low,,curated
+S312,evidence for benchmark,B09,Source of benchmark figures,Low,https://static.pib.gov.in/WriteReadData/userfiles/Study%20on%20Impact%20of%20Soil%20Health%20Card%20Scheme.pdf,curated
+B10,comparable solution for,P19,Difficult: Relies on donor carbon finance and stable institutions; laser levelling services are scarce in Myanmar.,Medium,,curated
+B10,comparable solution for,P10,Difficult: Relies on donor carbon finance and stable institutions; laser levelling services are scarce in Myanmar.,Medium,,curated
+B10,comparable solution for,P04,Difficult: Relies on donor carbon finance and stable institutions; laser levelling services are scarce in Myanmar.,Medium,,curated
+S313,evidence for benchmark,B10,Source of benchmark figures,Medium,https://www.asean-agrifood.org/wp-content/uploads/2025/05/Mitigation-Action-Facility_Thai-Rice-Factsheet.pdf,curated
+B11,comparable solution for,P05,Difficult: Myanmar's formal credit and banking contracted after 2021 (S286); index insurance remains at proposal stage (I06).,Medium,,curated
+B11,comparable solution for,P06,Difficult: Myanmar's formal credit and banking contracted after 2021 (S286); index insurance remains at proposal stage (I06).,Medium,,curated
+S314,evidence for benchmark,B11,Source of benchmark figures,Medium,https://bangkokpost.com/thailand/pr/2070415/baac-paid-out-over-370-million-baht-for-liabilities-under-the-annual-rice-cultivation-insurance-scheme-in-2020,curated
+B12,comparable solution for,P11,Transferable with modification: Modern Myanmar mills already vertically integrate services (S305); dryers fit miller-led models.,Medium,,curated
+S315,evidence for benchmark,B12,Source of benchmark figures,Medium,https://news.irri.org/2013/06/cambodia-postharvest-project-assesses.html,curated
+S070,evidence for benchmark,B12,Source of benchmark figures,Medium,https://doi.org/10.1080/1343943x.2018.1543547,curated
+B13,comparable solution for,P01,Transferable with modification: NGO-embedded trials work in low-state-capacity settings similar to post-2021 Myanmar; fertilizer affordability remained binding.,Medium,,curated
+B13,comparable solution for,P09,Transferable with modification: NGO-embedded trials work in low-state-capacity settings similar to post-2021 Myanmar; fertilizer affordability remained binding.,Medium,,curated
+B13,comparable solution for,P14,Transferable with modification: NGO-embedded trials work in low-state-capacity settings similar to post-2021 Myanmar; fertilizer affordability remained binding.,Medium,,curated
+S316,evidence for benchmark,B13,Source of benchmark figures,Medium,https://www.aciar.gov.au/sites/default/files/legacy/node/14104/extending_rice_crop_yield_improvements_in_lao_pdr__96805.pdf,curated
+B14,comparable solution for,P10,"Transferable with modification: Supports investing in reliable water delivery; Myanmar's issue is scheme performance (P10), not just access.",Medium,,curated
+S317,evidence for benchmark,B14,Source of benchmark figures,Medium,https://doi.org/10.3390/su11205839,curated
+B08,comparable to,I03,India RCM trials vs Myanmar RCM prototype,High,,curated
+B03,comparable to,I02,Mechanized seeding vs drum seeders in BMPs,Medium,,curated
+B11,comparable to,I06,Implemented insurance vs proposed index insurance,Medium,,curated
+G01,gap in,P11,No representative post-2020 estimate of harvest and post-harvest losses,Medium,,curated
+G01,gap in,P17,No representative post-2020 estimate of harvest and post-harvest losses,Medium,,curated
+G01,gap in,P19,No representative post-2020 estimate of harvest and post-harvest losses,Medium,,curated
+S119,leaves gap,G01,Loss evidence comes from field experiments and two-township rodent studies; national loss rates under current mechanization are unknown.,Medium,https://doi.org/10.1038/s41598-020-76639-5,curated
+S052,leaves gap,G01,Loss evidence comes from field experiments and two-township rodent studies; national loss rates under current mechanization are unknown.,Medium,https://doi.org/10.1002/ps.4292,curated
+G02,gap in,P04,Proven nutrient decision tools never reached Myanmar farmers,Medium,,curated
+G02,gap in,P14,Proven nutrient decision tools never reached Myanmar farmers,Medium,,curated
+S112,leaves gap,G02,Site-specific nutrient advice raised yields 17-19% in India (S267) and integrated recommendations scaled to 20.9 million farmers in China (S076); a Myanmar Rice Crop Manager prototype (2019) has no deployment record.,Medium,https://hdl.handle.net/10568/122470,curated
+S267,leaves gap,G02,Site-specific nutrient advice raised yields 17-19% in India (S267) and integrated recommendations scaled to 20.9 million farmers in China (S076); a Myanmar Rice Crop Manager prototype (2019) has no deployment record.,Medium,https://doi.org/10.3389/fsufs.2025.1571263,curated
+S076,leaves gap,G02,Site-specific nutrient advice raised yields 17-19% in India (S267) and integrated recommendations scaled to 20.9 million farmers in China (S076); a Myanmar Rice Crop Manager prototype (2019) has no deployment record.,Medium,https://doi.org/10.1038/nature25785,curated
+G03,gap in,P05,No operational township-level flood/drought loss monitoring,Medium,,curated
+G03,gap in,P06,No operational township-level flood/drought loss monitoring,Medium,,curated
+G03,gap in,P10,No operational township-level flood/drought loss monitoring,Medium,,curated
+S302,leaves gap,G03,"Relief, seed replacement and anticipatory decisions lack a near-real-time link between satellite hazard data and farm yield losses.",Medium,https://hdl.handle.net/10568/183098,curated
+S252,leaves gap,G03,"Relief, seed replacement and anticipatory decisions lack a near-real-time link between satellite hazard data and farm yield losses.",Medium,https://hdl.handle.net/10568/141875,curated
+S072,leaves gap,G03,"Relief, seed replacement and anticipatory decisions lack a near-real-time link between satellite hazard data and farm yield losses.",Medium,https://doi.org/10.5539/sar.v7n2p46,curated
+S060,leaves gap,G03,"Relief, seed replacement and anticipatory decisions lack a near-real-time link between satellite hazard data and farm yield losses.",Medium,https://doi.org/10.3390/rs9020119,curated
+G04,gap in,P16,Official subnational production statistics not public after 2020,Medium,,curated
+G04,gap in,P08,Official subnational production statistics not public after 2020,Medium,,curated
+S251,leaves gap,G04,Analysts rely on phone panels and satellites; disagreement between sources cannot be adjudicated.,Medium,https://doi.org/10.1109/igarss53475.2024.10642947,curated
+G05,gap in,P09,Quality seed does not reach farmers after shocks,Medium,,curated
+G05,gap in,P01,Quality seed does not reach farmers after shocks,Medium,,curated
+S299,leaves gap,G05,"Off-farm seed raises yields, but its use falls after shocks except near early-generation seed farms.",Medium,https://hdl.handle.net/10568/185645,curated
+S252,leaves gap,G05,"Off-farm seed raises yields, but its use falls after shocks except near early-generation seed farms.",Medium,https://hdl.handle.net/10568/141875,curated
+G06,gap in,P02,Season-ahead profitability is invisible to farmers and policymakers,Medium,,curated
+G06,gap in,P13,Season-ahead profitability is invisible to farmers and policymakers,Medium,,curated
+S217,leaves gap,G06,Profit swings of +41% to -40% between seasons are only documented after the fact.,Medium,https://doi.org/10.2499/p15738coll2.136904,curated
+S253,leaves gap,G06,Profit swings of +41% to -40% between seasons are only documented after the fact.,Medium,https://hdl.handle.net/10568/159895,curated
+S302,leaves gap,G06,Profit swings of +41% to -40% between seasons are only documented after the fact.,Medium,https://hdl.handle.net/10568/183098,curated
+G07,gap in,P18,Precision/row seeding services absent while broadcasting spreads,Medium,,curated
+G07,gap in,P03,Precision/row seeding services absent while broadcasting spreads,Medium,,curated
+G07,gap in,P12,Precision/row seeding services absent while broadcasting spreads,Medium,,curated
+S301,leaves gap,G07,Labour scarcity drives broadcast DSR with a perceived yield penalty; Vietnam's mechanized seeding shows an alternative.,Medium,https://hdl.handle.net/10568/183444,curated
+S309,leaves gap,G07,Labour scarcity drives broadcast DSR with a perceived yield penalty; Vietnam's mechanized seeding shows an alternative.,Medium,https://www.cgiar.org/initiative-result/mechanized-direct-seeding-transforms-rice-production-boosting-yield-profit-and-reducing-carbon-footprint-in-vietnams-mekong-river-delta,curated
+G08,gap in,P04,Economic-optimum N rates under current prices are not estimated,Medium,,curated
+S269,leaves gap,G08,Yield response to N is weakening under conflict (S269); recommendations ignore the urea:paddy price ratio and establishment method.,Medium,https://doi.org/10.1016/j.foodpol.2024.102786,curated
+S302,leaves gap,G08,Yield response to N is weakening under conflict (S269); recommendations ignore the urea:paddy price ratio and establishment method.,Medium,https://hdl.handle.net/10568/183098,curated
+S158,leaves gap,G08,Yield response to N is weakening under conflict (S269); recommendations ignore the urea:paddy price ratio and establishment method.,Medium,https://doi.org/10.3390/agriculture11010065,curated
+S090,leaves gap,G08,Yield response to N is weakening under conflict (S269); recommendations ignore the urea:paddy price ratio and establishment method.,Medium,https://doi.org/10.1016/j.fcr.2019.01.004,curated
+G09,gap in,P07,Coastal salinity and elevation data are thin or inconsistent,Medium,,curated
+G09,gap in,P05,Coastal salinity and elevation data are thin or inconsistent,Medium,,curated
+S155,leaves gap,G09,Satellite salinity models lack in-situ EC; elevation datasets disagree (S195).,Medium,https://doi.org/10.1007/s10333-020-00837-0,curated
+S195,leaves gap,G09,Satellite salinity models lack in-situ EC; elevation datasets disagree (S195).,Medium,https://doi.org/10.5194/hess-27-2257-2023,curated
+G10,gap in,P15,Farmgate price transmission under the dual FX regime is not monitored continuously,Medium,,curated
+G10,gap in,P02,Farmgate price transmission under the dual FX regime is not monitored continuously,Medium,,curated
+S239,leaves gap,G10,"FX policy hurt incentives more than conflict (S239), but no routine monitor exists.",Medium,https://hdl.handle.net/10568/155358,curated
+G11,gap in,P14,No randomized evidence on digital advisory effects for rice,Medium,,curated
+S262,leaves gap,G11,Current DCAS evidence is non-random and implementer-affiliated (S262).,Medium,https://hdl.handle.net/10568/174486,curated
+S259,leaves gap,G11,Current DCAS evidence is non-random and implementer-affiliated (S262).,Medium,https://hdl.handle.net/10568/180824,curated
+S274,leaves gap,G11,Current DCAS evidence is non-random and implementer-affiliated (S262).,Medium,https://doi.org/10.1111/agec.70058,curated
+G12,gap in,P12,Effect of mechanization cost spikes on timeliness losses unquantified,Medium,,curated
+G12,gap in,P11,Effect of mechanization cost spikes on timeliness losses unquantified,Medium,,curated
+S252,leaves gap,G12,Fees rose 42-59%; consequences for harvest timing and losses are not measured.,Medium,https://hdl.handle.net/10568/141875,curated
+S253,leaves gap,G12,Fees rose 42-59%; consequences for harvest timing and losses are not measured.,Medium,https://hdl.handle.net/10568/159895,curated
+S302,leaves gap,G12,Fees rose 42-59%; consequences for harvest timing and losses are not measured.,Medium,https://hdl.handle.net/10568/183098,curated
+PR01,targets problem,P04,"Price-aware nitrogen advice for monsoon rice, delivered through existing digital advisory channels",High,,curated
+PR01,targets problem,P02,"Price-aware nitrogen advice for monsoon rice, delivered through existing digital advisory channels",High,,curated
+PR01,targets problem,P14,"Price-aware nitrogen advice for monsoon rice, delivered through existing digital advisory channels",High,,curated
+PR01,targets problem,P01,"Price-aware nitrogen advice for monsoon rice, delivered through existing digital advisory channels",High,,curated
+D04,enables project,PR01,Required/available dataset,Medium,,curated
+D13,enables project,PR01,Required/available dataset,Medium,,curated
+D18,enables project,PR01,Required/available dataset,Medium,,curated
+D17,enables project,PR01,Required/available dataset,Medium,,curated
+D06,enables project,PR01,Required/available dataset,Medium,,curated
+PR01,addresses gap,G02,,Medium,,curated
+PR01,addresses gap,G08,,Medium,,curated
+PR01,builds on intervention,I03,,Medium,,curated
+PR01,builds on intervention,I04,,Medium,,curated
+PR01,learns from,B01,,Medium,,curated
+PR01,learns from,B08,,Medium,,curated
+PR01,learns from,B02,,Medium,,curated
+PR04,targets problem,P18,Crop-establishment decision model: broadcast vs row-seeding vs transplanting under labour and water constraints,High,,curated
+PR04,targets problem,P03,Crop-establishment decision model: broadcast vs row-seeding vs transplanting under labour and water constraints,High,,curated
+PR04,targets problem,P12,Crop-establishment decision model: broadcast vs row-seeding vs transplanting under labour and water constraints,High,,curated
+PR04,targets problem,P01,Crop-establishment decision model: broadcast vs row-seeding vs transplanting under labour and water constraints,High,,curated
+D04,enables project,PR04,Required/available dataset,Medium,,curated
+D13,enables project,PR04,Required/available dataset,Medium,,curated
+D19,enables project,PR04,Required/available dataset,Medium,,curated
+PR04,addresses gap,G07,,Medium,,curated
+PR04,builds on intervention,I01,,Medium,,curated
+PR04,builds on intervention,I02,,Medium,,curated
+PR04,learns from,B03,,Medium,,curated
+PR03,targets problem,P05,Township flood-loss early estimate for Delta monsoon rice,High,,curated
+PR03,targets problem,P16,Township flood-loss early estimate for Delta monsoon rice,High,,curated
+D09,enables project,PR03,Required/available dataset,Medium,,curated
+D16,enables project,PR03,Required/available dataset,Medium,,curated
+D13,enables project,PR03,Required/available dataset,Medium,,curated
+D15,enables project,PR03,Required/available dataset,Medium,,curated
+D04,enables project,PR03,Required/available dataset,Medium,,curated
+D19,enables project,PR03,Required/available dataset,Medium,,curated
+D07,enables project,PR03,Required/available dataset,Medium,,curated
+PR03,addresses gap,G03,,Medium,,curated
+PR03,addresses gap,G04,,Medium,,curated
+PR03,builds on intervention,I22,,Medium,,curated
+PR03,builds on intervention,I06,,Medium,,curated
+PR03,learns from,B07,,Medium,,curated
+PR03,learns from,B11,,Medium,,curated
+PR14,targets problem,P14,Randomized evaluation of digital climate advisories for rice,High,,curated
+PR14,targets problem,P05,Randomized evaluation of digital climate advisories for rice,High,,curated
+D04,enables project,PR14,Required/available dataset,Medium,,curated
+PR14,addresses gap,G11,,Medium,,curated
+PR14,builds on intervention,I04,,Medium,,curated
+PR02,targets problem,P02,Monthly rice profitability (cost-price squeeze) nowcast between survey rounds,High,,curated
+PR02,targets problem,P15,Monthly rice profitability (cost-price squeeze) nowcast between survey rounds,High,,curated
+PR02,targets problem,P13,Monthly rice profitability (cost-price squeeze) nowcast between survey rounds,High,,curated
+D04,enables project,PR02,Required/available dataset,Medium,,curated
+D06,enables project,PR02,Required/available dataset,Medium,,curated
+D35,enables project,PR02,Required/available dataset,Medium,,curated
+D36,enables project,PR02,Required/available dataset,Medium,,curated
+D24,enables project,PR02,Required/available dataset,Medium,,curated
+PR02,addresses gap,G06,,Medium,,curated
+PR02,addresses gap,G10,,Medium,,curated
+PR05,targets problem,P16,Post-2020 township rice area and cropping-intensity maps (Sentinel-1),High,,curated
+PR05,targets problem,P01,Post-2020 township rice area and cropping-intensity maps (Sentinel-1),High,,curated
+PR05,targets problem,P05,Post-2020 township rice area and cropping-intensity maps (Sentinel-1),High,,curated
+D09,enables project,PR05,Required/available dataset,Medium,,curated
+D10,enables project,PR05,Required/available dataset,Medium,,curated
+D08,enables project,PR05,Required/available dataset,Medium,,curated
+D07,enables project,PR05,Required/available dataset,Medium,,curated
+D19,enables project,PR05,Required/available dataset,Medium,,curated
+PR05,addresses gap,G04,,Medium,,curated
+PR05,builds on intervention,I23,,Medium,,curated
+PR11,targets problem,P06,Dry Zone drought early warning linked to rice yields,High,,curated
+D13,enables project,PR11,Required/available dataset,Medium,,curated
+D12,enables project,PR11,Required/available dataset,Medium,,curated
+D14,enables project,PR11,Required/available dataset,Medium,,curated
+D04,enables project,PR11,Required/available dataset,Medium,,curated
+PR11,addresses gap,G03,,Medium,,curated
+PR11,builds on intervention,I20,,Medium,,curated
+PR06,targets problem,P12,Mechanization service access and fee mapping,High,,curated
+PR06,targets problem,P03,Mechanization service access and fee mapping,High,,curated
+PR06,targets problem,P08,Mechanization service access and fee mapping,High,,curated
+D04,enables project,PR06,Required/available dataset,Medium,,curated
+D18,enables project,PR06,Required/available dataset,Medium,,curated
+D22,enables project,PR06,Required/available dataset,Medium,,curated
+D32,enables project,PR06,Required/available dataset,Medium,,curated
+PR06,addresses gap,G12,,Medium,,curated
+PR06,builds on intervention,I01,,Medium,,curated
+PR06,learns from,B04,,Medium,,curated
+PR06,learns from,B06,,Medium,,curated
+PR13,targets problem,P15,Export-wholesale-farmgate price transmission monitor under FX regime,High,,curated
+PR13,targets problem,P02,Export-wholesale-farmgate price transmission monitor under FX regime,High,,curated
+D06,enables project,PR13,Required/available dataset,Medium,,curated
+D24,enables project,PR13,Required/available dataset,Medium,,curated
+D35,enables project,PR13,Required/available dataset,Medium,,curated
+D36,enables project,PR13,Required/available dataset,Medium,,curated
+D04,enables project,PR13,Required/available dataset,Medium,,curated
+PR13,addresses gap,G10,,Medium,,curated
+PR15,targets problem,P08,Conflict-aware targeting index for input and advisory support,High,,curated
+PR15,targets problem,P04,Conflict-aware targeting index for input and advisory support,High,,curated
+D04,enables project,PR15,Required/available dataset,Medium,,curated
+D18,enables project,PR15,Required/available dataset,Medium,,curated
+D19,enables project,PR15,Required/available dataset,Medium,,curated
+PR15,addresses gap,G04,,Medium,,curated
+PR16,targets problem,P03,Township wage and labour-scarcity nowcast,High,,curated
+D04,enables project,PR16,Required/available dataset,Medium,,curated
+D05,enables project,PR16,Required/available dataset,Medium,,curated
+D30,enables project,PR16,Required/available dataset,Medium,,curated
+PR16,addresses gap,G07,,Medium,,curated
+PR16,builds on intervention,I01,,Medium,,curated
+PR07,targets problem,P09,Quality-seed access gap mapping and seed-multiplication siting,High,,curated
+D04,enables project,PR07,Required/available dataset,Medium,,curated
+D19,enables project,PR07,Required/available dataset,Medium,,curated
+D18,enables project,PR07,Required/available dataset,Medium,,curated
+PR07,addresses gap,G05,,Medium,,curated
+PR07,builds on intervention,I15,,Medium,,curated
+PR10,targets problem,P05,Index-insurance basis-risk analysis for coastal rice,High,,curated
+PR10,targets problem,P13,Index-insurance basis-risk analysis for coastal rice,High,,curated
+D13,enables project,PR10,Required/available dataset,Medium,,curated
+D09,enables project,PR10,Required/available dataset,Medium,,curated
+D04,enables project,PR10,Required/available dataset,Medium,,curated
+D21,enables project,PR10,Required/available dataset,Medium,,curated
+PR10,addresses gap,G03,,Medium,,curated
+PR10,builds on intervention,I06,,Medium,,curated
+PR10,learns from,B11,,Medium,,curated
+PR09,targets problem,P16,Satellite + ML township yield estimation,High,,curated
+PR09,targets problem,P01,Satellite + ML township yield estimation,High,,curated
+D09,enables project,PR09,Required/available dataset,Medium,,curated
+D12,enables project,PR09,Required/available dataset,Medium,,curated
+D04,enables project,PR09,Required/available dataset,Medium,,curated
+D29,enables project,PR09,Required/available dataset,Medium,,curated
+PR09,addresses gap,G04,,Medium,,curated
+PR09,builds on intervention,I23,,Medium,,curated
+PR12,targets problem,P11,Dryer and mill location-allocation for post-harvest loss reduction,High,,curated
+D32,enables project,PR12,Required/available dataset,Medium,,curated
+D07,enables project,PR12,Required/available dataset,Medium,,curated
+D22,enables project,PR12,Required/available dataset,Medium,,curated
+PR12,addresses gap,G01,,Medium,,curated
+PR12,builds on intervention,I10,,Medium,,curated
+PR12,learns from,B12,,Medium,,curated
+PR08,targets problem,P07,Coastal salinity monitoring and summer-rice planting window advisory,High,,curated
+D10,enables project,PR08,Required/available dataset,Medium,,curated
+D19,enables project,PR08,Required/available dataset,Medium,,curated
+PR08,addresses gap,G09,,Medium,,curated
+PR17,targets problem,P17,Smartphone image-based pest and disease detection app,High,,curated
+D04,enables project,PR17,Required/available dataset,Medium,,curated
+PR17,addresses gap,G01,,Medium,,curated
+D01,measures problem,P01,Dataset variables relevant to problem,Medium,https://apps.fas.usda.gov/psdonline/app/index.html,curated
+D01,measures problem,P15,Dataset variables relevant to problem,Medium,https://apps.fas.usda.gov/psdonline/app/index.html,curated
+D02,measures problem,P01,Dataset variables relevant to problem,Medium,https://www.fao.org/faostat/en/#data/QCL,curated
+D02,measures problem,P16,Dataset variables relevant to problem,Medium,https://www.fao.org/faostat/en/#data/QCL,curated
+D03,measures problem,P01,Dataset variables relevant to problem,Medium,https://api.worldbank.org/v2/country/MMR/indicator/AG.YLD.CREL.KG?format=json,curated
+D04,measures problem,P01,Dataset variables relevant to problem,Medium,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SPMYR4,curated
+D04,measures problem,P02,Dataset variables relevant to problem,Medium,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SPMYR4,curated
+D04,measures problem,P03,Dataset variables relevant to problem,Medium,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SPMYR4,curated
+D04,measures problem,P04,Dataset variables relevant to problem,Medium,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SPMYR4,curated
+D04,measures problem,P05,Dataset variables relevant to problem,Medium,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SPMYR4,curated
+D04,measures problem,P08,Dataset variables relevant to problem,Medium,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SPMYR4,curated
+D04,measures problem,P09,Dataset variables relevant to problem,Medium,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SPMYR4,curated
+D04,measures problem,P12,Dataset variables relevant to problem,Medium,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SPMYR4,curated
+D04,measures problem,P13,Dataset variables relevant to problem,Medium,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SPMYR4,curated
+D04,measures problem,P14,Dataset variables relevant to problem,Medium,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SPMYR4,curated
+D04,measures problem,P18,Dataset variables relevant to problem,Medium,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SPMYR4,curated
+D05,measures problem,P03,Dataset variables relevant to problem,Medium,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1R3F3U,curated
+D05,measures problem,P08,Dataset variables relevant to problem,Medium,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1R3F3U,curated
+D06,measures problem,P02,Dataset variables relevant to problem,Medium,https://data.humdata.org/dataset/wfp-food-prices-for-myanmar,curated
+D06,measures problem,P15,Dataset variables relevant to problem,Medium,https://data.humdata.org/dataset/wfp-food-prices-for-myanmar,curated
+D06,measures problem,P16,Dataset variables relevant to problem,Medium,https://data.humdata.org/dataset/wfp-food-prices-for-myanmar,curated
+D07,measures problem,P16,Dataset variables relevant to problem,Medium,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JE6R2R,curated
+D07,measures problem,P01,Dataset variables relevant to problem,Medium,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JE6R2R,curated
+D08,measures problem,P16,Dataset variables relevant to problem,Medium,https://essd.copernicus.org/preprints/essd-2024-90/,curated
+D09,measures problem,P05,Dataset variables relevant to problem,Medium,https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD,curated
+D09,measures problem,P16,Dataset variables relevant to problem,Medium,https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD,curated
+D10,measures problem,P07,Dataset variables relevant to problem,Medium,https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED,curated
+D10,measures problem,P16,Dataset variables relevant to problem,Medium,https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED,curated
+D11,measures problem,P16,Dataset variables relevant to problem,Medium,https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_L2,curated
+D12,measures problem,P06,Dataset variables relevant to problem,Medium,https://lpdaac.usgs.gov/products/mod13q1v061/,curated
+D12,measures problem,P10,Dataset variables relevant to problem,Medium,https://lpdaac.usgs.gov/products/mod13q1v061/,curated
+D12,measures problem,P16,Dataset variables relevant to problem,Medium,https://lpdaac.usgs.gov/products/mod13q1v061/,curated
+D13,measures problem,P05,Dataset variables relevant to problem,Medium,https://www.chc.ucsb.edu/data/chirps,curated
+D13,measures problem,P06,Dataset variables relevant to problem,Medium,https://www.chc.ucsb.edu/data/chirps,curated
+D14,measures problem,P06,Dataset variables relevant to problem,Medium,https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land,curated
+D14,measures problem,P05,Dataset variables relevant to problem,Medium,https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land,curated
+D15,measures problem,P05,Dataset variables relevant to problem,Medium,https://gpm.nasa.gov/data/imerg,curated
+D15,measures problem,P06,Dataset variables relevant to problem,Medium,https://gpm.nasa.gov/data/imerg,curated
+D16,measures problem,P05,Dataset variables relevant to problem,Medium,https://global-surface-water.appspot.com/,curated
+D16,measures problem,P10,Dataset variables relevant to problem,Medium,https://global-surface-water.appspot.com/,curated
+D17,measures problem,P04,Dataset variables relevant to problem,Medium,https://soilgrids.org/,curated
+D18,measures problem,P08,Dataset variables relevant to problem,Medium,https://acleddata.com/,curated
+D19,measures problem,P16,Dataset variables relevant to problem,Medium,https://themimu.info/place-codes,curated
+D20,measures problem,P16,Dataset variables relevant to problem,Medium,https://www.geoboundaries.org/,curated
+D21,measures problem,P05,Dataset variables relevant to problem,Medium,https://www.ncei.noaa.gov/products/international-best-track-archive,curated
+D22,measures problem,P12,Dataset variables relevant to problem,Medium,https://data.humdata.org/dataset/hotosm_mmr_roads,curated
+D22,measures problem,P15,Dataset variables relevant to problem,Medium,https://data.humdata.org/dataset/hotosm_mmr_roads,curated
+D23,measures problem,P15,Dataset variables relevant to problem,Medium,https://comtradeplus.un.org/,curated
+D24,measures problem,P15,Dataset variables relevant to problem,Medium,https://fpma.fao.org/giews/fpmat4/#/dashboard/tool/domestic,curated
+D24,measures problem,P02,Dataset variables relevant to problem,Medium,https://fpma.fao.org/giews/fpmat4/#/dashboard/tool/domestic,curated
+D25,measures problem,P02,Dataset variables relevant to problem,Medium,https://cgspace.cgiar.org/,curated
+D25,measures problem,P15,Dataset variables relevant to problem,Medium,https://cgspace.cgiar.org/,curated
+D26,measures problem,P05,Dataset variables relevant to problem,Medium,https://globalfloods.eu/,curated
+D27,measures problem,P16,Dataset variables relevant to problem,Medium,https://esa-worldcover.org/en,curated
+D28,measures problem,P01,Dataset variables relevant to problem,Medium,https://www.yieldgap.org/,curated
+D29,measures problem,P16,Dataset variables relevant to problem,Medium,,curated
+D29,measures problem,P01,Dataset variables relevant to problem,Medium,,curated
+D30,measures problem,P03,Dataset variables relevant to problem,Medium,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BLYQ4K,curated
+D31,measures problem,P05,Dataset variables relevant to problem,Medium,https://microdata.worldbank.org/index.php/catalog/8355,curated
+D31,measures problem,P08,Dataset variables relevant to problem,Medium,https://microdata.worldbank.org/index.php/catalog/8355,curated
+D32,measures problem,P11,Dataset variables relevant to problem,Medium,https://myanmar.ifpri.info/,curated
+D32,measures problem,P12,Dataset variables relevant to problem,Medium,https://myanmar.ifpri.info/,curated
+D32,measures problem,P15,Dataset variables relevant to problem,Medium,https://myanmar.ifpri.info/,curated
+D33,measures problem,P05,Dataset variables relevant to problem,Medium,https://data.humdata.org/dataset/fl20150703mmr-flood-vectors-sentinel1-11-august-2015,curated
+D34,measures problem,P05,Dataset variables relevant to problem,Medium,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FGDDSP,curated
+D35,measures problem,P02,Dataset variables relevant to problem,Medium,https://microdata.worldbank.org/index.php/catalog/4501,curated
+D35,measures problem,P15,Dataset variables relevant to problem,Medium,https://microdata.worldbank.org/index.php/catalog/4501,curated
+D36,measures problem,P15,Dataset variables relevant to problem,Medium,https://microdata.worldbank.org/index.php/catalog/6150,curated
+D36,measures problem,P02,Dataset variables relevant to problem,Medium,https://microdata.worldbank.org/index.php/catalog/6150,curated

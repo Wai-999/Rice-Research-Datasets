@@ -1,0 +1,139 @@
+claim_id,record_id,claim,source_ids,evidence_type,verification_status,confidence,last_verified
+P01-C1,P01,"USDA PSD national rough-rice yield ranged 2.43-3.10 t/ha over 2000-2025 (3.10 in 2000, 2.71 in 2024); Vietnam reported 6.12 t/ha in 2024.",D01,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P01-C2,P01,Exploitable rice yield gaps are relatively large in Myanmar compared with Indonesia and Vietnam; the regional average gap is 48% of yield potential.,S189,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P01-C3,P01,"Monsoon yields in Taikkyi (Yangon) varied 0.8-4.1 t/ha, mean 2.6 t/ha (100 households, 2010).",S090,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P01-C4,P01,"ORYZA-simulated climatic yield potential ranged from 5.4 t/ha upward at dry-zone and delta sites, far above farmers' yields.",S114,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P01-C5,P01,"Ayeyarwady rice growers (n=300) showed mean technical, allocative and economic efficiency of 76.1%, 47.9% and 34.2%.",S154,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P01-C6,P01,Yields rose 16.3% from 2010 to 2020 but fell 4.9% between 2020 and 2022.,S255,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P01-C7,P01,National monsoon yields on farmers' largest plots fell 8% in 2025 versus 2023.,S302,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P01-C8,P01,The widening yield gap with Vietnam is attributed more to differences in public investment in technology than to price policy.,S029,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P02-C1,P02,"Between the 2023 and 2025 monsoons: urea +23%, plowing costs +55%, wages +88% (men) and +83% (women), input expenditure per acre +63%, farmgate paddy -6%, nominal profit per acre -40% (lowest in six years).",S302,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P02-C2,P02,Real paddy profits in the 2024 dry season fell 15% versus 2023 after a 41% rise the year before - profitability is volatile.,S253; S217,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P02-C3,P02,The dual exchange-rate system acted as an across-the-board export tax of about 24% (Aug 2022-Aug 2024) and raised fertilizer prices ~10% relative to Thailand.,S239,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P02-C4,P02,By end-June 2026 diesel was 34% and petrol 57% higher than end-February; urea reference prices were 28-49% above the previous monsoon.,S304,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P03-C1,P03,Since 2011 farmers faced labour shortages and rising wages as workers moved to urban sectors; they responded by mechanizing rapidly.,S132; S162,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P03-C2,P03,Farm wages rose 88% (men) and 83% (women) between the 2023 and 2025 monsoons.,S302,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P03-C3,P03,Farmers in the most insecure areas were 7-15 percentage points more likely to report lacking access to agricultural labourers.,S239,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P03-C4,P03,Labour shortages and water constraints are the primary reasons for adopting direct-seeded rice.,S301,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P03-C5,P03,Women perform 39% of household farm labour days and are 43% of agricultural wage workers.,S164,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P03-C6,P03,Combine harvester use releases family labour into more remunerative dry-season non-farm employment.,S263,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P04-C1,P04,"Greater intensity of violent events is associated with higher fertilizer prices (especially far from import points), lower use, lower rice yield response at given N, and a decline in fertilizer use efficiency each year since the conflict began.",S269,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P04-C2,P04,Monsoon fertilizer use fell about 20% across 2020-2022 monsoons.,S255,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P04-C3,P04,In the 2022 dry season fertilizer use fell only 6% despite a 51% price increase.,S184,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P04-C4,P04,"Fertilizer use on rice rose 20% in the 2023 monsoon as urea prices fell 16%, contributing to a 7% yield gain.",S252,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P04-C5,P04,"In 2025, doubling chemical fertilizer use was associated with a 9% higher yield, and doubling commercial input spending with 34% higher yield (ceteris paribus, correlational).",S302,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P04-C6,P04,"Surveyed rice farmers in central Myanmar (n=600) applied more fertilizer than previously reported national averages, but timing departed from recommended practices.",S158,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P05-C1,P05,"In the 2025 monsoon, 10% of paddy farmers reported floods (yields -34% when affected) and 15% heavy rains (-15%).",S302,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P05-C2,P05,In the 2023 monsoon floods affected 7% of farmers with 32% yield losses.,S252,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P05-C3,P05,Cyclone Mocha affected 13% of crop farmers; 3% lost their whole dry-season harvest; coastal yields fell 29%.,S217,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P05-C4,P05,"Of 1,046 cyclone events (1970-2018) in four countries, 138 were associated with recorded rice damage; agricultural losses are under-reported in disaster databases.",S168,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P05-C5,P05,Tropical cyclone track hot spots along Myanmar's coast changed over 1983-2012.,S148,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P06-C1,P06,Drought-affected farmers (5%) saw 51% lower paddy yields in the 2023 monsoon.,S252,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P06-C2,P06,"MODIS NDVI and CHIRPS rainfall are strongly correlated in the Dry Zone (R2 0.74 and 0.82), supporting satellite drought monitoring.",S072,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P06-C3,P06,The Central Dry Zone hosts ~12 million people and 35% of Myanmar's grain cropping but is food-insecure.,S115,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P06-C4,P06,"Erratic rainfall, dry spells and untimely rain were the critical challenge in rice-based farming; timely machinery use was a major adaptation.",S096,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P07-C1,P07,Summer rice cannot be grown near the Ayeyarwady coast because river water salinity is high in the dry season; Sentinel-2 visible reflectance correlates with electrical conductivity.,S155,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P07-C2,P07,Past exposure to saltwater intrusion reduced adoption of high-value varieties in coastal townships (298 households).,S143,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P07-C3,P07,"Coastal agro-ecological zone yields fell 22% in the 2025 monsoon versus 2023, the largest decline of any zone (partly due to Rakhine market isolation).",S302,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P07-C4,P07,"Delta land elevation datasets differ substantially, affecting sea-level-rise exposure estimates.",S195,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P08-C1,P08,"Increases in fatal violent events (2020-2021) reduced rice total factor productivity by ~4% on average in the short run; poorer, less-capitalised farmers were more affected.",S200; S234,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P08-C2,P08,"Conflict reduced paddy production, yield, farmgate prices and value of production; events targeting civilians had larger effects.",S228,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P08-C3,P08,Formal agricultural credit declined sharply in conflict areas while informal credit stayed resilient.,S286,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P08-C4,P08,"Rice distribution costs rose 31% (monsoon) and 146% (dry season), partly linked to conflict.",S255,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P08-C5,P08,Rakhine State was largely cut off from commercial input and output markets in 2025.,S302,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P09-C1,P09,"Using off-farm seed is associated with higher monsoon yields; off-farm seed use declined in 2021-2023 and fell after rainfall, temperature, flood and violence shocks, but less so in townships hosting EGS seed or research farms.",S299,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P09-C2,P09,Use of self-preserved seed rose 17 percentage points compared with 2020.,S252,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P09-C3,P09,Improved varieties benefit farmers only if adopted; demand for quality seed in the Dry Zone is constrained.,S139,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P10-C1,P10,"Of ~12 million ha cropped in 2014, about 7 million ha were rice; irrigation expansion potential was assessed.",S103,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P10-C2,P10,Water users' associations in pump schemes enabled farmers to double irrigated area 1.5 years after the project ended (self-reported).,S133,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P10-C3,P10,MODIS VI time series identified a canal with limited water supply inside the Thapanzeik irrigation district (2001-2020).,S214,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P10-C4,P10,A dam in Yedashe enabled double rice cropping and higher incomes (95-farmer before/after comparison).,S059,Problem evidence,Source located and read (abstract/summary),Low,2026-10-09
+P11-C1,P11,"In an Ayeyarwady field experiment, mechanized practices raised net income 30-50% versus traditional practice and significantly reduced post-harvest losses without raising life-cycle GHG.",S119,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P11-C2,P11,Rodent losses in granaries ranged 1.2-14% across two townships and two years.,S052,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P11-C3,P11,"Reversible-airflow flatbed dryers were the best option on cost-benefit, labour and energy across four countries including Myanmar.",S070,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P12-C1,P12,"Extremely rapid mechanization occurred 2011-2020; land preparation, harvesting and threshing became near scale-neutral via outsourcing markets.",S162,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P12-C2,P12,"Over about ten years, tractor plowing rose 43 pp and combine harvesting 41 pp.",S255,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P12-C3,P12,Combine use on rice in the 2023 monsoon was 12 pp lower than in 2020; mechanization costs rose 42% (2022-2023) and 55% (2023-2025).,S252; S302,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P12-C4,P12,"Small rice plots were ~30% more productive than large ones; rising mechanization fees attenuated this inverse relationship, more so in conflict-affected townships.",S192,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P13-C1,P13,"Formal credit receipt declined sharply in conflict areas, especially from government schemes and MFIs; informal credit (family, agribusiness) remained resilient.",S286,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P13-C2,P13,A large subsidised rice credit programme showed little evidence of raising yields or output but some positive effect on household income (fuzzy RDD).,S082,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P13-C3,P13,Credit-labour interlinked transactions persist in the Delta because subsistence needs dominate.,S161,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P14-C1,P14,"Conflict reduced farmers' access to extension, which otherwise helps maintain productivity with limited capital.",S200; S269,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P14-C2,P14,A Rice Crop Manager prototype for Myanmar was developed and shared with the Department of Agriculture in 2019; no evidence of scale-up was found.,S112,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P14-C3,P14,"A private digital climate-advisory platform scaled to 139,000 farmers (10 commodities) in 2025.",S298,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P14-C4,P14,An RCT in post-coup Myanmar evaluated direct SMS vs lead-farmer-supported SMS extension for fall armyworm management.,S274,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P15-C1,P15,Exchange-rate policies were much more harmful to farm incentives than domestic trade effects of insecurity.,S239,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P15-C2,P15,Myanmar became the world's 5th-largest rice exporter by end-2019; exports proved resilient during the crisis years.,S229,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P15-C3,P15,Rice markets showed partial integration under a halfway-liberalised system (co-integration and VAR analysis).,S013,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P16-C1,P16,Agricultural production data were publicly available at regional scale only for 2012-2020.,S251,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P16-C2,P16,"WFP's Myanmar retail rice price records (2008-2026; 298 markets report low-quality rice) contain no markets in Ayeyarwady, Bago (West) or Nay Pyi Taw - including the main rice basket (Ayeyarwady).",D06,Problem evidence,Source located and read (abstract/summary) - Derived by this project from the HDX file downloaded 2026-10-09.,High,2026-10-09
+P16-C3,P16,Recall bias in reported wages is modest and does not increase with conflict severity.,S297,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P16-C4,P16,Agriculture-related cyclone damage is under-reported in major multi-peril disaster databases.,S168,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P17-C1,P17,"Pests, diseases and weeds were the most frequent shock in the 2023 monsoon (13% of farmers).",S252,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P17-C2,P17,"Asynchronous planting after Cyclone Nargis extended rodent breeding, followed by an outbreak 15 months later.",S022,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P17-C3,P17,Weed infestation reduced the productivity of hybrid and inbred rice.,S149,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P18-C1,P18,"Direct-seeded rice is used by ~50% of farmers in the monsoon and ~75% in the dry season, mostly by broadcasting; farmers perceive a transplanting yield advantage of ~11 baskets per acre.",S301,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P18-C2,P18,Lower 2025 productivity was associated with reduced labour inputs and more broadcasting.,S302,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P18-C3,P18,Direct seeding rose ~20 pp over about a decade.,S255,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+P19-C1,P19,Field experiments compared AWD with continuous flooding and manure levels for GHG and water productivity.,S127; S124; S121,Problem evidence,Source located and read (abstract/summary),Medium,2026-10-09
+P19-C2,P19,Mechanized post-harvest did not increase life-cycle GHG emissions.,S119,Problem evidence,Source located and read (abstract/summary),High,2026-10-09
+B01-C1,B01,"Rice, wheat, maize yields +10.8-11.5%",S076,Benchmark outcome,Source located and read (page summary),High,2026-10-09
+B01-C2,B01,N fertilizer -14.7-18.1% (1.2 Mt saved),S076,Benchmark outcome,Source located and read (page summary),High,2026-10-09
+B01-C3,B01,Rice GHG intensity 941 → 812 kg CO2e/Mg,S076,Benchmark outcome,Source located and read (page summary),High,2026-10-09
+B02-C1,B02,Farmers perceived lower input use and livelihood gains,S308; S201; S075,Benchmark outcome,Source located and read (page summary),Medium,2026-10-09
+B02-C2,B02,Seed and fertilizer rates remained particularly high - overuse persists,S308; S201; S075,Benchmark outcome,Source located and read (page summary),Medium,2026-10-09
+B03-C1,B03,Seed -50%,S309; S301,Benchmark outcome,Source located and read (page summary),Medium,2026-10-09
+B03-C2,B03,Fertilizer -20%,S309; S301,Benchmark outcome,Source located and read (page summary),Medium,2026-10-09
+B03-C3,B03,Yield +5%,S309; S301,Benchmark outcome,Source located and read (page summary),Medium,2026-10-09
+B03-C4,B03,Profit +US$200/ha,S309; S301,Benchmark outcome,Source located and read (page summary),Medium,2026-10-09
+B03-C5,B03,Carbon footprint -10%,S309; S301,Benchmark outcome,Source located and read (page summary),Medium,2026-10-09
+B04-C1,B04,Harvesting 'almost fully mechanised' in Vietnam and Cambodia by 2019 (IRRI),S310; S107; S091,Benchmark outcome,Source located and read (page summary),Medium,2026-10-09
+B05-C1,B05,Yields unchanged,S128,Benchmark outcome,Source located and read (page summary),High,2026-10-09
+B05-C2,B05,No water saving under seasonal per-acre water charges,S128,Benchmark outcome,Source located and read (page summary),High,2026-10-09
+B05-C3,B05,"Under volumetric pricing: standing water -18%, profit +~7% (1,870 taka/acre)",S128,Benchmark outcome,Source located and read (page summary),High,2026-10-09
+B06-C1,B06,"High-allocation areas: yields +6-13%, labour costs -38-70%, production costs -12-26% (earlier causal analysis as cited)",S311,Benchmark outcome,Source located and read (page summary),Medium,2026-10-09
+B06-C2,B06,Female agricultural self-employment -2.6 pp,S311,Benchmark outcome,Source located and read (page summary),Medium,2026-10-09
+B07-C1,B07,~45% higher yield after 10 days of submergence,S023,Benchmark outcome,Source located and read (page summary),High,2026-10-09
+B07-C2,B07,No significant yield penalty without flooding,S023,Benchmark outcome,Source located and read (page summary),High,2026-10-09
+B07-C3,B07,"Larger benefits for low-lying, disadvantaged farmers",S023,Benchmark outcome,Source located and read (page summary),High,2026-10-09
+B08-C1,B08,Yield +17-19% vs farmer practice,S267; S112,Benchmark outcome,Source located and read (page summary),High,2026-10-09
+B08-C2,B08,"P rates -8.6 to -18.1 kg/ha; N higher in kharif, lower in rabi",S267; S112,Benchmark outcome,Source located and read (page summary),High,2026-10-09
+B09-C1,B09,Government-commissioned study reports chemical fertilizer -8-10% and paddy cost of cultivation -16-25%,S312,Benchmark outcome,Source located and read (page summary),Low,2026-10-09
+B10-C1,B10,Household income +20% (project-reported),S313,Benchmark outcome,Source located and read (page summary),Medium,2026-10-09
+B10-C2,B10,1.87 Mt CO2e reduced,S313,Benchmark outcome,Source located and read (page summary),Medium,2026-10-09
+B11-C1,B11,"370.55 million baht paid on 310,000 rai (2020)",S314,Benchmark outcome,Source located and read (page summary),Medium,2026-10-09
+B12-C1,B12,Loss and quality impacts not quantified in source,S315; S070,Benchmark outcome,Source located and read (page summary),Medium,2026-10-09
+B13-C1,B13,Yield +0.3-0.6 t/ha (surveys),S316,Benchmark outcome,Source located and read (page summary),Medium,2026-10-09
+B13-C2,B13,Benefit:cost ~146:1 (ex-post assessment),S316,Benchmark outcome,Source located and read (page summary),Medium,2026-10-09
+B13-C3,B13,Fertilizer use stayed very low due to cost,S316,Benchmark outcome,Source located and read (page summary),Medium,2026-10-09
+B14-C1,B14,Productivity +2.44 t/ha/season (PSM),S317,Benchmark outcome,Source located and read (page summary),Medium,2026-10-09
+B14-C2,B14,Long-term access +1.56 t/ha (DID),S317,Benchmark outcome,Source located and read (page summary),Medium,2026-10-09
+I01-C1,I01,"Labour savings, timeliness and reduced harvest losses (S162)",S162; S131; S132; S263; S192; S252; S255; S119; S287; S284,Implementation outcome,Source located,High,2026-10-09
+I01-C2,I01,Net income +30-50% for mechanized vs traditional harvest/post-harvest in a Delta field experiment (S119),S162; S131; S132; S263; S192; S252; S255; S119; S287; S284,Implementation outcome,Source located,High,2026-10-09
+I01-C3,I01,Combine adoption not associated with lower labour costs or higher paddy margins; benefit is released family labour for non-farm work (S263),S162; S131; S132; S263; S192; S252; S255; S119; S287; S284,Implementation outcome,Source located,High,2026-10-09
+I01-C4,I01,Combine use 12 pp lower in 2023 than 2020 (S252),S162; S131; S132; S263; S192; S252; S255; S119; S287; S284,Implementation outcome,Source located,High,2026-10-09
+I02-C1,I02,Adopters and non-adopters both experienced substantial positive changes 2012-2017; farmer-group effect on yields mediated (S186),S186; S079; S201; S084,Implementation outcome,Source located,Medium,2026-10-09
+I03-C1,I03,Prototype developed and shared with DoA; user interface revised after focus groups (S112),S112; S267,Implementation outcome,Source located,Medium,2026-10-09
+I03-C2,I03,"Comparable tool raised yields 17-19% in Odisha, India on-farm trials (S267)",S112; S267,Implementation outcome,Source located,Medium,2026-10-09
+I04-C1,I04,"Treatment vs control areas (n=484): yields 3.77 vs 3.13 t/ha (+20.4%), net income US$237 vs US$57/ha; BCR reported 155:1 (S262, S259)",S230; S259; S262; S298; S285,Implementation outcome,Source located,Medium,2026-10-09
+I05-C1,I05,Both direct SMS and hybrid lead-farmer SMS designs were evaluated for knowledge and behaviour (S274),S274; S191; S291,Implementation outcome,Source located,High,2026-10-09
+I06-C1,I06,"Farmers prefer packages covering cyclone, flood and drought over salt damage (S153)",S153; S156; S163,Implementation outcome,Source located,High,2026-10-09
+I06-C2,I06,Optimum rainfall-index flood contract derived (S156),S153; S156; S163,Implementation outcome,Source located,High,2026-10-09
+I07-C1,I07,Little evidence of yield/output effects; some positive household income effects (S082),S082; S034; S286,Implementation outcome,Source located,High,2026-10-09
+I08-C1,I08,Farmers reported doubling irrigated area 1.5 years after project end despite drought (S133),S133; S083; S223,Implementation outcome,Source located,Medium,2026-10-09
+I09-C1,I09,Double cropping and income gains after Swar dam (S059),S059; S214; S002; S006; S030,Implementation outcome,Source located,Medium,2026-10-09
+I09-C2,I09,Improved VI in Thapanzeik district 2001-2020 but some canals water-limited (S214),S059; S214; S002; S006; S030,Implementation outcome,Source located,Medium,2026-10-09
+I10-C1,I10,"Flatbed dryer best on cost-benefit, labour and energy (S070)",S070; S095; S106,Implementation outcome,Source located,Medium,2026-10-09
+I12-C1,I12,FFS study-field SRI yields 6.4 t/ha vs farmers' prior 2.1 t/ha (S008),S008; S306,Implementation outcome,Source located,Low,2026-10-09
+I13-C1,I13,Benefit-cost assessment of extension methods (S101),S101; S069; S078; S111,Implementation outcome,Source located,Low,2026-10-09
+I14-C1,I14,"Cost-return comparisons vs non-Paw San rice (S039, S049)",S039; S049; S264,Implementation outcome,Source located,Low,2026-10-09
+I15-C1,I15,Townships hosting EGS seed/research farms mitigated shock-induced declines in off-farm seed use (S299),S299; S136; S265; S282; S035,Implementation outcome,Source located,High,2026-10-09
+I16-C1,I16,GHG and water productivity measured in split-plot experiments (S127),S127; S121; S124; S128,Implementation outcome,Source located,Medium,2026-10-09
+I17-C1,I17,Ecosystem service valuation (S257); socio-economic analysis (S188),S188; S257; S102,Implementation outcome,Source located,Low,2026-10-09
+I18-C1,I18,Recommended synchronous planting and similar-maturity varieties after major weather events (S022),S022; S052,Implementation outcome,Source located,Medium,2026-10-09
+I20-C1,I20,Cost-benefit analysis of a climate-smart village (S171),S171; S172; S109,Implementation outcome,Source located,Low,2026-10-09
+I20-C2,I20,Framework for CSA policies and investments (S109),S171; S172; S109,Implementation outcome,Source located,Low,2026-10-09
+I21-C1,I21,Strategy launched with IRRI involvement (S307),S307,Implementation outcome,Source located,Low,2026-10-09
+I22-C1,I22,Pre-final maps discussed at all DoA levels prior to adoption for the 2020 monsoon (S093),S093; S100,Implementation outcome,Source located,Low,2026-10-09
+I23-C1,I23,Research prototype; limited by reference-data quality and regional-only official statistics (S251),S251; S060,Implementation outcome,Source located,Medium,2026-10-09
+I26-C1,I26,"Handbooks and curricula published (S177, S173)",S177; S173,Implementation outcome,Source located,Low,2026-10-09

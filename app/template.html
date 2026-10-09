@@ -1,0 +1,69 @@
+<title>Myanmar Rice Research Intelligence</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Noto+Sans+Myanmar:wght@400;600&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap">
+<style>/*__CSS__*/</style>
+<header class="top" role="banner">
+  <div class="wrap top-row">
+    <div class="brand"><h1>Myanmar Rice Research Intelligence</h1><span class="my" lang="my">မြန်မာ့စပါး သုတေသန</span></div>
+    <div class="status" id="status" aria-label="Data status"></div>
+  </div>
+  <nav class="nav wrap" id="nav" aria-label="Views"></nav>
+</header>
+<main id="main" class="wrap" tabindex="-1">
+  <section class="view" id="v-overview" data-view="overview" aria-labelledby="h-overview"></section>
+  <section class="view" id="v-search" data-view="search" hidden>
+    <h2 class="sr">Search evidence</h2>
+    <div class="searchbar">
+      <div class="searchbox" role="search">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <label for="q" class="sr">Search Myanmar rice evidence</label>
+        <input id="q" type="search" autocomplete="off" placeholder="Ask in plain words: flood impact on rice yield in Ayeyarwady, datasets available monthly…">
+        <button class="btn ghost" id="qclear" type="button" aria-label="Clear search">Clear</button>
+      </div>
+      <button class="btn filterbtn" id="openFacets" type="button" aria-controls="facets" aria-expanded="false">Filters <span id="fcount"></span></button>
+    </div>
+    <p class="method-note" id="methodNote"></p>
+    <div class="examples" id="examples" aria-label="Example questions"></div>
+    <div class="interp" id="interp" aria-live="polite"></div>
+    <div class="layout">
+      <div class="facets" id="facets" role="complementary" aria-label="Filters">
+        <div class="facets-close"><b>Filters</b><button class="btn" id="closeFacets" type="button">Show results</button></div>
+        <div id="facetBody"></div>
+      </div>
+      <div class="results" style="min-width:0">
+        <div class="active" id="active"></div>
+        <div class="resbar">
+          <span class="count" id="rcount" aria-live="polite"></span>
+          <label class="small muted" for="sort">Sort</label>
+          <select id="sort"><option value="rel">Relevance</option><option value="new">Newest</option><option value="old">Oldest</option><option value="conf">Confidence</option><option value="type">Record type</option></select>
+          <span style="flex:1"></span>
+          <button class="btn" type="button" id="expCsv">Export CSV</button>
+          <button class="btn" type="button" id="expJson">JSON</button>
+          <button class="btn" type="button" id="expCite">Citations</button>
+        </div>
+        <div class="cards" id="cards"></div>
+        <div class="showmore"><button class="btn" type="button" id="more" hidden>Show 20 more</button></div>
+      </div>
+    </div>
+  </section>
+  <section class="view" id="v-problems" data-view="problems" hidden></section>
+  <section class="view" id="v-research" data-view="research" hidden></section>
+  <section class="view" id="v-datasets" data-view="datasets" hidden></section>
+  <section class="view" id="v-implementation" data-view="implementation" hidden></section>
+  <section class="view" id="v-connections" data-view="connections" hidden></section>
+  <section class="view" id="v-countries" data-view="countries" hidden></section>
+  <section class="view" id="v-gaps" data-view="gaps" hidden></section>
+  <section class="view" id="v-projects" data-view="projects" hidden></section>
+  <section class="view" id="v-methodology" data-view="methodology" hidden></section>
+</main>
+<div class="scrim" id="scrim"></div>
+<div class="insp" id="insp" role="dialog" aria-modal="true" aria-label="Evidence inspector" tabindex="-1" inert>
+  <div class="insp-h"><span class="type" id="inspType"></span><span class="sp"></span><button class="btn" id="inspBack" type="button" hidden>Back</button><button class="btn" id="inspClose" type="button">Close</button></div>
+  <div class="insp-b" id="inspBody"></div>
+</div>
+<div class="tray" id="tray" hidden></div>
+<div id="modalHost"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.30.2/cytoscape.min.js"></script>
+<script>/*__DATA__*/</script>
+<script>/*__JS__*/</script>

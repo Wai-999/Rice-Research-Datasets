@@ -1,0 +1,277 @@
+[
+ {
+  "query": "Myanmar rice",
+  "returned": 100,
+  "new": 100
+ },
+ {
+  "query": "Myanmar paddy",
+  "returned": 100,
+  "new": 93
+ },
+ {
+  "query": "Burma rice",
+  "returned": 100,
+  "new": 96
+ },
+ {
+  "query": "Myanmar rice yield",
+  "returned": 100,
+  "new": 55
+ },
+ {
+  "query": "Myanmar rice production",
+  "returned": 100,
+  "new": 51
+ },
+ {
+  "query": "Myanmar rice farmers",
+  "returned": 100,
+  "new": 56
+ },
+ {
+  "query": "Myanmar rice mechanization",
+  "returned": 100,
+  "new": 60
+ },
+ {
+  "query": "Myanmar agricultural mechanization",
+  "returned": 100,
+  "new": 81
+ },
+ {
+  "query": "Myanmar rural labor migration agriculture",
+  "returned": 100,
+  "new": 99
+ },
+ {
+  "query": "Myanmar rice fertilizer",
+  "returned": 100,
+  "new": 53
+ },
+ {
+  "query": "Myanmar rice irrigation",
+  "returned": 100,
+  "new": 54
+ },
+ {
+  "query": "Myanmar rice flood",
+  "returned": 100,
+  "new": 33
+ },
+ {
+  "query": "Myanmar rice drought",
+  "returned": 100,
+  "new": 60
+ },
+ {
+  "query": "Myanmar rice salinity",
+  "returned": 100,
+  "new": 56
+ },
+ {
+  "query": "Myanmar rice climate change",
+  "returned": 100,
+  "new": 86
+ },
+ {
+  "query": "Myanmar rice remote sensing",
+  "returned": 100,
+  "new": 97
+ },
+ {
+  "query": "Myanmar rice Sentinel-1",
+  "returned": 100,
+  "new": 33
+ },
+ {
+  "query": "Myanmar rice MODIS",
+  "returned": 100,
+  "new": 26
+ },
+ {
+  "query": "Myanmar rice postharvest",
+  "returned": 100,
+  "new": 40
+ },
+ {
+  "query": "Myanmar rice milling",
+  "returned": 100,
+  "new": 58
+ },
+ {
+  "query": "Myanmar rice value chain",
+  "returned": 100,
+  "new": 70
+ },
+ {
+  "query": "Myanmar rice market price",
+  "returned": 100,
+  "new": 64
+ },
+ {
+  "query": "Myanmar rice export",
+  "returned": 100,
+  "new": 38
+ },
+ {
+  "query": "Myanmar agricultural credit",
+  "returned": 100,
+  "new": 86
+ },
+ {
+  "query": "Myanmar rice profitability cost",
+  "returned": 100,
+  "new": 57
+ },
+ {
+  "query": "Myanmar rice seed variety",
+  "returned": 100,
+  "new": 83
+ },
+ {
+  "query": "Myanmar rice technical efficiency",
+  "returned": 100,
+  "new": 63
+ },
+ {
+  "query": "Ayeyarwady delta rice",
+  "returned": 100,
+  "new": 86
+ },
+ {
+  "query": "Irrawaddy delta rice",
+  "returned": 100,
+  "new": 51
+ },
+ {
+  "query": "Myanmar dry zone rice",
+  "returned": 100,
+  "new": 63
+ },
+ {
+  "query": "Myanmar rice technology adoption",
+  "returned": 100,
+  "new": 54
+ },
+ {
+  "query": "Myanmar alternate wetting drying",
+  "returned": 100,
+  "new": 99
+ },
+ {
+  "query": "Myanmar rice pest disease",
+  "returned": 100,
+  "new": 71
+ },
+ {
+  "query": "Myanmar rice soil nutrient",
+  "returned": 100,
+  "new": 93
+ },
+ {
+  "query": "Myanmar rice yield gap",
+  "returned": 100,
+  "new": 49
+ },
+ {
+  "query": "Myanmar agriculture COVID-19",
+  "returned": 100,
+  "new": 87
+ },
+ {
+  "query": "Myanmar coup agriculture",
+  "returned": 100,
+  "new": 93
+ },
+ {
+  "query": "Myanmar farmland tenure",
+  "returned": 100,
+  "new": 73
+ },
+ {
+  "query": "Myanmar rice methane emission",
+  "returned": 100,
+  "new": 91
+ },
+ {
+  "query": "Myanmar rice food security",
+  "returned": 100,
+  "new": 76
+ },
+ {
+  "query": "Bago region rice",
+  "returned": 100,
+  "new": 96
+ },
+ {
+  "query": "Sagaing rice",
+  "returned": 100,
+  "new": 98
+ },
+ {
+  "query": "Myanmar monsoon paddy",
+  "returned": 100,
+  "new": 56
+ },
+ {
+  "query": "Myanmar rice pulses cropping system",
+  "returned": 100,
+  "new": 79
+ },
+ {
+  "query": "Myanmar rice forecasting",
+  "returned": 100,
+  "new": 21
+ },
+ {
+  "query": "Myanmar rice GIS",
+  "returned": 100,
+  "new": 19
+ },
+ {
+  "query": "Myanmar hybrid rice",
+  "returned": 100,
+  "new": 25
+ },
+ {
+  "query": "Myanmar rice germplasm",
+  "returned": 100,
+  "new": 63
+ },
+ {
+  "query": "Myanmar agricultural extension",
+  "returned": 100,
+  "new": 79
+ },
+ {
+  "query": "Myanmar rice harvest loss",
+  "returned": 100,
+  "new": 61
+ },
+ {
+  "query": "Myanmar rice drying storage",
+  "returned": 100,
+  "new": 72
+ },
+ {
+  "query": "Myanmar paddy land",
+  "returned": 100,
+  "new": 78
+ },
+ {
+  "query": "Myanmar agricultural productivity",
+  "returned": 100,
+  "new": 50
+ },
+ {
+  "query": "Myanmar rice policy",
+  "returned": 100,
+  "new": 53
+ },
+ {
+  "query": "Mekong rice Myanmar",
+  "returned": 100,
+  "new": 48
+ }
+]

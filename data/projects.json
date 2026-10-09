@@ -1,0 +1,1298 @@
+[
+ {
+  "project_id": "PR01",
+  "title": "Price-aware nitrogen advice for monsoon rice, delivered through existing digital advisory channels",
+  "problem_ids": [
+   "P04",
+   "P02",
+   "P14",
+   "P01"
+  ],
+  "dataset_ids": [
+   "D04",
+   "D13",
+   "D18",
+   "D17",
+   "D06"
+  ],
+  "methods": [
+   "Panel regression",
+   "Economic optimization",
+   "Validation/A-B test"
+  ],
+  "user": "Rice farmers (via advisory app/extension); advisory providers",
+  "decision": "How much urea to apply, and when, given this season's urea and paddy prices, zone and establishment method",
+  "required_information": "Plot yield response to N by zone and establishment method; current urea and expected paddy prices; shock risk",
+  "analysis": "Yield-response functions (quadratic-plateau) estimated on MAPS panel with household fixed effects and weather/conflict controls → economic optimum N at price ratio → simple lookup table",
+  "action": "Advisory recommends a rate band and split timing each season",
+  "expected_outcome": "Higher profit per acre and N use efficiency; avoided losses from over/under-application",
+  "scores": {
+   "importance": 5,
+   "farmers_affected": 5,
+   "economic_impact": 5,
+   "yield_impact": 4,
+   "labor_time_saving": 2,
+   "data_availability": 4,
+   "data_reliability": 3,
+   "technical_feasibility": 4,
+   "validation_feasibility": 4,
+   "implementation_feasibility": 4,
+   "novelty": 4,
+   "scalability": 5
+  },
+  "score_notes": {
+   "importance": "Fertilizer is the main commercial input; prices up 23-49% (S302,S304)",
+   "data_availability": "MAPS rounds 1-8 public with plot inputs and yields",
+   "data_reliability": "Self-reported phone data",
+   "implementation_feasibility": "Existing app reaches 139,000 farmers (S298); RCM prototype exists (S112)",
+   "validation_feasibility": "Out-of-sample + randomized A/B within app"
+  },
+  "gap_ids": [
+   "G02",
+   "G08"
+  ],
+  "intervention_ids": [
+   "I03",
+   "I04"
+  ],
+  "benchmark_ids": [
+   "B01",
+   "B08",
+   "B02"
+  ],
+  "pathway": "Partner with an existing digital advisory provider and DoA; publish lookup tables each season",
+  "key_risk": "Observational yield response confounded by farmer skill and soil - mitigated with panel FE, control-function, and an A/B validation",
+  "record_type": "Project",
+  "id": "PR01",
+  "impact_index": 4.33,
+  "feasibility_index": 3.8,
+  "score": 16.45,
+  "rank": 1,
+  "top5": true,
+  "is_top1": true,
+  "design": {
+   "why_it_matters": "Fertilizer is the single most important commercial input. Prices rose 23% (2023-2025) and another 28-49% in 2026, profits fell 40%, and conflict has eroded fertilizer use efficiency every year since 2021. A better rate decision touches nearly every rice farmer, every season.",
+   "research_question": "What nitrogen rate (and split) maximizes expected profit per acre for monsoon rice by agro-ecological zone and establishment method at current urea:paddy price ratios, and does delivering this advice raise farmer profit?",
+   "hypothesis": "H1: Yield response to N differs by zone, establishment method and conflict exposure, so a single national recommendation is mis-specified. H2: Price-aware advice raises profit per acre by reducing N where marginal returns are below cost and increasing it where they exceed cost.",
+   "target": "Monsoon rice farmers in Delta, Dry Zone and Coastal zones (MAPS sample covers all states/regions)",
+   "required_data": [
+    "Plot N, P, K quantities and timing",
+    "Plot yield (largest plot) and area",
+    "Urea and paddy prices",
+    "Establishment method",
+    "Seed source",
+    "Shocks (flood, drought, pests)",
+    "Township; conflict events",
+    "Rainfall"
+   ],
+   "available_data": [
+    "D04 MAPS rounds 1-8 (inputs, yields, prices, establishment, shocks)",
+    "D13 CHIRPS rainfall",
+    "D18 ACLED",
+    "D17 SoilGrids (coarse)",
+    "D06 retail rice prices (no Delta coverage)"
+   ],
+   "missing_data": [
+    "Fertilizer timing detail may be limited in MAPS (verify questionnaire)",
+    "Field-measured yields (crop cuts) for validation",
+    "Soil N supply"
+   ],
+   "collection_plan": [
+    {
+     "variable": "Crop-cut yield (t/ha at 14% moisture)",
+     "unit": "t/ha",
+     "frequency": "Once per season",
+     "sampling": "Stratified random subsample of advisory users (e.g., 3 townships x 30 farmers)",
+     "level": "Plot",
+     "qc": "Standard 2.5x2.5 m crop cuts, moisture meter",
+     "validation": "Compare with self-reported baskets/acre",
+     "bias": "Selection of cooperative farmers",
+     "missing_risk": "Medium (security)"
+    },
+    {
+     "variable": "N applied per split and date",
+     "unit": "kg N/acre; date",
+     "frequency": "Each application",
+     "sampling": "All pilot users via app form",
+     "level": "Plot",
+     "qc": "Bag counts x nutrient content",
+     "validation": "Retailer purchase records",
+     "bias": "Recall",
+     "missing_risk": "Low-Medium"
+    },
+    {
+     "variable": "Urea and paddy price",
+     "unit": "MMK/bag; MMK/basket",
+     "frequency": "Monthly",
+     "sampling": "App users + input retailers",
+     "level": "Township",
+     "qc": "Outlier checks vs D06/D35",
+     "validation": "Cross-source",
+     "bias": "Urban skew",
+     "missing_risk": "Low"
+    }
+   ],
+   "dependent": "Yield (t/ha; converted from baskets/acre using the paddy basket weight documented by MAPS) and profit per acre",
+   "independent": [
+    "N rate (kg/ha) and its square",
+    "Urea:paddy price ratio",
+    "Establishment method",
+    "Zone"
+   ],
+   "confounders": [
+    "Farmer skill/fixed effects",
+    "Soil quality",
+    "Irrigation",
+    "Seed source",
+    "Weather shocks",
+    "Conflict exposure",
+    "Mechanization access"
+   ],
+   "baseline": "Descriptive N-yield curves by zone; pooled OLS quadratic response; economic optimum = where marginal product x paddy price = urea price",
+   "advanced": "Panel fixed effects / correlated random effects with control function for N endogeneity (as in S269); justified because N is chosen by farmers. ML (e.g., causal forests) only if heterogeneity remains unexplained.",
+   "validation": "Leave-one-round-out prediction of yields; comparison with agronomic benchmarks (S090, S114); then a randomized A/B test of advice variants inside the advisory app (outcome: crop-cut yield, N use, profit).",
+   "causal_note": "Observational response curves are associations (better farmers apply more N). The A/B test provides causal evidence on the advice itself.",
+   "output": "Seasonal lookup table (zone x establishment x price ratio → N band and timing) + open notebook + 4-page brief",
+   "intervention": "Deliver as SMS/app advisory through an existing digital climate-advisory provider (I04) and DoA extension",
+   "decision": "Farmer's N rate and timing each season",
+   "end_user": "Rice farmers; advisory providers; DoA extension",
+   "impact_measurement": "Change in profit per acre, N use efficiency (kg grain/kg N) and adoption rate among advised vs control users",
+   "limitations": [
+    "MAPS yields are self-reported for the largest plot",
+    "Soil N supply unobserved",
+    "Advice cannot fix fertilizer availability in cut-off areas (Rakhine)"
+   ],
+   "risks": [
+    "Partner access",
+    "Security for crop cuts",
+    "Price volatility within season"
+   ]
+  }
+ },
+ {
+  "project_id": "PR04",
+  "title": "Crop-establishment decision model: broadcast vs row-seeding vs transplanting under labour and water constraints",
+  "problem_ids": [
+   "P18",
+   "P03",
+   "P12",
+   "P01"
+  ],
+  "dataset_ids": [
+   "D04",
+   "D13",
+   "D19"
+  ],
+  "methods": [
+   "Panel regression",
+   "Partial budgeting",
+   "Optimization"
+  ],
+  "user": "Farmers, service providers, advisory platforms",
+  "decision": "Which establishment method maximizes expected profit given wage, seed, water and service availability",
+  "required_information": "Yield and cost by method, zone and season; wage and fee levels",
+  "analysis": "Endogenous-switching or matching estimates of method yield/profit gaps; break-even wage thresholds; service-demand map",
+  "action": "Advise method by zone; identify where row-seeding services pay off",
+  "expected_outcome": "Recover part of perceived broadcast yield penalty while saving labour",
+  "scores": {
+   "importance": 4,
+   "farmers_affected": 5,
+   "economic_impact": 4,
+   "yield_impact": 4,
+   "labor_time_saving": 5,
+   "data_availability": 4,
+   "data_reliability": 3,
+   "technical_feasibility": 4,
+   "validation_feasibility": 3,
+   "implementation_feasibility": 3,
+   "novelty": 4,
+   "scalability": 4
+  },
+  "score_notes": {
+   "importance": "DSR used by 50-75% of farmers (S301)",
+   "implementation_feasibility": "Requires seeder service providers"
+  },
+  "gap_ids": [
+   "G07"
+  ],
+  "intervention_ids": [
+   "I01",
+   "I02"
+  ],
+  "benchmark_ids": [
+   "B03"
+  ],
+  "pathway": "Advisory content + service-provider business case",
+  "key_risk": "Method choice is endogenous (selection bias)",
+  "record_type": "Project",
+  "id": "PR04",
+  "impact_index": 4.33,
+  "feasibility_index": 3.4,
+  "score": 14.72,
+  "rank": 2,
+  "top5": true,
+  "is_top1": false,
+  "design": {
+   "why_it_matters": "Half of monsoon farmers and three-quarters of dry-season farmers now broadcast seed because labour and water are scarce; farmers believe this costs ~11 baskets/acre and 2025 yields fell as broadcasting rose.",
+   "research_question": "Under which wage, water and service conditions does broadcasting, mechanized row/drum seeding or transplanting maximize profit?",
+   "hypothesis": "Broadcast DSR is profit-maximizing only above a wage threshold; precision seeding dominates where services exist.",
+   "target": "Monsoon and dry-season rice farmers nationally",
+   "required_data": [
+    "Establishment method",
+    "Yields",
+    "Wages",
+    "Seed rate",
+    "Weed control cost",
+    "Irrigation"
+   ],
+   "available_data": [
+    "D04 MAPS"
+   ],
+   "missing_data": [
+    "Row/drum seeder availability",
+    "Measured yield by method"
+   ],
+   "collection_plan": [
+    {
+     "variable": "Seeder service availability and price",
+     "unit": "MMK/acre",
+     "frequency": "Seasonal",
+     "sampling": "Service-provider census in pilot townships",
+     "level": "Township",
+     "qc": "Cross-check with farmers",
+     "validation": "MAPS fees",
+     "bias": "Coverage",
+     "missing_risk": "Medium"
+    }
+   ],
+   "dependent": "Profit per acre; yield",
+   "independent": [
+    "Establishment method",
+    "Wage rate",
+    "Irrigation"
+   ],
+   "confounders": [
+    "Farm size",
+    "Land type",
+    "Skill",
+    "Flood exposure"
+   ],
+   "baseline": "Partial budgets by method and zone",
+   "advanced": "Endogenous switching regression or matching to address self-selection",
+   "validation": "Out-of-sample by round; field demonstration plots",
+   "causal_note": "Method choice is self-selected; estimates are conditional associations unless trials are run.",
+   "output": "Break-even wage maps and advisory rules",
+   "intervention": "Promote row/drum seeding services via existing outsourcing providers (I01)",
+   "decision": "Farmer's establishment method; provider investment in seeders",
+   "end_user": "Farmers; machinery service providers",
+   "impact_measurement": "Yield and profit vs broadcasting neighbours",
+   "limitations": [
+    "Perceived vs measured yield gap"
+   ],
+   "risks": [
+    "Seeder supply"
+   ]
+  }
+ },
+ {
+  "project_id": "PR03",
+  "title": "Township flood-loss early estimate for Delta monsoon rice",
+  "problem_ids": [
+   "P05",
+   "P16"
+  ],
+  "dataset_ids": [
+   "D09",
+   "D16",
+   "D13",
+   "D15",
+   "D04",
+   "D19",
+   "D07"
+  ],
+  "methods": [
+   "Remote sensing",
+   "GIS",
+   "Regression calibration"
+  ],
+  "user": "Humanitarian/agricultural agencies, seed suppliers, insurers",
+  "decision": "Which townships need replanting seed, relief or loss verification after a flood",
+  "required_information": "Flood extent x rice area x crop stage; calibrated loss rates",
+  "analysis": "Sentinel-1 flood mapping intersected with rice masks and crop calendars; loss model calibrated on MAPS township flood-shock yields",
+  "action": "Target seed/relief within weeks",
+  "expected_outcome": "Faster, better-targeted recovery",
+  "scores": {
+   "importance": 4,
+   "farmers_affected": 4,
+   "economic_impact": 4,
+   "yield_impact": 4,
+   "labor_time_saving": 1,
+   "data_availability": 5,
+   "data_reliability": 4,
+   "technical_feasibility": 4,
+   "validation_feasibility": 3,
+   "implementation_feasibility": 3,
+   "novelty": 3,
+   "scalability": 4
+  },
+  "score_notes": {
+   "validation_feasibility": "MAPS flood shocks are self-reported and coarse",
+   "data_availability": "All core inputs open"
+  },
+  "gap_ids": [
+   "G03",
+   "G04"
+  ],
+  "intervention_ids": [
+   "I22",
+   "I06"
+  ],
+  "benchmark_ids": [
+   "B07",
+   "B11"
+  ],
+  "pathway": "Share maps with clusters/agencies each monsoon",
+  "key_risk": "Ground truth limited; cloud-free optical unavailable in monsoon (use SAR)",
+  "record_type": "Project",
+  "id": "PR03",
+  "impact_index": 3.5,
+  "feasibility_index": 3.8,
+  "score": 13.3,
+  "rank": 3,
+  "top5": true,
+  "is_top1": false,
+  "design": {
+   "why_it_matters": "Floods and heavy rain hit 7-15% of farmers per monsoon with 15-34% yield losses, yet no township-level loss estimate exists in season.",
+   "research_question": "Can Sentinel-1 flood extent intersected with rice area predict township-level yield losses reported by farmers?",
+   "hypothesis": "Flood duration over rice area explains a substantial share of township variation in reported flood losses.",
+   "target": "Delta and coastal townships",
+   "required_data": [
+    "Flood extent and duration",
+    "Rice mask and crop stage",
+    "Reported shocks and yields"
+   ],
+   "available_data": [
+    "D09",
+    "D16",
+    "D07",
+    "D04",
+    "D19"
+   ],
+   "missing_data": [
+    "Ground observations of flood damage"
+   ],
+   "collection_plan": [
+    {
+     "variable": "Flooded rice field observations",
+     "unit": "Presence/duration",
+     "frequency": "Event-based",
+     "sampling": "Partner field staff",
+     "level": "Village tract",
+     "qc": "Geotagged photos",
+     "validation": "SAR maps",
+     "bias": "Accessibility",
+     "missing_risk": "High"
+    }
+   ],
+   "dependent": "Share of farmers reporting flood loss; yield loss",
+   "independent": [
+    "Flood duration over rice",
+    "Crop stage at flooding"
+   ],
+   "confounders": [
+    "Drainage",
+    "Variety"
+   ],
+   "baseline": "Overlay statistics and correlation",
+   "advanced": "Hierarchical regression",
+   "validation": "Hold-out seasons (2023, 2025 MAPS)",
+   "causal_note": "Predictive, not causal.",
+   "output": "Seasonal loss maps",
+   "intervention": "Targeted seed and relief",
+   "decision": "Allocation of recovery support",
+   "end_user": "Agencies",
+   "impact_measurement": "Time to assistance; coverage of affected",
+   "limitations": [
+    "Coarse validation"
+   ],
+   "risks": [
+    "Data sharing"
+   ]
+  }
+ },
+ {
+  "project_id": "PR14",
+  "title": "Randomized evaluation of digital climate advisories for rice",
+  "problem_ids": [
+   "P14",
+   "P05"
+  ],
+  "dataset_ids": [
+   "D04"
+  ],
+  "methods": [
+   "Randomized / causal design"
+  ],
+  "user": "Advisory providers, donors",
+  "decision": "Whether to scale/redesign DCAS",
+  "required_information": "Causal effect on yields and income",
+  "analysis": "Randomized rollout or staggered DiD with provider",
+  "action": "Scale what works",
+  "expected_outcome": "Credible impact evidence",
+  "scores": {
+   "importance": 4,
+   "farmers_affected": 4,
+   "economic_impact": 3,
+   "yield_impact": 3,
+   "labor_time_saving": 1,
+   "data_availability": 2,
+   "data_reliability": 4,
+   "technical_feasibility": 4,
+   "validation_feasibility": 5,
+   "implementation_feasibility": 3,
+   "novelty": 4,
+   "scalability": 4
+  },
+  "score_notes": {
+   "data_availability": "Requires partner data collection"
+  },
+  "gap_ids": [
+   "G11"
+  ],
+  "intervention_ids": [
+   "I04"
+  ],
+  "benchmark_ids": [],
+  "pathway": "Provider partnership",
+  "key_risk": "Needs provider buy-in",
+  "record_type": "Project",
+  "id": "PR14",
+  "impact_index": 3.17,
+  "feasibility_index": 3.6,
+  "score": 11.41,
+  "rank": 4,
+  "top5": true,
+  "is_top1": false,
+  "design": {
+   "why_it_matters": "Digital advisories are the only scaled channel (139,000 farmers) but evidence is non-random.",
+   "research_question": "What is the causal effect of DCAS on rice yields, input use and income?",
+   "hypothesis": "DCAS raises yields modestly (well below the reported 20%).",
+   "target": "Ayeyarwady rice farmers",
+   "required_data": [
+    "Exposure",
+    "Yields",
+    "Inputs"
+   ],
+   "available_data": [
+    "Provider data (not public)"
+   ],
+   "missing_data": [
+    "Randomized assignment"
+   ],
+   "collection_plan": [],
+   "dependent": "Yield; profit",
+   "independent": [
+    "Treatment assignment"
+   ],
+   "confounders": [
+    "Handled by randomization"
+   ],
+   "baseline": "Difference in means",
+   "advanced": "Staggered DiD if rollout not randomizable",
+   "validation": "Pre-registration",
+   "causal_note": "Causal by design.",
+   "output": "Impact estimate",
+   "intervention": "Scale/redesign advisories",
+   "decision": "Provider/donor scaling",
+   "end_user": "Provider, donors",
+   "impact_measurement": "Yield, income",
+   "limitations": [
+    "Partner dependence"
+   ],
+   "risks": [
+    "Contamination"
+   ]
+  }
+ },
+ {
+  "project_id": "PR02",
+  "title": "Monthly rice profitability (cost-price squeeze) nowcast between survey rounds",
+  "problem_ids": [
+   "P02",
+   "P15",
+   "P13"
+  ],
+  "dataset_ids": [
+   "D04",
+   "D06",
+   "D35",
+   "D36",
+   "D24"
+  ],
+  "methods": [
+   "Index construction",
+   "Time series nowcasting"
+  ],
+  "user": "Policy analysts, donors, farmer organisations",
+  "decision": "When and where to deploy input or cash support before planting",
+  "required_information": "Input price, wage, fee and paddy price trajectories by region",
+  "analysis": "Seasonal farm budgets from MAPS rolled forward with monthly price indices; nowcast real profit per acre",
+  "action": "Time support before planting in regions with negative margins",
+  "expected_outcome": "Earlier, better-targeted support",
+  "scores": {
+   "importance": 4,
+   "farmers_affected": 4,
+   "economic_impact": 4,
+   "yield_impact": 2,
+   "labor_time_saving": 1,
+   "data_availability": 4,
+   "data_reliability": 3,
+   "technical_feasibility": 5,
+   "validation_feasibility": 3,
+   "implementation_feasibility": 3,
+   "novelty": 3,
+   "scalability": 3
+  },
+  "score_notes": {
+   "novelty": "IFPRI already publishes seasonal assessments - incremental",
+   "data_reliability": "Retail prices lack Ayeyarwady/Bago coverage (D06)"
+  },
+  "gap_ids": [
+   "G06",
+   "G10"
+  ],
+  "intervention_ids": [],
+  "benchmark_ids": [],
+  "pathway": "Monthly brief to donor coordination groups",
+  "key_risk": "Price data gaps in main rice regions",
+  "record_type": "Project",
+  "id": "PR02",
+  "impact_index": 3.0,
+  "feasibility_index": 3.6,
+  "score": 10.8,
+  "rank": 5,
+  "top5": true,
+  "is_top1": false,
+  "design": {
+   "why_it_matters": "Profitability swings (+41% to -40%) drive input use; support is timed after the fact.",
+   "research_question": "Can monthly prices nowcast seasonal real profit per acre by region?",
+   "hypothesis": "Price indices explain most variation in survey-based margins.",
+   "target": "Regions",
+   "required_data": [
+    "Seasonal budgets",
+    "Monthly prices"
+   ],
+   "available_data": [
+    "D04",
+    "D06",
+    "D35",
+    "D36"
+   ],
+   "missing_data": [
+    "Delta price coverage"
+   ],
+   "collection_plan": [],
+   "dependent": "Real profit per acre",
+   "independent": [
+    "Input and output price indices"
+   ],
+   "confounders": [
+    "Yield shocks"
+   ],
+   "baseline": "Budget roll-forward",
+   "advanced": "Bayesian structural time series",
+   "validation": "Back-test against MAPS rounds",
+   "causal_note": "Predictive.",
+   "output": "Monthly dashboard",
+   "intervention": "Timed support",
+   "decision": "Timing/targeting of support",
+   "end_user": "Donors",
+   "impact_measurement": "Lead time",
+   "limitations": [
+    "Coverage gaps"
+   ],
+   "risks": [
+    "Low novelty"
+   ]
+  }
+ },
+ {
+  "project_id": "PR05",
+  "title": "Post-2020 township rice area and cropping-intensity maps (Sentinel-1)",
+  "problem_ids": [
+   "P16",
+   "P01",
+   "P05"
+  ],
+  "dataset_ids": [
+   "D09",
+   "D10",
+   "D08",
+   "D07",
+   "D19"
+  ],
+  "methods": [
+   "Remote sensing",
+   "Machine learning classification"
+  ],
+  "user": "Food-security analysts (FAO, WFP, IFPRI)",
+  "decision": "Production estimates and targeting where official data are missing",
+  "required_information": "Seasonal rice area by township",
+  "analysis": "Replicate S060/S254 methods annually; validate against MAPS-reported planted area",
+  "action": "Use maps in seasonal production assessments",
+  "expected_outcome": "Better production estimates",
+  "scores": {
+   "importance": 4,
+   "farmers_affected": 3,
+   "economic_impact": 3,
+   "yield_impact": 2,
+   "labor_time_saving": 1,
+   "data_availability": 5,
+   "data_reliability": 4,
+   "technical_feasibility": 3,
+   "validation_feasibility": 3,
+   "implementation_feasibility": 3,
+   "novelty": 3,
+   "scalability": 4
+  },
+  "score_notes": {
+   "technical_feasibility": "Requires Earth Engine skills and SAR processing"
+  },
+  "gap_ids": [
+   "G04"
+  ],
+  "intervention_ids": [
+   "I23"
+  ],
+  "benchmark_ids": [],
+  "pathway": "Open maps on HDX",
+  "key_risk": "Validation data scarce",
+  "record_type": "Project",
+  "id": "PR05",
+  "impact_index": 2.83,
+  "feasibility_index": 3.6,
+  "score": 10.19,
+  "rank": 6,
+  "top5": false,
+  "is_top1": false
+ },
+ {
+  "project_id": "PR11",
+  "title": "Dry Zone drought early warning linked to rice yields",
+  "problem_ids": [
+   "P06"
+  ],
+  "dataset_ids": [
+   "D13",
+   "D12",
+   "D14",
+   "D04"
+  ],
+  "methods": [
+   "Time series",
+   "Remote sensing"
+  ],
+  "user": "DoA, NGOs",
+  "decision": "Seasonal drought preparedness",
+  "required_information": "SPI/NDVI anomalies and yield losses",
+  "analysis": "Calibrate drought indices to MAPS yields",
+  "action": "Early warning",
+  "expected_outcome": "Reduced losses",
+  "scores": {
+   "importance": 3,
+   "farmers_affected": 3,
+   "economic_impact": 3,
+   "yield_impact": 3,
+   "labor_time_saving": 1,
+   "data_availability": 5,
+   "data_reliability": 4,
+   "technical_feasibility": 4,
+   "validation_feasibility": 3,
+   "implementation_feasibility": 3,
+   "novelty": 2,
+   "scalability": 3
+  },
+  "score_notes": {
+   "novelty": "Several drought index studies exist (S072,S231,S290)"
+  },
+  "gap_ids": [
+   "G03"
+  ],
+  "intervention_ids": [
+   "I20"
+  ],
+  "benchmark_ids": [],
+  "pathway": "Bulletins",
+  "key_risk": "Low novelty",
+  "record_type": "Project",
+  "id": "PR11",
+  "impact_index": 2.67,
+  "feasibility_index": 3.8,
+  "score": 10.15,
+  "rank": 7,
+  "top5": false,
+  "is_top1": false
+ },
+ {
+  "project_id": "PR06",
+  "title": "Mechanization service access and fee mapping",
+  "problem_ids": [
+   "P12",
+   "P03",
+   "P08"
+  ],
+  "dataset_ids": [
+   "D04",
+   "D18",
+   "D22",
+   "D32"
+  ],
+  "methods": [
+   "GIS",
+   "Regression"
+  ],
+  "user": "Service providers, donors",
+  "decision": "Where to place or support combine/tractor services",
+  "required_information": "Service availability, fees, fuel prices, conflict",
+  "analysis": "Spatial model of fees and access vs conflict and road access",
+  "action": "Target service support",
+  "expected_outcome": "Lower fees, timelier operations",
+  "scores": {
+   "importance": 3,
+   "farmers_affected": 4,
+   "economic_impact": 3,
+   "yield_impact": 2,
+   "labor_time_saving": 4,
+   "data_availability": 4,
+   "data_reliability": 3,
+   "technical_feasibility": 4,
+   "validation_feasibility": 3,
+   "implementation_feasibility": 2,
+   "novelty": 3,
+   "scalability": 3
+  },
+  "score_notes": {
+   "implementation_feasibility": "No clear decision owner"
+  },
+  "gap_ids": [
+   "G12"
+  ],
+  "intervention_ids": [
+   "I01"
+  ],
+  "benchmark_ids": [
+   "B04",
+   "B06"
+  ],
+  "pathway": "Brief for private sector",
+  "key_risk": "Decision owner unclear",
+  "record_type": "Project",
+  "id": "PR06",
+  "impact_index": 3.17,
+  "feasibility_index": 3.2,
+  "score": 10.14,
+  "rank": 8,
+  "top5": false,
+  "is_top1": false
+ },
+ {
+  "project_id": "PR13",
+  "title": "Export-wholesale-farmgate price transmission monitor under FX regime",
+  "problem_ids": [
+   "P15",
+   "P02"
+  ],
+  "dataset_ids": [
+   "D06",
+   "D24",
+   "D35",
+   "D36",
+   "D04"
+  ],
+  "methods": [
+   "Time series"
+  ],
+  "user": "Policy analysts",
+  "decision": "Advocacy on FX/export policy",
+  "required_information": "Price series at three levels",
+  "analysis": "VECM/threshold cointegration",
+  "action": "Policy briefs",
+  "expected_outcome": "Better incentives (indirect)",
+  "scores": {
+   "importance": 4,
+   "farmers_affected": 4,
+   "economic_impact": 4,
+   "yield_impact": 1,
+   "labor_time_saving": 1,
+   "data_availability": 4,
+   "data_reliability": 3,
+   "technical_feasibility": 4,
+   "validation_feasibility": 4,
+   "implementation_feasibility": 2,
+   "novelty": 2,
+   "scalability": 3
+  },
+  "score_notes": {
+   "implementation_feasibility": "Policy change outside analyst control"
+  },
+  "gap_ids": [
+   "G10"
+  ],
+  "intervention_ids": [],
+  "benchmark_ids": [],
+  "pathway": "Policy briefs",
+  "key_risk": "Decision change uncertain",
+  "record_type": "Project",
+  "id": "PR13",
+  "impact_index": 2.83,
+  "feasibility_index": 3.4,
+  "score": 9.62,
+  "rank": 9,
+  "top5": false,
+  "is_top1": false
+ },
+ {
+  "project_id": "PR15",
+  "title": "Conflict-aware targeting index for input and advisory support",
+  "problem_ids": [
+   "P08",
+   "P04"
+  ],
+  "dataset_ids": [
+   "D04",
+   "D18",
+   "D19"
+  ],
+  "methods": [
+   "Composite index",
+   "Spatial econometrics"
+  ],
+  "user": "Donors, NGOs",
+  "decision": "Where support is most needed",
+  "required_information": "Conflict exposure, input access, productivity losses",
+  "analysis": "Composite index validated on MAPS outcomes",
+  "action": "Target support",
+  "expected_outcome": "Better targeting",
+  "scores": {
+   "importance": 4,
+   "farmers_affected": 4,
+   "economic_impact": 3,
+   "yield_impact": 3,
+   "labor_time_saving": 1,
+   "data_availability": 4,
+   "data_reliability": 3,
+   "technical_feasibility": 4,
+   "validation_feasibility": 3,
+   "implementation_feasibility": 2,
+   "novelty": 3,
+   "scalability": 3
+  },
+  "score_notes": {
+   "implementation_feasibility": "Politically sensitive"
+  },
+  "gap_ids": [
+   "G04"
+  ],
+  "intervention_ids": [],
+  "benchmark_ids": [],
+  "pathway": "Donor coordination",
+  "key_risk": "Sensitivity of conflict data",
+  "record_type": "Project",
+  "id": "PR15",
+  "impact_index": 3.0,
+  "feasibility_index": 3.2,
+  "score": 9.6,
+  "rank": 10,
+  "top5": false,
+  "is_top1": false
+ },
+ {
+  "project_id": "PR16",
+  "title": "Township wage and labour-scarcity nowcast",
+  "problem_ids": [
+   "P03"
+  ],
+  "dataset_ids": [
+   "D04",
+   "D05",
+   "D30"
+  ],
+  "methods": [
+   "Small-area estimation"
+  ],
+  "user": "Service providers, planners",
+  "decision": "Where labour-saving services are needed",
+  "required_information": "Wages, migration",
+  "analysis": "Small-area estimation from MAPS/MHWS",
+  "action": "Target services",
+  "expected_outcome": "Labour savings",
+  "scores": {
+   "importance": 3,
+   "farmers_affected": 4,
+   "economic_impact": 3,
+   "yield_impact": 2,
+   "labor_time_saving": 3,
+   "data_availability": 4,
+   "data_reliability": 3,
+   "technical_feasibility": 4,
+   "validation_feasibility": 3,
+   "implementation_feasibility": 2,
+   "novelty": 3,
+   "scalability": 3
+  },
+  "score_notes": {},
+  "gap_ids": [
+   "G07"
+  ],
+  "intervention_ids": [
+   "I01"
+  ],
+  "benchmark_ids": [],
+  "pathway": "Service providers",
+  "key_risk": "Decision owner unclear",
+  "record_type": "Project",
+  "id": "PR16",
+  "impact_index": 3.0,
+  "feasibility_index": 3.2,
+  "score": 9.6,
+  "rank": 11,
+  "top5": false,
+  "is_top1": false
+ },
+ {
+  "project_id": "PR07",
+  "title": "Quality-seed access gap mapping and seed-multiplication siting",
+  "problem_ids": [
+   "P09"
+  ],
+  "dataset_ids": [
+   "D04",
+   "D19",
+   "D18"
+  ],
+  "methods": [
+   "GIS",
+   "Regression"
+  ],
+  "user": "Seed companies, DoA seed division",
+  "decision": "Where to locate seed multiplication/distribution",
+  "required_information": "Off-farm seed use, shocks, seed farm locations",
+  "analysis": "Map seed-use declines vs seed farm proximity",
+  "action": "Site seed outlets",
+  "expected_outcome": "Higher off-farm seed use",
+  "scores": {
+   "importance": 3,
+   "farmers_affected": 4,
+   "economic_impact": 3,
+   "yield_impact": 3,
+   "labor_time_saving": 1,
+   "data_availability": 3,
+   "data_reliability": 3,
+   "technical_feasibility": 4,
+   "validation_feasibility": 3,
+   "implementation_feasibility": 3,
+   "novelty": 3,
+   "scalability": 3
+  },
+  "score_notes": {
+   "data_availability": "Seed farm locations not public"
+  },
+  "gap_ids": [
+   "G05"
+  ],
+  "intervention_ids": [
+   "I15"
+  ],
+  "benchmark_ids": [],
+  "pathway": "Seed sector partners",
+  "key_risk": "Location data access",
+  "record_type": "Project",
+  "id": "PR07",
+  "impact_index": 2.83,
+  "feasibility_index": 3.2,
+  "score": 9.06,
+  "rank": 12,
+  "top5": false,
+  "is_top1": false
+ },
+ {
+  "project_id": "PR10",
+  "title": "Index-insurance basis-risk analysis for coastal rice",
+  "problem_ids": [
+   "P05",
+   "P13"
+  ],
+  "dataset_ids": [
+   "D13",
+   "D09",
+   "D04",
+   "D21"
+  ],
+  "methods": [
+   "Risk modeling"
+  ],
+  "user": "Insurers, MFIs",
+  "decision": "Whether an index contract is viable",
+  "required_information": "Index vs observed losses",
+  "analysis": "Correlate rainfall/SAR indices with MAPS losses",
+  "action": "Contract design",
+  "expected_outcome": "Lower basis risk",
+  "scores": {
+   "importance": 3,
+   "farmers_affected": 3,
+   "economic_impact": 3,
+   "yield_impact": 1,
+   "labor_time_saving": 1,
+   "data_availability": 4,
+   "data_reliability": 3,
+   "technical_feasibility": 3,
+   "validation_feasibility": 3,
+   "implementation_feasibility": 1,
+   "novelty": 3,
+   "scalability": 3
+  },
+  "score_notes": {
+   "implementation_feasibility": "Formal finance contracted after 2021 (S286)"
+  },
+  "gap_ids": [
+   "G03"
+  ],
+  "intervention_ids": [
+   "I06"
+  ],
+  "benchmark_ids": [
+   "B11"
+  ],
+  "pathway": "Insurers",
+  "key_risk": "No viable insurer now",
+  "record_type": "Project",
+  "id": "PR10",
+  "impact_index": 2.33,
+  "feasibility_index": 2.8,
+  "score": 6.52,
+  "rank": 13,
+  "top5": false,
+  "is_top1": false
+ },
+ {
+  "project_id": "PR09",
+  "title": "Satellite + ML township yield estimation",
+  "problem_ids": [
+   "P16",
+   "P01"
+  ],
+  "dataset_ids": [
+   "D09",
+   "D12",
+   "D04",
+   "D29"
+  ],
+  "methods": [
+   "Machine learning",
+   "Remote sensing"
+  ],
+  "user": "Analysts",
+  "decision": "Production estimates",
+  "required_information": "Township yields",
+  "analysis": "ML on SAR/optical features trained on MAPS yields",
+  "action": "Use in assessments",
+  "expected_outcome": "Better estimates",
+  "scores": {
+   "importance": 3,
+   "farmers_affected": 3,
+   "economic_impact": 2,
+   "yield_impact": 2,
+   "labor_time_saving": 1,
+   "data_availability": 4,
+   "data_reliability": 2,
+   "technical_feasibility": 3,
+   "validation_feasibility": 2,
+   "implementation_feasibility": 2,
+   "novelty": 3,
+   "scalability": 4
+  },
+  "score_notes": {
+   "validation_feasibility": "Few reliable reference yields (S251)"
+  },
+  "gap_ids": [
+   "G04"
+  ],
+  "intervention_ids": [
+   "I23"
+  ],
+  "benchmark_ids": [],
+  "pathway": "Research",
+  "key_risk": "Weak ground truth - downgraded per high-impact rule",
+  "record_type": "Project",
+  "id": "PR09",
+  "impact_index": 2.5,
+  "feasibility_index": 2.6,
+  "score": 6.5,
+  "rank": 14,
+  "top5": false,
+  "is_top1": false
+ },
+ {
+  "project_id": "PR12",
+  "title": "Dryer and mill location-allocation for post-harvest loss reduction",
+  "problem_ids": [
+   "P11"
+  ],
+  "dataset_ids": [
+   "D32",
+   "D07",
+   "D22"
+  ],
+  "methods": [
+   "Optimization / OR",
+   "GIS"
+  ],
+  "user": "Millers",
+  "decision": "Where to invest in drying capacity",
+  "required_information": "Paddy flows, wet-season harvest, mill locations",
+  "analysis": "p-median location model",
+  "action": "Invest in dryers",
+  "expected_outcome": "Lower losses",
+  "scores": {
+   "importance": 3,
+   "farmers_affected": 3,
+   "economic_impact": 3,
+   "yield_impact": 2,
+   "labor_time_saving": 3,
+   "data_availability": 2,
+   "data_reliability": 2,
+   "technical_feasibility": 4,
+   "validation_feasibility": 2,
+   "implementation_feasibility": 2,
+   "novelty": 3,
+   "scalability": 2
+  },
+  "score_notes": {
+   "data_availability": "Mill locations and loss data not public"
+  },
+  "gap_ids": [
+   "G01"
+  ],
+  "intervention_ids": [
+   "I10"
+  ],
+  "benchmark_ids": [
+   "B12"
+  ],
+  "pathway": "Miller associations",
+  "key_risk": "Data access",
+  "record_type": "Project",
+  "id": "PR12",
+  "impact_index": 2.67,
+  "feasibility_index": 2.4,
+  "score": 6.41,
+  "rank": 15,
+  "top5": false,
+  "is_top1": false
+ },
+ {
+  "project_id": "PR08",
+  "title": "Coastal salinity monitoring and summer-rice planting window advisory",
+  "problem_ids": [
+   "P07"
+  ],
+  "dataset_ids": [
+   "D10",
+   "D19"
+  ],
+  "methods": [
+   "Remote sensing",
+   "Field data collection"
+  ],
+  "user": "Coastal farmers, DoA",
+  "decision": "When/where dry-season rice can be irrigated safely",
+  "required_information": "River EC by location and date",
+  "analysis": "Operationalise Sentinel-2 EC model (S155) with new EC measurements",
+  "action": "Planting advisory",
+  "expected_outcome": "Avoid salinity crop failure",
+  "scores": {
+   "importance": 3,
+   "farmers_affected": 2,
+   "economic_impact": 3,
+   "yield_impact": 3,
+   "labor_time_saving": 1,
+   "data_availability": 3,
+   "data_reliability": 2,
+   "technical_feasibility": 3,
+   "validation_feasibility": 2,
+   "implementation_feasibility": 3,
+   "novelty": 4,
+   "scalability": 2
+  },
+  "score_notes": {
+   "data_reliability": "Needs in-situ EC collection"
+  },
+  "gap_ids": [
+   "G09"
+  ],
+  "intervention_ids": [],
+  "benchmark_ids": [],
+  "pathway": "DoA coastal offices",
+  "key_risk": "Field access",
+  "record_type": "Project",
+  "id": "PR08",
+  "impact_index": 2.33,
+  "feasibility_index": 2.6,
+  "score": 6.06,
+  "rank": 16,
+  "top5": false,
+  "is_top1": false
+ },
+ {
+  "project_id": "PR17",
+  "title": "Smartphone image-based pest and disease detection app",
+  "problem_ids": [
+   "P17"
+  ],
+  "dataset_ids": [
+   "D04"
+  ],
+  "methods": [
+   "Machine learning / AI"
+  ],
+  "user": "Farmers",
+  "decision": "Which pest control to apply",
+  "required_information": "Labelled field images",
+  "analysis": "CNN classifier",
+  "action": "Treatment advice",
+  "expected_outcome": "Lower losses (uncertain)",
+  "scores": {
+   "importance": 3,
+   "farmers_affected": 3,
+   "economic_impact": 2,
+   "yield_impact": 2,
+   "labor_time_saving": 1,
+   "data_availability": 1,
+   "data_reliability": 2,
+   "technical_feasibility": 3,
+   "validation_feasibility": 2,
+   "implementation_feasibility": 2,
+   "novelty": 2,
+   "scalability": 3
+  },
+  "score_notes": {
+   "data_availability": "No labelled Myanmar field image dataset found",
+   "note": "Technically impressive but no credible path - downgraded (Section 46 rule)"
+  },
+  "gap_ids": [
+   "G01"
+  ],
+  "intervention_ids": [],
+  "benchmark_ids": [],
+  "pathway": "App",
+  "key_risk": "No training data; connectivity",
+  "record_type": "Project",
+  "id": "PR17",
+  "impact_index": 2.33,
+  "feasibility_index": 2.0,
+  "score": 4.66,
+  "rank": 17,
+  "top5": false,
+  "is_top1": false
+ }
+]

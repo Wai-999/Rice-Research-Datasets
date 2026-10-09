@@ -1,0 +1,419 @@
+[
+ {
+  "benchmark_id": "B01",
+  "country": "China",
+  "problem_ids": [
+   "P04",
+   "P01"
+  ],
+  "intervention": "Integrated soil-crop system management delivered through a national researcher-extension network",
+  "year": "2005-2015",
+  "mechanism": "13,000+ field trials → locally specific recommendations → 1,152 researchers working with extension and agribusiness",
+  "cost": "Not reported (benefit US$12.2 bn)",
+  "adoption": "20.9 million farmers, 37.7 million ha (cumulative)",
+  "impact": [
+   "Rice, wheat, maize yields +10.8-11.5%",
+   "N fertilizer -14.7-18.1% (1.2 Mt saved)",
+   "Rice GHG intensity 941 → 812 kg CO2e/Mg"
+  ],
+  "why": "Dense trial network and decision-support translated into simple local recommendations; strong public extension.",
+  "conditions": "Large state research system; stable institutions; fertilizer overuse baseline.",
+  "transferability": "Transferable with modification",
+  "transfer_reason": "The principle (local trials → price-aware recommendations → mass delivery) transfers; Myanmar lacks the trial network and public extension, so delivery would rely on phone panels and private digital platforms.",
+  "required_modification": "Use existing plot-level panel data plus targeted trials; deliver through digital advisory apps.",
+  "source_ids": [
+   "S076"
+  ],
+  "confidence": "High",
+  "record_type": "Benchmark",
+  "id": "B01",
+  "title": "China: Integrated soil-crop system management delivered through a national researcher-extension network"
+ },
+ {
+  "benchmark_id": "B02",
+  "country": "Vietnam",
+  "problem_ids": [
+   "P04",
+   "P01",
+   "P09"
+  ],
+  "intervention": "'1 Must Do, 5 Reductions' (1M5R) national programme",
+  "year": "2010s-present",
+  "mechanism": "Certified seed (must do) plus reductions in seed, fertilizer, pesticide, water and post-harvest loss",
+  "cost": "Not reported",
+  "adoption": "Most surveyed farmers adopted at least one practice; used >8 years on average (465 farmers, An Giang & Can Tho)",
+  "impact": [
+   "Farmers perceived lower input use and livelihood gains",
+   "Seed and fertilizer rates remained particularly high - overuse persists"
+  ],
+  "why": "Simple, memorable package backed by provincial extension.",
+  "conditions": "Strong public extension and irrigated, intensive systems.",
+  "transferability": "Transferable with modification",
+  "transfer_reason": "Myanmar's problem is often under- or mistimed use rather than overuse, and extension is weaker; the packaging lesson transfers, not the reductions.",
+  "required_modification": "Reframe as 'right rate, right time' under price shocks.",
+  "source_ids": [
+   "S308",
+   "S201",
+   "S075"
+  ],
+  "confidence": "Medium",
+  "record_type": "Benchmark",
+  "id": "B02",
+  "title": "Vietnam: '1 Must Do, 5 Reductions' (1M5R) national programme"
+ },
+ {
+  "benchmark_id": "B03",
+  "country": "Vietnam",
+  "problem_ids": [
+   "P18",
+   "P03",
+   "P04"
+  ],
+  "intervention": "Mechanized direct seeding (mDSR) adopted into national low-emission rice strategy",
+  "year": "2021-2024",
+  "mechanism": "Row/precision seeders via companies and cooperatives; national technical guidelines (Oct 2023)",
+  "cost": "Not reported",
+  "adoption": "350 ha planned in 3 provinces (summer-autumn 2024); national 1 million ha low-emission rice target by 2030",
+  "impact": [
+   "Seed -50%",
+   "Fertilizer -20%",
+   "Yield +5%",
+   "Profit +US$200/ha",
+   "Carbon footprint -10%"
+  ],
+  "why": "Private service companies plus government endorsement.",
+  "conditions": "High mechanization, consolidated fields, irrigation.",
+  "transferability": "Transferable with modification",
+  "transfer_reason": "Myanmar already direct-seeds ~50-75% of farms by broadcasting (S301); precision seeding could recover the perceived yield penalty while keeping labour savings, but needs service providers and fuel.",
+  "required_modification": "Service-provider model through existing combine/tractor outsourcing networks.",
+  "source_ids": [
+   "S309",
+   "S301"
+  ],
+  "confidence": "Medium",
+  "record_type": "Benchmark",
+  "id": "B03",
+  "title": "Vietnam: Mechanized direct seeding (mDSR) adopted into national low-emission rice strategy"
+ },
+ {
+  "benchmark_id": "B04",
+  "country": "Vietnam",
+  "problem_ids": [
+   "P12",
+   "P11",
+   "P03"
+  ],
+  "intervention": "Combine-harvester diffusion via private services",
+  "year": "2006-2014",
+  "mechanism": "Market-driven machinery services; Mekong Delta held ~75% of Vietnam's harvesters by 2014",
+  "cost": "Not reported",
+  "adoption": "National share of rice harvested by combines 15% (2006) → 35% (2013)",
+  "impact": [
+   "Harvesting 'almost fully mechanised' in Vietnam and Cambodia by 2019 (IRRI)"
+  ],
+  "why": "Labour scarcity plus private service provision.",
+  "conditions": "Rising rural wages.",
+  "transferability": "Directly transferable",
+  "transfer_reason": "Myanmar followed the same path 2011-2020 (S162); the lesson is sustaining services under fuel and security shocks.",
+  "required_modification": "None for the model; risk management for fuel/insecurity.",
+  "source_ids": [
+   "S310",
+   "S107",
+   "S091"
+  ],
+  "confidence": "Medium",
+  "record_type": "Benchmark",
+  "id": "B04",
+  "title": "Vietnam: Combine-harvester diffusion via private services"
+ },
+ {
+  "benchmark_id": "B05",
+  "country": "Bangladesh",
+  "problem_ids": [
+   "P10",
+   "P19"
+  ],
+  "intervention": "Alternate wetting and drying (cluster RCTs)",
+  "year": "2015-2018",
+  "mechanism": "AWD pipes and training; prepaid volumetric irrigation cards",
+  "cost": "Pipe marginal cost ~133 taka; demand fell to zero below that",
+  "adoption": "Low installation (1.4% control vs 7.4% treated above 60 taka)",
+  "impact": [
+   "Yields unchanged",
+   "No water saving under seasonal per-acre water charges",
+   "Under volumetric pricing: standing water -18%, profit +~7% (1,870 taka/acre)"
+  ],
+  "why": "Works only where farmers pay for water by volume.",
+  "conditions": "Tubewell irrigation with hourly pricing.",
+  "transferability": "Difficult",
+  "transfer_reason": "Benefits depend on volumetric water pricing; Myanmar canal schemes rarely price water volumetrically - pump schemes (diesel) are the plausible niche.",
+  "required_modification": "Target diesel-pump irrigated summer rice where pumping cost is borne per hour.",
+  "source_ids": [
+   "S128"
+  ],
+  "confidence": "High",
+  "record_type": "Benchmark",
+  "id": "B05",
+  "title": "Bangladesh: Alternate wetting and drying (cluster RCTs)"
+ },
+ {
+  "benchmark_id": "B06",
+  "country": "Bangladesh",
+  "problem_ids": [
+   "P12",
+   "P03"
+  ],
+  "intervention": "Combine-harvester purchase subsidy programme (Phase III)",
+  "year": "2020-2024",
+  "mechanism": "Government subsidy on machinery purchase",
+  "cost": "BDT 1,595 crore (~US$163 m); >35,000 machines, ~9,000 combines (84% of value)",
+  "adoption": "As above",
+  "impact": [
+   "High-allocation areas: yields +6-13%, labour costs -38-70%, production costs -12-26% (earlier causal analysis as cited)",
+   "Female agricultural self-employment -2.6 pp"
+  ],
+  "why": "Large fiscal subsidy.",
+  "conditions": "Fiscal capacity and stable state.",
+  "transferability": "Not suitable",
+  "transfer_reason": "Myanmar mechanized without subsidies through private outsourcing (S162); a large subsidy is fiscally and institutionally unrealistic now.",
+  "required_modification": "n/a",
+  "source_ids": [
+   "S311"
+  ],
+  "confidence": "Medium",
+  "record_type": "Benchmark",
+  "id": "B06",
+  "title": "Bangladesh: Combine-harvester purchase subsidy programme (Phase III)"
+ },
+ {
+  "benchmark_id": "B07",
+  "country": "India",
+  "problem_ids": [
+   "P05"
+  ],
+  "intervention": "Submergence-tolerant Swarna-Sub1 variety (RCT, Odisha)",
+  "year": "2010-2011",
+  "mechanism": "5 kg seed minikits to farmers in 64 randomly selected villages",
+  "cost": "Seed minikits",
+  "adoption": "318 of 320 farmers accepted",
+  "impact": [
+   "~45% higher yield after 10 days of submergence",
+   "No significant yield penalty without flooding",
+   "Larger benefits for low-lying, disadvantaged farmers"
+  ],
+  "why": "Variety directly addresses submergence without trade-off.",
+  "conditions": "Seed supply and flood-prone lowlands.",
+  "transferability": "Transferable with modification",
+  "transfer_reason": "Delta flood losses are large (S302); transfer depends on locally adapted tolerant varieties and seed system capacity (P09). Myanmar availability of Sub1 varieties was not verified in this build.",
+  "required_modification": "Verify locally released flood-tolerant varieties; couple with seed system.",
+  "source_ids": [
+   "S023"
+  ],
+  "confidence": "High",
+  "record_type": "Benchmark",
+  "id": "B07",
+  "title": "India: Submergence-tolerant Swarna-Sub1 variety (RCT, Odisha)"
+ },
+ {
+  "benchmark_id": "B08",
+  "country": "India",
+  "problem_ids": [
+   "P04",
+   "P14"
+  ],
+  "intervention": "Rice Crop Manager site-specific nutrient advice (Odisha on-farm trials)",
+  "year": "2019-2022",
+  "mechanism": "Digital decision tool generating field-specific N-P-K-Zn advice",
+  "cost": "Fertilizer cost +US$4-9/ha in kharif",
+  "adoption": "719 farmer fields, 13 districts",
+  "impact": [
+   "Yield +17-19% vs farmer practice",
+   "P rates -8.6 to -18.1 kg/ha; N higher in kharif, lower in rabi"
+  ],
+  "why": "Corrects nutrient imbalance (adds K and Zn).",
+  "conditions": "Extension partnership with state.",
+  "transferability": "Transferable with modification",
+  "transfer_reason": "Myanmar has an RCM prototype (S112) that never scaled; delivery via private digital advisory (I04) could substitute for state extension.",
+  "required_modification": "Recalibrate with Myanmar response data; add price-ratio logic.",
+  "source_ids": [
+   "S267",
+   "S112"
+  ],
+  "confidence": "High",
+  "record_type": "Benchmark",
+  "id": "B08",
+  "title": "India: Rice Crop Manager site-specific nutrient advice (Odisha on-farm trials)"
+ },
+ {
+  "benchmark_id": "B09",
+  "country": "India",
+  "problem_ids": [
+   "P04"
+  ],
+  "intervention": "Soil Health Card scheme",
+  "year": "2015-present",
+  "mechanism": "Soil testing and card-based fertilizer recommendation",
+  "cost": "Not reported",
+  "adoption": "Government study: 1,700 farmers in 76 districts",
+  "impact": [
+   "Government-commissioned study reports chemical fertilizer -8-10% and paddy cost of cultivation -16-25%"
+  ],
+  "why": "Information on soil nutrient status.",
+  "conditions": "National soil-testing lab network.",
+  "transferability": "Difficult",
+  "transfer_reason": "Requires lab network absent in Myanmar; evidence is a non-experimental government study (low confidence).",
+  "required_modification": "Replace lab testing with response-based recommendations.",
+  "source_ids": [
+   "S312"
+  ],
+  "confidence": "Low",
+  "record_type": "Benchmark",
+  "id": "B09",
+  "title": "India: Soil Health Card scheme"
+ },
+ {
+  "benchmark_id": "B10",
+  "country": "Thailand",
+  "problem_ids": [
+   "P19",
+   "P10",
+   "P04"
+  ],
+  "intervention": "Thai Rice NAMA / Thai Rice project (laser levelling, AWD, SSNM, straw management)",
+  "year": "2018-2024",
+  "mechanism": "Training, service providers, 50% subsidy for farmers",
+  "cost": "EUR 14.9 m provided; EUR 14 m leveraged",
+  "adoption": "79,275 households; 319,526 ha; 2,544 farmer groups; 99,094 farmers trained",
+  "impact": [
+   "Household income +20% (project-reported)",
+   "1.87 Mt CO2e reduced"
+  ],
+  "why": "Bundled finance, service providers and training.",
+  "conditions": "Irrigated central plains; donor finance.",
+  "transferability": "Difficult",
+  "transfer_reason": "Relies on donor carbon finance and stable institutions; laser levelling services are scarce in Myanmar.",
+  "required_modification": "Start with pump-irrigated summer rice.",
+  "source_ids": [
+   "S313"
+  ],
+  "confidence": "Medium",
+  "record_type": "Benchmark",
+  "id": "B10",
+  "title": "Thailand: Thai Rice NAMA / Thai Rice project (laser levelling, AWD, SSNM, straw management)"
+ },
+ {
+  "benchmark_id": "B11",
+  "country": "Thailand",
+  "problem_ids": [
+   "P05",
+   "P06"
+  ],
+  "intervention": "National rice cultivation insurance (BAAC/TGIA)",
+  "year": "2020 season",
+  "mechanism": "Area-based disaster-declared indemnity; payment to bank accounts",
+  "cost": "Not reported",
+  "adoption": "3.4 million farmers; 45.7 million rai covered",
+  "impact": [
+   "370.55 million baht paid on 310,000 rai (2020)"
+  ],
+  "why": "Bank-linked delivery and state subsidy.",
+  "conditions": "Universal banking of farmers via BAAC.",
+  "transferability": "Difficult",
+  "transfer_reason": "Myanmar's formal credit and banking contracted after 2021 (S286); index insurance remains at proposal stage (I06).",
+  "required_modification": "Basis-risk testing with satellite and MAPS yield data first.",
+  "source_ids": [
+   "S314"
+  ],
+  "confidence": "Medium",
+  "record_type": "Benchmark",
+  "id": "B11",
+  "title": "Thailand: National rice cultivation insurance (BAAC/TGIA)"
+ },
+ {
+  "benchmark_id": "B12",
+  "country": "Cambodia",
+  "problem_ids": [
+   "P11"
+  ],
+  "intervention": "ADB-IRRI postharvest project (flatbed dryers, hermetic storage, combines)",
+  "year": "2009-2013",
+  "mechanism": "Demonstrations, private manufacturers",
+  "cost": "Not reported",
+  "adoption": ">200 flatbed dryers in use (2013)",
+  "impact": [
+   "Loss and quality impacts not quantified in source"
+  ],
+  "why": "Private fabrication of dryers.",
+  "conditions": "Export-quality demand from millers.",
+  "transferability": "Transferable with modification",
+  "transfer_reason": "Modern Myanmar mills already vertically integrate services (S305); dryers fit miller-led models.",
+  "required_modification": "Miller-financed drying services.",
+  "source_ids": [
+   "S315",
+   "S070"
+  ],
+  "confidence": "Medium",
+  "record_type": "Benchmark",
+  "id": "B12",
+  "title": "Cambodia: ADB-IRRI postharvest project (flatbed dryers, hermetic storage, combines)"
+ },
+ {
+  "benchmark_id": "B13",
+  "country": "Laos",
+  "problem_ids": [
+   "P01",
+   "P09",
+   "P14"
+  ],
+  "intervention": "On-farm variety and fertilizer trials with World Vision (Savannakhet)",
+  "year": "2000s (assessed 2011)",
+  "mechanism": "Volunteer trial farms, seed swaps, district extension",
+  "cost": "A$480,000",
+  "adoption": "~22,654 potential beneficiaries (~47% of farms in six districts)",
+  "impact": [
+   "Yield +0.3-0.6 t/ha (surveys)",
+   "Benefit:cost ~146:1 (ex-post assessment)",
+   "Fertilizer use stayed very low due to cost"
+  ],
+  "why": "Trusted embedded trials plus seed multiplication.",
+  "conditions": "NGO presence; low baseline yields.",
+  "transferability": "Transferable with modification",
+  "transfer_reason": "NGO-embedded trials work in low-state-capacity settings similar to post-2021 Myanmar; fertilizer affordability remained binding.",
+  "required_modification": "Pair with price-aware fertilizer advice.",
+  "source_ids": [
+   "S316"
+  ],
+  "confidence": "Medium",
+  "record_type": "Benchmark",
+  "id": "B13",
+  "title": "Laos: On-farm variety and fertilizer trials with World Vision (Savannakhet)"
+ },
+ {
+  "benchmark_id": "B14",
+  "country": "Laos",
+  "problem_ids": [
+   "P10"
+  ],
+  "intervention": "Irrigation access for sticky rice (LECS panel, PSM and DID)",
+  "year": "2003-2013",
+  "mechanism": "Irrigation schemes",
+  "cost": "Not reported",
+  "adoption": "~20% of farm households had irrigation access",
+  "impact": [
+   "Productivity +2.44 t/ha/season (PSM)",
+   "Long-term access +1.56 t/ha (DID)"
+  ],
+  "why": "Water control enables intensification.",
+  "conditions": "Public irrigation investment.",
+  "transferability": "Transferable with modification",
+  "transfer_reason": "Supports investing in reliable water delivery; Myanmar's issue is scheme performance (P10), not just access.",
+  "required_modification": "Performance monitoring of existing schemes.",
+  "source_ids": [
+   "S317"
+  ],
+  "confidence": "Medium",
+  "record_type": "Benchmark",
+  "id": "B14",
+  "title": "Laos: Irrigation access for sticky rice (LECS panel, PSM and DID)"
+ }
+]

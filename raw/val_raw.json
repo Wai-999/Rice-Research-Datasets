@@ -1,0 +1,349 @@
+[
+ {
+  "q": "What causes rice yield loss in Myanmar?",
+  "count": "256 results — 19 problems, 6 project opportunities, 12 interventions, 2 policies, 8 neighbour cases, 3 research gaps, 8 datasets, 198 studies",
+  "interp": "Interpreted:\nprefer problem records\n+ 26 related terms",
+  "top": [
+   "P11 | Harvest and post-harvest losses (drying, storage, rodents)",
+   "P05 | Flood, cyclone and heavy-rain losses in Delta and coastal rice",
+   "P08 | Conflict and macro-policy shocks disrupting production and markets (post-2021)",
+   "P17 | Pests, diseases, weeds and rodents",
+   "P01 | Persistent yield gap and stagnant paddy productivity",
+   "P16 | Agricultural statistics and monitoring data gaps"
+  ]
+ },
+ {
+  "q": "Show studies about labor shortages after 2015",
+  "count": "64 results — 64 studies",
+  "interp": "Interpreted:\nType: Study\n×\nYears: 2016–…\n×\nprefer labour/time saving\n+ 7 related terms",
+  "top": [
+   "S301 | Rice establishment methods in Myanmar: Trends, perceptions, and constraints",
+   "S132 | Myanmar’s rapid agricultural mechanization: Demand and supply evidence",
+   "S263 | Combine harvester outsourcing services and seasonal rural non-farm employment in",
+   "S268 | Farm commercialization and farm services: Myanmar Agricultural Performance Surve",
+   "S164 | Women and youth in Myanmar agriculture",
+   "S297 | Measuring Agricultural Wages Amidst Conflict: Evidence From Myanmar"
+  ]
+ },
+ {
+  "q": "Find research that actually reached farmers",
+  "count": "237 results — 13 problems, 5 project opportunities, 11 interventions, 2 policies, 7 neighbour cases, 3 research gaps, 8 datasets, 188 studies",
+  "interp": "Interpreted:\nprefer implemented at scale\n+ 8 related terms",
+  "top": [
+   "S059 | Differential impacts of an irrigation project: Case study of the Swar Dam Projec",
+   "S287 | Combine harvester service providers in Myanmar: Insights from the 2025 monsoon s",
+   "S286 | Agricultural credit and conflict: Evidence from Myanmar",
+   "S131 | Mechanization outsourcing services in Myanmar's dry zone",
+   "S132 | Myanmar’s rapid agricultural mechanization: Demand and supply evidence",
+   "S162 | The rapid rise of agricultural mechanization in Myanmar"
+  ]
+ },
+ {
+  "q": "Show proposed solutions that never scaled",
+  "count": "3 results — 3 interventions",
+  "interp": "Interpreted:\nType: Intervention / Policy / Neighbour case\n×\nprefer proposed/pilot-only",
+  "top": [
+   "I18 | Ecologically-based rodent management (synchronous planting, sanitation)",
+   "I06 | Weather / flood index insurance for rice",
+   "I03 | Rice Crop Manager (site-specific nutrient advice) - Myanmar version"
+  ]
+ },
+ {
+  "q": "What datasets can measure rainfall and rice yield?",
+  "count": "9 results — 9 datasets",
+  "interp": "Interpreted:\nType: Dataset\n×\n+ 13 related terms",
+  "top": [
+   "D01 | USDA FAS Production, Supply and Distribution (PSD) - Rice",
+   "D13 | CHIRPS v2 rainfall",
+   "D28 | Global Yield Gap Atlas (GYGA)",
+   "D02 | FAOSTAT Crops and livestock products (QCL)",
+   "D29 | Official agricultural statistics (MOALI / CSO yearbooks)",
+   "D03 | World Bank WDI - Cereal yield (AG.YLD.CREL.KG)"
+  ]
+ },
+ {
+  "q": "Show studies using Sentinel or Landsat",
+  "count": "16 results — 16 studies",
+  "interp": "Interpreted:\nType: Study\n×\n+ 8 related terms",
+  "top": [
+   "S060 | Monitoring Rice Agriculture across Myanmar Using Time Series Sentinel-1 Assisted",
+   "S087 | Assessing Conflict Driven Food Security in Rakhine, Myanmar with Multisource Ima",
+   "S144 | Decadal changes in the rice-cropping system in the Ayeyarwady Delta using a larg",
+   "S155 | Monitoring saline intrusion in the Ayeyarwady Delta, Myanmar, using data from th",
+   "S213 | Operational Drought Risk Index Mapping for Disaster Risk Reduction in Central Dr",
+   "S187 | Sentinel 1 SAR-Based Flood Detection and Mapping: Myanmar Two Consecutive Years "
+  ]
+ },
+ {
+  "q": "Find research in Ayeyarwady",
+  "count": "87 results — 7 problems, 8 interventions, 72 studies",
+  "interp": "Interpreted:\nRegion: Ayeyarwady\n×",
+  "top": [
+   "P01 | Persistent yield gap and stagnant paddy productivity",
+   "P05 | Flood, cyclone and heavy-rain losses in Delta and coastal rice",
+   "P07 | Salinity intrusion in coastal Delta",
+   "P09 | Weak and shock-sensitive access to quality seed",
+   "P10 | Irrigation and water-control underperformance",
+   "P11 | Harvest and post-harvest losses (drying, storage, rodents)"
+  ]
+ },
+ {
+  "q": "Show monthly datasets related to rice agriculture",
+  "count": "10 results — 10 datasets",
+  "interp": "Interpreted:\nType: Dataset\n×\nResolution: Monthly\n×",
+  "top": [
+   "D06 | WFP Myanmar food prices (HDX)",
+   "D13 | CHIRPS v2 rainfall",
+   "D14 | ERA5-Land reanalysis",
+   "D15 | GPM IMERG precipitation",
+   "D16 | JRC Global Surface Water",
+   "D23 | UN Comtrade (HS 1006 rice)"
+  ]
+ },
+ {
+  "q": "Find optimization studies",
+  "count": "10 results — 10 studies",
+  "interp": "Interpreted:\nType: Study\n×\n+ 11 related terms",
+  "top": [
+   "S156 | Optimum insurance contract of flood damage index insurance for rice farmers in M",
+   "S070 | Best practices for paddy drying: case studies in Vietnam, Cambodia, Philippines,",
+   "S267 | Enhancing yield and GHG mitigation through site-specific nutrient management for",
+   "S107 | Optimized mechanised rice harvesting in Southeast Asia",
+   "S106 | Optimized downdraft rice husk furnace for paddy drying",
+   "S293 | Edge-AI Driven Vision System for Crop Disease and Pest Monitoring Under Network "
+  ]
+ },
+ {
+  "q": "How has Vietnam reduced rice production labor?",
+  "count": "219 results — 16 problems, 5 project opportunities, 5 interventions, 1 policy, 8 neighbour cases, 1 research gap, 9 datasets, 174 studies",
+  "interp": "Interpreted:\nboost Vietnam\nprefer labour/time saving\n+ 15 related terms",
+  "top": [
+   "S075 | On-farm assessment of different rice crop management practices in the Mekong Del",
+   "S070 | Best practices for paddy drying: case studies in Vietnam, Cambodia, Philippines,",
+   "S309 | Mechanized direct seeding transforms rice production, boosting yield, profit and",
+   "S095 | Downdraft rice husk furnace for paddy drying adopted in Southeast Asia",
+   "B04 | Vietnam: Combine-harvester diffusion via private services",
+   "B03 | Vietnam: Mechanized direct seeding (mDSR) adopted into national low-emission ric"
+  ]
+ },
+ {
+  "q": "What interventions from Thailand may transfer to Myanmar?",
+  "count": "2 results — 2 neighbour cases",
+  "interp": "Interpreted:\nType: Intervention / Policy / Neighbour case\n×\nboost Thailand\nrank by transferability",
+  "top": [
+   "B11 | Thailand: National rice cultivation insurance (BAAC/TGIA)",
+   "B10 | Thailand: Thai Rice NAMA / Thai Rice project (laser levelling, AWD, SSNM, straw "
+  ]
+ },
+ {
+  "q": "Show high-impact problems with good data availability",
+  "count": "19 results — 19 problems",
+  "interp": "Interpreted:\nType: Problem\n×\nprefer good data availability\nprefer high severity",
+  "top": [
+   "P01 | Persistent yield gap and stagnant paddy productivity",
+   "P02 | Cost-price squeeze: rising input costs, falling farm profitability",
+   "P04 | Fertilizer cost, access and declining use efficiency",
+   "P05 | Flood, cyclone and heavy-rain losses in Delta and coastal rice",
+   "P08 | Conflict and macro-policy shocks disrupting production and markets (post-2021)",
+   "P03 | Rural labour scarcity and rising agricultural wages"
+  ]
+ },
+ {
+  "q": "Find research gaps suitable for a data science project",
+  "count": "12 results — 12 research gaps",
+  "interp": "Interpreted:\nType: Research gap\n×\nprefer data-science-ready",
+  "top": [
+   "G03 | No operational township-level flood/drought loss monitoring",
+   "G02 | Proven nutrient decision tools never reached Myanmar farmers",
+   "G07 | Precision/row seeding services absent while broadcasting spreads",
+   "G08 | Economic-optimum N rates under current prices are not estimated",
+   "G04 | Official subnational production statistics not public after 2020",
+   "G11 | No randomized evidence on digital advisory effects for rice"
+  ]
+ },
+ {
+  "q": "Which project can save farmer time or labor?",
+  "count": "6 results — 6 project opportunities",
+  "interp": "Interpreted:\nType: Project opportunity\n×\nprefer labour/time saving\n+ 16 related terms",
+  "top": [
+   "PR04 | Crop-establishment decision model: broadcast vs row-seeding vs transplanting und",
+   "PR16 | Township wage and labour-scarcity nowcast",
+   "PR02 | Monthly rice profitability (cost-price squeeze) nowcast between survey rounds",
+   "PR01 | Price-aware nitrogen advice for monsoon rice, delivered through existing digital",
+   "PR13 | Export-wholesale-farmgate price transmission monitor under FX regime",
+   "PR11 | Dry Zone drought early warning linked to rice yields"
+  ]
+ },
+ {
+  "q": "Show studies with quantitative yield effects",
+  "count": "154 results — 154 studies",
+  "interp": "Interpreted:\nType: Study\n×\nprefer quantified effects\n+ 7 related terms",
+  "top": [
+   "S200 | Conflict and agricultural productivity: Evidence from Myanmar",
+   "S262 | Climate advisory services in Myanmar generate high returns through private digit",
+   "S090 | Benchmarks for improved productivity and profitability of monsoon rice in lower ",
+   "S302 | Rice productivity and profitability in Myanmar: Assessment of the 2025 monsoon s",
+   "S252 | Rice productivity and profitability in Myanmar: Assessment of the 2023 monsoon",
+   "S128 | Impact of alternate wetting and drying on farm incomes and water savings in Bang"
+  ]
+ },
+ {
+  "q": "Show conflicting research about fertilizer",
+  "count": "95 results — 3 problems, 1 project opportunity, 2 interventions, 6 neighbour cases, 2 research gaps, 2 datasets, 79 studies",
+  "interp": "Interpreted:\nprefer contradicting evidence\n+ 7 related terms",
+  "top": [
+   "S090 | Benchmarks for improved productivity and profitability of monsoon rice in lower ",
+   "S158 | Recommended vs. Practice: Smallholder Fertilizer Decisions in Central Myanmar",
+   "S267 | Enhancing yield and GHG mitigation through site-specific nutrient management for",
+   "P04 | Fertilizer cost, access and declining use efficiency",
+   "S289 | Convergence of smallholder farmers’ knowledge and scientists’ soil assessment fo",
+   "S124 | Effects of Different Water Management and Fertilizer Applications on CO2 Fluxes "
+  ]
+ },
+ {
+  "q": "Which studies use the same dataset?",
+  "count": "10 results — 10 datasets",
+  "interp": "Interpreted:\nType: Dataset\n×\ndatasets shared by most studies",
+  "top": [
+   "D04 | Myanmar Agricultural Performance Survey (MAPS), Rounds 1-8",
+   "D32 | IFPRI agri-food enterprise phone surveys (rice millers, traders, input retailers",
+   "D18 | ACLED conflict events",
+   "D09 | Sentinel-1 SAR GRD (C-band)",
+   "D12 | MODIS MOD13Q1 vegetation indices (NDVI/EVI)",
+   "D11 | Landsat Collection 2 Level-2 (Landsat 8/9)"
+  ]
+ },
+ {
+  "q": "What research has the strongest implementation evidence?",
+  "count": "53 results — 7 interventions, 1 policy, 14 neighbour cases, 31 studies",
+  "interp": "Interpreted:\nprefer implemented at scale",
+  "top": [
+   "I01 | Market-based mechanization outsourcing (tractor, combine, thresher services)",
+   "I07 | Subsidised seasonal rice credit (MADB)",
+   "I15 | Quality seed systems: early-generation seed farms and contract seed production",
+   "S286 | Agricultural credit and conflict: Evidence from Myanmar",
+   "S263 | Combine harvester outsourcing services and seasonal rural non-farm employment in",
+   "S252 | Rice productivity and profitability in Myanmar: Assessment of the 2023 monsoon"
+  ]
+ },
+ {
+  "q": "mechanization",
+  "count": "84 results — 5 problems, 1 project opportunity, 1 intervention, 3 neighbour cases, 3 research gaps, 2 datasets, 69 studies",
+  "interp": "Interpreted:\n+ 8 related terms",
+  "top": [
+   "I01 | Market-based mechanization outsourcing (tractor, combine, thresher services)",
+   "S131 | Mechanization outsourcing services in Myanmar's dry zone",
+   "S085 | Agricultural machinery supply businesses in Myanmar's dry zone: Growth and trans",
+   "S263 | Combine harvester outsourcing services and seasonal rural non-farm employment in",
+   "S229 | Conflict, inclusivity, and transformation of the rice value chain in Myanmar",
+   "S225 | Agricultural mechanization: Drivers and characteristics"
+  ]
+ },
+ {
+  "q": "mechanisation Myanmar",
+  "count": "84 results — 5 problems, 1 project opportunity, 1 intervention, 3 neighbour cases, 3 research gaps, 2 datasets, 69 studies",
+  "interp": "Interpreted:\n+ 8 related terms",
+  "top": [
+   "S131 | Mechanization outsourcing services in Myanmar's dry zone",
+   "S085 | Agricultural machinery supply businesses in Myanmar's dry zone: Growth and trans",
+   "S263 | Combine harvester outsourcing services and seasonal rural non-farm employment in",
+   "I01 | Market-based mechanization outsourcing (tractor, combine, thresher services)",
+   "S229 | Conflict, inclusivity, and transformation of the rice value chain in Myanmar",
+   "S225 | Agricultural mechanization: Drivers and characteristics"
+  ]
+ },
+ {
+  "q": "fertiliser optimisaton",
+  "count": "103 results — 3 problems, 3 project opportunities, 2 interventions, 6 neighbour cases, 2 research gaps, 2 datasets, 85 studies",
+  "interp": "Interpreted:\ntypo: optimisaton ≈ optimization\n+ 7 related terms",
+  "top": [
+   "S267 | Enhancing yield and GHG mitigation through site-specific nutrient management for",
+   "S124 | Effects of Different Water Management and Fertilizer Applications on CO2 Fluxes ",
+   "S115 | The cropping systems of the Central Dry Zone of Myanmar: Productivity constraint",
+   "P04 | Fertilizer cost, access and declining use efficiency",
+   "S289 | Convergence of smallholder farmers’ knowledge and scientists’ soil assessment fo",
+   "S090 | Benchmarks for improved productivity and profitability of monsoon rice in lower "
+  ]
+ },
+ {
+  "q": "\"alternate wetting\"",
+  "count": "8 results — 1 intervention, 1 neighbour case, 6 studies",
+  "interp": "",
+  "top": [
+   "I16 | Alternate wetting and drying (AWD)",
+   "B05 | Bangladesh: Alternate wetting and drying (cluster RCTs)",
+   "S201 | Environmental, Social, and Economic Challenges in Lowland Rice Production",
+   "S157 | Policy Framework for Myanmar Rice Production and In-Depth Study on Greenhouse Ga",
+   "S124 | Effects of Different Water Management and Fertilizer Applications on CO2 Fluxes ",
+   "S127 | Greenhouse gas emissions, grain yield and water productivity: a paddy rice field"
+  ]
+ },
+ {
+  "q": "မြေဩဇာ ဈေးနှုန်း",
+  "count": "193 results — 8 problems, 3 project opportunities, 3 interventions, 1 policy, 7 neighbour cases, 3 research gaps, 8 datasets, 160 studies",
+  "interp": "Interpreted:\nမြေဩဇာ → fertilizer\nဈေးနှုန်း → price\n+ 13 related terms",
+  "top": [
+   "S272 | Global rice price declines and expected effects on monsoon paddy farming: Insigh",
+   "S239 | How have foreign exchange market distortions and conflict affected agricultural ",
+   "S267 | Enhancing yield and GHG mitigation through site-specific nutrient management for",
+   "P02 | Cost-price squeeze: rising input costs, falling farm profitability",
+   "P04 | Fertilizer cost, access and declining use efficiency",
+   "S304 | The Iran War and rising fuel and fertilizer prices: Implications for Myanmar’s r"
+  ]
+ },
+ {
+  "q": "flood impact on rice yield",
+  "count": "238 results — 13 problems, 5 project opportunities, 10 interventions, 2 policies, 10 neighbour cases, 2 research gaps, 13 datasets, 183 studies",
+  "interp": "Interpreted:\n+ 15 related terms",
+  "top": [
+   "S023 | Flood-tolerant rice reduces yield variability and raises expected yield, differe",
+   "S217 | Rice productivity in Myanmar: Assessment of the 2023 dry season",
+   "P05 | Flood, cyclone and heavy-rain losses in Delta and coastal rice",
+   "S302 | Rice productivity and profitability in Myanmar: Assessment of the 2025 monsoon s",
+   "S253 | Rice productivity in Myanmar: Assessment of the 2024 dry season",
+   "S168 | Assessing the impacts of tropical cyclones on rice production in Bangladesh, Mya"
+  ]
+ },
+ {
+  "q": "research with farmer-level datasets",
+  "count": "10 results — 10 datasets",
+  "interp": "Interpreted:\nType: Dataset\n×\n+ 6 related terms",
+  "top": [
+   "D04 | Myanmar Agricultural Performance Survey (MAPS), Rounds 1-8",
+   "D31 | FAO DIEM (Data in Emergencies) household surveys - Myanmar",
+   "D06 | WFP Myanmar food prices (HDX)",
+   "D11 | Landsat Collection 2 Level-2 (Landsat 8/9)",
+   "D34 | Replication dataset: climate change, adaptation and rice farming outcomes (Delta",
+   "D30 | Myanmar Migration Assessment (MMA)"
+  ]
+ },
+ {
+  "q": "solutions used in Vietnam but not Myanmar",
+  "count": "3 results — 3 neighbour cases",
+  "interp": "Interpreted:\nType: Neighbour case\n×\nboost Vietnam",
+  "top": [
+   "B03 | Vietnam: Mechanized direct seeding (mDSR) adopted into national low-emission ric",
+   "B04 | Vietnam: Combine-harvester diffusion via private services",
+   "B02 | Vietnam: '1 Must Do, 5 Reductions' (1M5R) national programme"
+  ]
+ },
+ {
+  "q": "xylophone quantum",
+  "count": "0 results",
+  "interp": "",
+  "top": []
+ },
+ {
+  "q": "",
+  "count": "439 results — 19 problems, 17 project opportunities, 20 interventions, 2 policies, 14 neighbour cases, 12 research gaps, 36 datasets, 319 studies",
+  "interp": "",
+  "top": [
+   "P01 | Persistent yield gap and stagnant paddy productivity",
+   "P02 | Cost-price squeeze: rising input costs, falling farm profitability",
+   "P03 | Rural labour scarcity and rising agricultural wages",
+   "P04 | Fertilizer cost, access and declining use efficiency",
+   "P05 | Flood, cyclone and heavy-rain losses in Delta and coastal rice",
+   "P06 | Drought and rainfall variability in the Central Dry Zone"
+  ]
+ }
+]

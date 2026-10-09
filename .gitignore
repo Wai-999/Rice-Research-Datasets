@@ -1,0 +1,30 @@
+# build output (CI rebuilds it; never commit generated sites)
+_site/
+out/
+tests/screens/
+
+# Python / tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# secrets and local config
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# large, regenerable harvest dumps (re-create with scripts/harvest_*.py; see DEPLOYMENT.md)
+raw/crossref_raw.json
+raw/cgspace_raw.json
+raw/epmc_raw.json
+raw/psd/
+raw/psd.zip
+raw/wfp/

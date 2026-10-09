@@ -1,0 +1,13 @@
+id,gap_type,title,description,problem_ids,evidence_ids,priority,data_availability
+G01,Knowledge,No representative post-2020 estimate of harvest and post-harvest losses,Loss evidence comes from field experiments and two-township rodent studies; national loss rates under current mechanization are unknown.,P11; P17; P19,S119; S052,Medium,2
+G02,Implementation,Proven nutrient decision tools never reached Myanmar farmers,Site-specific nutrient advice raised yields 17-19% in India (S267) and integrated recommendations scaled to 20.9 million farmers in China (S076); a Myanmar Rice Crop Manager prototype (2019) has no deployment record.,P04; P14,S112; S267; S076,High,4
+G03,Decision,No operational township-level flood/drought loss monitoring,"Relief, seed replacement and anticipatory decisions lack a near-real-time link between satellite hazard data and farm yield losses.",P05; P06; P10,S302; S252; S072; S060,High,5
+G04,Data,Official subnational production statistics not public after 2020,Analysts rely on phone panels and satellites; disagreement between sources cannot be adjudicated.,P16; P08,S251,High,3
+G05,Implementation,Quality seed does not reach farmers after shocks,"Off-farm seed raises yields, but its use falls after shocks except near early-generation seed farms.",P09; P01,S299; S252,Medium,3
+G06,Decision,Season-ahead profitability is invisible to farmers and policymakers,Profit swings of +41% to -40% between seasons are only documented after the fact.,P02; P13,S217; S253; S302,Medium,4
+G07,Technology,Precision/row seeding services absent while broadcasting spreads,Labour scarcity drives broadcast DSR with a perceived yield penalty; Vietnam's mechanized seeding shows an alternative.,P18; P03; P12,S301; S309,High,4
+G08,Knowledge,Economic-optimum N rates under current prices are not estimated,Yield response to N is weakening under conflict (S269); recommendations ignore the urea:paddy price ratio and establishment method.,P04,S269; S302; S158; S090,High,4
+G09,Data,Coastal salinity and elevation data are thin or inconsistent,Satellite salinity models lack in-situ EC; elevation datasets disagree (S195).,P07; P05,S155; S195,Medium,2
+G10,Knowledge,Farmgate price transmission under the dual FX regime is not monitored continuously,"FX policy hurt incentives more than conflict (S239), but no routine monitor exists.",P15; P02,S239,Medium,4
+G11,Implementation,No randomized evidence on digital advisory effects for rice,Current DCAS evidence is non-random and implementer-affiliated (S262).,P14,S262; S259; S274,High,2
+G12,Knowledge,Effect of mechanization cost spikes on timeliness losses unquantified,Fees rose 42-59%; consequences for harvest timing and losses are not measured.,P12; P11,S252; S253; S302,Medium,3

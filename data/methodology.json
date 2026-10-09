@@ -1,0 +1,520 @@
+{
+ "search_date": "2026-10-09",
+ "sources_searched": [
+  {
+   "name": "Crossref REST API",
+   "role": "Primary bibliographic search (titles, DOIs, abstracts where deposited, reference lists)",
+   "queries": 55,
+   "records": 3632,
+   "status": "Completed"
+  },
+  {
+   "name": "CGSpace (CGIAR repository) DSpace API",
+   "role": "Grey literature from IFPRI, IRRI, IWMI, CCAFS, WorldFish with abstracts",
+   "queries": 18,
+   "records": 1807,
+   "status": "Completed"
+  },
+  {
+   "name": "Semantic Scholar Graph API",
+   "role": "Abstract back-fill for DOIs lacking abstracts",
+   "queries": "batch",
+   "records": "72 abstracts",
+   "status": "Completed (rate-limited)"
+  },
+  {
+   "name": "Europe PMC REST API",
+   "role": "Planned abstract source",
+   "queries": 1,
+   "records": 1,
+   "status": "Unavailable during search (HTTP 503); used for one record"
+  },
+  {
+   "name": "OpenAlex",
+   "role": "Planned citation chaining",
+   "queries": 0,
+   "records": 0,
+   "status": "Unavailable (daily API budget exhausted for shared IP)"
+  },
+  {
+   "name": "Harvard Dataverse, HDX, World Bank Microdata, USDA PSD",
+   "role": "Dataset discovery and verification",
+   "queries": "targeted",
+   "records": "see Dataset Explorer",
+   "status": "Completed"
+  },
+  {
+   "name": "Web search + page reading",
+   "role": "Neighbour-country benchmarks and grey literature without DOIs",
+   "queries": 30,
+   "records": 14,
+   "status": "Completed"
+  }
+ ],
+ "crossref_queries": [
+  {
+   "query": "Myanmar rice",
+   "returned": 100,
+   "new": 100
+  },
+  {
+   "query": "Myanmar paddy",
+   "returned": 100,
+   "new": 93
+  },
+  {
+   "query": "Burma rice",
+   "returned": 100,
+   "new": 96
+  },
+  {
+   "query": "Myanmar rice yield",
+   "returned": 100,
+   "new": 55
+  },
+  {
+   "query": "Myanmar rice production",
+   "returned": 100,
+   "new": 51
+  },
+  {
+   "query": "Myanmar rice farmers",
+   "returned": 100,
+   "new": 56
+  },
+  {
+   "query": "Myanmar rice mechanization",
+   "returned": 100,
+   "new": 60
+  },
+  {
+   "query": "Myanmar agricultural mechanization",
+   "returned": 100,
+   "new": 81
+  },
+  {
+   "query": "Myanmar rural labor migration agriculture",
+   "returned": 100,
+   "new": 99
+  },
+  {
+   "query": "Myanmar rice fertilizer",
+   "returned": 100,
+   "new": 53
+  },
+  {
+   "query": "Myanmar rice irrigation",
+   "returned": 100,
+   "new": 54
+  },
+  {
+   "query": "Myanmar rice flood",
+   "returned": 100,
+   "new": 33
+  },
+  {
+   "query": "Myanmar rice drought",
+   "returned": 100,
+   "new": 60
+  },
+  {
+   "query": "Myanmar rice salinity",
+   "returned": 100,
+   "new": 56
+  },
+  {
+   "query": "Myanmar rice climate change",
+   "returned": 100,
+   "new": 86
+  },
+  {
+   "query": "Myanmar rice remote sensing",
+   "returned": 100,
+   "new": 97
+  },
+  {
+   "query": "Myanmar rice Sentinel-1",
+   "returned": 100,
+   "new": 33
+  },
+  {
+   "query": "Myanmar rice MODIS",
+   "returned": 100,
+   "new": 26
+  },
+  {
+   "query": "Myanmar rice postharvest",
+   "returned": 100,
+   "new": 40
+  },
+  {
+   "query": "Myanmar rice milling",
+   "returned": 100,
+   "new": 58
+  },
+  {
+   "query": "Myanmar rice value chain",
+   "returned": 100,
+   "new": 70
+  },
+  {
+   "query": "Myanmar rice market price",
+   "returned": 100,
+   "new": 64
+  },
+  {
+   "query": "Myanmar rice export",
+   "returned": 100,
+   "new": 38
+  },
+  {
+   "query": "Myanmar agricultural credit",
+   "returned": 100,
+   "new": 86
+  },
+  {
+   "query": "Myanmar rice profitability cost",
+   "returned": 100,
+   "new": 57
+  },
+  {
+   "query": "Myanmar rice seed variety",
+   "returned": 100,
+   "new": 83
+  },
+  {
+   "query": "Myanmar rice technical efficiency",
+   "returned": 100,
+   "new": 63
+  },
+  {
+   "query": "Ayeyarwady delta rice",
+   "returned": 100,
+   "new": 86
+  },
+  {
+   "query": "Irrawaddy delta rice",
+   "returned": 100,
+   "new": 51
+  },
+  {
+   "query": "Myanmar dry zone rice",
+   "returned": 100,
+   "new": 63
+  },
+  {
+   "query": "Myanmar rice technology adoption",
+   "returned": 100,
+   "new": 54
+  },
+  {
+   "query": "Myanmar alternate wetting drying",
+   "returned": 100,
+   "new": 99
+  },
+  {
+   "query": "Myanmar rice pest disease",
+   "returned": 100,
+   "new": 71
+  },
+  {
+   "query": "Myanmar rice soil nutrient",
+   "returned": 100,
+   "new": 93
+  },
+  {
+   "query": "Myanmar rice yield gap",
+   "returned": 100,
+   "new": 49
+  },
+  {
+   "query": "Myanmar agriculture COVID-19",
+   "returned": 100,
+   "new": 87
+  },
+  {
+   "query": "Myanmar coup agriculture",
+   "returned": 100,
+   "new": 93
+  },
+  {
+   "query": "Myanmar farmland tenure",
+   "returned": 100,
+   "new": 73
+  },
+  {
+   "query": "Myanmar rice methane emission",
+   "returned": 100,
+   "new": 91
+  },
+  {
+   "query": "Myanmar rice food security",
+   "returned": 100,
+   "new": 76
+  },
+  {
+   "query": "Bago region rice",
+   "returned": 100,
+   "new": 96
+  },
+  {
+   "query": "Sagaing rice",
+   "returned": 100,
+   "new": 98
+  },
+  {
+   "query": "Myanmar monsoon paddy",
+   "returned": 100,
+   "new": 56
+  },
+  {
+   "query": "Myanmar rice pulses cropping system",
+   "returned": 100,
+   "new": 79
+  },
+  {
+   "query": "Myanmar rice forecasting",
+   "returned": 100,
+   "new": 21
+  },
+  {
+   "query": "Myanmar rice GIS",
+   "returned": 100,
+   "new": 19
+  },
+  {
+   "query": "Myanmar hybrid rice",
+   "returned": 100,
+   "new": 25
+  },
+  {
+   "query": "Myanmar rice germplasm",
+   "returned": 100,
+   "new": 63
+  },
+  {
+   "query": "Myanmar agricultural extension",
+   "returned": 100,
+   "new": 79
+  },
+  {
+   "query": "Myanmar rice harvest loss",
+   "returned": 100,
+   "new": 61
+  },
+  {
+   "query": "Myanmar rice drying storage",
+   "returned": 100,
+   "new": 72
+  },
+  {
+   "query": "Myanmar paddy land",
+   "returned": 100,
+   "new": 78
+  },
+  {
+   "query": "Myanmar agricultural productivity",
+   "returned": 100,
+   "new": 50
+  },
+  {
+   "query": "Myanmar rice policy",
+   "returned": 100,
+   "new": 53
+  },
+  {
+   "query": "Mekong rice Myanmar",
+   "returned": 100,
+   "new": 48
+  }
+ ],
+ "cgspace_queries": [
+  {
+   "query": "Myanmar rice",
+   "total_hits": 2063,
+   "new": 400
+  },
+  {
+   "query": "Myanmar paddy",
+   "total_hits": 667,
+   "new": 206
+  },
+  {
+   "query": "Myanmar mechanization",
+   "total_hits": 1815,
+   "new": 149
+  },
+  {
+   "query": "Myanmar agricultural performance survey",
+   "total_hits": 1248,
+   "new": 153
+  },
+  {
+   "query": "Myanmar fertilizer",
+   "total_hits": 1543,
+   "new": 75
+  },
+  {
+   "query": "Myanmar farmers",
+   "total_hits": 2404,
+   "new": 49
+  },
+  {
+   "query": "Myanmar irrigation",
+   "total_hits": 1512,
+   "new": 45
+  },
+  {
+   "query": "Myanmar Ayeyarwady",
+   "total_hits": 307,
+   "new": 38
+  },
+  {
+   "query": "Myanmar dry zone",
+   "total_hits": 971,
+   "new": 27
+  },
+  {
+   "query": "Myanmar climate-smart",
+   "total_hits": 808,
+   "new": 169
+  },
+  {
+   "query": "Myanmar postharvest",
+   "total_hits": 689,
+   "new": 146
+  },
+  {
+   "query": "Myanmar labor migration rural",
+   "total_hits": 528,
+   "new": 136
+  },
+  {
+   "query": "Myanmar seed",
+   "total_hits": 1592,
+   "new": 13
+  },
+  {
+   "query": "Myanmar extension",
+   "total_hits": 1959,
+   "new": 22
+  },
+  {
+   "query": "Myanmar agricultural wages",
+   "total_hits": 616,
+   "new": 53
+  },
+  {
+   "query": "Myanmar rice value chain",
+   "total_hits": 1105,
+   "new": 21
+  },
+  {
+   "query": "Myanmar conflict agriculture",
+   "total_hits": 1079,
+   "new": 36
+  },
+  {
+   "query": "Myanmar household welfare survey",
+   "total_hits": 630,
+   "new": 69
+  }
+ ],
+ "inclusion": [
+  "Published 2000-2026",
+  "Myanmar (or Burma/Ayeyarwady/Irrawaddy or a Myanmar state/region) in title, or Myanmar in abstract/coverage metadata for CGSpace",
+  "Rice/paddy in title, abstract, or rice-relevant agricultural topic with rice in abstract",
+  "Benchmark studies from Thailand, Vietnam, Bangladesh, India, China, Cambodia, Laos added by targeted search"
+ ],
+ "exclusion": [
+  "Colonial-era economic history (pre-1948 subject matter)",
+  "Not agriculture (e.g., health, displacement narratives)",
+  "Not Myanmar (false positives such as Karnataka 'dry zone', Philippines 'Bago')",
+  "Duplicates (DOI, normalised title), Burmese-language duplicates of English reports, preprints with published versions",
+  "News briefings and book reviews"
+ ],
+ "flow": {
+  "crossref_unique": 3632,
+  "crossref_title_screen_rice": 173,
+  "crossref_title_screen_agri": 271,
+  "cgspace_unique": 1807,
+  "cgspace_candidates": 125,
+  "merged_after_dedup": 305,
+  "removed_full_text_qc": 1,
+  "targeted_additions": 15,
+  "final_studies": 319,
+  "report_series_collapsed": 67,
+  "with_abstract": 225,
+  "curated": 89
+ },
+ "exclusion_reasons": {
+  "not rice (Stata review)": 1,
+  "book review": 1,
+  "not agriculture": 1,
+  "historical colonial period": 4,
+  "duplicate chapter of journal article": 1,
+  "preprint of published version": 4,
+  "news briefing": 1,
+  "Burmese-language duplicate": 4,
+  "political geography; no production analysis": 1,
+  "not Myanmar (Karnataka)": 2,
+  "duplicate record": 1,
+  "not Myanmar (India)": 1,
+  "title screen: not rice-relevant agriculture / out of scope": 154
+ },
+ "excluded_qc": [
+  {
+   "study_id": "S283",
+   "title": "Spatial Patterns, Farmer Practices, Rice Yield, and Socio-Economic Profile of Triple-Rice (Oryza sativa L.) Monocropping in the Bago River Irrigation System, Negros Occidental, Philippines",
+   "reason": "Location is Bago River Irrigation System, Negros Occidental, Philippines - not Myanmar (false positive on 'Bago')."
+  }
+ ],
+ "blind_spots": [
+  "Burmese-language literature was not systematically searched (no indexed Burmese-language database was reachable); Burmese terms are supported in the search box only",
+  "Google Scholar not used (no API); some theses and university repository items (e.g., Yezin Agricultural University) may be missing",
+  "80+ records lack abstracts - their tags are title-only and their confidence is set to Low",
+  "Automatic tags (problem, method, data type) are rule-based and imperfect; curated records are marked",
+  "Full texts behind paywalls were not read; findings for those come from abstracts",
+  "OpenAlex citation chaining unavailable on search date; citation edges come from Crossref reference lists only (publisher-deposited references)",
+  "Official Myanmar statistics after 2020 could not be accessed"
+ ],
+ "scoring": {
+  "impact_keys": [
+   "importance",
+   "farmers_affected",
+   "economic_impact",
+   "yield_impact",
+   "labor_time_saving",
+   "scalability"
+  ],
+  "feasibility_keys": [
+   "data_availability",
+   "data_reliability",
+   "technical_feasibility",
+   "validation_feasibility",
+   "implementation_feasibility"
+  ],
+  "formula": "Score = Impact index x Feasibility index (each the mean of its 1-5 criteria; max 25). Novelty is shown but used only as a tie-breaker, so technically novel projects are not rewarded unless impact and feasibility are high.",
+  "criteria": [
+   "importance",
+   "farmers_affected",
+   "economic_impact",
+   "yield_impact",
+   "labor_time_saving",
+   "data_availability",
+   "data_reliability",
+   "technical_feasibility",
+   "validation_feasibility",
+   "implementation_feasibility",
+   "novelty",
+   "scalability"
+  ]
+ },
+ "retrieval": "Hybrid lexical retrieval: field-weighted BM25 + synonym/concept expansion (English and partial Burmese term map) + fuzzy token matching + query-intent parsing (years, regions, record type, resolution, implementation status). This is NOT embedding-based semantic search; the adapter interface allows an embedding or vector-database backend to be swapped in later.",
+ "confidence_rubric": [
+  "High: peer-reviewed journal or Tier-2 institution with abstract/method available",
+  "Medium: conference/working paper, or curated with design caveats",
+  "Low: no abstract available, low-scrutiny venue, before-after/no-counterfactual design, or not independently verified"
+ ],
+ "score_rubric": "Problem scores (1-5): severity = magnitude x breadth of documented losses; evidence strength = number/quality of independent sources; data availability = open data at needed resolution; DS potential = whether analysis can change a decision; implementation gap = proven solutions not reaching farmers; data gap = missing measurement."
+}

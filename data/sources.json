@@ -1,0 +1,3197 @@
+[
+ {
+  "source_id": "S001",
+  "kind": "Study",
+  "citation": "Sayuri AKUZAWA, Hiroko NAGANO, Masayo IKEDA et al. (2002). Physicochemical Characteristics of Rice and Suitability of the Traditional Cooking Method of Rice in the Union of Myanmar.. Food Science and Technology Research. https://doi.org/10.3136/fstr.8.268",
+  "url": "https://doi.org/10.3136/fstr.8.268",
+  "doi": "10.3136/fstr.8.268",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S002",
+  "kind": "Study",
+  "citation": "Maung Maung Naing, Masayoshi Satoh (2004). Effective use of a reservoir for paddy irrigation in tropical monsoon Asia—a case study of the Ngamoeyeik Project, Lower Myanmar. Paddy and Water Environment. https://doi.org/10.1007/s10333-004-0038-3",
+  "url": "https://doi.org/10.1007/s10333-004-0038-3",
+  "doi": "10.1007/s10333-004-0038-3",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S003",
+  "kind": "Study",
+  "citation": "A. Ramakrishna, Su Su Win, T. J. Rego et al. (2004). On-Farm Nutrient Balance Studies in the Dry Zone of Myanmar. International Journal of Agricultural Sustainability. https://doi.org/10.1080/14735903.2004.9684570",
+  "url": "https://doi.org/10.1080/14735903.2004.9684570",
+  "doi": "10.1080/14735903.2004.9684570",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S004",
+  "kind": "Study",
+  "citation": "Aye Aye Han, Teruhisa Umezaki, Hiroshi Ehara et al. (2005). Growth and Yield Characteristics of Manaw Thu Kha, a Myanmar Rice Cultivar, Influenced by the Kind of Chemical Fertilizer and its Application Method. Japanese Journal of Crop Science. https://doi.org/10.1626/jcs.74.260",
+  "url": "https://doi.org/10.1626/jcs.74.260",
+  "doi": "10.1626/jcs.74.260",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S005",
+  "kind": "Study",
+  "citation": "Hnin Yu Lwin, Tomoyuki Yutaka, Susumu Fukuda et al. (2005). Market Integration Analysis in Selected Rice Markets of Myanmar. Journal of the Faculty of Agriculture, Kyushu University. https://doi.org/10.5109/4678",
+  "url": "https://doi.org/10.5109/4678",
+  "doi": "10.5109/4678",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S006",
+  "kind": "Study",
+  "citation": "Aung Than Oo, Masafumi Tanaka (2005). Water Management of an Irrigation System for Rice Double Cultivation Area in Lower Myanmar : In Case of the Ngamoeyeik Irrigation System. Journal of Rainwater Catchment Systems. https://doi.org/10.7132/jrcsa.kj00004364655",
+  "url": "https://doi.org/10.7132/jrcsa.kj00004364655",
+  "doi": "10.7132/jrcsa.kj00004364655",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S007",
+  "kind": "Study",
+  "citation": "Aung Than Oo, Sanga-Ngoie Kazadi, Kaoru Fukuyama (2007). Land Cover Mapping for Agricultural Water Management of Rice-based Irrigation Systems in Myanmar Using GIS and Remote Sensing. Journal of Rainwater Catchment Systems. https://doi.org/10.7132/jrcsa.kj00004557609",
+  "url": "https://doi.org/10.7132/jrcsa.kj00004557609",
+  "doi": "10.7132/jrcsa.kj00004557609",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S008",
+  "kind": "Study",
+  "citation": "HUMAYUN KABIR, NORMAN UPHOFF (2007). RESULTS OF DISSEMINATING THE SYSTEM OF RICE INTENSIFICATION WITH FARMER FIELD SCHOOL METHODS IN NORTHERN MYANMAR. Experimental Agriculture. https://doi.org/10.1017/s0014479707005340",
+  "url": "https://doi.org/10.1017/s0014479707005340",
+  "doi": "10.1017/s0014479707005340",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S009",
+  "kind": "Study",
+  "citation": "Ikuko Okamoto (2007). Transforming Myanmar’s rice marketing. Myanmar: The state, community and the environment. https://doi.org/10.22459/m.10.2007.07",
+  "url": "https://doi.org/10.22459/m.10.2007.07",
+  "doi": "10.22459/m.10.2007.07",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S010",
+  "kind": "Study",
+  "citation": "P. P. Aung, T. Kumamaru, H. Satoh (2008). Genetic variation in storage protein and storage endosperm starch in local rice cultivars of Myanmar. Rice Genetics Collection Advances in Rice Genetics. https://doi.org/10.1142/9789812814319_0077",
+  "url": "https://doi.org/10.1142/9789812814319_0077",
+  "doi": "10.1142/9789812814319_0077",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S011",
+  "kind": "Study",
+  "citation": "Anon. (2010). 8. Recapitalizing Burma’s Rural Credit System. Ruling Myanmar. https://doi.org/10.1355/9789814311489-015",
+  "url": "https://doi.org/10.1355/9789814311489-015",
+  "doi": "10.1355/9789814311489-015",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S012",
+  "kind": "Study",
+  "citation": "Masahiko Matsuda (2010). Intensification level of rice farming in Myanmar: implication for its sustainable development. Environment, Development and Sustainability. https://doi.org/10.1007/s10668-010-9247-7",
+  "url": "https://doi.org/10.1007/s10668-010-9247-7",
+  "doi": "10.1007/s10668-010-9247-7",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S013",
+  "kind": "Study",
+  "citation": "Theingi Myint, Siegfried Bauer (2010). Market Integration and Price Causality in the Myanmar Rice Market. Asian Journal of Agriculture and Development. https://doi.org/10.37801/ajad2010.7.2.6",
+  "url": "https://doi.org/10.37801/ajad2010.7.2.6",
+  "doi": "10.37801/ajad2010.7.2.6",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S014",
+  "kind": "Study",
+  "citation": "Zin Thu Zar Maung, Pyone Pyone Kyi, Yi Yi Myint et al. (2010). Occurrence of the rice root nematode Hirschmanniella oryzae on monsoon rice in Myanmar. Trans/Form/Ação. https://doi.org/10.1590/s1982-56762010000100001",
+  "url": "https://doi.org/10.1590/s1982-56762010000100001",
+  "doi": "10.1590/s1982-56762010000100001",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S015",
+  "kind": "Study",
+  "citation": "Khin Thanda Win, Toshihiro Mochizuki (2010). Physiological efficiency under different nitrogen nutrition conditions and relationship with photosynthetic N-use efficiency in Myanmar local rice varieties (Oryza sativa L.). Journal of the Faculty of Agriculture, Kyushu University. https://doi.org/10.5109/17801",
+  "url": "https://doi.org/10.5109/17801",
+  "doi": "10.5109/17801",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S016",
+  "kind": "Study",
+  "citation": "P. P. Win, P. P. Kyi, D. De Waele (2011). Effect of agro-ecosystem on the occurrence of the rice root-knot nematode Meloidogyne graminicola on rice in Myanmar. Australasian Plant Pathology. https://doi.org/10.1007/s13313-011-0029-y",
+  "url": "https://doi.org/10.1007/s13313-011-0029-y",
+  "doi": "10.1007/s13313-011-0029-y",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S017",
+  "kind": "Study",
+  "citation": "Yin Lon, Kazuhiko Hotta, Teruaki Nanseki (2011). Impact of Land Fragmentation on Economic Feasibility of Farmers in Rice-Based Farming System in Myanmar. Journal of the Faculty of Agriculture, Kyushu University. https://doi.org/10.5109/19545",
+  "url": "https://doi.org/10.5109/19545",
+  "doi": "10.5109/19545",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S018",
+  "kind": "Study",
+  "citation": "Myint, Khin Myo, Arikit, Siwaret, Wanchana, Samart et al. (2012). A PCR-based marker for a locus conferring the aroma in Myanmar rice (Oryza sativa L.). Springer. https://doi.org/10.1007/s00122-012-1880-0",
+  "url": "https://doi.org/10.1007/s00122-012-1880-0",
+  "doi": "10.1007/s00122-012-1880-0",
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace); abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S019",
+  "kind": "Study",
+  "citation": "Toshihiro Kudo, Toshitaka Gokan, Ikuo Kuroiwa (2012). Distribution of Myanmar Rice Mills in the Age of Economic Integration. Economic Integration and the Location of Industries. https://doi.org/10.1057/9780230389427_7",
+  "url": "https://doi.org/10.1057/9780230389427_7",
+  "doi": "10.1057/9780230389427_7",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S020",
+  "kind": "Study",
+  "citation": "Yutaka Matsuno, Haruhiko Horino, Nobumasa Hatcho (2012). On-farm irrigation development and management in lower Myanmar: factors for sustainable rice production and collective action. Paddy and Water Environment. https://doi.org/10.1007/s10333-012-0336-0",
+  "url": "https://doi.org/10.1007/s10333-012-0336-0",
+  "doi": "10.1007/s10333-012-0336-0",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S021",
+  "kind": "Study",
+  "citation": "Khin Myo Myint, Brigitte Courtois, Ange-Marie Risterucci et al. (2012). Specific patterns of genetic diversity among aromatic rice varieties in Myanmar. Rice. https://doi.org/10.1186/1939-8433-5-20",
+  "url": "https://doi.org/10.1186/1939-8433-5-20",
+  "doi": "10.1186/1939-8433-5-20",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S022",
+  "kind": "Study",
+  "citation": "Htwe, Nyo Me, Singleton, Grant R., Nelson, Andrew D. (2013). Can rodent outbreaks be driven by major climatic events? Evidence from cyclone Nargis in the Ayeyawady Delta, Myanmar. Wiley. https://doi.org/10.1002/ps.3292",
+  "url": "https://doi.org/10.1002/ps.3292",
+  "doi": "10.1002/ps.3292",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S023",
+  "kind": "Study",
+  "citation": "Manzoor H. Dar, Alain de Janvry, Kyle Emerick et al. (2013). Flood-tolerant rice reduces yield variability and raises expected yield, differentially benefitting socially disadvantaged groups. Scientific Reports. https://doi.org/10.1038/srep03315",
+  "url": "https://doi.org/10.1038/srep03315",
+  "doi": "10.1038/srep03315",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S024",
+  "kind": "Study",
+  "citation": "May Sann Aung, Hiroshi Masuda, Takanori Kobayashi et al. (2013). Iron Biofortification of Myanmar Rice. Frontiers in Plant Science. https://doi.org/10.3389/fpls.2013.00158",
+  "url": "https://doi.org/10.3389/fpls.2013.00158",
+  "doi": "10.3389/fpls.2013.00158",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S025",
+  "kind": "Study",
+  "citation": "A. Kyi, N. Nyo, K.T. Myint et al. (2013). POSTHARVEST HANDLING SYSTEM OF AGRICULTURAL PRODUCE IN MYANMAR. Acta Horticulturae. https://doi.org/10.17660/actahortic.2013.989.33",
+  "url": "https://doi.org/10.17660/actahortic.2013.989.33",
+  "doi": "10.17660/actahortic.2013.989.33",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S026",
+  "kind": "Study",
+  "citation": "Takao MYODA, Kenji IRIE, Tint Tun YE et al. (2013). Pasting Properties and Amylose Contents in Landraces of Myanmar Rice. Food Preservation Science. https://doi.org/10.5891/jafps.39.213",
+  "url": "https://doi.org/10.5891/jafps.39.213",
+  "doi": "10.5891/jafps.39.213",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S027",
+  "kind": "Study",
+  "citation": "Pa Pa Win, Pyone Pyone Kyi, Zin Thu Zar Maung et al. (2013). Population dynamics of Meloidogyne graminicola and Hirschmanniella oryzae in a double rice-cropping sequence in the lowlands of Myanmar. Nematology. https://doi.org/10.1163/15685411-00002719",
+  "url": "https://doi.org/10.1163/15685411-00002719",
+  "doi": "10.1163/15685411-00002719",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S028",
+  "kind": "Study",
+  "citation": "Z.T.Z. Maung, P.P. Win, P.P. Kyi et al. (2013). Population dynamics of the rice root nematode Hirschmanniella oryzae on monsoon rice in Myanmar. Archives Of Phytopathology And Plant Protection. https://doi.org/10.1080/03235408.2012.740982",
+  "url": "https://doi.org/10.1080/03235408.2012.740982",
+  "doi": "10.1080/03235408.2012.740982",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S029",
+  "kind": "Study",
+  "citation": "Koji Kubo (2013). Rice Yield Gap between Myanmar and Vietnam: A Matter of Price Policy or Public Investment in Technology?. Asian Journal of Agriculture and Development. https://doi.org/10.37801/ajad2013.10.1.1",
+  "url": "https://doi.org/10.37801/ajad2013.10.1.1",
+  "doi": "10.37801/ajad2013.10.1.1",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S030",
+  "kind": "Study",
+  "citation": "S. Shrestha, N. M. M. Thin, P. Deb (2014). Assessment of climate change impacts on irrigation water requirement and rice yield for Ngamoeyeik Irrigation Project in Myanmar. Journal of Water and Climate Change. https://doi.org/10.2166/wcc.2014.114",
+  "url": "https://doi.org/10.2166/wcc.2014.114",
+  "doi": "10.2166/wcc.2014.114",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S031",
+  "kind": "Study",
+  "citation": "Nyo Nyo Mar, Takayuki Umemoto, Siti Nor Akmar Abdulah et al. (2014). Chain Length Distribution of Amylopectin and Physicochemical Properties of Starch in Myanmar Rice Cultivars. International Journal of Food Properties. https://doi.org/10.1080/10942912.2013.822884",
+  "url": "https://doi.org/10.1080/10942912.2013.822884",
+  "doi": "10.1080/10942912.2013.822884",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S032",
+  "kind": "Study",
+  "citation": "World Bank (2014). Myanmar : Capitalizing on Rice Export Opportunities. Bangkok. https://doi.org/10.1596/17278",
+  "url": "https://doi.org/10.1596/17278",
+  "doi": "10.1596/17278",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S033",
+  "kind": "Study",
+  "citation": "World Bank Group (2014). Myanmar : Rice Price Reduction and Poverty Reduction. Washington, DC. https://doi.org/10.1596/21119",
+  "url": "https://doi.org/10.1596/21119",
+  "doi": "10.1596/21119",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S034",
+  "kind": "Study",
+  "citation": "World Bank (2014). Myanmar Agricultural Development Bank : Initial Assessment and Restructuring Options. Bangkok. https://doi.org/10.1596/17782",
+  "url": "https://doi.org/10.1596/17782",
+  "doi": "10.1596/17782",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S035",
+  "kind": "Study",
+  "citation": "Oo, Tin Htut, Shwe, Tin Maung (2014). Role of seed in transforming of agriculture in Myanmar. ReSAKSS Asia Policy Note.",
+  "url": "https://hdl.handle.net/10568/150126",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S036",
+  "kind": "Study",
+  "citation": "Khin Thandar Win, Nilar Aye, Kyaw Zaya Htun (2014). Vulnerability of Flood Hazard in Selected Ayeyarwady Delta Region, Myanmar. International Journal of Science and Engineering Applications. https://doi.org/10.7753/ijsea0303.1003",
+  "url": "https://doi.org/10.7753/ijsea0303.1003",
+  "doi": "10.7753/ijsea0303.1003",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S037",
+  "kind": "Study",
+  "citation": "Win Pa Pa Soe, Masahiro Moritaka, Susumu Fukuda (2015). An Analysis of the Factors Influencing Marketing Channel Choice by Paddy Rice Farmers in Myanmar. Journal of the Faculty of Agriculture, Kyushu University. https://doi.org/10.5109/1543425",
+  "url": "https://doi.org/10.5109/1543425",
+  "doi": "10.5109/1543425",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S038",
+  "kind": "Study",
+  "citation": "YuYu Tun, Hye-Jung Kang (2015). An Analysis on the Factors Affecting Rice Production Efficiency in Myanmar. East Asian Economic Review. https://doi.org/10.11644/kiep.jeai.2015.19.2.295",
+  "url": "https://doi.org/10.11644/kiep.jeai.2015.19.2.295",
+  "doi": "10.11644/kiep.jeai.2015.19.2.295",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S039",
+  "kind": "Study",
+  "citation": "Phyu L. Myint, Orachos Napasintuwong (2015). Cost and Return Comparison between Paw San Rice and Non-Paw San Rice Production in Myanmar. PSAKU International Journal of Interdisciplinary Research. https://doi.org/10.12778/235108618x15452373185453",
+  "url": "https://doi.org/10.12778/235108618x15452373185453",
+  "doi": "10.12778/235108618x15452373185453",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S040",
+  "kind": "Study",
+  "citation": "Peeyush Soni, May Nwe Soe (2015). Energy balance and energy economic analyses of rice production systems in Ayeyarwaddy Region of Myanmar. Energy Efficiency. https://doi.org/10.1007/s12053-015-9359-x",
+  "url": "https://doi.org/10.1007/s12053-015-9359-x",
+  "doi": "10.1007/s12053-015-9359-x",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S041",
+  "kind": "Study",
+  "citation": "Lwin Maung Maung Swe, Rajendra Prasad Shrestha, Theo Ebbers et al. (2015). Farmers' perception of and adaptation to climate-change impacts in the Dry Zone of Myanmar. Climate and Development. https://doi.org/10.1080/17565529.2014.989188",
+  "url": "https://doi.org/10.1080/17565529.2014.989188",
+  "doi": "10.1080/17565529.2014.989188",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S042",
+  "kind": "Study",
+  "citation": "SeinnSeinn MU Ahmad MM (2015). Farmers’ Adaptation to Rainfall Variability and Salinity through Agronomic Practices in Lower Ayeyarwady Delta, Myanmar. Journal of Earth Science & Climatic Change. https://doi.org/10.4172/2157-7617.1000258",
+  "url": "https://doi.org/10.4172/2157-7617.1000258",
+  "doi": "10.4172/2157-7617.1000258",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S043",
+  "kind": "Study",
+  "citation": "Masaru Matsumoto, Myo Zaw, Seint San Aye (2015). Modification of plant bait technique for direct diagnosis for Rhizoctonia rice pathogens from Myanmar paddy field soils. Archives of Phytopathology and Plant Protection. https://doi.org/10.1080/03235408.2016.1140562",
+  "url": "https://doi.org/10.1080/03235408.2016.1140562",
+  "doi": "10.1080/03235408.2016.1140562",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S044",
+  "kind": "Study",
+  "citation": "Tun, Than, Kennedy, Adam, Nischan, Ulrike (2015). Promoting agricultural growth in Myanmar: A review of policies and an assessment of knowledge gaps. Feed the Future Innovation Lab for Food Security Policy Research Paper.",
+  "url": "https://hdl.handle.net/10568/150031",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S045",
+  "kind": "Study",
+  "citation": "Win Win Zin, Akiyuki Kawasaki, Shelly Win (2015). River flood inundation mapping in the Bago River Basin, Myanmar. Hydrological Research Letters. https://doi.org/10.3178/hrl.9.97",
+  "url": "https://doi.org/10.3178/hrl.9.97",
+  "doi": "10.3178/hrl.9.97",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S046",
+  "kind": "Study",
+  "citation": "Aung Zaw Oo, Khin Thuzar Win, Sonoko Dorothea Bellingrath-Kimura (2015). Within field spatial variation in methane emissions from lowland rice in Myanmar. SpringerPlus. https://doi.org/10.1186/s40064-015-0901-2",
+  "url": "https://doi.org/10.1186/s40064-015-0901-2",
+  "doi": "10.1186/s40064-015-0901-2",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S047",
+  "kind": "Study",
+  "citation": "Koichi Fujita (2016). Agriculture and Rural Development Strategy in Myanmar: With a Focus on the Rice Sector. The Myanmar Economy. https://doi.org/10.1007/978-4-431-55735-7_5",
+  "url": "https://doi.org/10.1007/978-4-431-55735-7_5",
+  "doi": "10.1007/978-4-431-55735-7_5",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S048",
+  "kind": "Study",
+  "citation": "Nguyen-Thanh Son, Chi-Farn Chen, Cheng-Ru Chen et al. (2016). Delineating and predicting changes in rice cropping systems using multi-temporal MODIS data in Myanmar. Journal of Spatial Science. https://doi.org/10.1080/14498596.2016.1266972",
+  "url": "https://doi.org/10.1080/14498596.2016.1266972",
+  "doi": "10.1080/14498596.2016.1266972",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S049",
+  "kind": "Study",
+  "citation": "P.L. Myint, O. Napasintuw (2016). Economic Analysis of Paw San Rice Adoption in Myanmar. Asian Journal of Agricultural Research. https://doi.org/10.3923/ajar.2016.175.184",
+  "url": "https://doi.org/10.3923/ajar.2016.175.184",
+  "doi": "10.3923/ajar.2016.175.184",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S050",
+  "kind": "Study",
+  "citation": "Wunna, Kazuo N. Watanabe, Ryo Ohsawa et al. (2016). Genetic variation of rice (<i>Oryza sativa</i> L.) germplasm in Myanmar based on genomic compositions of DNA markers. Breeding Science. https://doi.org/10.1270/jsbbs.16033",
+  "url": "https://doi.org/10.1270/jsbbs.16033",
+  "doi": "10.1270/jsbbs.16033",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S051",
+  "kind": "Study",
+  "citation": "World Bank Group (2016). Leveraging the Rice Value Chain for Poverty Reduction in Cambodia, Lao PDR, and Myanmar. World Bank, Washington, DC. https://doi.org/10.1596/24711",
+  "url": "https://doi.org/10.1596/24711",
+  "doi": "10.1596/24711",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S052",
+  "kind": "Study",
+  "citation": "Nyo Me Htwe, Grant R Singleton, Pyai Phyo Maw (2016). Post‐harvest impacts of rodents in Myanmar; how much rice do they eat and damage?. Pest Management Science. https://doi.org/10.1002/ps.4292",
+  "url": "https://doi.org/10.1002/ps.4292",
+  "doi": "10.1002/ps.4292",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S053",
+  "kind": "Study",
+  "citation": "Nan Khine Su Thwin, Kohya Takahashi, Koshi Maeda (2016). The Activities of Rice Specialized Companies in the Supply Chain of Rice in Myanmar. Journal of the Faculty of Agriculture, Kyushu University. https://doi.org/10.5109/1686506",
+  "url": "https://doi.org/10.5109/1686506",
+  "doi": "10.5109/1686506",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S054",
+  "kind": "Study",
+  "citation": "Naylin Oo (2016). The implementation of small and medium-sized enterprise development in the rice sector of Myanmar: Empirical research findings. Asia-Pacific Development Journal. https://doi.org/10.18356/3b3dce0b-en",
+  "url": "https://doi.org/10.18356/3b3dce0b-en",
+  "doi": "10.18356/3b3dce0b-en",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S055",
+  "kind": "Study",
+  "citation": "Mukesh S. Boori, Komal Choudhary, Mariele Evers et al. (2017). A review of food security and flood risk dynamics in central dry zone area of Myanmar. Procedia Engineering. https://doi.org/10.1016/j.proeng.2017.09.600",
+  "url": "https://doi.org/10.1016/j.proeng.2017.09.600",
+  "doi": "10.1016/j.proeng.2017.09.600",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S056",
+  "kind": "Study",
+  "citation": "J. Ringer (2017). Agricultural extension in post-conflict Myanmar (Burma): context and lessons learned.. Building agricultural extension capacity in post-conflict settings. https://doi.org/10.1079/9781786390592.0115",
+  "url": "https://doi.org/10.1079/9781786390592.0115",
+  "doi": "10.1079/9781786390592.0115",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S057",
+  "kind": "Study",
+  "citation": "Cho, Ame, Belton, Ben, Boughton, Duncan (2017). Crop production and profitability in Ayeyarwady and Yangon. Food Security Policy Research Papers.",
+  "url": "https://hdl.handle.net/10568/147423",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S058",
+  "kind": "Study",
+  "citation": "Aung Tun Oo, Guido Van Huylenbroeck, Stijn Speelman (2017). Determining factors for the application of climate change adaptation strategies among farmers in Magwe District, dry zone region of Myanmar. International Journal of Climate Change Strategies and Management. https://doi.org/10.1108/ijccsm-09-2015-0134",
+  "url": "https://doi.org/10.1108/ijccsm-09-2015-0134",
+  "doi": "10.1108/ijccsm-09-2015-0134",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S059",
+  "kind": "Study",
+  "citation": "Tun Oo Aung, Van Huylenbroecka Guido, Speelman Stijn (2017). Differential impacts of an irrigation project: Case study of the Swar Dam Project in Yedashe, Bago region of Myanmar. Journal of Development and Agricultural Economics. https://doi.org/10.5897/jdae2017.0824",
+  "url": "https://doi.org/10.5897/jdae2017.0824",
+  "doi": "10.5897/jdae2017.0824",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S060",
+  "kind": "Study",
+  "citation": "Nathan Torbick, Diya Chowdhury, William Salas et al. (2017). Monitoring Rice Agriculture across Myanmar Using Time Series Sentinel-1 Assisted by Landsat-8 and PALSAR-2. Remote Sensing. https://doi.org/10.3390/rs9020119",
+  "url": "https://doi.org/10.3390/rs9020119",
+  "doi": "10.3390/rs9020119",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S061",
+  "kind": "Study",
+  "citation": "Alice G. Laborte, Mary Anne Gutierrez, Jane Girly Balanza et al. (2017). RiceAtlas, a spatial database of global rice calendars and production. Scientific Data. https://doi.org/10.1038/sdata.2017.74",
+  "url": "https://doi.org/10.1038/sdata.2017.74",
+  "doi": "10.1038/sdata.2017.74",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S062",
+  "kind": "Study",
+  "citation": "Naing, Zaw Min (2017). Ten years of technological change in dry zone agriculture. Food Security Policy Project Research Highlights.",
+  "url": "https://hdl.handle.net/10568/148373",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S063",
+  "kind": "Study",
+  "citation": "Anon. (2018). 5. Myanmar’s Rural Revolution: Mechanization and Structural Transformation. Myanmar Transformed?. https://doi.org/10.1355/9789814818551-009",
+  "url": "https://doi.org/10.1355/9789814818551-009",
+  "doi": "10.1355/9789814818551-009",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S064",
+  "kind": "Study",
+  "citation": "Filipski, Mateusz J., Belton, Ben, van Asselt, Joanna (2018). Agricultural mechanization in the dry zone of Myanmar. ReSAKSS Asia Policy Note.",
+  "url": "https://hdl.handle.net/10568/147309",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S065",
+  "kind": "Study",
+  "citation": "Naw M. Lar, Nathsuda Pumijumnong, Raywadee Roachanakanan et al. (2018). An Assessment of Climate Variability on Farmers’ Livelihoods Vulnerability in Ayeyarwady Delta of Myanmar. Applied Environmental Research. https://doi.org/10.35762/aer.2018.40.1.1",
+  "url": "https://doi.org/10.35762/aer.2018.40.1.1",
+  "doi": "10.35762/aer.2018.40.1.1",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S066",
+  "kind": "Study",
+  "citation": "Nyein Nyein Kyaw, Soojung Ahn, Sang Hyeon Lee (2018). Analysis of the Factors Influencing Market Participation among Smallholder Rice Farmers in Magway Region, Central Dry Zone of Myanmar. Sustainability. https://doi.org/10.3390/su10124441",
+  "url": "https://doi.org/10.3390/su10124441",
+  "doi": "10.3390/su10124441",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S067",
+  "kind": "Study",
+  "citation": "Thae Nu Wah (2018). Analysis on Detection of Chalkiness for Myanmar Rice Using Image Processing. Machine Learning Research. https://doi.org/10.11648/j.mlr.20180302.14",
+  "url": "https://doi.org/10.11648/j.mlr.20180302.14",
+  "doi": "10.11648/j.mlr.20180302.14",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S068",
+  "kind": "Study",
+  "citation": "Thae Nu Wah, Pann Ei San, Thandar Hlaing (2018). Analysis on Feature Extraction and Classification of Rice Kernels for Myanmar Rice Using Image Processing Techniques. International Journal of Scientific and Research Publications (IJSRP). https://doi.org/10.29322/ijsrp.8.8.2018.p8078",
+  "url": "https://doi.org/10.29322/ijsrp.8.8.2018.p8078",
+  "doi": "10.29322/ijsrp.8.8.2018.p8078",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S069",
+  "kind": "Study",
+  "citation": "Naing Kyi Win, Kyaw Kyaw Win, Cho Cho San et al. (2018). Analyzing the Roles of Agricultural Extension Agents in Hybrid Rice Technology Decision-Making Process of Farmers, Nay Pyi Taw, Myanmar. Economics World. https://doi.org/10.17265/2328-7144/2018.04.006",
+  "url": "https://doi.org/10.17265/2328-7144/2018.04.006",
+  "doi": "10.17265/2328-7144/2018.04.006",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S070",
+  "kind": "Study",
+  "citation": "Nguyen-Van-Hung, Tran-Van-Tuan, Pyseth Meas et al. (2018). Best practices for paddy drying: case studies in Vietnam, Cambodia, Philippines, and Myanmar. Plant Production Science. https://doi.org/10.1080/1343943x.2018.1543547",
+  "url": "https://doi.org/10.1080/1343943x.2018.1543547",
+  "doi": "10.1080/1343943x.2018.1543547",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S071",
+  "kind": "Study",
+  "citation": "Lwin, Lu Min, Htun, Khun Moe (2018). Credit access and utilization in agriculture and aquaculture in the Ayeyarwady delta. Food Security Policy Project Research Highlights.",
+  "url": "https://hdl.handle.net/10568/147420",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S072",
+  "kind": "Study",
+  "citation": "Rishiraj Dutta (2018). Drought Monitoring in the Dry Zone of Myanmar using MODIS Derived NDVI and Satellite Derived CHIRPS Precipitation Data. Sustainable Agriculture Research. https://doi.org/10.5539/sar.v7n2p46",
+  "url": "https://doi.org/10.5539/sar.v7n2p46",
+  "doi": "10.5539/sar.v7n2p46",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S073",
+  "kind": "Study",
+  "citation": "Gumma, Murali K., Thenkabail, Prasad S., Kumara Charyulu, Deevi et al. (2018). Mapping cropland fallow areas in Myanmar to scale up sustainable intensification of pulse crops in the farming system. Informa UK Limited. https://doi.org/10.1080/15481603.2018.1482855",
+  "url": "https://doi.org/10.1080/15481603.2018.1482855",
+  "doi": "10.1080/15481603.2018.1482855",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S074",
+  "kind": "Study",
+  "citation": "Anon. (2018). Myanmar rice industry and policies towards value addition and export promotion. Promoting rice farmer's market through value-adding activities. https://doi.org/10.56669/zxcs8160",
+  "url": "https://doi.org/10.56669/zxcs8160",
+  "doi": "10.56669/zxcs8160",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S075",
+  "kind": "Study",
+  "citation": "Alexander M. Stuart, Krishna P. Devkota, Takahiro Sato et al. (2018). On-farm assessment of different rice crop management practices in the Mekong Delta, Vietnam, using sustainability performance indicators. Field Crops Research. https://doi.org/10.1016/j.fcr.2018.10.001",
+  "url": "https://doi.org/10.1016/j.fcr.2018.10.001",
+  "doi": "10.1016/j.fcr.2018.10.001",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S076",
+  "kind": "Study",
+  "citation": "Zhenling Cui, Hongyan Zhang, Xinping Chen et al. (2018). Pursuing sustainable productivity with millions of smallholder farmers. Nature. https://doi.org/10.1038/nature25785",
+  "url": "https://doi.org/10.1038/nature25785",
+  "doi": "10.1038/nature25785",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S077",
+  "kind": "Study",
+  "citation": "Peter S. Cornish, Craig Birchall, David F. Herridge et al. (2018). Rainfall-related opportunities, risks and constraints to rainfed cropping in the Central Dry Zone of Myanmar as defined by soil water balance modelling. Agricultural Systems. https://doi.org/10.1016/j.agsy.2018.04.003",
+  "url": "https://doi.org/10.1016/j.agsy.2018.04.003",
+  "doi": "10.1016/j.agsy.2018.04.003",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S078",
+  "kind": "Study",
+  "citation": "Naing Kyi Win, Kyaw Kyaw Win, Cho Cho San et al. (2018). Researchers’ Attitudes towards Varietal Development of Hybrid Rice: A Case Study in Myanmar. Journal of Life Sciences. https://doi.org/10.17265/1934-7391/2018.02.006",
+  "url": "https://doi.org/10.17265/1934-7391/2018.02.006",
+  "doi": "10.17265/1934-7391/2018.02.006",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S079",
+  "kind": "Study",
+  "citation": "Connor, Melanie (2018). Rice farming in Myanmar: Effects of adoption of best management practices on livelihoods and food security of rural women. International Rice Research Institute.",
+  "url": "https://hdl.handle.net/10568/120765",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S080",
+  "kind": "Study",
+  "citation": "Mu Mu Than (2018). Roles and Efforts of the Irrigation Sector in Myanmar Agricultural Practice. Irrigation and Drainage. https://doi.org/10.1002/ird.2214",
+  "url": "https://doi.org/10.1002/ird.2214",
+  "doi": "10.1002/ird.2214",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S081",
+  "kind": "Study",
+  "citation": "Xiaobo Wang, Shaoqiang Wang, Jinghua Chen et al. (2018). Simulating potential yields of Chinese super hybrid rice in Bangladesh, India and Myanmar with EPIC model. Journal of Geographical Sciences. https://doi.org/10.1007/s11442-018-1519-4",
+  "url": "https://doi.org/10.1007/s11442-018-1519-4",
+  "doi": "10.1007/s11442-018-1519-4",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S082",
+  "kind": "Study",
+  "citation": "Nilar Aung, Hoa‐Thi‐Minh Nguyen, Robert Sparrow (2018). The Impact of Credit Policy on Rice Production in Myanmar. Journal of Agricultural Economics. https://doi.org/10.1111/1477-9552.12299",
+  "url": "https://doi.org/10.1111/1477-9552.12299",
+  "doi": "10.1111/1477-9552.12299",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S083",
+  "kind": "Study",
+  "citation": "S. de Silva, P. Schmitter, N. Thiha et al. (2019). A handbook for establishing water user associations in pump-based irrigation schemes in Myanmar. International Water Management Institute (IWMI). https://doi.org/10.5337/2019.213",
+  "url": "https://doi.org/10.5337/2019.213",
+  "doi": "10.5337/2019.213",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S084",
+  "kind": "Study",
+  "citation": "CGIAR Research Program on Rice (2019). Adoption of improved rice management practices in Southeast Asia. CRP Outcome Impact Case Report.",
+  "url": "https://hdl.handle.net/10568/121682",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S085",
+  "kind": "Study",
+  "citation": "Belton, Ben, Fang, Peixun, Abaidoo, Eric (2019). Agricultural machinery supply businesses in Myanmar's dry zone: Growth and transformation. Food Security Policy Research Papers.",
+  "url": "https://hdl.handle.net/10568/147253",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S086",
+  "kind": "Study",
+  "citation": "Thuzar Linn, Broos Maenhout (2019). Analysis of the Operational Constraints of the Rice Value Chain in Ayeyarwaddy Region, Myanmar. Asian Journal of Agriculture and Development. https://doi.org/10.37801/ajad2019.16.1.3",
+  "url": "https://doi.org/10.37801/ajad2019.16.1.3",
+  "doi": "10.37801/ajad2019.16.1.3",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S087",
+  "kind": "Study",
+  "citation": "Xiaodong Huang, Beth Ziniti, Nathan Torbick (2019). Assessing Conflict Driven Food Security in Rakhine, Myanmar with Multisource Imagery. Land. https://doi.org/10.3390/land8060095",
+  "url": "https://doi.org/10.3390/land8060095",
+  "doi": "10.3390/land8060095",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S088",
+  "kind": "Study",
+  "citation": "International Food Policy Research Institute (IFPRI) (2019). Assessing agricultural trade comparative advantage of Myanmar and its main competitors: Findings from UN Comtrade. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.133204",
+  "url": "https://doi.org/10.2499/p15738coll2.133204",
+  "doi": "10.2499/p15738coll2.133204",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S089",
+  "kind": "Study",
+  "citation": "Nyo Mar Htwe, Su Latt Phyu, Chan Nyein Thu (2019). Assessment of Genetic Variability and Character Association of Myanmar Local Rice (Oryza sativa L.) Germplasm. Journal of Experimental Agriculture International. https://doi.org/10.9734/jeai/2019/v40i330369",
+  "url": "https://doi.org/10.9734/jeai/2019/v40i330369",
+  "doi": "10.9734/jeai/2019/v40i330369",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S090",
+  "kind": "Study",
+  "citation": "Hla Myo Thwe, Paul Kristiansen, David F. Herridge (2019). Benchmarks for improved productivity and profitability of monsoon rice in lower Myanmar. Field Crops Research. https://doi.org/10.1016/j.fcr.2019.01.004",
+  "url": "https://doi.org/10.1016/j.fcr.2019.01.004",
+  "doi": "10.1016/j.fcr.2019.01.004",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S091",
+  "kind": "Study",
+  "citation": "CGIAR Research Program on Rice (2019). Combine harvesting introduced in Southeast Asia. CRP Outcome Impact Case Report.",
+  "url": "https://hdl.handle.net/10568/121695",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S092",
+  "kind": "Study",
+  "citation": "Pa Pa Win, Pyone Pyone Kyi, Zin Thu Zar Maung et al. (2019). Crop rotation sequencing to minimize yield losses of summer-irrigated lowland rice in Myanmar caused by the rice root-knot nematode Meloidogyne graminicola. International Journal of Pest Management. https://doi.org/10.1080/09670874.2019.1647369",
+  "url": "https://doi.org/10.1080/09670874.2019.1647369",
+  "doi": "10.1080/09670874.2019.1647369",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S093",
+  "kind": "Study",
+  "citation": "CGIAR Research Program on Water, Land and Ecosystems (2019). Developing government capacity in geospatial tools for land water analysis in Myanmar, enabling rice crop flood-damage prevention measures.. CRP Innovation.",
+  "url": "https://hdl.handle.net/10568/122674",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S094",
+  "kind": "Study",
+  "citation": "Yarzar Hein, Kampanat Vijitsrikamol, Witsanu Attavanich et al. (2019). Do Farmers Perceive the Trends of Local Climate Variability Accurately? An Analysis of Farmers’ Perceptions and Meteorological Data in Myanmar. Climate. https://doi.org/10.3390/cli7050064",
+  "url": "https://doi.org/10.3390/cli7050064",
+  "doi": "10.3390/cli7050064",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S095",
+  "kind": "Study",
+  "citation": "CGIAR Research Program on Rice (2019). Downdraft rice husk furnace for paddy drying adopted in Southeast Asia. CRP Outcome Impact Case Report.",
+  "url": "https://hdl.handle.net/10568/121702",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S096",
+  "kind": "Study",
+  "citation": "Yarzar Hein, Kampanat Vijitsrikamol, Witsanu Attavanich et al. (2019). Economic Assessment of Climate Adaptation Options in Myanmar Rice-Based Farming System. Journal of Agricultural Science. https://doi.org/10.5539/jas.v11n5p35",
+  "url": "https://doi.org/10.5539/jas.v11n5p35",
+  "doi": "10.5539/jas.v11n5p35",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S097",
+  "kind": "Study",
+  "citation": "Mu Mu Than, Khin Mar Yee, Kyi Lint et al. (2019). Farmers Needs to Cope with Flooding in Waw Township, Bago Region. International Journal of Scientific and Research Publications (IJSRP). https://doi.org/10.29322/ijsrp.9.09.2019.p9325",
+  "url": "https://doi.org/10.29322/ijsrp.9.09.2019.p9325",
+  "doi": "10.29322/ijsrp.9.09.2019.p9325",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S098",
+  "kind": "Study",
+  "citation": "Schulte-Kellinghaus, Nikola (2019). Flood-based farming systems and human-water dynamics in the Ayeyarwady Delta, Myanmar.",
+  "url": "https://hdl.handle.net/10568/107257",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S099",
+  "kind": "Study",
+  "citation": "Nyo MarHtwe (2019). GENETIC DIVERGENCE FOR YIELD AND ITS COMPONENTS IN MYANMAR LOCAL RICE (ORYZA SATIVA L.) GERMPLASM.. International Journal of Advanced Research. https://doi.org/10.21474/ijar01/9347",
+  "url": "https://doi.org/10.21474/ijar01/9347",
+  "doi": "10.21474/ijar01/9347",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S100",
+  "kind": "Study",
+  "citation": "Leh, Mansoor, Schulte-Kellinghaus, Nikola, Rebelo, Lisa-Maria et al. (2019). Hydrologic characterization of different rice environments in the Ayeyarwady Delta, Myanmar.",
+  "url": "https://hdl.handle.net/10568/106828",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace); abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S101",
+  "kind": "Study",
+  "citation": "Phyu L. Myint, Orachos Napasintuwong, Naing K. Win (2019). Impact Assessment of Extension Program on Hybrid Rice Adoption in Myanmar. International Journal of Food Science and Agriculture. https://doi.org/10.26855/ijfsa.2019.09.003",
+  "url": "https://doi.org/10.26855/ijfsa.2019.09.003",
+  "doi": "10.26855/ijfsa.2019.09.003",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S102",
+  "kind": "Study",
+  "citation": "Mark J. Dubois, Michael Akester, Kimio Leemans et al. (2019). Integrating fish into irrigation infrastructure projects in Myanmar: rice-fish what if…?. Marine and Freshwater Research. https://doi.org/10.1071/mf19182",
+  "url": "https://doi.org/10.1071/mf19182",
+  "doi": "10.1071/mf19182",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S103",
+  "kind": "Study",
+  "citation": "Rosegrant, Mark W., Xie, Hua, Valmonte-Santos, Rowena (2019). Irrigation investment in Myanmar: Potential for expansion. International Food Policy Research Institute.",
+  "url": "https://hdl.handle.net/10568/147307",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S104",
+  "kind": "Study",
+  "citation": "Thuzar Linn, Broos Maenhout (2019). Measuring the Efficiency of Rice Production in Myanmar Using Data Envelopment Analysis. Asian Journal of Agriculture and Development. https://doi.org/10.37801/ajad2019.16.2.1",
+  "url": "https://doi.org/10.37801/ajad2019.16.2.1",
+  "doi": "10.37801/ajad2019.16.2.1",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S105",
+  "kind": "Study",
+  "citation": "World Bank (2019). Myanmar Rice and Pulses. World Bank, Washington, DC. https://doi.org/10.1596/33283",
+  "url": "https://doi.org/10.1596/33283",
+  "doi": "10.1596/33283",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S106",
+  "kind": "Study",
+  "citation": "CGIAR Research Program on Rice (2019). Optimized downdraft rice husk furnace for paddy drying. CRP Innovation.",
+  "url": "https://hdl.handle.net/10568/122420",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S107",
+  "kind": "Study",
+  "citation": "CGIAR Research Program on Rice (2019). Optimized mechanised rice harvesting in Southeast Asia. CRP Innovation.",
+  "url": "https://hdl.handle.net/10568/122518",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S108",
+  "kind": "Study",
+  "citation": "International Food Policy Research Institute (IFPRI) (2019). Production shocks, exports and market prices: An analysis of the rice sector in Myanmar. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.133220",
+  "url": "https://doi.org/10.2499/p15738coll2.133220",
+  "doi": "10.2499/p15738coll2.133220",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S109",
+  "kind": "Study",
+  "citation": "CGIAR Research Program on Climate Change, Agriculture and Food Security (2019). Providing a framework for the Myanmar government’s policies, programs and investments on climate-smart agriculture. CRP Outcome Impact Case Report.",
+  "url": "https://hdl.handle.net/10568/121387",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S110",
+  "kind": "Study",
+  "citation": "Aye Thiri Myo, Yoonsuk Lee (2019). Relationship of Rice Price across Asian Countries: A Study of Myanmar, Thailand and Vietnam. Korean Agricultural Economics Association. https://doi.org/10.24997/kjae.2019.60.3.219",
+  "url": "https://doi.org/10.24997/kjae.2019.60.3.219",
+  "doi": "10.24997/kjae.2019.60.3.219",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S111",
+  "kind": "Study",
+  "citation": "Naing Kyi Win (2019). Rice Collectors’ Attitude Towards Purchasing of Hybrid Rice in Myanmar. American Journal of Agriculture and Forestry. https://doi.org/10.11648/j.ajaf.20190701.15",
+  "url": "https://doi.org/10.11648/j.ajaf.20190701.15",
+  "doi": "10.11648/j.ajaf.20190701.15",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S112",
+  "kind": "Study",
+  "citation": "CGIAR Research Program on Rice (2019). Rice Crop Manager - Myanmar. CRP Innovation.",
+  "url": "https://hdl.handle.net/10568/122470",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S113",
+  "kind": "Study",
+  "citation": "Myint Thida, Nwe Yin Min, Khin Myat Myat Mon et al. (2019). Rural Economy and Poverty in the Myanmar Delta: A Case Study of Ahmar Sub-township, Ayeyarwady Region. Population, Development, and the Environment. https://doi.org/10.1007/978-981-13-2101-6_24",
+  "url": "https://doi.org/10.1007/978-981-13-2101-6_24",
+  "doi": "10.1007/978-981-13-2101-6_24",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S114",
+  "kind": "Study",
+  "citation": "Radanielson, Ando M., Kato, Yoichiro, Palao, Leo K. et al. (2019). Targeting management practices for rice yield gains in stress-prone environments of Myanmar. Formally Published. https://doi.org/10.1016/j.fcr.2019.107631",
+  "url": "https://doi.org/10.1016/j.fcr.2019.107631",
+  "doi": "10.1016/j.fcr.2019.107631",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S115",
+  "kind": "Study",
+  "citation": "David F. Herridge, Mar Mar Win, Khin Mar Mar Nwe et al. (2019). The cropping systems of the Central Dry Zone of Myanmar: Productivity constraints and possible solutions. Agricultural Systems. https://doi.org/10.1016/j.agsy.2018.12.001",
+  "url": "https://doi.org/10.1016/j.agsy.2018.12.001",
+  "doi": "10.1016/j.agsy.2018.12.001",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S116",
+  "kind": "Study",
+  "citation": "Thuzar Linn, Broos Maenhout (2019). The impact of environmental uncertainty on the performance of the rice supply chain in the Ayeyarwaddy Region, Myanmar. Agricultural and Food Economics. https://doi.org/10.1186/s40100-019-0128-6",
+  "url": "https://doi.org/10.1186/s40100-019-0128-6",
+  "doi": "10.1186/s40100-019-0128-6",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S117",
+  "kind": "Study",
+  "citation": "CGIAR Research Program on Rice (2019). Village level value chain upgrading for linking farmers to markets in Myanmar. CRP Innovation.",
+  "url": "https://hdl.handle.net/10568/122506",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S118",
+  "kind": "Study",
+  "citation": "Ko Ko Lwin, Indrajit Pal, Sangam Shrestha et al. (2020). Assessing social resilience of flood-vulnerable communities in Ayeyarwady Delta, Myanmar. International Journal of Disaster Risk Reduction. https://doi.org/10.1016/j.ijdrr.2020.101745",
+  "url": "https://doi.org/10.1016/j.ijdrr.2020.101745",
+  "doi": "10.1016/j.ijdrr.2020.101745",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S119",
+  "kind": "Study",
+  "citation": "Martin Gummert, Nguyen-Van-Hung, Christopher Cabardo et al. (2020). Assessment of post-harvest losses and carbon footprint in intensive lowland rice production in Myanmar. Scientific Reports. https://doi.org/10.1038/s41598-020-76639-5",
+  "url": "https://doi.org/10.1038/s41598-020-76639-5",
+  "doi": "10.1038/s41598-020-76639-5",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S120",
+  "kind": "Study",
+  "citation": "Saturnino M. Borras, Jennifer C. Franco, Zau Nam (2020). Climate change and land: Insights from Myanmar. World Development. https://doi.org/10.1016/j.worlddev.2019.104864",
+  "url": "https://doi.org/10.1016/j.worlddev.2019.104864",
+  "doi": "10.1016/j.worlddev.2019.104864",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S121",
+  "kind": "Study",
+  "citation": "Saw Min, Martin Rulík (2020). Comparison of Carbon Dioxide (CO2) Fluxes between Conventional and Conserved Irrigated Rice Paddy Fields in Myanmar. Sustainability. https://doi.org/10.3390/su12145798",
+  "url": "https://doi.org/10.3390/su12145798",
+  "doi": "10.3390/su12145798",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S122",
+  "kind": "Study",
+  "citation": "Win Maung Aye, Shinya Takeda (2020). Conversion of abandoned paddy fields to productive land through mangrove restoration in Myanmar’s Ayeyarwady Delta. Paddy and Water Environment. https://doi.org/10.1007/s10333-020-00791-x",
+  "url": "https://doi.org/10.1007/s10333-020-00791-x",
+  "doi": "10.1007/s10333-020-00791-x",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S123",
+  "kind": "Study",
+  "citation": "Su Latt Phyu, Nyo Mar Htwe, Chan Nyein Thu (2020). Dry Matter Production, Leaf Area Index, Yield and Yield Components of Myanmar Local Rice (Oryza sativa L.) Genotypes Observation. Journal of Agronomy. https://doi.org/10.3923/ja.2021.9.16",
+  "url": "https://doi.org/10.3923/ja.2021.9.16",
+  "doi": "10.3923/ja.2021.9.16",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S124",
+  "kind": "Study",
+  "citation": "Saw Min, Martin Rulik (2020). Effects of Different Water Management and Fertilizer Applications on CO2 Fluxes from a Selected Myanmar Rice (Oryza sativa L.) Cultivar. International Journal of Plant & Soil Science. https://doi.org/10.9734/ijpss/2020/v32i1930394",
+  "url": "https://doi.org/10.9734/ijpss/2020/v32i1930394",
+  "doi": "10.9734/ijpss/2020/v32i1930394",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S125",
+  "kind": "Study",
+  "citation": "Soe Paing Oo (2020). Farmers’ Awareness of the Low Yield of Conventional Rice Production in Ayeyarwady Region, Myanmar: A Case Study of Myaungmya District. Agriculture. https://doi.org/10.3390/agriculture10010026",
+  "url": "https://doi.org/10.3390/agriculture10010026",
+  "doi": "10.3390/agriculture10010026",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S126",
+  "kind": "Study",
+  "citation": "Soe Paing Oo, Koichi Usami (2020). Farmers’ Perception of Good Agricultural Practices in Rice Production in Myanmar: A Case Study of Myaungmya District, Ayeyarwady Region. Agriculture. https://doi.org/10.3390/agriculture10070249",
+  "url": "https://doi.org/10.3390/agriculture10070249",
+  "doi": "10.3390/agriculture10070249",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S127",
+  "kind": "Study",
+  "citation": "Ei Phyu Win, Kyaw Kyaw Win, Sonoko D. Bellingrath‐Kimura et al. (2020). Greenhouse gas emissions, grain yield and water productivity: a paddy rice field case study based in Myanmar. Greenhouse Gases: Science and Technology. https://doi.org/10.1002/ghg.2011",
+  "url": "https://doi.org/10.1002/ghg.2011",
+  "doi": "10.1002/ghg.2011",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S128",
+  "kind": "Study",
+  "citation": "Ujjayant Chakravorty, Manzoor H Dar, Kyle Emerick (2020). Impact of alternate wetting and drying on farm incomes and water savings in Bangladesh. International Initiative for Impact Evaluation (3ie). https://doi.org/10.23846/dpw1ie108",
+  "url": "https://doi.org/10.23846/dpw1ie108",
+  "doi": "10.23846/dpw1ie108",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S129",
+  "kind": "Study",
+  "citation": "Khin S.Cho, Pasajee Kongsil, Thanakorn Wangsawang et al. (2020). Marker-assisted pseudo-backcross breeding for improvement of amylose content and aroma in Myanmar rice cultivar Sinthukha. ScienceAsia. https://doi.org/10.2306/scienceasia1513-1874.2020.070",
+  "url": "https://doi.org/10.2306/scienceasia1513-1874.2020.070",
+  "doi": "10.2306/scienceasia1513-1874.2020.070",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S130",
+  "kind": "Study",
+  "citation": "Aung Tun Oo, Guido Van Huylenbroeck, Stijn Speelman (2020). Measuring the Economic Impact of Climate Change on Crop Production in the Dry Zone of Myanmar: A Ricardian Approach. Climate. https://doi.org/10.3390/cli8010009",
+  "url": "https://doi.org/10.3390/cli8010009",
+  "doi": "10.3390/cli8010009",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S131",
+  "kind": "Study",
+  "citation": "Belton, Ben, Fang, Peixun, Reardon, Thomas (2020). Mechanization outsourcing services in Myanmar's dry zone. Food Security Policy Research Papers.",
+  "url": "https://hdl.handle.net/10568/145417",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S132",
+  "kind": "Study",
+  "citation": "Win, Myat Thida, Belton, Ben, Zhang, Xiaobo (2020). Myanmar’s rapid agricultural mechanization: Demand and supply evidence. An evolving paradigm of agricultural mechanization development: How much can Africa learn from Asia?. https://doi.org/10.2499/9780896293809_08",
+  "url": "https://doi.org/10.2499/9780896293809_08",
+  "doi": "10.2499/9780896293809_08",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S133",
+  "kind": "Study",
+  "citation": "CGIAR Research Program on Water, Land and Ecosystems (2020). New approach to water users’ associations in pump-based irrigation schemes in Myanmar results in equitable water allocation and boosts production. CRP Outcome Impact Case Report.",
+  "url": "https://hdl.handle.net/10568/121771",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S134",
+  "kind": "Study",
+  "citation": "Aye Aye Thant, Nikola Teutscherova, Eduardo Vazquez et al. (2020). On-farm rice diversity and farmers’ preferences for varietal attributes in Ayeyarwady Delta, Myanmar. Journal of Crop Improvement. https://doi.org/10.1080/15427528.2020.1746457",
+  "url": "https://doi.org/10.1080/15427528.2020.1746457",
+  "doi": "10.1080/15427528.2020.1746457",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S135",
+  "kind": "Study",
+  "citation": "Mark Vicol, Bill Pritchard (2020). Rethinking rural development in Myanmar's Ayeyarwady Delta through a historical food regimes frame. Singapore Journal of Tropical Geography. https://doi.org/10.1111/sjtg.12315",
+  "url": "https://doi.org/10.1111/sjtg.12315",
+  "doi": "10.1111/sjtg.12315",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S136",
+  "kind": "Study",
+  "citation": "Arnab Gupta, Mirjam Schaap, Abishkar Subedi (2020). Rice seed sector development in the Ayeyarwady Delta : Review of lessons learned. Wageningen Centre for Development Innovation. https://doi.org/10.18174/526840",
+  "url": "https://doi.org/10.18174/526840",
+  "doi": "10.18174/526840",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S137",
+  "kind": "Study",
+  "citation": "Duncan Boughton, Joey Goeb, Isabel Lambrecht et al. (2020). Strengthening smallholder agriculture is essential to defend food and nutrition security and rural livelihoods in Myanmar against the COVID-19 threat: Elements for a proactive response. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.133687",
+  "url": "https://doi.org/10.2499/p15738coll2.133687",
+  "doi": "10.2499/p15738coll2.133687",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S138",
+  "kind": "Study",
+  "citation": "Melanie Connor, Su Su San (2020). Sustainable rice farming and its impact on rural women in Myanmar. Development in Practice. https://doi.org/10.1080/09614524.2020.1787350",
+  "url": "https://doi.org/10.1080/09614524.2020.1787350",
+  "doi": "10.1080/09614524.2020.1787350",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S139",
+  "kind": "Study",
+  "citation": "Boughton, Duncan, Makhija, Simrin, Maredia, Mywish K. et al. (2020). Variety adoption and demand for quality seed in the central dry zone of Myanmar. Feed the Future Innovation Lab for Food Security Policy Research Paper.",
+  "url": "https://hdl.handle.net/10568/143265",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S140",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Support Activity (2021). Agro-processing, food prices, and COVID-19 shocks: Evidence from Myanmar’s rice mills. IFPRI Myanmar SSP Working Paper. https://doi.org/10.2499/p15738coll2.134311",
+  "url": "https://doi.org/10.2499/p15738coll2.134311",
+  "doi": "10.2499/p15738coll2.134311",
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S141",
+  "kind": "Study",
+  "citation": "Anon. (2021). Agro-processing, food prices, and COVID-19: The case of rice mills in Myanmar. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.134307",
+  "url": "https://doi.org/10.2499/p15738coll2.134307",
+  "doi": "10.2499/p15738coll2.134307",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S142",
+  "kind": "Study",
+  "citation": "Henning Tarp Jensen, Marcus Keogh-Brown, Finn Tarp (2021). Climate change and agricultural productivity in Myanmar: Application of a new computable general equilibrium (CGE) model. WIDER Working Paper. https://doi.org/10.35188/unu-wider/2021/121-1",
+  "url": "https://doi.org/10.35188/unu-wider/2021/121-1",
+  "doi": "10.35188/unu-wider/2021/121-1",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S143",
+  "kind": "Study",
+  "citation": "Rie Muraoka, Jun Furuya, Akira Hirano et al. (2021). Climate risk and agricultural technology adaption: evidence from rice farmers in the Ayeyarwady River delta of Myanmar. Paddy and Water Environment. https://doi.org/10.1007/s10333-021-00870-7",
+  "url": "https://doi.org/10.1007/s10333-021-00870-7",
+  "doi": "10.1007/s10333-021-00870-7",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S144",
+  "kind": "Study",
+  "citation": "Toru Sakai, Keisuke Omori, Aung Naing Oo et al. (2021). Decadal changes in the rice-cropping system in the Ayeyarwady Delta using a large archive of satellite imagery from 1981 to 2020. Paddy and Water Environment. https://doi.org/10.1007/s10333-021-00857-4",
+  "url": "https://doi.org/10.1007/s10333-021-00857-4",
+  "doi": "10.1007/s10333-021-00857-4",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S145",
+  "kind": "Study",
+  "citation": "George Williams (2021). Developing a Fairtrade rice supply chain from Myanmar: achievements, challenges, lessons. Journal of Fair Trade. https://doi.org/10.13169/jfairtrade.2.2.0024",
+  "url": "https://doi.org/10.13169/jfairtrade.2.2.0024",
+  "doi": "10.13169/jfairtrade.2.2.0024",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S146",
+  "kind": "Study",
+  "citation": "Win Maung Aye, Shinya Takeda (2021). Development and Abandonment of Mangrove Paddy Fields and the Impacts Thereof in a Mon Village in Taninthayi Region, Myanmar. Southeast Asian Studies. https://doi.org/10.20495/seas.10.3_359",
+  "url": "https://doi.org/10.20495/seas.10.3_359",
+  "doi": "10.20495/seas.10.3_359",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S147",
+  "kind": "Study",
+  "citation": "Hiroyuki Takeshima, Ian Masias, Myat Thida Win et al. (2021). Effects of COVID-19 restrictions on mechanization service providers and mechanization Equipment retailers: Insights from phone surveys in Myanmar. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.134402",
+  "url": "https://doi.org/10.2499/p15738coll2.134402",
+  "doi": "10.2499/p15738coll2.134402",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S148",
+  "kind": "Study",
+  "citation": "Akira Hirano (2021). Effects of climate change on spatiotemporal patterns of tropical cyclone tracks and their implications for coastal agriculture in Myanmar. Paddy and Water Environment. https://doi.org/10.1007/s10333-021-00842-x",
+  "url": "https://doi.org/10.1007/s10333-021-00842-x",
+  "doi": "10.1007/s10333-021-00842-x",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S149",
+  "kind": "Study",
+  "citation": "Thang Lam Lun, Mar Mar Kyu, Hisashi Kato‐Noguchi (2021). Effects of weed infestation on the productivity of hybrid and inbred rice varieties in Myanmar. Weed Biology and Management. https://doi.org/10.1111/wbm.12240",
+  "url": "https://doi.org/10.1111/wbm.12240",
+  "doi": "10.1111/wbm.12240",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S150",
+  "kind": "Study",
+  "citation": "Than Htwe, Sutinee Sinutok, Ponlachart Chotikarn et al. (2021). Energy use efficiency and cost-benefits analysis of rice cultivation: A study on conventional and alternative methods in Myanmar. Energy. https://doi.org/10.1016/j.energy.2020.119104",
+  "url": "https://doi.org/10.1016/j.energy.2020.119104",
+  "doi": "10.1016/j.energy.2020.119104",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S151",
+  "kind": "Study",
+  "citation": "T. HTWE, K. TECHATO, P. CHOTIKARN et al. (2021). GRAIN YIELD AND ENVIRONMENTAL IMPACTS OF ALTERNATIVE RICE (ORYZA SATIVA L.) ESTABLISHMENT METHODS IN MYANMAR. Applied Ecology and Environmental Research. https://doi.org/10.15666/aeer/1901_507524",
+  "url": "https://doi.org/10.15666/aeer/1901_507524",
+  "doi": "10.15666/aeer/1901_507524",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S152",
+  "kind": "Study",
+  "citation": "CGIAR Research Program on Rice (2021). Indicators and protocol to identify sustainable post harvest management practices in rice production in Vietnam and Myanmar. CRP Innovation.",
+  "url": "https://hdl.handle.net/10568/122512",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S153",
+  "kind": "Study",
+  "citation": "Hideo Aizaki, Jun Furuya, Takeshi Sakurai et al. (2021). Measuring farmers’ preferences for weather index insurance in the Ayeyarwady Delta, Myanmar: a discrete choice experiment approach. Paddy and Water Environment. https://doi.org/10.1007/s10333-020-00838-z",
+  "url": "https://doi.org/10.1007/s10333-020-00838-z",
+  "doi": "10.1007/s10333-020-00838-z",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S154",
+  "kind": "Study",
+  "citation": "Khine Zar Wai, Seungjee Hong (2021). Measuring the efficiency and determinants of rice production in Myanmar: a translog stochastic frontier approach. Korean Journal of Agricultural Science. https://doi.org/10.7744/kjoas.20200100",
+  "url": "https://doi.org/10.7744/kjoas.20200100",
+  "doi": "10.7744/kjoas.20200100",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S155",
+  "kind": "Study",
+  "citation": "Toru Sakai, Keisuke Omori, Aung Naing Oo et al. (2021). Monitoring saline intrusion in the Ayeyarwady Delta, Myanmar, using data from the Sentinel-2 satellite mission. Paddy and Water Environment. https://doi.org/10.1007/s10333-020-00837-0",
+  "url": "https://doi.org/10.1007/s10333-020-00837-0",
+  "doi": "10.1007/s10333-020-00837-0",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S156",
+  "kind": "Study",
+  "citation": "Jun Furuya, Swe Swe Mar, Akira Hirano et al. (2021). Optimum insurance contract of flood damage index insurance for rice farmers in Myanmar. Paddy and Water Environment. https://doi.org/10.1007/s10333-021-00859-2",
+  "url": "https://doi.org/10.1007/s10333-021-00859-2",
+  "doi": "10.1007/s10333-021-00859-2",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S157",
+  "kind": "Study",
+  "citation": "Lai Lai, Wassmann R, Sander BO (2021). Policy Framework for Myanmar Rice Production and In-Depth Study on Greenhouse Gas Emissions. Journal of Earth and Environmental Sciences Research. https://doi.org/10.47363/jeesr/2021(3)159",
+  "url": "https://doi.org/10.47363/jeesr/2021(3)159",
+  "doi": "10.47363/jeesr/2021(3)159",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S158",
+  "kind": "Study",
+  "citation": "So Pyay Thar, Robert J. Farquharson, Thiagarajah Ramilan et al. (2021). Recommended vs. Practice: Smallholder Fertilizer Decisions in Central Myanmar. Agriculture. https://doi.org/10.3390/agriculture11010065",
+  "url": "https://doi.org/10.3390/agriculture11010065",
+  "doi": "10.3390/agriculture11010065",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S159",
+  "kind": "Study",
+  "citation": "Melanie Connor, Reianne Quilloy, Annalyn H. de Guia et al. (2021). Sustainable rice production in Myanmar impacts on food security and livelihood changes. International Journal of Agricultural Sustainability. https://doi.org/10.1080/14735903.2021.1918471",
+  "url": "https://doi.org/10.1080/14735903.2021.1918471",
+  "doi": "10.1080/14735903.2021.1918471",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S160",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Support Activity (2021). The outlook for Myanmar’s inorganic fertilizer use and 2021 crop harvest: An ex-ante assessment. IFPRI Myanmar SSP Working Paper. https://doi.org/10.2499/p15738coll2.134368",
+  "url": "https://doi.org/10.2499/p15738coll2.134368",
+  "doi": "10.2499/p15738coll2.134368",
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S161",
+  "kind": "Study",
+  "citation": "Ikuko Okamoto, Hnin Yu Lwin, Koichi Fujita (2021). The persistence of credit–labor interlinked transactions in rural Myanmar: The case of Kanyingu Village in Ayeyarwady Delta. Journal of Rural Studies. https://doi.org/10.1016/j.jrurstud.2020.12.006",
+  "url": "https://doi.org/10.1016/j.jrurstud.2020.12.006",
+  "doi": "10.1016/j.jrurstud.2020.12.006",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S162",
+  "kind": "Study",
+  "citation": "Ben Belton, Myat Thida Win, Xiaobo Zhang et al. (2021). The rapid rise of agricultural mechanization in Myanmar. Food Policy. https://doi.org/10.1016/j.foodpol.2021.102095",
+  "url": "https://doi.org/10.1016/j.foodpol.2021.102095",
+  "doi": "10.1016/j.foodpol.2021.102095",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S163",
+  "kind": "Study",
+  "citation": "Jun Furuya, Keisuke Omori, Hideo Aizaki (2021). Toward the development of a weather index insurance for rice farmers in the coastal region of Myanmar. Paddy and Water Environment. https://doi.org/10.1007/s10333-021-00862-7",
+  "url": "https://doi.org/10.1007/s10333-021-00862-7",
+  "doi": "10.1007/s10333-021-00862-7",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S164",
+  "kind": "Study",
+  "citation": "Lambrecht, Isabel B., Mahrt, Kristi, Cho, Ame (2021). Women and youth in Myanmar agriculture. IFPRI Discussion Paper. https://doi.org/10.2499/p15738coll2.134860",
+  "url": "https://doi.org/10.2499/p15738coll2.134860",
+  "doi": "10.2499/p15738coll2.134860",
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S165",
+  "kind": "Study",
+  "citation": "International Food Policy Research Institute, Michigan State University (2022). Agricultural land and crop production in Myanmar. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.136310",
+  "url": "https://doi.org/10.2499/p15738coll2.136310",
+  "doi": "10.2499/p15738coll2.136310",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S166",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2022). Agricultural value chains in a fragile state: The case of rice in Myanmar. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.135054",
+  "url": "https://doi.org/10.2499/p15738coll2.135054",
+  "doi": "10.2499/p15738coll2.135054",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S167",
+  "kind": "Study",
+  "citation": "Ishimaru, Tsutomu, Hlaing, Khin Thandar, Oo, Ye Min et al. (2022). An early-morning flowering trait in rice can enhance grain yield under heat stress field conditions at flowering stage. Formally Published. https://doi.org/10.1016/j.fcr.2021.108400",
+  "url": "https://doi.org/10.1016/j.fcr.2021.108400",
+  "doi": "10.1016/j.fcr.2021.108400",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S168",
+  "kind": "Study",
+  "citation": "Kai Wan Yuen, Adam D. Switzer, Paul P. S. Teng et al. (2022). Assessing the impacts of tropical cyclones on rice production in Bangladesh, Myanmar, Philippines, and Vietnam. Copernicus GmbH. https://doi.org/10.5194/nhess-2022-4",
+  "url": "https://doi.org/10.5194/nhess-2022-4",
+  "doi": "10.5194/nhess-2022-4",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S169",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2022). Beyond emergency relief: What will it take to ensure a resilient recovery for agriculture and the rural economy of Myanmar. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.134978",
+  "url": "https://doi.org/10.2499/p15738coll2.134978",
+  "doi": "10.2499/p15738coll2.134978",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S170",
+  "kind": "Study",
+  "citation": "Anon. (2022). Circular approach in agricultural production: Case study on Rice Bio Park in Myanmar. Circular Agriculture for Sustainable Healthy Diets– Perspectives and Policy Implications in the Asian and Pacific Region. https://doi.org/10.56669/zuxs7806",
+  "url": "https://doi.org/10.56669/zuxs7806",
+  "doi": "10.56669/zuxs7806",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S171",
+  "kind": "Study",
+  "citation": "Manilay, Alessandro A., Thant, Phyu Sin, Myae, Chan et al. (2022). Cost-Benefit Analysis of Establishing a Climate Smart Village in Southern Shan, Myanmar: The Case of Taungkhamauk Village, Nyaung Shwe Township. CGIAR Research Program on Climate Change, Agriculture and Food Security.",
+  "url": "https://hdl.handle.net/10568/123687",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S172",
+  "kind": "Study",
+  "citation": "Julian Gonsalves, Ohnmar Khaing, Food Security Working Group-Myanmar, Yangon, Myanmar et al. (2022). Exploring Pathways for Promoting and Scaling Up Climate-Smart Agriculture in Myanmar. Asian Journal of Agriculture and Development. https://doi.org/10.37801/ajad2022.19.1.p1",
+  "url": "https://doi.org/10.37801/ajad2022.19.1.p1",
+  "doi": "10.37801/ajad2022.19.1.p1",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S173",
+  "kind": "Study",
+  "citation": "Anon. (2022). Farmer field school curriculum for the integrated crop management of paddy, oil seed and pulses crops in central dry zone of Myanmar. FAO. https://doi.org/10.4060/cc1306en",
+  "url": "https://doi.org/10.4060/cc1306en",
+  "doi": "10.4060/cc1306en",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S174",
+  "kind": "Study",
+  "citation": "Goeb, Joseph, Zone, Phoo Pye, Synt, Nang Lun Kham et al. (2022). Food prices, processing, and shocks: Evidence from rice and COVID-19. Agricultural Economics Society. https://doi.org/10.1111/1477-9552.12461",
+  "url": "https://doi.org/10.1111/1477-9552.12461",
+  "doi": "10.1111/1477-9552.12461",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S175",
+  "kind": "Study",
+  "citation": "Tin Min Htoo, Helmut Yabar, Takeshi Mizunoya (2022). GIS-Based Cluster and Suitability Analysis of Crop Residues: A Case Study in Yangon Region, Myanmar. Applied Sciences. https://doi.org/10.3390/app122211822",
+  "url": "https://doi.org/10.3390/app122211822",
+  "doi": "10.3390/app122211822",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S176",
+  "kind": "Study",
+  "citation": "P. D. Ariyasena, C. S. De Silva, D. M. D. Dissanayaka et al. (2022). Growth, Physiology, Weed Abundance and Yield in Rice (<em>Oryza Sativa</em> L.) Under Three Nutrient Input Systems in the Dry Zone of Sri Lanka. Journal of Dry Zone Agriculture. https://doi.org/10.4038/jdza.v8i1.55",
+  "url": "https://doi.org/10.4038/jdza.v8i1.55",
+  "doi": "10.4038/jdza.v8i1.55",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S177",
+  "kind": "Study",
+  "citation": "Anon. (2022). Handbook on the integrated crop management of rice and paddy for farmer field schools in central dry zone of Myanmar. FAO. https://doi.org/10.4060/cc1163en",
+  "url": "https://doi.org/10.4060/cc1163en",
+  "doi": "10.4060/cc1163en",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S178",
+  "kind": "Study",
+  "citation": "Myo Sabai Aye, Hisako Nomura, Yoshifumi Takahashi et al. (2022). Improving Rice Production Efficiency in Myanmar by Controlling for Environmental Production Factors. Journal of Agricultural Science. https://doi.org/10.5539/jas.v14n9p26",
+  "url": "https://doi.org/10.5539/jas.v14n9p26",
+  "doi": "10.5539/jas.v14n9p26",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S179",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2022). Myanmar agricultural performance survey (Q1 2022): Farmgate prices and marketing by crop farmers. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.135937",
+  "url": "https://doi.org/10.2499/p15738coll2.135937",
+  "doi": "10.2499/p15738coll2.135937",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S180",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2022). Myanmar agricultural performance survey (Q3 2022): Farm commercialization. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.136476",
+  "url": "https://doi.org/10.2499/p15738coll2.136476",
+  "doi": "10.2499/p15738coll2.136476",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S181",
+  "kind": "Study",
+  "citation": "Derek Headey, Sophie Goudet, Isabel Lambrecht et al. (2022). Poverty and food insecurity during COVID-19: Phone-survey evidence from rural and urban Myanmar in 2020. Global Food Security. https://doi.org/10.1016/j.gfs.2022.100626",
+  "url": "https://doi.org/10.1016/j.gfs.2022.100626",
+  "doi": "10.1016/j.gfs.2022.100626",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S182",
+  "kind": "Study",
+  "citation": "Myo Sabai Aye, Hisako Nomura, Yoshifumi Takahashi et al. (2022). Profit Efficiency, Weather Risk and Climate Adaptation Practices of Rice Farmers in Myanmar. Journal of Agricultural Science. https://doi.org/10.5539/jas.v14n7p1",
+  "url": "https://doi.org/10.5539/jas.v14n7p1",
+  "doi": "10.5539/jas.v14n7p1",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S183",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2022). Rice productivity in Myanmar: Assessment of the 2021 monsoon and outlook for 2022. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.135927",
+  "url": "https://doi.org/10.2499/p15738coll2.135927",
+  "doi": "10.2499/p15738coll2.135927",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S184",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2022). Rice productivity in Myanmar: Assessment of the 2022 dry season and farmers’ expectations for the monsoon of 2022. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.136477",
+  "url": "https://doi.org/10.2499/p15738coll2.136477",
+  "doi": "10.2499/p15738coll2.136477",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S185",
+  "kind": "Study",
+  "citation": "Moe Myint Sandar, Mathurada Ruangsiri, Cattleya Chutteang et al. (2022). Root Characterization of Myanmar Upland and Lowland Rice in Relation to Agronomic and Physiological Traits under Drought Stress Condition. Agronomy. https://doi.org/10.3390/agronomy12051230",
+  "url": "https://doi.org/10.3390/agronomy12051230",
+  "doi": "10.3390/agronomy12051230",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S186",
+  "kind": "Study",
+  "citation": "Wehmeyer, Helena, Malabayabas, Arelene, San, Su Su et al. (2022). Rural development and transformation of the rice sector in Myanmar: Introduction of best management practices for sustainable rice agriculture. SAGE Publications. https://doi.org/10.1177/00307270221086008",
+  "url": "https://doi.org/10.1177/00307270221086008",
+  "doi": "10.1177/00307270221086008",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S187",
+  "kind": "Study",
+  "citation": "Natalia I. Vargas-Cuentas, Avid Roman-Gonzalez (2022). Sentinel 1 SAR-Based Flood Detection and Mapping: Myanmar Two Consecutive Years Case. International Journal of Engineering Trends and Technology. https://doi.org/10.14445/22315381/ijett-v70i12p207",
+  "url": "https://doi.org/10.14445/22315381/ijett-v70i12p207",
+  "doi": "10.14445/22315381/ijett-v70i12p207",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S188",
+  "kind": "Study",
+  "citation": "Jirasinha, Radheeka (2022). Socio-economic Analysis of Rice-Fish Culture based Systems in Myanmar. WorldFish.",
+  "url": "https://hdl.handle.net/10568/127739",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S189",
+  "kind": "Study",
+  "citation": "Shen Yuan, Alexander M. Stuart, Alice G. Laborte et al. (2022). Southeast Asia must narrow down the yield gap to continue to be a major rice bowl. Nature Food. https://doi.org/10.1038/s43016-022-00477-z",
+  "url": "https://doi.org/10.1038/s43016-022-00477-z",
+  "doi": "10.1038/s43016-022-00477-z",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S190",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2022). The precarious situation of agricultural wage laborers in Myanmar. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.136432",
+  "url": "https://doi.org/10.2499/p15738coll2.136432",
+  "doi": "10.2499/p15738coll2.136432",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S191",
+  "kind": "Study",
+  "citation": "Joseph Goeb, Mywish K. Maredia, Caitlin Herrington et al. (2023). Agricultural extension in times of crisis and emergent threats: Effectiveness of a fall armyworm information intervention in Myanmar. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.136713",
+  "url": "https://doi.org/10.2499/p15738coll2.136713",
+  "doi": "10.2499/p15738coll2.136713",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S192",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2023). Agricultural mechanization services, rice productivity, and farm/plot size: Insights from Myanmar. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.136706",
+  "url": "https://doi.org/10.2499/p15738coll2.136706",
+  "doi": "10.2499/p15738coll2.136706",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S193",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2023). An overview of migration in Myanmar: Findings from the Myanmar Household Welfare Survey. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.136640",
+  "url": "https://doi.org/10.2499/p15738coll2.136640",
+  "doi": "10.2499/p15738coll2.136640",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S194",
+  "kind": "Study",
+  "citation": "Aye Myint Myat Soe, Aye Aye Mu, Kazuhiro Toyoda (2023). Arsenic and heavy metal contents in white rice samples from rainfed paddy fields in Yangon division, Myanmar—Natural background levels?. PLOS ONE. https://doi.org/10.1371/journal.pone.0283420",
+  "url": "https://doi.org/10.1371/journal.pone.0283420",
+  "doi": "10.1371/journal.pone.0283420",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S195",
+  "kind": "Study",
+  "citation": "Katharina Seeger, Philip S. J. Minderhoud, Andreas Peffeköver et al. (2023). Assessing land elevation in the Ayeyarwady Delta (Myanmar) and its relevance for studying sea level rise and delta flooding. Hydrology and Earth System Sciences. https://doi.org/10.5194/hess-27-2257-2023",
+  "url": "https://doi.org/10.5194/hess-27-2257-2023",
+  "doi": "10.5194/hess-27-2257-2023",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S196",
+  "kind": "Study",
+  "citation": "Aung Tun Oo, Duncan Boughton, Nilar Aung (2023). Climate Change Adaptation and the Agriculture–Food System in Myanmar. Climate. https://doi.org/10.3390/cli11060124",
+  "url": "https://doi.org/10.3390/cli11060124",
+  "doi": "10.3390/cli11060124",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S197",
+  "kind": "Study",
+  "citation": "Thant, Phyu Sin, Khaung, Ye, Quyen, Ho McGrath et al. (2023). Climate Risk and Vulnerability (CR&V) assessment for climate services: Rice production and value chain, Ayeyarwady Delta, Myanmar.",
+  "url": "https://hdl.handle.net/10568/137388",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S198",
+  "kind": "Study",
+  "citation": "Thant, Phyu Sin, Khaung, Ye, Akester, Michael J. et al. (2023). Climate Risk and Vulnerability (CR&V) assessment for climate services: Rice-fish production and value chain - Ayeyarwady Delta, Myanmar.",
+  "url": "https://hdl.handle.net/10568/137551",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S199",
+  "kind": "Study",
+  "citation": "Aung Kyaw Zaw, Sayamol Charoenratana (2023). Climate change and food security at household level in the central dry zone in Myanmar. Management of Environmental Quality: An International Journal. https://doi.org/10.1108/meq-11-2022-0300",
+  "url": "https://doi.org/10.1108/meq-11-2022-0300",
+  "doi": "10.1108/meq-11-2022-0300",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S200",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2023). Conflict and agricultural productivity: Evidence from Myanmar. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.136600",
+  "url": "https://doi.org/10.2499/p15738coll2.136600",
+  "doi": "10.2499/p15738coll2.136600",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S201",
+  "kind": "Study",
+  "citation": "Connor, Melanie, Malabayabas, Arelene Julia, de Guia, Annalyn et al. (2023). Environmental, Social, and Economic Challenges in Lowland Rice Production. Formally Published. https://doi.org/10.1007/978-3-031-37947-5_2",
+  "url": "https://doi.org/10.1007/978-3-031-37947-5_2",
+  "doi": "10.1007/978-3-031-37947-5_2",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S202",
+  "kind": "Study",
+  "citation": "Anon. (2023). Extension Services and Household Food Security of Women Rice Farmers in the Delta Region of Myanmar. Agricultural and Rural Studies. https://doi.org/10.59978/ar01030016",
+  "url": "https://doi.org/10.59978/ar01030016",
+  "doi": "10.59978/ar01030016",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S203",
+  "kind": "Study",
+  "citation": "Moe Hnin Phyu, Kazuo Watanabe, Myint Thaung (2023). Geostatistical analysis of the rice insect pests and their natural enemy species in an intensive rice-growing field in Nay Pyi Taw, Myanmar. Biocontrol Science and Technology. https://doi.org/10.1080/09583157.2023.2165038",
+  "url": "https://doi.org/10.1080/09583157.2023.2165038",
+  "doi": "10.1080/09583157.2023.2165038",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S204",
+  "kind": "Study",
+  "citation": "Hnin Wut Yee, Endrizal Ridwan, Fajri Muharja et al. (2023). Impact of Microfinance on Fertilizer Use in the Ayeyarwady Region, Myanmar. Jurnal Informatika Ekonomi Bisnis. https://doi.org/10.37034/infeb.v5i2.553",
+  "url": "https://doi.org/10.37034/infeb.v5i2.553",
+  "doi": "10.37034/infeb.v5i2.553",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S205",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2023). Livelihood resilience and the agrifood system in Myanmar: Implications for agriculture and a rural development strategy in a time of crisis. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.136844",
+  "url": "https://doi.org/10.2499/p15738coll2.136844",
+  "doi": "10.2499/p15738coll2.136844",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S206",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2023). Myanmar Agricultural Performance Survey (MAPS) dry season 2023: Agricultural input markets, credit and extension services. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.137018",
+  "url": "https://doi.org/10.2499/p15738coll2.137018",
+  "doi": "10.2499/p15738coll2.137018",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S207",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2023). Myanmar Agricultural Performance Survey Round Two: Note on Sample Characteristics and Weighting. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.136782",
+  "url": "https://doi.org/10.2499/p15738coll2.136782",
+  "doi": "10.2499/p15738coll2.136782",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S208",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2023). Myanmar agricultural performance survey (Monsoon 2022): Farm commercialization. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.136693",
+  "url": "https://doi.org/10.2499/p15738coll2.136693",
+  "doi": "10.2499/p15738coll2.136693",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S209",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2023). Myanmar agricultural performance survey (dry season 2023): Farm commercialization. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.136906",
+  "url": "https://doi.org/10.2499/p15738coll2.136906",
+  "doi": "10.2499/p15738coll2.136906",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S210",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2023). Myanmar agricultural performance survey round one: Note on sample characteristics and weighting. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.136644",
+  "url": "https://doi.org/10.2499/p15738coll2.136644",
+  "doi": "10.2499/p15738coll2.136644",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S211",
+  "kind": "Study",
+  "citation": "World Bank (2023). Myanmar: Compounding Food Security Challenges. World Bank. https://doi.org/10.1596/40794",
+  "url": "https://doi.org/10.1596/40794",
+  "doi": "10.1596/40794",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S212",
+  "kind": "Study",
+  "citation": "Samik Chowdhury, T. Boopathi, Hirak Chatterjee (2023). Natural Farming Boosts Coccinelid Abundance and Suppressing Rice Leaf Folder (Cnaphalocrosis Medinalis) in Rice in Indo-Burma Region.. Journal of Survey in Fisheries Sciences. https://doi.org/10.53555/sfs.v10i4s.1567",
+  "url": "https://doi.org/10.53555/sfs.v10i4s.1567",
+  "doi": "10.53555/sfs.v10i4s.1567",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S213",
+  "kind": "Study",
+  "citation": "Thiri Maung, Thin Lai Lai Thein (2023). Operational Drought Risk Index Mapping for Disaster Risk Reduction in Central Dry Zone of Myanmar. 2023 IEEE Conference on Computer Applications (ICCA). https://doi.org/10.1109/icca51723.2023.10181337",
+  "url": "https://doi.org/10.1109/icca51723.2023.10181337",
+  "doi": "10.1109/icca51723.2023.10181337",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S214",
+  "kind": "Study",
+  "citation": "Taketo Eguchi, Masahiro Tasumi (2023). Paddy Rice Double-Cropping Field Monitoring via Vegetation Indices with Limited Ground Data—A Case Study for Thapanzeik Dam Irrigation District in Myanmar. Agriculture. https://doi.org/10.3390/agriculture13040851",
+  "url": "https://doi.org/10.3390/agriculture13040851",
+  "doi": "10.3390/agriculture13040851",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S215",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2023). Paddy rice productivity and profitability in Myanmar: Assessment of the 2022 monsoon season. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.136705",
+  "url": "https://doi.org/10.2499/p15738coll2.136705",
+  "doi": "10.2499/p15738coll2.136705",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S216",
+  "kind": "Study",
+  "citation": "C. Choochuay, W. Deelaman, S. Pongpiachan (2023). Polycyclic Aromatic Hydrocarbons in Thai and Myanmar Rice: Concentrations, Distribution and Health Concerns. Nature Environment and Pollution Technology. https://doi.org/10.46488/nept.2023.v22i03.002",
+  "url": "https://doi.org/10.46488/nept.2023.v22i03.002",
+  "doi": "10.46488/nept.2023.v22i03.002",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S217",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2023). Rice productivity in Myanmar: Assessment of the 2023 dry season. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.136904",
+  "url": "https://doi.org/10.2499/p15738coll2.136904",
+  "doi": "10.2499/p15738coll2.136904",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S218",
+  "kind": "Study",
+  "citation": "Hnin Wuit Yee Kyaw, Phone Pyai Tun (2023). Spatial-Temporal Relations of Flood Risk and Its Potential Dynamic Pressures in Myanmar. Natural Hazards - New Insights. https://doi.org/10.5772/intechopen.109831",
+  "url": "https://doi.org/10.5772/intechopen.109831",
+  "doi": "10.5772/intechopen.109831",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S219",
+  "kind": "Study",
+  "citation": "Kiyoyasu Tanaka (2023). The European Union's safeguard for rice imports from Cambodia and Myanmar. The Developing Economies. https://doi.org/10.1111/deve.12366",
+  "url": "https://doi.org/10.1111/deve.12366",
+  "doi": "10.1111/deve.12366",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S220",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2023). The stalled transformation of food processing in Myanmar. IFPRI Myanmar SSP Working Paper. https://doi.org/10.2499/p15738coll2.136516",
+  "url": "https://doi.org/10.2499/p15738coll2.136516",
+  "doi": "10.2499/p15738coll2.136516",
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S221",
+  "kind": "Study",
+  "citation": "Phyu Thaw Tun, Thanh Thi Nguyen, Andreas Buerkert (2023). Transformation of Agricultural Landscapes and Its Consequences for Natural Forests in Southern Myanmar within the Last 40 Years. Remote Sensing. https://doi.org/10.3390/rs15061537",
+  "url": "https://doi.org/10.3390/rs15061537",
+  "doi": "10.3390/rs15061537",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S222",
+  "kind": "Study",
+  "citation": "Linda Steinhübel, Bart Minten (2023). Urban proximity, conflict, and agricultural development: Evidence from Myanmar. International Food Policy Research Institute. https://doi.org/10.2499/p15738coll2.136807",
+  "url": "https://doi.org/10.2499/p15738coll2.136807",
+  "doi": "10.2499/p15738coll2.136807",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S223",
+  "kind": "Study",
+  "citation": "Drury, L., Johnston, R., Schmitter, Petra S. (2023). Water stresses and responses in Myanmar’s Central Dry Zone. Springer. https://doi.org/10.1007/978-3-031-16648-8_3",
+  "url": "https://doi.org/10.1007/978-3-031-16648-8_3",
+  "doi": "10.1007/978-3-031-16648-8_3",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S224",
+  "kind": "Study",
+  "citation": "T Win Maung, S Charoenratana (2024). Adaptation to climate impacts on rice production: an analysis of dry zone farmers in central Myanmar. Climate Research. https://doi.org/10.3354/cr01738",
+  "url": "https://doi.org/10.3354/cr01738",
+  "doi": "10.3354/cr01738",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S225",
+  "kind": "Study",
+  "citation": "Belton, Ben, Win, Myat Thida, Zhang, Xiaobo et al. (2024). Agricultural mechanization: Drivers and characteristics. Myanmar’s agrifood system: Historical development, recent shocks, future opportunities.",
+  "url": "https://hdl.handle.net/10568/155170",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S226",
+  "kind": "Study",
+  "citation": "G. Srinivasan, Anshul Agarwal, Upeakshika Bandara (2024). Climate change impacts on water resources and agriculture in Southeast Asia with a focus on Thailand, Myanmar, and Cambodia. The Role of Tropics in Climate Change. https://doi.org/10.1016/b978-0-323-99519-1.02002-0",
+  "url": "https://doi.org/10.1016/b978-0-323-99519-1.02002-0",
+  "doi": "10.1016/b978-0-323-99519-1.02002-0",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S227",
+  "kind": "Study",
+  "citation": "Anon. (2024). Comparative Study of Agricultural Extension Methods Used by the Public and Private Sectors Before and During COVID-19 Pandemic in Myanmar: A Case Study. Agricultural and Rural Studies. https://doi.org/10.59978/ar02020009",
+  "url": "https://doi.org/10.59978/ar02020009",
+  "doi": "10.59978/ar02020009",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S228",
+  "kind": "Study",
+  "citation": "Win, Myat Thida, Maredia, Mywish K., Jin, Songqing (2024). Conflict and agricultural performance: Evidence from Myanmar. IFPRI Myanmar SSP Working Paper.",
+  "url": "https://hdl.handle.net/10568/144029",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S229",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2024). Conflict, inclusivity, and transformation of the rice value chain in Myanmar. IFPRI Myanmar SSP Working Paper.",
+  "url": "https://hdl.handle.net/10568/141582",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S230",
+  "kind": "Study",
+  "citation": "Swaans, Cornelis, Khaung, Ye (2024). Digital climate advisories aid 5,000 monsoon rice farmers in Myanmar.",
+  "url": "https://hdl.handle.net/10568/141963",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S231",
+  "kind": "Study",
+  "citation": "Aung Myint Htun, Sara Tokhi Arab, Tofael Ahamed (2024). Drought Monitoring and Rice Yield Loss Assessment Using Various Drought Indices and the SPI by an Integrated Approach of the AHP in the Central Dry Zone of Myanmar. New Frontiers in Regional Science: Asian Perspectives Remote Sensing Application II. https://doi.org/10.1007/978-981-97-1188-8_11",
+  "url": "https://doi.org/10.1007/978-981-97-1188-8_11",
+  "doi": "10.1007/978-981-97-1188-8_11",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S232",
+  "kind": "Study",
+  "citation": "Ruonan Li, Cansong Li, Dongyang Hou et al. (2024). Dynamics in Land Cover and Landscape Patterns of Myanmar: A Three-Decade Perspective (1990–2020). Land. https://doi.org/10.3390/land13122212",
+  "url": "https://doi.org/10.3390/land13122212",
+  "doi": "10.3390/land13122212",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S233",
+  "kind": "Study",
+  "citation": "Reardon, Thomas, Awokuse, Titus, Belton, Ben et al. (2024). Emerging outsource agricultural services enable farmer adaptation in agrifood value chains: A product cycle perspective. Formally Published. https://doi.org/10.1016/j.foodpol.2024.102711",
+  "url": "https://doi.org/10.1016/j.foodpol.2024.102711",
+  "doi": "10.1016/j.foodpol.2024.102711",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S234",
+  "kind": "Study",
+  "citation": "Hiroyuki Takeshima, Zin Wai Aung, Ian Masias et al. (2024). Endogenous technologies and productivity in rice production: Roles of social instability in Myanmar since 2021. Agricultural Economics. https://doi.org/10.1111/agec.12855",
+  "url": "https://doi.org/10.1111/agec.12855",
+  "doi": "10.1111/agec.12855",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S235",
+  "kind": "Study",
+  "citation": "Myint Myat Moe, Isriya Bunyasiri, Prapinwadee Sirisupluxna (2024). Environmental Efficiency of Monsoon Rice (Oryza sativa) Production between Transplanting and Broadcasting Sowing Methods in Myanmar. The Open Agriculture Journal. https://doi.org/10.2174/0118743315293141240424062821",
+  "url": "https://doi.org/10.2174/0118743315293141240424062821",
+  "doi": "10.2174/0118743315293141240424062821",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S236",
+  "kind": "Study",
+  "citation": "Katharina Seeger, Andreas Peffeköver, Philip S J Minderhoud et al. (2024). Evaluating flood hazards in data-sparse coastal lowlands: highlighting the Ayeyarwady Delta (Myanmar). Environmental Research Letters. https://doi.org/10.1088/1748-9326/ad5b07",
+  "url": "https://doi.org/10.1088/1748-9326/ad5b07",
+  "doi": "10.1088/1748-9326/ad5b07",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S237",
+  "kind": "Study",
+  "citation": "Moe Moe Myin, Thin Lai Lai Thein (2024). Flood Mapping System of Flooding Prone Area in Myanmar. 2024 IEEE Conference on Computer Applications (ICCA). https://doi.org/10.1109/icca62361.2024.10532869",
+  "url": "https://doi.org/10.1109/icca62361.2024.10532869",
+  "doi": "10.1109/icca62361.2024.10532869",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S238",
+  "kind": "Study",
+  "citation": "Moe Moe Hlaing, Yoshiyuki Yamagata, Tomoyuki Furuta et al. (2024). Genetic variation in heading dates and phenological parameters of Myanmar rice. Plant Production Science. https://doi.org/10.1080/1343943x.2024.2308336",
+  "url": "https://doi.org/10.1080/1343943x.2024.2308336",
+  "doi": "10.1080/1343943x.2024.2308336",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S239",
+  "kind": "Study",
+  "citation": "Myanmar Agrifood Program for Strategy and Analysis (2024). How have foreign exchange market distortions and conflict affected agricultural production incentives in Myanmar?. IFPRI Myanmar SSP Working Paper.",
+  "url": "https://hdl.handle.net/10568/155358",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S240",
+  "kind": "Study",
+  "citation": "Nay Chi Aye, Rizwana Begum Syed Nabi, Muhammad Shahid et al. (2024). Immune Sensor Xa21 Regulates Bacterial Leaf Blight Infection in Seven Rice Cultivars from Myanmar. Rice Science. https://doi.org/10.1016/j.rsci.2024.06.008",
+  "url": "https://doi.org/10.1016/j.rsci.2024.06.008",
+  "doi": "10.1016/j.rsci.2024.06.008",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S241",
+  "kind": "Study",
+  "citation": "Myanmar Agrifood Program for Strategy and Analysis (2024). Myanmar Agricultural Performance Survey (Dry Season 2024): Farm commercialization and farm services. Myanmar Strategy Support Program Working Paper.",
+  "url": "https://hdl.handle.net/10568/163169",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S242",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2024). Myanmar Agricultural Performance Survey (MAPS) Monsoon Season 2024: Agricultural input markets, credit and extension services. IFPRI Myanmar SSP Research Note.",
+  "url": "https://hdl.handle.net/10568/148696",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S243",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2024). Myanmar Agricultural Performance Survey (Monsoon 2023): Farming environment and farm commercialization. IFPRI Myanmar SSP Working Paper.",
+  "url": "https://hdl.handle.net/10568/144146",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S244",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2024). Myanmar Agricultural Performance Survey Round Four: Note on Sample Characteristics and Weighting. Grey Literature.",
+  "url": "https://hdl.handle.net/10568/148779",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S245",
+  "kind": "Study",
+  "citation": "World Bank (2024). Myanmar: Agricultural Resilience Amid Deepening Food Insecurity. Washington, DC: World Bank. https://doi.org/10.1596/42108",
+  "url": "https://doi.org/10.1596/42108",
+  "doi": "10.1596/42108",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S246",
+  "kind": "Study",
+  "citation": "Chan Myae Lwin, Orachos Napasintuwong, Suwanna Praneetvatakul (2024). Nutritious Rice Consumption among Urban Consumers in Naypyitaw, Myanmar. Research on World Agricultural Economy. https://doi.org/10.36956/rwae.v6i1.1340",
+  "url": "https://doi.org/10.36956/rwae.v6i1.1340",
+  "doi": "10.36956/rwae.v6i1.1340",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S247",
+  "kind": "Study",
+  "citation": "Mohammad Rafiul Hashar, Shamima Nasrin (2024). Phosphorus forms and adsorption properties of paddy field soils and potential risk to Indawgyi Lake, Myanmar. Discover Environment. https://doi.org/10.1007/s44274-024-00028-2",
+  "url": "https://doi.org/10.1007/s44274-024-00028-2",
+  "doi": "10.1007/s44274-024-00028-2",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S248",
+  "kind": "Study",
+  "citation": "Nu Nu Htway, Lwin Mar Thin (2024). Prediction of Land Surface Temperature in Dry Zone, Myanmar Using MODIS Derived NDVI and LST. 2024 IEEE Conference on Computer Applications (ICCA). https://doi.org/10.1109/icca62361.2024.10532841",
+  "url": "https://doi.org/10.1109/icca62361.2024.10532841",
+  "doi": "10.1109/icca62361.2024.10532841",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S249",
+  "kind": "Study",
+  "citation": "Myint Myat Moe, Isriya Bunyasiri, Prapinwadee Sirisupluxna (2024). Quantifying and Comparing Greenhouse Gas Emissions in Monsoon Rice Production: A Comprehensive Analysis of Transplanting and Broadcasting Sowing Methods in Myanmar. The Open Agriculture Journal. https://doi.org/10.2174/0118743315290024240122052257",
+  "url": "https://doi.org/10.2174/0118743315290024240122052257",
+  "doi": "10.2174/0118743315290024240122052257",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S250",
+  "kind": "Study",
+  "citation": "Yuji Matsue (2024). Reliability of Sensory Test for Myanmar Rice Cultivars by a Myanmar Panel. Agricultural Research & Technology: Open Access Journal. https://doi.org/10.19080/artoaj.2024.28.556411",
+  "url": "https://doi.org/10.19080/artoaj.2024.28.556411",
+  "doi": "10.19080/artoaj.2024.28.556411",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S251",
+  "kind": "Study",
+  "citation": "Aparna R. Phalke, Rishiraj Dutta, Susantha Jayasinghe et al. (2024). Rice Yield Monitoring Using Satellite Data and AI for Food Security and Sustainable Landscapes in Myanmar. IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium. https://doi.org/10.1109/igarss53475.2024.10642947",
+  "url": "https://doi.org/10.1109/igarss53475.2024.10642947",
+  "doi": "10.1109/igarss53475.2024.10642947",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S252",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2024). Rice productivity and profitability in Myanmar: Assessment of the 2023 monsoon. IFPRI Myanmar SSP Working Paper.",
+  "url": "https://hdl.handle.net/10568/141875",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S253",
+  "kind": "Study",
+  "citation": "Myanmar Agrifood Program for Strategy and Analysis (2024). Rice productivity in Myanmar: Assessment of the 2024 dry season. IFPRI Myanmar SSP Research Note.",
+  "url": "https://hdl.handle.net/10568/159895",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S254",
+  "kind": "Study",
+  "citation": "Frisa Irawan Ginting, Rudiyanto Rudiyanto, Fatchurahman et al. (2024). SEA-Rice-Ci10: High-resolution Mapping of Rice Cropping Intensity and Harvested Area Across Southeast Asia using the Integration of Sentinel-1 and Sentinel-2 Data. Copernicus GmbH. https://doi.org/10.5194/essd-2024-90",
+  "url": "https://doi.org/10.5194/essd-2024-90",
+  "doi": "10.5194/essd-2024-90",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S255",
+  "kind": "Study",
+  "citation": "Dorosh, Paul, Aung, Nilar, Minten, Bart (2024). The rice sector. Myanmar’s agrifood system: Historical development, recent shocks, future opportunities.",
+  "url": "https://hdl.handle.net/10568/155118",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S256",
+  "kind": "Study",
+  "citation": "Anissa Vogel, Katharina Seeger, Dominik Brill et al. (2024). Towards integrated flood management: Vulnerability and flood risk in the Ayeyarwady Delta of Myanmar. International Journal of Disaster Risk Reduction. https://doi.org/10.1016/j.ijdrr.2024.104723",
+  "url": "https://doi.org/10.1016/j.ijdrr.2024.104723",
+  "doi": "10.1016/j.ijdrr.2024.104723",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S257",
+  "kind": "Study",
+  "citation": "Arkar Myo, Oluwafemi Ajayi, Fei Huang et al. (2024). Valuation of ecosystem service of rice-fish coculture in Maubin District, Myanmar. Anthropocene Coasts. https://doi.org/10.1007/s44218-024-00053-x",
+  "url": "https://doi.org/10.1007/s44218-024-00053-x",
+  "doi": "10.1007/s44218-024-00053-x",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S258",
+  "kind": "Study",
+  "citation": "Aung Tun Oo, Saw Yan Naing, Giovanni Marin (2025). A Ricardian Analysis of the Impacts of Climate Change on Agricultural Crop Production in Myanmar. Economics of Disasters and Climate Change. https://doi.org/10.1007/s41885-025-00176-6",
+  "url": "https://doi.org/10.1007/s41885-025-00176-6",
+  "doi": "10.1007/s41885-025-00176-6",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S259",
+  "kind": "Study",
+  "citation": "Dela Rueda, Justin, Villanueva, Donald, Garciano, Marriz et al. (2025). Assessing the cost effectiveness and adoption of digital climate advisory services for rice farmers in Myanmar.",
+  "url": "https://hdl.handle.net/10568/180824",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S260",
+  "kind": "Study",
+  "citation": "AUNG TUN OO, DAO DUY MINH (2025). Assessment of the water insecurity of rice and fish farmers in the coastal areas of Myanmar and Vietnam. Asian Journal of Agriculture. https://doi.org/10.13057/asianjagric/g090120",
+  "url": "https://doi.org/10.13057/asianjagric/g090120",
+  "doi": "10.13057/asianjagric/g090120",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S261",
+  "kind": "Study",
+  "citation": "Htwe Ko, Chukiat Chaiboonsri (2025). Bivariate VARX Modeling of Export and Domestic Rice Prices Relations in Myanmar. Lecture Notes in Networks and Systems Information Systems for Intelligent Systems. https://doi.org/10.1007/978-981-96-1741-8_48",
+  "url": "https://doi.org/10.1007/978-981-96-1741-8_48",
+  "doi": "10.1007/978-981-96-1741-8_48",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S262",
+  "kind": "Study",
+  "citation": "Swaans, Cornelis, Dela Rueda, Justin, Khaung, Ye et al. (2025). Climate advisory services in Myanmar generate high returns through private digital platforms.",
+  "url": "https://hdl.handle.net/10568/174486",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S263",
+  "kind": "Study",
+  "citation": "Belton, Ben, Fang, Peixun, Reardon, Thomas (2025). Combine harvester outsourcing services and seasonal rural non-farm employment in Myanmar. Formally Published. https://doi.org/10.1002/aepp.13480",
+  "url": "https://doi.org/10.1002/aepp.13480",
+  "doi": "10.1002/aepp.13480",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S264",
+  "kind": "Study",
+  "citation": "Aye Nwe Latt, Theingi Myint, Myo Sabai Aye et al. (2025). Cost and Return Analysis of Domestic and Export-Oriented Rice Varieties during the Monsoon and Summer Seasons in Nay Pyi Taw Union Territory, Myanmar. Asian Research Journal of Agriculture. https://doi.org/10.9734/arja/2025/v18i3727",
+  "url": "https://doi.org/10.9734/arja/2025/v18i3727",
+  "doi": "10.9734/arja/2025/v18i3727",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S265",
+  "kind": "Study",
+  "citation": "Nyein Nyein Phyoe, Theingi Myint, Honey Lynn Lynn et al. (2025). Determinants of Contract Participation and Profit Functions for Certified Rice Seed Production in Myanmar: A Heckman Two-stage Model Approach. Asian Research Journal of Agriculture. https://doi.org/10.9734/arja/2025/v18i4777",
+  "url": "https://doi.org/10.9734/arja/2025/v18i4777",
+  "doi": "10.9734/arja/2025/v18i4777",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S266",
+  "kind": "Study",
+  "citation": "Ni Ni Win, Aye Aye Khaing, Kyi Moe et al. (2025). Diversity of Upland Rice (Oryza sativa L.) Genotypes in Myanmar. Asian Research Journal of Current Science. https://doi.org/10.56557/arjocs/2025/v7i1147",
+  "url": "https://doi.org/10.56557/arjocs/2025/v7i1147",
+  "doi": "10.56557/arjocs/2025/v7i1147",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S267",
+  "kind": "Study",
+  "citation": "Anjali Chaudhary, Ajay Kumar Mishra, Veluswamy Venkatramanan et al. (2025). Enhancing yield and GHG mitigation through site-specific nutrient management for transplanted and direct-seeded rice in Odisha, India. Frontiers in Sustainable Food Systems. https://doi.org/10.3389/fsufs.2025.1571263",
+  "url": "https://doi.org/10.3389/fsufs.2025.1571263",
+  "doi": "10.3389/fsufs.2025.1571263",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S268",
+  "kind": "Study",
+  "citation": "Minten, Bart, Ei Win, Hnin (2025). Farm commercialization and farm services: Myanmar Agricultural Performance Survey (dry season 2025). Myanmar SSP Working Paper.",
+  "url": "https://hdl.handle.net/10568/179100",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S269",
+  "kind": "Study",
+  "citation": "Takeshima, Hiroyuki, Minten, Bart, van Asselt, Joanna et al. (2025). Fertilizer and conflicts: Evidence from Myanmar. Formally Published. https://doi.org/10.1016/j.foodpol.2024.102786",
+  "url": "https://doi.org/10.1016/j.foodpol.2024.102786",
+  "doi": "10.1016/j.foodpol.2024.102786",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S270",
+  "kind": "Study",
+  "citation": "Nandar Aye Chan, Orkhan Sariyev, Manfred Zeller (2025). Gender gap in rice productivity: micro-evidence from Myanmar. Development in Practice. https://doi.org/10.1080/09614524.2025.2466047",
+  "url": "https://doi.org/10.1080/09614524.2025.2466047",
+  "doi": "10.1080/09614524.2025.2466047",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S271",
+  "kind": "Study",
+  "citation": "Nant Nyein Zar Ni Naing, Chunli Wang, Qian Zhu et al. (2025). Genomic and Transcriptomic Insights into Stage-Specific Drought Resilience in Diverse Myanmar Rice Germplasm. Rice. https://doi.org/10.1186/s12284-025-00877-2",
+  "url": "https://doi.org/10.1186/s12284-025-00877-2",
+  "doi": "10.1186/s12284-025-00877-2",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S272",
+  "kind": "Study",
+  "citation": "Minten, Bart, Aung, Zin Wai, Htar, May Thet et al. (2025). Global rice price declines and expected effects on monsoon paddy farming: Insights from key informants. Myanmar SSP Research Note.",
+  "url": "https://hdl.handle.net/10568/175338",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S273",
+  "kind": "Study",
+  "citation": "Akari Win, Budiman Minasny, Anthony Ringrose-Voase et al. (2025). Improving the accuracy of digital soil mapping using remote sensing and topography covariates in the Central Dry Zone of Myanmar. Geoderma Regional. https://doi.org/10.1016/j.geodrs.2025.e01001",
+  "url": "https://doi.org/10.1016/j.geodrs.2025.e01001",
+  "doi": "10.1016/j.geodrs.2025.e01001",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S274",
+  "kind": "Study",
+  "citation": "Joseph Goeb, Mywish K. Maredia, Caitlin L. Herrington et al. (2025). Information Delivery in Times of Crisis: Evaluating Digitally‐Supported Agricultural Extension in Myanmar. Agricultural Economics. https://doi.org/10.1111/agec.70058",
+  "url": "https://doi.org/10.1111/agec.70058",
+  "doi": "10.1111/agec.70058",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S275",
+  "kind": "Study",
+  "citation": "Poe Zar Ni Aung, Nilar Aye, Yin Yin Htwe (2025). Investigation of Hydrological Drought in Central Dry Zone, Myanmar. The Indonesian Journal of Computer Science. https://doi.org/10.33022/ijcs.v13i6.4586",
+  "url": "https://doi.org/10.33022/ijcs.v13i6.4586",
+  "doi": "10.33022/ijcs.v13i6.4586",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S276",
+  "kind": "Study",
+  "citation": "Myanmar Agriculture Policy Support Activity (2025). Myanmar Agricultural Performance Survey Round Five: Note on Sample Characteristics and Weighting. Grey Literature.",
+  "url": "https://hdl.handle.net/10568/175362",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S277",
+  "kind": "Study",
+  "citation": "World Bank (2025). Myanmar Economic Monitor, December 2024: Compounding Crises - Special Focus: International Migration from Myanmar. Washington, DC: World Bank. https://doi.org/10.1596/42624",
+  "url": "https://doi.org/10.1596/42624",
+  "doi": "10.1596/42624",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S278",
+  "kind": "Study",
+  "citation": "Xia Liang, Ian R. Willett, Arjun Pandey et al. (2025). Nitrogen use for improved profitability and sustainability of rice production in central Myanmar. Nitrogen Cycling. https://doi.org/10.48130/nc-0025-0009",
+  "url": "https://doi.org/10.48130/nc-0025-0009",
+  "doi": "10.48130/nc-0025-0009",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S279",
+  "kind": "Study",
+  "citation": "Anon. (2025). PEST AND DISEASE DETECTION SYSTEM USING MACHINE LEARNING FOR MYANMAR RICE CROPS. International Research Journal of Modernization in Engineering Technology & Science. https://doi.org/10.56726/irjmets81664",
+  "url": "https://doi.org/10.56726/irjmets81664",
+  "doi": "10.56726/irjmets81664",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S280",
+  "kind": "Study",
+  "citation": "Ei Ei Mon (2025). Pest and Diseases Detection System using Convolutional Neural Networks (CNNs) for Crops in Myanmar. International Journal of Research Publication and Reviews. https://doi.org/10.55248/gengpi.6.0825.2821",
+  "url": "https://doi.org/10.55248/gengpi.6.0825.2821",
+  "doi": "10.55248/gengpi.6.0825.2821",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S281",
+  "kind": "Study",
+  "citation": "Aung, Zin Wai, Minten, Bart (2025). Rice productivity in Myanmar: Assessment of the 2025 dry season and outlook for the 2025 monsoon. Myanmar SSP Research Note.",
+  "url": "https://hdl.handle.net/10568/178419",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S282",
+  "kind": "Study",
+  "citation": "Nyein Nyein Phyoe, Theingi Myint, Honey Lynn Lynn et al. (2025). SWOT Analysis of Contract Farming for Certified Rice Seed Production in Myanmar. Asian Research Journal of Agriculture. https://doi.org/10.9734/arja/2025/v18i3757",
+  "url": "https://doi.org/10.9734/arja/2025/v18i3757",
+  "doi": "10.9734/arja/2025/v18i3757",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S284",
+  "kind": "Study",
+  "citation": "Masias, Ian, Htar, May Thet, Oo, Theingi (2025). Tractor service providers in Myanmar: Early insights from the 2025 monsoon season. Myanmar SSP Research Note.",
+  "url": "https://hdl.handle.net/10568/176592",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S285",
+  "kind": "Study",
+  "citation": "Rowell C. Dikitanan, Ronald Jeremy S. Antonio, Justin B. Dela Rueda et al. (2026). Adoption and cost-effectiveness of digital climate advisory services among smallholder rice farming in Myanmar. Climate Services. https://doi.org/10.1016/j.cliser.2026.100673",
+  "url": "https://doi.org/10.1016/j.cliser.2026.100673",
+  "doi": "10.1016/j.cliser.2026.100673",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S286",
+  "kind": "Study",
+  "citation": "Goeb, Joseph, Minten, Bart, Aung, Nilar et al. (2026). Agricultural credit and conflict: Evidence from Myanmar. Myanmar SSP Working Paper.",
+  "url": "https://hdl.handle.net/10568/183542",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S287",
+  "kind": "Study",
+  "citation": "Masias, Ian, Htar, May Thet, Oo, Theingi et al. (2026). Combine harvester service providers in Myanmar: Insights from the 2025 monsoon season. Myanmar SSP Research Note.",
+  "url": "https://hdl.handle.net/10568/182639",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S288",
+  "kind": "Study",
+  "citation": "Takeshima, Hiroyuki, Minten, Bart, Masias, Ian et al. (2026). Conflict and farmland values: Spatial panel data evidence from rice plots in Myanmar. IFPRI Discussion Paper.",
+  "url": "https://hdl.handle.net/10568/183196",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S289",
+  "kind": "Study",
+  "citation": "Robert J. Farquharson, Arjun Pandey, S. P. Thar et al. (2026). Convergence of smallholder farmers’ knowledge and scientists’ soil assessment for collaborative nutrient management of rice in Central Myanmar. Frontiers in Sustainable Food Systems. https://doi.org/10.3389/fsufs.2026.1839167",
+  "url": "https://doi.org/10.3389/fsufs.2026.1839167",
+  "doi": "10.3389/fsufs.2026.1839167",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S290",
+  "kind": "Study",
+  "citation": "Anon. (2026). DROUGHT PREDICTION IN ARID ZONE, CENTRAL MYANMAR USING RANDOM FOREST AND SUPPORT VECTOR MACHINE. International Research Journal of Modernization in Engineering Technology & Science. https://doi.org/10.56726/irjmets99296",
+  "url": "https://doi.org/10.56726/irjmets99296",
+  "doi": "10.56726/irjmets99296",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S291",
+  "kind": "Study",
+  "citation": "Joanna van Asselt, Bart Minten, Zin Wai Aung et al. (2026). Digital agricultural extension in fragile and conflict-affected countries: evidence from Myanmar. The Journal of Agricultural Education and Extension. https://doi.org/10.1080/1389224x.2026.2667795",
+  "url": "https://doi.org/10.1080/1389224x.2026.2667795",
+  "doi": "10.1080/1389224x.2026.2667795",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S292",
+  "kind": "Study",
+  "citation": "Goeb, Joseph, Minten, Bart, Aung, Zin Wai et al. (2026). Disruptions to agrifood value chains in fragile and conflict-affected states: Evidence from Myanmar. Formally Published. https://doi.org/10.22434/ifamr.1204",
+  "url": "https://doi.org/10.22434/ifamr.1204",
+  "doi": "10.22434/ifamr.1204",
+  "tier": 2,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S293",
+  "kind": "Study",
+  "citation": "Amos Ma (2026). Edge-AI Driven Vision System for Crop Disease and Pest Monitoring Under Network and Power Constraints in Rural Myanmar. Elsevier BV. https://doi.org/10.2139/ssrn.7436419",
+  "url": "https://doi.org/10.2139/ssrn.7436419",
+  "doi": "10.2139/ssrn.7436419",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S294",
+  "kind": "Study",
+  "citation": "Ei Win, Hnin, Minten, Bart (2026). Farm commercialization and farm services: Myanmar Agricultural Performance Survey (monsoon 2025). Myanmar SSP Working Paper.",
+  "url": "https://hdl.handle.net/10568/183097",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S295",
+  "kind": "Study",
+  "citation": "Gaku Manago, Kyoko Shibata (2026). Farmers’ Crop Choice and Soil Sustainability: A Simulation Analysis Based on Perceived Profitability and Soil Load in Shan State, Myanmar. Sustainability. https://doi.org/10.3390/su18146943",
+  "url": "https://doi.org/10.3390/su18146943",
+  "doi": "10.3390/su18146943",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S296",
+  "kind": "Study",
+  "citation": "Saw Yan Naing, Lin Zhen, Yu Xiao et al. (2026). Farmland and Cropping Pattern Dynamics in Myanmar: Implications for Food Security and Sustainable Agriculture. Foods. https://doi.org/10.3390/foods15173066",
+  "url": "https://doi.org/10.3390/foods15173066",
+  "doi": "10.3390/foods15173066",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S297",
+  "kind": "Study",
+  "citation": "Andrew Laitha, Bart Minten, Henry Stemmler et al. (2026). Measuring Agricultural Wages Amidst Conflict: Evidence From Myanmar. Journal of Agricultural Economics. https://doi.org/10.1111/1477-9552.70082",
+  "url": "https://doi.org/10.1111/1477-9552.70082",
+  "doi": "10.1111/1477-9552.70082",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched"
+ },
+ {
+  "source_id": "S298",
+  "kind": "Study",
+  "citation": "Le, Tam Thi, McGrath, Quyen, Swaans, Cornelis (2026). Public–private partnership scales digital climate advisories for 10 commodities to 139,000 farmers across five regions in Myanmar.",
+  "url": "https://hdl.handle.net/10568/182936",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S299",
+  "kind": "Study",
+  "citation": "Takeshima, Hiroyuki, Minten, Bart, Masias, Ian et al. (2026). Quality-seed supply and resilient sourcing of off-farm seeds under conflicts and weather shocks: Insights from rice farmers in Myanmar. IFPRI Discussion Paper.",
+  "url": "https://hdl.handle.net/10568/185645",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S300",
+  "kind": "Study",
+  "citation": "Thandar Win Maung, Sayamol Charoenratana, Ho Nguyen Diem Tien et al. (2026). Rice Farming Resilience to Climate Variability: Impacts of Adaptation Strategies on Food Security and Farm Income in Thailand and Myanmar. Environmental and Sustainability Indicators. https://doi.org/10.1016/j.indic.2026.101560",
+  "url": "https://doi.org/10.1016/j.indic.2026.101560",
+  "doi": "10.1016/j.indic.2026.101560",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref) and metadata matched; abstract not available — content not independently checked"
+ },
+ {
+  "source_id": "S301",
+  "kind": "Study",
+  "citation": "Goeb, Joseph, Minten, Bart, Synt, Nang Lun Kham et al. (2026). Rice establishment methods in Myanmar: Trends, perceptions, and constraints. Myanmar SSP Research Note.",
+  "url": "https://hdl.handle.net/10568/183444",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S302",
+  "kind": "Study",
+  "citation": "Aung, Zin Wai, Minten, Bart (2026). Rice productivity and profitability in Myanmar: Assessment of the 2025 monsoon season. Myanmar SSP Working Paper.",
+  "url": "https://hdl.handle.net/10568/183098",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S303",
+  "kind": "Study",
+  "citation": "Minten, Bart, Masias, Ian, Curtis, Matt et al. (2026). Strengthening Myanmar’s agrifood system: Evidence and pathways for resilience. Myanmar SSP Working Paper.",
+  "url": "https://hdl.handle.net/10568/183199",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S304",
+  "kind": "Study",
+  "citation": "Masias, Ian, Minten, Bart, Goeb, Joseph et al. (2026). The Iran War and rising fuel and fertilizer prices: Implications for Myanmar’s rice value chain. Myanmar SSP Research Note.",
+  "url": "https://hdl.handle.net/10568/183599",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S305",
+  "kind": "Study",
+  "citation": "Goeb, Joseph, Minten, Bart, Reardon, Thomas et al. (2026). Vertical integration and the modernization of staple food value chains: Evidence from Myanmar’s rice sector. Myanmar SSP Working Paper.",
+  "url": "https://hdl.handle.net/10568/182623",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: CGIAR repository record (CGSpace)"
+ },
+ {
+  "source_id": "S320",
+  "kind": "Study",
+  "citation": "Bart Minten, Joseph Goeb, Khin Zin Win et al. (2023). Agricultural value chains in a fragile state: The case of rice in Myanmar. World Development. https://doi.org/10.1016/j.worlddev.2023.106244",
+  "url": "https://doi.org/10.1016/j.worlddev.2023.106244",
+  "doi": "10.1016/j.worlddev.2023.106244",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref); abstract not retrieved"
+ },
+ {
+  "source_id": "S306",
+  "kind": "Study",
+  "citation": "A.J. McDonald, P.R. Hobbs, S.J. Riha (2006). Does the system of rice intensification outperform conventional best management? A synopsis of the empirical record. Field Crops Research. https://doi.org/10.1016/j.fcr.2005.05.003",
+  "url": "https://doi.org/10.1016/j.fcr.2005.05.003",
+  "doi": "10.1016/j.fcr.2005.05.003",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref); content read via abstract/page summary in this build"
+ },
+ {
+  "source_id": "S307",
+  "kind": "Study",
+  "citation": "Ministry of Agriculture and Irrigation, Myanmar (with IRRI support) (2015). Myanmar Rice Sector Development Strategy (MRSDS). Policy document. https://news.irri.org/2016/03/irris-involvement-in-rice-sector.html",
+  "url": "https://news.irri.org/2016/03/irris-involvement-in-rice-sector.html",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: source URL resolves; content read via abstract/page summary in this build"
+ },
+ {
+  "source_id": "S308",
+  "kind": "Study",
+  "citation": "Helena Wehmeyer, Melanie Connor (2021). Adoption of sustainable rice farming technologies (One Must Do, Five Reductions) in the Mekong River Delta. Tropentag 2021 conference abstract. https://www.tropentag.de/2021/abstracts/links/Wehmeyer_h42OHODF.php",
+  "url": "https://www.tropentag.de/2021/abstracts/links/Wehmeyer_h42OHODF.php",
+  "doi": null,
+  "tier": 3,
+  "verification_status": "Verified: source URL resolves; content read via abstract/page summary in this build"
+ },
+ {
+  "source_id": "S309",
+  "kind": "Study",
+  "citation": "CGIAR Excellence in Agronomy / IRRI (2024). Mechanized direct seeding transforms rice production, boosting yield, profit and reducing carbon footprint in Vietnam's Mekong River Delta. CGIAR initiative result. https://www.cgiar.org/initiative-result/mechanized-direct-seeding-transforms-rice-production-boosting-yield-profit-and-reducing-carbon-footprint-in-vietnams-mekong-river-delta",
+  "url": "https://www.cgiar.org/initiative-result/mechanized-direct-seeding-transforms-rice-production-boosting-yield-profit-and-reducing-carbon-footprint-in-vietnams-mekong-river-delta",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: source URL resolves; content read via abstract/page summary in this build"
+ },
+ {
+  "source_id": "S310",
+  "kind": "Study",
+  "citation": "Du Anh Tho, Katsutoshi Onaka (2020). Status and challenges of agricultural machinery services development in Vietnam Central Coast area. Japanese Journal of Agricultural Economics 22:135-140. https://ageconsearch.umn.edu/record/314902/files/22_135.pdf",
+  "url": "https://ageconsearch.umn.edu/record/314902/files/22_135.pdf",
+  "doi": null,
+  "tier": 3,
+  "verification_status": "Verified: source URL resolves; content read via abstract/page summary in this build"
+ },
+ {
+  "source_id": "S311",
+  "kind": "Study",
+  "citation": "Bakhtiar, M.M., Mahzab, M., Karim, M.A. et al. (2025). Combine harvester subsidies and agricultural mechanization in Bangladesh: Recommendations for reform (Policy Note) and related IFPRI notes. IFPRI Policy/Project Notes. https://www.ifpri.org/?p=28240",
+  "url": "https://www.ifpri.org/?p=28240",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: source URL resolves; content read via abstract/page summary in this build"
+ },
+ {
+  "source_id": "S312",
+  "kind": "Study",
+  "citation": "National Productivity Council (India) (2017). Study on Impact of Soil Health Card Scheme. Government report. https://static.pib.gov.in/WriteReadData/userfiles/Study%20on%20Impact%20of%20Soil%20Health%20Card%20Scheme.pdf",
+  "url": "https://static.pib.gov.in/WriteReadData/userfiles/Study%20on%20Impact%20of%20Soil%20Health%20Card%20Scheme.pdf",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: source URL resolves; content read via abstract/page summary in this build"
+ },
+ {
+  "source_id": "S313",
+  "kind": "Study",
+  "citation": "Mitigation Action Facility / GIZ (2025). Mitigation Action Facility factsheet: Thai Rice (Thai Rice NAMA follow-up), 2018-2024. Project factsheet. https://www.asean-agrifood.org/wp-content/uploads/2025/05/Mitigation-Action-Facility_Thai-Rice-Factsheet.pdf",
+  "url": "https://www.asean-agrifood.org/wp-content/uploads/2025/05/Mitigation-Action-Facility_Thai-Rice-Factsheet.pdf",
+  "doi": null,
+  "tier": 3,
+  "verification_status": "Verified: source URL resolves; content read via abstract/page summary in this build"
+ },
+ {
+  "source_id": "S314",
+  "kind": "Study",
+  "citation": "Bank for Agriculture and Agricultural Cooperatives (press release) (2021). BAAC paid out over 370 million baht under the annual rice cultivation insurance scheme in 2020. Bangkok Post PR. https://bangkokpost.com/thailand/pr/2070415/baac-paid-out-over-370-million-baht-for-liabilities-under-the-annual-rice-cultivation-insurance-scheme-in-2020",
+  "url": "https://bangkokpost.com/thailand/pr/2070415/baac-paid-out-over-370-million-baht-for-liabilities-under-the-annual-rice-cultivation-insurance-scheme-in-2020",
+  "doi": null,
+  "tier": 4,
+  "verification_status": "Verified: source URL resolves; content read via abstract/page summary in this build"
+ },
+ {
+  "source_id": "S315",
+  "kind": "Study",
+  "citation": "IRRI News (2013). Cambodia postharvest project assesses impact (ADB-IRRI Postharvest Project). IRRI news. https://news.irri.org/2013/06/cambodia-postharvest-project-assesses.html",
+  "url": "https://news.irri.org/2013/06/cambodia-postharvest-project-assesses.html",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: source URL resolves; content read via abstract/page summary in this build"
+ },
+ {
+  "source_id": "S316",
+  "kind": "Study",
+  "citation": "David N. Harris (2011). Extending rice crop yield improvements in Lao PDR: an ACIAR-World Vision collaborative project (Impact Assessment Series 75). ACIAR Impact Assessment Series No. 75. https://www.aciar.gov.au/sites/default/files/legacy/node/14104/extending_rice_crop_yield_improvements_in_lao_pdr__96805.pdf",
+  "url": "https://www.aciar.gov.au/sites/default/files/legacy/node/14104/extending_rice_crop_yield_improvements_in_lao_pdr__96805.pdf",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: source URL resolves; content read via abstract/page summary in this build"
+ },
+ {
+  "source_id": "S317",
+  "kind": "Study",
+  "citation": "Bouasone Sengsourivong, Masaru Ichihashi (2019). Effectiveness of irrigation access on sticky rice productivity: Evidence from Lao PDR. Sustainability 11(20):5839. https://doi.org/10.3390/su11205839",
+  "url": "https://doi.org/10.3390/su11205839",
+  "doi": "10.3390/su11205839",
+  "tier": 3,
+  "verification_status": "Verified: DOI registered (Crossref); content read via abstract/page summary in this build"
+ },
+ {
+  "source_id": "S318",
+  "kind": "Study",
+  "citation": "Haggblade, S. et al. (full author list not independently verified) (2013). A Strategic Agricultural Sector and Food Security Diagnostic for Myanmar. MSU International Development Working Paper 131. https://www.canr.msu.edu/resources/a-strategic-agricultural-sector-and-food-security-diagnostic-for-myanmar",
+  "url": "https://www.canr.msu.edu/resources/a-strategic-agricultural-sector-and-food-security-diagnostic-for-myanmar",
+  "doi": null,
+  "tier": 3,
+  "verification_status": "Verified: source URL resolves; content read via abstract/page summary in this build"
+ },
+ {
+  "source_id": "S319",
+  "kind": "Study",
+  "citation": "World Bank (2016). Myanmar: Analysis of Farm Production Economics. World Bank report. https://openknowledge.worldbank.org/handle/10986/24584",
+  "url": "https://openknowledge.worldbank.org/handle/10986/24584",
+  "doi": null,
+  "tier": 2,
+  "verification_status": "Verified: source URL resolves; content read via abstract/page summary in this build"
+ },
+ {
+  "source_id": "D01",
+  "kind": "Dataset",
+  "citation": "USDA FAS Production, Supply and Distribution (PSD) - Rice - USDA Foreign Agricultural Service - National (Myanmar and all benchmark countries), 1960 to 2026/27 (forecast) - https://apps.fas.usda.gov/psdonline/app/index.html",
+  "url": "https://apps.fas.usda.gov/psdonline/app/index.html",
+  "doi": "",
+  "tier": 2,
+  "verification_status": "Downloaded and parsed by this build"
+ },
+ {
+  "source_id": "D02",
+  "kind": "Dataset",
+  "citation": "FAOSTAT Crops and livestock products (QCL) - FAO - National, 1961 to Latest FAO release - https://www.fao.org/faostat/en/#data/QCL",
+  "url": "https://www.fao.org/faostat/en/#data/QCL",
+  "doi": "",
+  "tier": 2,
+  "verification_status": "URL resolves (HTTP 200)"
+ },
+ {
+  "source_id": "D03",
+  "kind": "Dataset",
+  "citation": "World Bank WDI - Cereal yield (AG.YLD.CREL.KG) - World Bank (from FAO) - National, 1961 to 2025 (latest values may be null) - https://api.worldbank.org/v2/country/MMR/indicator/AG.YLD.CREL.KG?format=json",
+  "url": "https://api.worldbank.org/v2/country/MMR/indicator/AG.YLD.CREL.KG?format=json",
+  "doi": "",
+  "tier": 5,
+  "verification_status": "API queried by this build"
+ },
+ {
+  "source_id": "D04",
+  "kind": "Dataset",
+  "citation": "Myanmar Agricultural Performance Survey (MAPS), Rounds 1-8 - IFPRI (Myanmar Agrifood Program for Strategy and Analysis) - All states/regions, 2020 (Round 1 covers 2020-2021) to 2025 (Round 8) - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SPMYR4",
+  "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SPMYR4",
+  "doi": "",
+  "tier": 2,
+  "verification_status": "Dataverse search API returned all 8 rounds"
+ },
+ {
+  "source_id": "D05",
+  "kind": "Dataset",
+  "citation": "Myanmar Household Welfare Survey (MHWS), Rounds 1-9 - IFPRI - All states/regions, Dec 2021 to Nov 2025 - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1R3F3U",
+  "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1R3F3U",
+  "doi": "",
+  "tier": 2,
+  "verification_status": "Dataverse search API"
+ },
+ {
+  "source_id": "D06",
+  "kind": "Dataset",
+  "citation": "WFP Myanmar food prices (HDX) - WFP VAM (sources incl. CSO via FAO GIEWS, KMSS, World Vision) - 15 admin-1 units; NO markets in Ayeyarwady, Bago (West) or Nay Pyi Taw, 2008-01 to 2026-08 - https://data.humdata.org/dataset/wfp-food-prices-for-myanmar",
+  "url": "https://data.humdata.org/dataset/wfp-food-prices-for-myanmar",
+  "doi": "",
+  "tier": 2,
+  "verification_status": "Downloaded and profiled by this build"
+ },
+ {
+  "source_id": "D07",
+  "kind": "Dataset",
+  "citation": "RiceAtlas - global rice calendars and production - IRRI (Laborte et al. 2017) - Global incl. Myanmar subnational, c. 2010 reference period to Static - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JE6R2R",
+  "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JE6R2R",
+  "doi": "",
+  "tier": 3,
+  "verification_status": "Dataverse search API"
+ },
+ {
+  "source_id": "D08",
+  "kind": "Dataset",
+  "citation": "SEA-Rice-Ci10 rice cropping intensity and harvested area (10 m) - Ginting et al. (ESSD preprint) - Southeast Asia incl. Myanmar, c. 2019-2021 (check paper) to Static - https://essd.copernicus.org/preprints/essd-2024-90/",
+  "url": "https://essd.copernicus.org/preprints/essd-2024-90/",
+  "doi": "",
+  "tier": 3,
+  "verification_status": "URL resolves (HTTP 200)"
+ },
+ {
+  "source_id": "D09",
+  "kind": "Dataset",
+  "citation": "Sentinel-1 SAR GRD (C-band) - ESA Copernicus - Global, 2014-10 to Ongoing - https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD",
+  "url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD",
+  "doi": "",
+  "tier": 1,
+  "verification_status": "URL resolves (HTTP 200)"
+ },
+ {
+  "source_id": "D10",
+  "kind": "Dataset",
+  "citation": "Sentinel-2 MSI surface reflectance - ESA Copernicus - Global, 2017 to Ongoing - https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED",
+  "url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED",
+  "doi": "",
+  "tier": 1,
+  "verification_status": "URL resolves (HTTP 200)"
+ },
+ {
+  "source_id": "D11",
+  "kind": "Dataset",
+  "citation": "Landsat Collection 2 Level-2 (Landsat 8/9) - USGS/NASA - Global, 1984 (Landsat 5) to Ongoing - https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_L2",
+  "url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_L2",
+  "doi": "",
+  "tier": 1,
+  "verification_status": "URL resolves (HTTP 200)"
+ },
+ {
+  "source_id": "D12",
+  "kind": "Dataset",
+  "citation": "MODIS MOD13Q1 vegetation indices (NDVI/EVI) - NASA LP DAAC - Global, 2000-02 to Ongoing - https://lpdaac.usgs.gov/products/mod13q1v061/",
+  "url": "https://lpdaac.usgs.gov/products/mod13q1v061/",
+  "doi": "",
+  "tier": 1,
+  "verification_status": "URL resolves (HTTP 200)"
+ },
+ {
+  "source_id": "D13",
+  "kind": "Dataset",
+  "citation": "CHIRPS v2 rainfall - UC Santa Barbara Climate Hazards Center - 50S-50N, 1981 to Ongoing (near real time) - https://www.chc.ucsb.edu/data/chirps",
+  "url": "https://www.chc.ucsb.edu/data/chirps",
+  "doi": "",
+  "tier": 3,
+  "verification_status": "URL resolves (HTTP 200)"
+ },
+ {
+  "source_id": "D14",
+  "kind": "Dataset",
+  "citation": "ERA5-Land reanalysis - ECMWF / Copernicus C3S - Global, 1950 to Ongoing (~5 day lag) - https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land",
+  "url": "https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land",
+  "doi": "",
+  "tier": 2,
+  "verification_status": "URL resolves (HTTP 200)"
+ },
+ {
+  "source_id": "D15",
+  "kind": "Dataset",
+  "citation": "GPM IMERG precipitation - NASA - Global, 2000-06 to Ongoing - https://gpm.nasa.gov/data/imerg",
+  "url": "https://gpm.nasa.gov/data/imerg",
+  "doi": "",
+  "tier": 1,
+  "verification_status": "URL resolves (HTTP 200)"
+ },
+ {
+  "source_id": "D16",
+  "kind": "Dataset",
+  "citation": "JRC Global Surface Water - EC Joint Research Centre - Global, 1984 to 2021 - https://global-surface-water.appspot.com/",
+  "url": "https://global-surface-water.appspot.com/",
+  "doi": "",
+  "tier": 2,
+  "verification_status": "URL resolves (HTTP 200)"
+ },
+ {
+  "source_id": "D17",
+  "kind": "Dataset",
+  "citation": "SoilGrids 2.0 - ISRIC - Global, Static to Static - https://soilgrids.org/",
+  "url": "https://soilgrids.org/",
+  "doi": "",
+  "tier": 3,
+  "verification_status": "URL resolves (HTTP 200)"
+ },
+ {
+  "source_id": "D18",
+  "kind": "Dataset",
+  "citation": "ACLED conflict events - ACLED - Myanmar (township-geocoded), 2010 to Ongoing - https://acleddata.com/",
+  "url": "https://acleddata.com/",
+  "doi": "",
+  "tier": 4,
+  "verification_status": "URL resolves (HTTP 200)"
+ },
+ {
+  "source_id": "D19",
+  "kind": "Dataset",
+  "citation": "MIMU place codes and administrative boundaries - Myanmar Information Management Unit (UN) - National, n/a to Versioned - https://themimu.info/place-codes",
+  "url": "https://themimu.info/place-codes",
+  "doi": "",
+  "tier": 2,
+  "verification_status": "URL resolves (HTTP 200)"
+ },
+ {
+  "source_id": "D20",
+  "kind": "Dataset",
+  "citation": "geoBoundaries Myanmar - William & Mary geoLab - National, n/a to Versioned - https://www.geoboundaries.org/",
+  "url": "https://www.geoboundaries.org/",
+  "doi": "",
+  "tier": 3,
+  "verification_status": "URL resolves (HTTP 200)"
+ },
+ {
+  "source_id": "D21",
+  "kind": "Dataset",
+  "citation": "IBTrACS tropical cyclone best tracks - NOAA NCEI - Bay of Bengal incl. Myanmar coast, 1842 to Ongoing - https://www.ncei.noaa.gov/products/international-best-track-archive",
+  "url": "https://www.ncei.noaa.gov/products/international-best-track-archive",
+  "doi": "",
+  "tier": 1,
+  "verification_status": "URL resolves (HTTP 200)"
+ },
+ {
+  "source_id": "D22",
+  "kind": "Dataset",
+  "citation": "OpenStreetMap roads of Myanmar (HOT export) - Humanitarian OpenStreetMap Team - National, n/a to Ongoing - https://data.humdata.org/dataset/hotosm_mmr_roads",
+  "url": "https://data.humdata.org/dataset/hotosm_mmr_roads",
+  "doi": "",
+  "tier": 4,
+  "verification_status": "HDX API returned package"
+ },
+ {
+  "source_id": "D23",
+  "kind": "Dataset",
+  "citation": "UN Comtrade (HS 1006 rice) - UN Statistics Division - National, 1962 to Ongoing - https://comtradeplus.un.org/",
+  "url": "https://comtradeplus.un.org/",
+  "doi": "",
+  "tier": 2,
+  "verification_status": "URL resolves (HTTP 200)"
+ },
+ {
+  "source_id": "D24",
+  "kind": "Dataset",
+  "citation": "FAO GIEWS FPMA tool (domestic prices) - FAO GIEWS - Selected markets, Varies to Ongoing - https://fpma.fao.org/giews/fpmat4/#/dashboard/tool/domestic",
+  "url": "https://fpma.fao.org/giews/fpmat4/#/dashboard/tool/domestic",
+  "doi": "",
+  "tier": 2,
+  "verification_status": "URL resolves (HTTP 200)"
+ },
+ {
+  "source_id": "D25",
+  "kind": "Dataset",
+  "citation": "IFPRI Myanmar monthly food price reports (series) - IFPRI - National, 2024-09 to 2026-08 - https://cgspace.cgiar.org/",
+  "url": "https://cgspace.cgiar.org/",
+  "doi": "",
+  "tier": 2,
+  "verification_status": "18 reports found via CGSpace API"
+ },
+ {
+  "source_id": "D26",
+  "kind": "Dataset",
+  "citation": "GloFAS river discharge and flood forecasts - Copernicus Emergency Management Service - Global, 1979 to Ongoing - https://globalfloods.eu/",
+  "url": "https://globalfloods.eu/",
+  "doi": "",
+  "tier": 2,
+  "verification_status": "URL resolves (HTTP 200)"
+ },
+ {
+  "source_id": "D27",
+  "kind": "Dataset",
+  "citation": "ESA WorldCover 10 m land cover - ESA - Global, 2020 to 2021 - https://esa-worldcover.org/en",
+  "url": "https://esa-worldcover.org/en",
+  "doi": "",
+  "tier": 2,
+  "verification_status": "URL resolves (HTTP 200)"
+ },
+ {
+  "source_id": "D28",
+  "kind": "Dataset",
+  "citation": "Global Yield Gap Atlas (GYGA) - Wageningen University & Univ. of Nebraska - Selected countries, n/a to n/a - https://www.yieldgap.org/",
+  "url": "https://www.yieldgap.org/",
+  "doi": "",
+  "tier": 3,
+  "verification_status": "URL resolves (HTTP 200); Myanmar coverage Not independently verified"
+ },
+ {
+  "source_id": "D29",
+  "kind": "Dataset",
+  "citation": "Official agricultural statistics (MOALI / CSO yearbooks) - Ministry of Agriculture, Livestock and Irrigation; Central Statistical Organization - State/region (township in some tables), Historical to Public to ~2020 (S251) - access URL not available",
+  "url": "",
+  "doi": "",
+  "tier": 1,
+  "verification_status": "Current access Not independently verified"
+ },
+ {
+  "source_id": "D30",
+  "kind": "Dataset",
+  "citation": "Myanmar Migration Assessment (MMA) - IFPRI - National, 2023 to 2024 - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BLYQ4K",
+  "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BLYQ4K",
+  "doi": "",
+  "tier": 2,
+  "verification_status": "Dataverse search API"
+ },
+ {
+  "source_id": "D31",
+  "kind": "Dataset",
+  "citation": "FAO DIEM (Data in Emergencies) household surveys - Myanmar - FAO - National, 2021 to 2025 - https://microdata.worldbank.org/index.php/catalog/8355",
+  "url": "https://microdata.worldbank.org/index.php/catalog/8355",
+  "doi": "",
+  "tier": 2,
+  "verification_status": "Catalog API search by this build"
+ },
+ {
+  "source_id": "D32",
+  "kind": "Dataset",
+  "citation": "IFPRI agri-food enterprise phone surveys (rice millers, traders, input retailers, mechanization service providers) - IFPRI - National, 2020 to 2025 - https://myanmar.ifpri.info/",
+  "url": "https://myanmar.ifpri.info/",
+  "doi": "",
+  "tier": 2,
+  "verification_status": "Report series located (65+ reports)"
+ },
+ {
+  "source_id": "D33",
+  "kind": "Dataset",
+  "citation": "UNOSAT flood extent vectors (2015 Myanmar floods) - UNITAR-UNOSAT - Affected regions, 2015-07 to 2015-08 - https://data.humdata.org/dataset/fl20150703mmr-flood-vectors-sentinel1-11-august-2015",
+  "url": "https://data.humdata.org/dataset/fl20150703mmr-flood-vectors-sentinel1-11-august-2015",
+  "doi": "",
+  "tier": 2,
+  "verification_status": "HDX API returned package"
+ },
+ {
+  "source_id": "D34",
+  "kind": "Dataset",
+  "citation": "Replication dataset: climate change, adaptation and rice farming outcomes (Delta) - Harvard Dataverse depositor (derived from IFPRI data) - Ayeyarwady Delta, Unknown to Unknown - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FGDDSP",
+  "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FGDDSP",
+  "doi": "",
+  "tier": 3,
+  "verification_status": "Dataverse search API"
+ },
+ {
+  "source_id": "D35",
+  "kind": "Dataset",
+  "citation": "World Bank RTFP monthly food price estimates by product and market (Myanmar) - World Bank (Real-Time Food Prices) - Markets, 2007 to 2026 - https://microdata.worldbank.org/index.php/catalog/4501",
+  "url": "https://microdata.worldbank.org/index.php/catalog/4501",
+  "doi": "",
+  "tier": 5,
+  "verification_status": "Catalog API search by this build"
+ },
+ {
+  "source_id": "D36",
+  "kind": "Dataset",
+  "citation": "World Bank RTFX monthly exchange rate estimates by market (Myanmar) - World Bank - Markets, 2007 to 2026 - https://microdata.worldbank.org/index.php/catalog/6150",
+  "url": "https://microdata.worldbank.org/index.php/catalog/6150",
+  "doi": "",
+  "tier": 5,
+  "verification_status": "Catalog API search by this build"
+ }
+]

@@ -1,0 +1,1875 @@
+[
+ {
+  "dataset_id": "D01",
+  "name": "USDA FAS Production, Supply and Distribution (PSD) - Rice",
+  "producer": "USDA Foreign Agricultural Service",
+  "tier": 2,
+  "description": "Annual national rice balance: area harvested, rough yield, milled production, exports, consumption, stocks; includes current-year forecasts.",
+  "variables": [
+   "Area harvested (1000 ha)",
+   "Yield (t/ha, rough)",
+   "Production (1000 t milled)",
+   "Exports",
+   "Domestic consumption",
+   "Ending stocks"
+  ],
+  "unit": "1000 ha; 1000 t; t/ha",
+  "geography": "National (Myanmar and all benchmark countries)",
+  "spatial_resolution": "Country",
+  "temporal_resolution": "Annual",
+  "start_date": "1960",
+  "end_date": "2026/27 (forecast)",
+  "update_frequency": "Monthly revisions",
+  "access_method": "CSV bulk download / web app",
+  "api_available": "Yes (key required)",
+  "download_format": "CSV (zip)",
+  "license": "US Government public domain",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "Consistent series; estimates partly modelled from attaché reports",
+  "missingness": "None for national series",
+  "methodology": "Attaché estimates and official data reconciliation",
+  "known_limitations": [
+   "No subnational detail",
+   "Latest year is a forecast",
+   "Milled vs rough units differ by attribute"
+  ],
+  "source_url": "https://apps.fas.usda.gov/psdonline/app/index.html",
+  "documentation_url": "https://apps.fas.usda.gov/psdonline/app/index.html#/app/about",
+  "data_types": [
+   "Administrative / official statistics"
+  ],
+  "problem_ids": [
+   "P01",
+   "P15"
+  ],
+  "study_ids": [
+   "S189"
+  ],
+  "verified": "Downloaded and parsed by this build",
+  "record_type": "Dataset",
+  "id": "D01",
+  "title": "USDA FAS Production, Supply and Distribution (PSD) - Rice",
+  "last_verified": "2026-10-09",
+  "citation": "USDA FAS Production, Supply and Distribution (PSD) - Rice - USDA Foreign Agricultural Service - National (Myanmar and all benchmark countries), 1960 to 2026/27 (forecast) - https://apps.fas.usda.gov/psdonline/app/index.html"
+ },
+ {
+  "dataset_id": "D02",
+  "name": "FAOSTAT Crops and livestock products (QCL)",
+  "producer": "FAO",
+  "tier": 2,
+  "description": "Annual area harvested, production and yield of paddy rice by country.",
+  "variables": [
+   "Area harvested",
+   "Production",
+   "Yield"
+  ],
+  "unit": "ha; t; kg/ha",
+  "geography": "National",
+  "spatial_resolution": "Country",
+  "temporal_resolution": "Annual",
+  "start_date": "1961",
+  "end_date": "Latest FAO release",
+  "update_frequency": "Annual",
+  "access_method": "Web portal / bulk download (API now requires token)",
+  "api_available": "Yes (token)",
+  "download_format": "CSV",
+  "license": "CC BY-NC-SA 3.0 IGO",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "Official country submissions with FAO imputation flags",
+  "missingness": "Imputed values flagged",
+  "methodology": "Country questionnaires and imputation",
+  "known_limitations": [
+   "Post-2021 Myanmar values may be imputed - check flags"
+  ],
+  "source_url": "https://www.fao.org/faostat/en/#data/QCL",
+  "documentation_url": "https://www.fao.org/faostat/en/#data/QCL",
+  "data_types": [
+   "Administrative / official statistics"
+  ],
+  "problem_ids": [
+   "P01",
+   "P16"
+  ],
+  "study_ids": [],
+  "verified": "URL resolves (HTTP 200)",
+  "record_type": "Dataset",
+  "id": "D02",
+  "title": "FAOSTAT Crops and livestock products (QCL)",
+  "last_verified": "2026-10-09",
+  "citation": "FAOSTAT Crops and livestock products (QCL) - FAO - National, 1961 to Latest FAO release - https://www.fao.org/faostat/en/#data/QCL"
+ },
+ {
+  "dataset_id": "D03",
+  "name": "World Bank WDI - Cereal yield (AG.YLD.CREL.KG)",
+  "producer": "World Bank (from FAO)",
+  "tier": 5,
+  "description": "Cereal yield per hectare; secondary aggregation of FAO data.",
+  "variables": [
+   "Cereal yield (kg/ha)"
+  ],
+  "unit": "kg/ha",
+  "geography": "National",
+  "spatial_resolution": "Country",
+  "temporal_resolution": "Annual",
+  "start_date": "1961",
+  "end_date": "2025 (latest values may be null)",
+  "update_frequency": "Quarterly",
+  "access_method": "REST API",
+  "api_available": "Yes",
+  "download_format": "JSON/CSV",
+  "license": "CC BY 4.0",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "Secondary (FAO-derived)",
+  "missingness": "Recent years null for Myanmar",
+  "methodology": "Aggregates FAO",
+  "known_limitations": [
+   "All cereals, not rice only",
+   "Prefer FAOSTAT (original producer)"
+  ],
+  "source_url": "https://api.worldbank.org/v2/country/MMR/indicator/AG.YLD.CREL.KG?format=json",
+  "documentation_url": "https://data.worldbank.org/indicator/AG.YLD.CREL.KG",
+  "data_types": [
+   "Administrative / official statistics"
+  ],
+  "problem_ids": [
+   "P01"
+  ],
+  "study_ids": [],
+  "verified": "API queried by this build",
+  "record_type": "Dataset",
+  "id": "D03",
+  "title": "World Bank WDI - Cereal yield (AG.YLD.CREL.KG)",
+  "last_verified": "2026-10-09",
+  "citation": "World Bank WDI - Cereal yield (AG.YLD.CREL.KG) - World Bank (from FAO) - National, 1961 to 2025 (latest values may be null) - https://api.worldbank.org/v2/country/MMR/indicator/AG.YLD.CREL.KG?format=json"
+ },
+ {
+  "dataset_id": "D04",
+  "name": "Myanmar Agricultural Performance Survey (MAPS), Rounds 1-8",
+  "producer": "IFPRI (Myanmar Agrifood Program for Strategy and Analysis)",
+  "tier": 2,
+  "description": "Nationwide phone panel of ~4,700-5,500 farm households (sub-sample of MHWS) on farm characteristics, assets, area and crops planted, inputs, marketing and constraints; biannual (monsoon / dry season).",
+  "variables": [
+   "Crops and area planted",
+   "Plot yields (largest plot)",
+   "Fertilizer, seed, agrochemical use and prices",
+   "Mechanization use and fees",
+   "Wages and hired labour",
+   "Establishment method",
+   "Farmgate prices and marketing",
+   "Credit and extension",
+   "Production shocks (flood, drought, pests)",
+   "Township"
+  ],
+  "unit": "Household/plot",
+  "geography": "All states/regions",
+  "spatial_resolution": "Township identifiers (per IFPRI reports)",
+  "temporal_resolution": "Seasonal",
+  "start_date": "2020 (Round 1 covers 2020-2021)",
+  "end_date": "2025 (Round 8)",
+  "update_frequency": "Biannual",
+  "access_method": "Harvard Dataverse (IFPRI terms of use; registration)",
+  "api_available": "Dataverse API",
+  "download_format": "Stata/CSV",
+  "license": "IFPRI Datasets Terms of Use",
+  "cost": "Free",
+  "access_class": "Registration (free)",
+  "data_quality": "Nationally weighted phone panel; sample notes published per round (S210, S207, S244, S276)",
+  "missingness": "No 2024 monsoon round (S302)",
+  "methodology": "Phone panel with weighting",
+  "known_limitations": [
+   "Self-reported yields on largest plot",
+   "Phone-owning households",
+   "Sample size varies by round (e.g., 678-3,076 rice producers)"
+  ],
+  "source_url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SPMYR4",
+  "documentation_url": "https://myanmar.ifpri.info/",
+  "rounds": [
+   [
+    "R1",
+    "doi:10.7910/DVN/SPMYR4"
+   ],
+   [
+    "R2",
+    "doi:10.7910/DVN/IUCGVE"
+   ],
+   [
+    "R3",
+    "doi:10.7910/DVN/SFX6ME"
+   ],
+   [
+    "R4",
+    "doi:10.7910/DVN/IWQUU4"
+   ],
+   [
+    "R5",
+    "doi:10.7910/DVN/TDNRPI"
+   ],
+   [
+    "R6",
+    "doi:10.7910/DVN/A8CPSN"
+   ],
+   [
+    "R7",
+    "doi:10.7910/DVN/XXWJ2Q"
+   ],
+   [
+    "R8",
+    "doi:10.7910/DVN/TZXDMF"
+   ]
+  ],
+  "data_types": [
+   "Phone panel survey",
+   "Farmer survey",
+   "Market / price"
+  ],
+  "problem_ids": [
+   "P01",
+   "P02",
+   "P03",
+   "P04",
+   "P05",
+   "P08",
+   "P09",
+   "P12",
+   "P13",
+   "P14",
+   "P18"
+  ],
+  "study_ids": [
+   "S045",
+   "S093",
+   "S098",
+   "S164",
+   "S179",
+   "S180",
+   "S183",
+   "S184",
+   "S190",
+   "S192",
+   "S200",
+   "S203",
+   "S206",
+   "S207",
+   "S208",
+   "S209",
+   "S210",
+   "S215",
+   "S217",
+   "S228",
+   "S229",
+   "S234",
+   "S239",
+   "S241",
+   "S242",
+   "S243",
+   "S244",
+   "S252",
+   "S253",
+   "S254",
+   "S255",
+   "S268",
+   "S269",
+   "S276",
+   "S281",
+   "S286",
+   "S288",
+   "S294",
+   "S297",
+   "S299",
+   "S301",
+   "S302"
+  ],
+  "verified": "Dataverse search API returned all 8 rounds",
+  "record_type": "Dataset",
+  "id": "D04",
+  "title": "Myanmar Agricultural Performance Survey (MAPS), Rounds 1-8",
+  "last_verified": "2026-10-09",
+  "citation": "Myanmar Agricultural Performance Survey (MAPS), Rounds 1-8 - IFPRI (Myanmar Agrifood Program for Strategy and Analysis) - All states/regions, 2020 (Round 1 covers 2020-2021) to 2025 (Round 8) - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SPMYR4"
+ },
+ {
+  "dataset_id": "D05",
+  "name": "Myanmar Household Welfare Survey (MHWS), Rounds 1-9",
+  "producer": "IFPRI",
+  "tier": 2,
+  "description": "Nationwide phone panel of ~11,900-12,900 households on welfare, food security, income, migration and shocks.",
+  "variables": [
+   "Income sources",
+   "Migration",
+   "Food insecurity",
+   "Shocks and coping",
+   "Employment"
+  ],
+  "unit": "Household/individual",
+  "geography": "All states/regions",
+  "spatial_resolution": "Township identifiers (per IFPRI)",
+  "temporal_resolution": "Quarterly",
+  "start_date": "Dec 2021",
+  "end_date": "Nov 2025",
+  "update_frequency": "Irregular (~2-3 rounds/yr)",
+  "access_method": "Harvard Dataverse",
+  "api_available": "Dataverse API",
+  "download_format": "Stata/CSV",
+  "license": "IFPRI Datasets Terms of Use",
+  "cost": "Free",
+  "access_class": "Registration (free)",
+  "data_quality": "Weighted phone panel",
+  "missingness": "Phone ownership bias",
+  "methodology": "Phone panel",
+  "known_limitations": [
+   "Not rice-specific"
+  ],
+  "source_url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1R3F3U",
+  "documentation_url": "https://myanmar.ifpri.info/",
+  "rounds": [
+   [
+    "R1",
+    "doi:10.7910/DVN/1R3F3U"
+   ],
+   [
+    "R2",
+    "doi:10.7910/DVN/LPNMTK"
+   ],
+   [
+    "R3",
+    "doi:10.7910/DVN/GVJKAI"
+   ],
+   [
+    "R4",
+    "doi:10.7910/DVN/IKGJWF"
+   ],
+   [
+    "R5",
+    "doi:10.7910/DVN/H75AJW"
+   ],
+   [
+    "R6",
+    "doi:10.7910/DVN/CVKOPF"
+   ],
+   [
+    "R7",
+    "doi:10.7910/DVN/WA1P4X"
+   ],
+   [
+    "R8",
+    "doi:10.7910/DVN/QM0VT0"
+   ],
+   [
+    "R9",
+    "doi:10.7910/DVN/DM37AG"
+   ]
+  ],
+  "data_types": [
+   "Phone panel survey",
+   "Labor"
+  ],
+  "problem_ids": [
+   "P03",
+   "P08"
+  ],
+  "study_ids": [
+   "S190",
+   "S193",
+   "S244",
+   "S276"
+  ],
+  "verified": "Dataverse search API",
+  "record_type": "Dataset",
+  "id": "D05",
+  "title": "Myanmar Household Welfare Survey (MHWS), Rounds 1-9",
+  "last_verified": "2026-10-09",
+  "citation": "Myanmar Household Welfare Survey (MHWS), Rounds 1-9 - IFPRI - All states/regions, Dec 2021 to Nov 2025 - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1R3F3U"
+ },
+ {
+  "dataset_id": "D06",
+  "name": "WFP Myanmar food prices (HDX)",
+  "producer": "WFP VAM (sources incl. CSO via FAO GIEWS, KMSS, World Vision)",
+  "tier": 2,
+  "description": "Monthly market-level retail prices; rice (low quality) series in 298 markets, 2008-01 to 2026-08.",
+  "variables": [
+   "Retail price of rice (low/high quality, Emata) MMK/kg",
+   "Market coordinates",
+   "Admin1/Admin2"
+  ],
+  "unit": "MMK/kg",
+  "geography": "15 admin-1 units; NO markets in Ayeyarwady, Bago (West) or Nay Pyi Taw",
+  "spatial_resolution": "Market (point)",
+  "temporal_resolution": "Monthly",
+  "start_date": "2008-01",
+  "end_date": "2026-08",
+  "update_frequency": "Monthly",
+  "access_method": "HDX CSV",
+  "api_available": "HDX CKAN API",
+  "download_format": "CSV",
+  "license": "CC BY-IGO (per HDX page)",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "Field monitoring; market panel changes over time (n markets per month varies 2-94+)",
+  "missingness": "Strong regional gaps; sparse 2013-2019",
+  "methodology": "WFP market monitoring",
+  "known_limitations": [
+   "Retail not farmgate",
+   "No Ayeyarwady, Bago (West) or Nay Pyi Taw coverage",
+   "Changing market panel"
+  ],
+  "source_url": "https://data.humdata.org/dataset/wfp-food-prices-for-myanmar",
+  "documentation_url": "https://data.humdata.org/dataset/wfp-food-prices-for-myanmar",
+  "data_types": [
+   "Market / price"
+  ],
+  "problem_ids": [
+   "P02",
+   "P15",
+   "P16"
+  ],
+  "study_ids": [],
+  "verified": "Downloaded and profiled by this build",
+  "record_type": "Dataset",
+  "id": "D06",
+  "title": "WFP Myanmar food prices (HDX)",
+  "last_verified": "2026-10-09",
+  "citation": "WFP Myanmar food prices (HDX) - WFP VAM (sources incl. CSO via FAO GIEWS, KMSS, World Vision) - 15 admin-1 units; NO markets in Ayeyarwady, Bago (West) or Nay Pyi Taw, 2008-01 to 2026-08 - https://data.humdata.org/dataset/wfp-food-prices-for-myanmar"
+ },
+ {
+  "dataset_id": "D07",
+  "name": "RiceAtlas - global rice calendars and production",
+  "producer": "IRRI (Laborte et al. 2017)",
+  "tier": 3,
+  "description": "Spatial database of rice planting/harvest calendars and production by season at subnational level.",
+  "variables": [
+   "Planting and harvest dates by season",
+   "Production by season",
+   "Admin unit"
+  ],
+  "unit": "Dates; t",
+  "geography": "Global incl. Myanmar subnational",
+  "spatial_resolution": "Admin-1/2",
+  "temporal_resolution": "Crop-cycle",
+  "start_date": "c. 2010 reference period",
+  "end_date": "Static",
+  "update_frequency": "Static",
+  "access_method": "Harvard Dataverse",
+  "api_available": "Dataverse API",
+  "download_format": "Shapefile/CSV",
+  "license": "CC BY (per Dataverse)",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "Peer-reviewed data descriptor (S061)",
+  "missingness": "Reference period only",
+  "methodology": "Compiled from national statistics and experts",
+  "known_limitations": [
+   "Not time series"
+  ],
+  "source_url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JE6R2R",
+  "documentation_url": "https://doi.org/10.1038/sdata.2017.74",
+  "data_types": [
+   "Administrative / official statistics"
+  ],
+  "problem_ids": [
+   "P16",
+   "P01"
+  ],
+  "study_ids": [
+   "S061"
+  ],
+  "verified": "Dataverse search API",
+  "record_type": "Dataset",
+  "id": "D07",
+  "title": "RiceAtlas - global rice calendars and production",
+  "last_verified": "2026-10-09",
+  "citation": "RiceAtlas - global rice calendars and production - IRRI (Laborte et al. 2017) - Global incl. Myanmar subnational, c. 2010 reference period to Static - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JE6R2R"
+ },
+ {
+  "dataset_id": "D08",
+  "name": "SEA-Rice-Ci10 rice cropping intensity and harvested area (10 m)",
+  "producer": "Ginting et al. (ESSD preprint)",
+  "tier": 3,
+  "description": "Sentinel-1/2 derived rice cropping intensity and harvested area across Southeast Asia.",
+  "variables": [
+   "Rice cropping intensity",
+   "Harvested area"
+  ],
+  "unit": "Count; ha",
+  "geography": "Southeast Asia incl. Myanmar",
+  "spatial_resolution": "10 m",
+  "temporal_resolution": "Annual",
+  "start_date": "c. 2019-2021 (check paper)",
+  "end_date": "Static",
+  "update_frequency": "Static",
+  "access_method": "Per data availability statement of preprint",
+  "api_available": "No",
+  "download_format": "GeoTIFF",
+  "license": "See preprint",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "Preprint - not yet peer-reviewed (S254)",
+  "missingness": "Unknown",
+  "methodology": "Sentinel-1A + Sentinel-2 integration",
+  "known_limitations": [
+   "Discussion-stage paper"
+  ],
+  "source_url": "https://essd.copernicus.org/preprints/essd-2024-90/",
+  "documentation_url": "https://doi.org/10.5194/essd-2024-90",
+  "data_types": [
+   "Satellite / remote sensing"
+  ],
+  "problem_ids": [
+   "P16"
+  ],
+  "study_ids": [
+   "S254"
+  ],
+  "verified": "URL resolves (HTTP 200)",
+  "record_type": "Dataset",
+  "id": "D08",
+  "title": "SEA-Rice-Ci10 rice cropping intensity and harvested area (10 m)",
+  "last_verified": "2026-10-09",
+  "citation": "SEA-Rice-Ci10 rice cropping intensity and harvested area (10 m) - Ginting et al. (ESSD preprint) - Southeast Asia incl. Myanmar, c. 2019-2021 (check paper) to Static - https://essd.copernicus.org/preprints/essd-2024-90/"
+ },
+ {
+  "dataset_id": "D09",
+  "name": "Sentinel-1 SAR GRD (C-band)",
+  "producer": "ESA Copernicus",
+  "tier": 1,
+  "description": "All-weather radar backscatter; used for rice mapping and flood extent.",
+  "variables": [
+   "VV/VH backscatter"
+  ],
+  "unit": "dB",
+  "geography": "Global",
+  "spatial_resolution": "10 m",
+  "temporal_resolution": "6-12 days (event-based acquisitions)",
+  "start_date": "2014-10",
+  "end_date": "Ongoing",
+  "update_frequency": "Continuous",
+  "access_method": "Google Earth Engine / Copernicus Data Space",
+  "api_available": "Yes",
+  "download_format": "GeoTIFF/COG",
+  "license": "Copernicus open licence",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "High",
+  "missingness": "Sentinel-1B failed Dec 2021 (lower revisit until 1C)",
+  "methodology": "SAR",
+  "known_limitations": [
+   "Speckle; needs processing"
+  ],
+  "source_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD",
+  "documentation_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD",
+  "data_types": [
+   "Satellite / remote sensing"
+  ],
+  "problem_ids": [
+   "P05",
+   "P16"
+  ],
+  "study_ids": [
+   "S060",
+   "S087",
+   "S187",
+   "S237",
+   "S251",
+   "S254"
+  ],
+  "verified": "URL resolves (HTTP 200)",
+  "record_type": "Dataset",
+  "id": "D09",
+  "title": "Sentinel-1 SAR GRD (C-band)",
+  "last_verified": "2026-10-09",
+  "citation": "Sentinel-1 SAR GRD (C-band) - ESA Copernicus - Global, 2014-10 to Ongoing - https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD"
+ },
+ {
+  "dataset_id": "D10",
+  "name": "Sentinel-2 MSI surface reflectance",
+  "producer": "ESA Copernicus",
+  "tier": 1,
+  "description": "Optical multispectral imagery for vegetation indices and water quality (salinity proxy).",
+  "variables": [
+   "Surface reflectance (13 bands)"
+  ],
+  "unit": "Reflectance",
+  "geography": "Global",
+  "spatial_resolution": "10-20 m",
+  "temporal_resolution": "5 days (cloud-limited)",
+  "start_date": "2017",
+  "end_date": "Ongoing",
+  "update_frequency": "Continuous",
+  "access_method": "Google Earth Engine / Copernicus",
+  "api_available": "Yes",
+  "download_format": "COG",
+  "license": "Copernicus open licence",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "High",
+  "missingness": "Cloud cover in monsoon",
+  "methodology": "Optical",
+  "known_limitations": [
+   "Monsoon cloud"
+  ],
+  "source_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED",
+  "documentation_url": "https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED",
+  "data_types": [
+   "Satellite / remote sensing"
+  ],
+  "problem_ids": [
+   "P07",
+   "P16"
+  ],
+  "study_ids": [
+   "S087",
+   "S155",
+   "S254"
+  ],
+  "verified": "URL resolves (HTTP 200)",
+  "record_type": "Dataset",
+  "id": "D10",
+  "title": "Sentinel-2 MSI surface reflectance",
+  "last_verified": "2026-10-09",
+  "citation": "Sentinel-2 MSI surface reflectance - ESA Copernicus - Global, 2017 to Ongoing - https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED"
+ },
+ {
+  "dataset_id": "D11",
+  "name": "Landsat Collection 2 Level-2 (Landsat 8/9)",
+  "producer": "USGS/NASA",
+  "tier": 1,
+  "description": "30 m optical archive since 1980s.",
+  "variables": [
+   "Surface reflectance",
+   "Surface temperature"
+  ],
+  "unit": "Reflectance; K",
+  "geography": "Global",
+  "spatial_resolution": "30 m",
+  "temporal_resolution": "16 days",
+  "start_date": "1984 (Landsat 5)",
+  "end_date": "Ongoing",
+  "update_frequency": "Continuous",
+  "access_method": "Google Earth Engine / USGS EarthExplorer",
+  "api_available": "Yes",
+  "download_format": "COG",
+  "license": "Public domain",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "High",
+  "missingness": "Cloud",
+  "methodology": "Optical",
+  "known_limitations": [
+   "Monsoon cloud"
+  ],
+  "source_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_L2",
+  "documentation_url": "https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_L2",
+  "data_types": [
+   "Satellite / remote sensing"
+  ],
+  "problem_ids": [
+   "P16"
+  ],
+  "study_ids": [
+   "S060",
+   "S087",
+   "S144",
+   "S213",
+   "S221"
+  ],
+  "verified": "URL resolves (HTTP 200)",
+  "record_type": "Dataset",
+  "id": "D11",
+  "title": "Landsat Collection 2 Level-2 (Landsat 8/9)",
+  "last_verified": "2026-10-09",
+  "citation": "Landsat Collection 2 Level-2 (Landsat 8/9) - USGS/NASA - Global, 1984 (Landsat 5) to Ongoing - https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_L2"
+ },
+ {
+  "dataset_id": "D12",
+  "name": "MODIS MOD13Q1 vegetation indices (NDVI/EVI)",
+  "producer": "NASA LP DAAC",
+  "tier": 1,
+  "description": "16-day 250 m NDVI/EVI composites since 2000.",
+  "variables": [
+   "NDVI",
+   "EVI"
+  ],
+  "unit": "Index",
+  "geography": "Global",
+  "spatial_resolution": "250 m",
+  "temporal_resolution": "16-day",
+  "start_date": "2000-02",
+  "end_date": "Ongoing",
+  "update_frequency": "16-day",
+  "access_method": "LP DAAC / Earth Engine",
+  "api_available": "Yes",
+  "download_format": "HDF/GeoTIFF",
+  "license": "Public domain",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "High",
+  "missingness": "Cloud-filtered composites",
+  "methodology": "Optical",
+  "known_limitations": [
+   "Coarse for small plots"
+  ],
+  "source_url": "https://lpdaac.usgs.gov/products/mod13q1v061/",
+  "documentation_url": "https://lpdaac.usgs.gov/products/mod13q1v061/",
+  "data_types": [
+   "Satellite / remote sensing"
+  ],
+  "problem_ids": [
+   "P06",
+   "P10",
+   "P16"
+  ],
+  "study_ids": [
+   "S048",
+   "S072",
+   "S073",
+   "S144",
+   "S214",
+   "S248"
+  ],
+  "verified": "URL resolves (HTTP 200)",
+  "record_type": "Dataset",
+  "id": "D12",
+  "title": "MODIS MOD13Q1 vegetation indices (NDVI/EVI)",
+  "last_verified": "2026-10-09",
+  "citation": "MODIS MOD13Q1 vegetation indices (NDVI/EVI) - NASA LP DAAC - Global, 2000-02 to Ongoing - https://lpdaac.usgs.gov/products/mod13q1v061/"
+ },
+ {
+  "dataset_id": "D13",
+  "name": "CHIRPS v2 rainfall",
+  "producer": "UC Santa Barbara Climate Hazards Center",
+  "tier": 3,
+  "description": "Quasi-global satellite-gauge rainfall, 0.05 degree.",
+  "variables": [
+   "Precipitation"
+  ],
+  "unit": "mm",
+  "geography": "50S-50N",
+  "spatial_resolution": "0.05 deg (~5 km)",
+  "temporal_resolution": "Daily / pentad / monthly",
+  "start_date": "1981",
+  "end_date": "Ongoing (near real time)",
+  "update_frequency": "Monthly (prelim. pentads)",
+  "access_method": "HTTP/FTP; Earth Engine",
+  "api_available": "Yes (GEE)",
+  "download_format": "GeoTIFF/NetCDF",
+  "license": "CC BY 4.0 (per CHC)",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "Good; sparse Myanmar gauges",
+  "missingness": "None (gridded)",
+  "methodology": "Satellite IR + station blending",
+  "known_limitations": [
+   "Few Myanmar stations blended"
+  ],
+  "source_url": "https://www.chc.ucsb.edu/data/chirps",
+  "documentation_url": "https://www.chc.ucsb.edu/data/chirps",
+  "data_types": [
+   "Weather / climate"
+  ],
+  "problem_ids": [
+   "P05",
+   "P06"
+  ],
+  "study_ids": [
+   "S072",
+   "S213"
+  ],
+  "verified": "URL resolves (HTTP 200)",
+  "record_type": "Dataset",
+  "id": "D13",
+  "title": "CHIRPS v2 rainfall",
+  "last_verified": "2026-10-09",
+  "citation": "CHIRPS v2 rainfall - UC Santa Barbara Climate Hazards Center - 50S-50N, 1981 to Ongoing (near real time) - https://www.chc.ucsb.edu/data/chirps"
+ },
+ {
+  "dataset_id": "D14",
+  "name": "ERA5-Land reanalysis",
+  "producer": "ECMWF / Copernicus C3S",
+  "tier": 2,
+  "description": "Hourly land reanalysis: temperature, soil moisture, evaporation, precipitation.",
+  "variables": [
+   "2m temperature",
+   "Soil moisture",
+   "Evaporation",
+   "Precipitation"
+  ],
+  "unit": "Various",
+  "geography": "Global",
+  "spatial_resolution": "0.1 deg",
+  "temporal_resolution": "Hourly / monthly",
+  "start_date": "1950",
+  "end_date": "Ongoing (~5 day lag)",
+  "update_frequency": "Daily",
+  "access_method": "Copernicus CDS API",
+  "api_available": "Yes",
+  "download_format": "NetCDF/GRIB",
+  "license": "Copernicus licence",
+  "cost": "Free",
+  "access_class": "Registration (free)",
+  "data_quality": "High (model-based)",
+  "missingness": "None",
+  "methodology": "Reanalysis",
+  "known_limitations": [
+   "Model precipitation biases"
+  ],
+  "source_url": "https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land",
+  "documentation_url": "https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land",
+  "data_types": [
+   "Weather / climate",
+   "Soil"
+  ],
+  "problem_ids": [
+   "P06",
+   "P05"
+  ],
+  "study_ids": [],
+  "verified": "URL resolves (HTTP 200)",
+  "record_type": "Dataset",
+  "id": "D14",
+  "title": "ERA5-Land reanalysis",
+  "last_verified": "2026-10-09",
+  "citation": "ERA5-Land reanalysis - ECMWF / Copernicus C3S - Global, 1950 to Ongoing (~5 day lag) - https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land"
+ },
+ {
+  "dataset_id": "D15",
+  "name": "GPM IMERG precipitation",
+  "producer": "NASA",
+  "tier": 1,
+  "description": "Half-hourly to monthly satellite precipitation.",
+  "variables": [
+   "Precipitation"
+  ],
+  "unit": "mm/hr",
+  "geography": "Global",
+  "spatial_resolution": "0.1 deg",
+  "temporal_resolution": "30-min / daily / monthly",
+  "start_date": "2000-06",
+  "end_date": "Ongoing",
+  "update_frequency": "Near real time",
+  "access_method": "NASA GES DISC / Earth Engine",
+  "api_available": "Yes",
+  "download_format": "HDF5/NetCDF",
+  "license": "Public domain",
+  "cost": "Free",
+  "access_class": "Registration (free)",
+  "data_quality": "Good",
+  "missingness": "None",
+  "methodology": "Multi-satellite",
+  "known_limitations": [
+   "Coarser than CHIRPS"
+  ],
+  "source_url": "https://gpm.nasa.gov/data/imerg",
+  "documentation_url": "https://gpm.nasa.gov/data/imerg",
+  "data_types": [
+   "Weather / climate"
+  ],
+  "problem_ids": [
+   "P05",
+   "P06"
+  ],
+  "study_ids": [],
+  "verified": "URL resolves (HTTP 200)",
+  "record_type": "Dataset",
+  "id": "D15",
+  "title": "GPM IMERG precipitation",
+  "last_verified": "2026-10-09",
+  "citation": "GPM IMERG precipitation - NASA - Global, 2000-06 to Ongoing - https://gpm.nasa.gov/data/imerg"
+ },
+ {
+  "dataset_id": "D16",
+  "name": "JRC Global Surface Water",
+  "producer": "EC Joint Research Centre",
+  "tier": 2,
+  "description": "Monthly water presence 1984-2021 from Landsat.",
+  "variables": [
+   "Water occurrence",
+   "Monthly water history"
+  ],
+  "unit": "%",
+  "geography": "Global",
+  "spatial_resolution": "30 m",
+  "temporal_resolution": "Monthly",
+  "start_date": "1984",
+  "end_date": "2021",
+  "update_frequency": "Periodic",
+  "access_method": "Earth Engine / web",
+  "api_available": "Yes (GEE)",
+  "download_format": "GeoTIFF",
+  "license": "Open (per JRC)",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "High",
+  "missingness": "Cloud-limited monsoon months",
+  "methodology": "Landsat classification",
+  "known_limitations": [
+   "Optical - misses cloudy flood peaks"
+  ],
+  "source_url": "https://global-surface-water.appspot.com/",
+  "documentation_url": "https://global-surface-water.appspot.com/",
+  "data_types": [
+   "Satellite / remote sensing"
+  ],
+  "problem_ids": [
+   "P05",
+   "P10"
+  ],
+  "study_ids": [],
+  "verified": "URL resolves (HTTP 200)",
+  "record_type": "Dataset",
+  "id": "D16",
+  "title": "JRC Global Surface Water",
+  "last_verified": "2026-10-09",
+  "citation": "JRC Global Surface Water - EC Joint Research Centre - Global, 1984 to 2021 - https://global-surface-water.appspot.com/"
+ },
+ {
+  "dataset_id": "D17",
+  "name": "SoilGrids 2.0",
+  "producer": "ISRIC",
+  "tier": 3,
+  "description": "Global modelled soil properties at 250 m (pH, SOC, texture, N).",
+  "variables": [
+   "pH",
+   "Organic carbon",
+   "Nitrogen",
+   "Texture",
+   "CEC"
+  ],
+  "unit": "Various",
+  "geography": "Global",
+  "spatial_resolution": "250 m",
+  "temporal_resolution": "Static",
+  "start_date": "Static",
+  "end_date": "Static",
+  "update_frequency": "Static",
+  "access_method": "WCS/WebDAV",
+  "api_available": "Yes",
+  "download_format": "GeoTIFF",
+  "license": "CC BY 4.0",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "Modelled; low Myanmar profile density",
+  "missingness": "None (gridded)",
+  "methodology": "Machine-learning soil mapping",
+  "known_limitations": [
+   "Not field-validated for Myanmar paddies"
+  ],
+  "source_url": "https://soilgrids.org/",
+  "documentation_url": "https://soilgrids.org/",
+  "data_types": [
+   "Soil"
+  ],
+  "problem_ids": [
+   "P04"
+  ],
+  "study_ids": [
+   "S273"
+  ],
+  "verified": "URL resolves (HTTP 200)",
+  "record_type": "Dataset",
+  "id": "D17",
+  "title": "SoilGrids 2.0",
+  "last_verified": "2026-10-09",
+  "citation": "SoilGrids 2.0 - ISRIC - Global, Static to Static - https://soilgrids.org/"
+ },
+ {
+  "dataset_id": "D18",
+  "name": "ACLED conflict events",
+  "producer": "ACLED",
+  "tier": 4,
+  "description": "Geo-located political violence and protest events.",
+  "variables": [
+   "Event type",
+   "Fatalities",
+   "Location",
+   "Date"
+  ],
+  "unit": "Event",
+  "geography": "Myanmar (township-geocoded)",
+  "spatial_resolution": "Point",
+  "temporal_resolution": "Event-based (daily)",
+  "start_date": "2010",
+  "end_date": "Ongoing",
+  "update_frequency": "Weekly",
+  "access_method": "Registration; API",
+  "api_available": "Yes (key)",
+  "download_format": "CSV",
+  "license": "ACLED terms (restrictions on redistribution)",
+  "cost": "Free for many non-commercial users",
+  "access_class": "Registration (free)",
+  "data_quality": "Media-based; reporting bias",
+  "missingness": "Under-reporting in remote areas",
+  "methodology": "Media and partner coding",
+  "known_limitations": [
+   "Reporting bias"
+  ],
+  "source_url": "https://acleddata.com/",
+  "documentation_url": "https://acleddata.com/",
+  "data_types": [
+   "Administrative / official statistics"
+  ],
+  "problem_ids": [
+   "P08"
+  ],
+  "study_ids": [
+   "S200",
+   "S228",
+   "S234",
+   "S269",
+   "S288",
+   "S297",
+   "S299"
+  ],
+  "verified": "URL resolves (HTTP 200)",
+  "record_type": "Dataset",
+  "id": "D18",
+  "title": "ACLED conflict events",
+  "last_verified": "2026-10-09",
+  "citation": "ACLED conflict events - ACLED - Myanmar (township-geocoded), 2010 to Ongoing - https://acleddata.com/"
+ },
+ {
+  "dataset_id": "D19",
+  "name": "MIMU place codes and administrative boundaries",
+  "producer": "Myanmar Information Management Unit (UN)",
+  "tier": 2,
+  "description": "Official P-codes for states, districts, townships, village tracts; boundaries.",
+  "variables": [
+   "P-codes",
+   "Names (Myanmar/English)",
+   "Boundaries"
+  ],
+  "unit": "Admin units",
+  "geography": "National",
+  "spatial_resolution": "Township / village tract",
+  "temporal_resolution": "Static (versioned)",
+  "start_date": "n/a",
+  "end_date": "Versioned",
+  "update_frequency": "Periodic",
+  "access_method": "Web download; HDX (cod-ab-mmr)",
+  "api_available": "HDX API",
+  "download_format": "Shapefile/XLSX",
+  "license": "See MIMU terms",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "Authoritative for P-codes",
+  "missingness": "n/a",
+  "methodology": "UN coordination",
+  "known_limitations": [
+   "Boundary versions change"
+  ],
+  "source_url": "https://themimu.info/place-codes",
+  "documentation_url": "https://data.humdata.org/dataset/cod-ab-mmr",
+  "data_types": [
+   "Administrative / official statistics"
+  ],
+  "problem_ids": [
+   "P16"
+  ],
+  "study_ids": [],
+  "verified": "URL resolves (HTTP 200)",
+  "record_type": "Dataset",
+  "id": "D19",
+  "title": "MIMU place codes and administrative boundaries",
+  "last_verified": "2026-10-09",
+  "citation": "MIMU place codes and administrative boundaries - Myanmar Information Management Unit (UN) - National, n/a to Versioned - https://themimu.info/place-codes"
+ },
+ {
+  "dataset_id": "D20",
+  "name": "geoBoundaries Myanmar",
+  "producer": "William & Mary geoLab",
+  "tier": 3,
+  "description": "Open administrative boundaries (ADM0-ADM3).",
+  "variables": [
+   "Boundaries"
+  ],
+  "unit": "Polygons",
+  "geography": "National",
+  "spatial_resolution": "ADM3",
+  "temporal_resolution": "Static",
+  "start_date": "n/a",
+  "end_date": "Versioned",
+  "update_frequency": "Periodic",
+  "access_method": "Web/API",
+  "api_available": "Yes",
+  "download_format": "GeoJSON/Shapefile",
+  "license": "CC BY 4.0",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "Good",
+  "missingness": "n/a",
+  "methodology": "Compiled",
+  "known_limitations": [
+   "Use MIMU P-codes for joins"
+  ],
+  "source_url": "https://www.geoboundaries.org/",
+  "documentation_url": "https://www.geoboundaries.org/",
+  "data_types": [
+   "Administrative / official statistics"
+  ],
+  "problem_ids": [
+   "P16"
+  ],
+  "study_ids": [],
+  "verified": "URL resolves (HTTP 200)",
+  "record_type": "Dataset",
+  "id": "D20",
+  "title": "geoBoundaries Myanmar",
+  "last_verified": "2026-10-09",
+  "citation": "geoBoundaries Myanmar - William & Mary geoLab - National, n/a to Versioned - https://www.geoboundaries.org/"
+ },
+ {
+  "dataset_id": "D21",
+  "name": "IBTrACS tropical cyclone best tracks",
+  "producer": "NOAA NCEI",
+  "tier": 1,
+  "description": "Global cyclone tracks and intensity.",
+  "variables": [
+   "Track",
+   "Wind",
+   "Pressure"
+  ],
+  "unit": "Points",
+  "geography": "Bay of Bengal incl. Myanmar coast",
+  "spatial_resolution": "Point (3-6 hourly)",
+  "temporal_resolution": "Event-based",
+  "start_date": "1842",
+  "end_date": "Ongoing",
+  "update_frequency": "Periodic",
+  "access_method": "CSV/NetCDF/Shapefile",
+  "api_available": "No",
+  "download_format": "CSV",
+  "license": "Public domain",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "High",
+  "missingness": "n/a",
+  "methodology": "Agency best tracks",
+  "known_limitations": [
+   "Impact data not included"
+  ],
+  "source_url": "https://www.ncei.noaa.gov/products/international-best-track-archive",
+  "documentation_url": "https://www.ncei.noaa.gov/products/international-best-track-archive",
+  "data_types": [
+   "Weather / climate"
+  ],
+  "problem_ids": [
+   "P05"
+  ],
+  "study_ids": [
+   "S148",
+   "S168"
+  ],
+  "verified": "URL resolves (HTTP 200)",
+  "record_type": "Dataset",
+  "id": "D21",
+  "title": "IBTrACS tropical cyclone best tracks",
+  "last_verified": "2026-10-09",
+  "citation": "IBTrACS tropical cyclone best tracks - NOAA NCEI - Bay of Bengal incl. Myanmar coast, 1842 to Ongoing - https://www.ncei.noaa.gov/products/international-best-track-archive"
+ },
+ {
+  "dataset_id": "D22",
+  "name": "OpenStreetMap roads of Myanmar (HOT export)",
+  "producer": "Humanitarian OpenStreetMap Team",
+  "tier": 4,
+  "description": "Road network for market-access and travel-time analysis.",
+  "variables": [
+   "Road geometry",
+   "Type"
+  ],
+  "unit": "Lines",
+  "geography": "National",
+  "spatial_resolution": "Vector",
+  "temporal_resolution": "Updated continuously",
+  "start_date": "n/a",
+  "end_date": "Ongoing",
+  "update_frequency": "Regular exports",
+  "access_method": "HDX",
+  "api_available": "HDX API",
+  "download_format": "Shapefile/GeoPackage",
+  "license": "ODbL",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "Variable completeness",
+  "missingness": "Rural gaps",
+  "methodology": "Crowdsourced",
+  "known_limitations": [
+   "Completeness varies"
+  ],
+  "source_url": "https://data.humdata.org/dataset/hotosm_mmr_roads",
+  "documentation_url": "https://data.humdata.org/dataset/hotosm_mmr_roads",
+  "data_types": [
+   "Administrative / official statistics"
+  ],
+  "problem_ids": [
+   "P12",
+   "P15"
+  ],
+  "study_ids": [],
+  "verified": "HDX API returned package",
+  "record_type": "Dataset",
+  "id": "D22",
+  "title": "OpenStreetMap roads of Myanmar (HOT export)",
+  "last_verified": "2026-10-09",
+  "citation": "OpenStreetMap roads of Myanmar (HOT export) - Humanitarian OpenStreetMap Team - National, n/a to Ongoing - https://data.humdata.org/dataset/hotosm_mmr_roads"
+ },
+ {
+  "dataset_id": "D23",
+  "name": "UN Comtrade (HS 1006 rice)",
+  "producer": "UN Statistics Division",
+  "tier": 2,
+  "description": "Bilateral trade flows of rice by partner.",
+  "variables": [
+   "Export value",
+   "Quantity",
+   "Partner"
+  ],
+  "unit": "USD; kg",
+  "geography": "National",
+  "spatial_resolution": "Country",
+  "temporal_resolution": "Annual / monthly",
+  "start_date": "1962",
+  "end_date": "Ongoing",
+  "update_frequency": "Monthly",
+  "access_method": "Comtrade Plus portal/API",
+  "api_available": "Yes (key for bulk)",
+  "download_format": "CSV/JSON",
+  "license": "UN terms",
+  "cost": "Free (limits)",
+  "access_class": "Registration (free)",
+  "data_quality": "Mirror data needed if Myanmar does not report",
+  "missingness": "Myanmar reporting gaps (use partner/mirror)",
+  "methodology": "Customs",
+  "known_limitations": [
+   "Informal border trade missing"
+  ],
+  "source_url": "https://comtradeplus.un.org/",
+  "documentation_url": "https://comtradeplus.un.org/",
+  "data_types": [
+   "Trade"
+  ],
+  "problem_ids": [
+   "P15"
+  ],
+  "study_ids": [],
+  "verified": "URL resolves (HTTP 200)",
+  "record_type": "Dataset",
+  "id": "D23",
+  "title": "UN Comtrade (HS 1006 rice)",
+  "last_verified": "2026-10-09",
+  "citation": "UN Comtrade (HS 1006 rice) - UN Statistics Division - National, 1962 to Ongoing - https://comtradeplus.un.org/"
+ },
+ {
+  "dataset_id": "D24",
+  "name": "FAO GIEWS FPMA tool (domestic prices)",
+  "producer": "FAO GIEWS",
+  "tier": 2,
+  "description": "Monthly domestic food price series (rice retail/wholesale) by market.",
+  "variables": [
+   "Rice prices"
+  ],
+  "unit": "MMK/kg",
+  "geography": "Selected markets",
+  "spatial_resolution": "Market",
+  "temporal_resolution": "Monthly",
+  "start_date": "Varies",
+  "end_date": "Ongoing",
+  "update_frequency": "Monthly",
+  "access_method": "Web tool export",
+  "api_available": "Limited",
+  "download_format": "CSV",
+  "license": "FAO terms",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "Official/partner sources",
+  "missingness": "Few markets",
+  "methodology": "Compilation",
+  "known_limitations": [
+   "Few markets"
+  ],
+  "source_url": "https://fpma.fao.org/giews/fpmat4/#/dashboard/tool/domestic",
+  "documentation_url": "https://fpma.fao.org/giews/fpmat4/#/dashboard/tool/domestic",
+  "data_types": [
+   "Market / price"
+  ],
+  "problem_ids": [
+   "P15",
+   "P02"
+  ],
+  "study_ids": [],
+  "verified": "URL resolves (HTTP 200)",
+  "record_type": "Dataset",
+  "id": "D24",
+  "title": "FAO GIEWS FPMA tool (domestic prices)",
+  "last_verified": "2026-10-09",
+  "citation": "FAO GIEWS FPMA tool (domestic prices) - FAO GIEWS - Selected markets, Varies to Ongoing - https://fpma.fao.org/giews/fpmat4/#/dashboard/tool/domestic"
+ },
+ {
+  "dataset_id": "D25",
+  "name": "IFPRI Myanmar monthly food price reports (series)",
+  "producer": "IFPRI",
+  "tier": 2,
+  "description": "Monthly report series on food prices (2024-2026) in CGSpace.",
+  "variables": [
+   "Food prices",
+   "Diet costs"
+  ],
+  "unit": "MMK",
+  "geography": "National",
+  "spatial_resolution": "Regional summaries",
+  "temporal_resolution": "Monthly",
+  "start_date": "2024-09",
+  "end_date": "2026-08",
+  "update_frequency": "Monthly",
+  "access_method": "CGSpace PDF",
+  "api_available": "CGSpace API (metadata)",
+  "download_format": "PDF",
+  "license": "CC BY (typical IFPRI)",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "Institutional",
+  "missingness": "Reports, not microdata",
+  "methodology": "Price monitoring",
+  "known_limitations": [
+   "Tables in PDF"
+  ],
+  "source_url": "https://cgspace.cgiar.org/",
+  "documentation_url": "https://myanmar.ifpri.info/",
+  "data_types": [
+   "Market / price"
+  ],
+  "problem_ids": [
+   "P02",
+   "P15"
+  ],
+  "study_ids": [],
+  "verified": "18 reports found via CGSpace API",
+  "record_type": "Dataset",
+  "id": "D25",
+  "title": "IFPRI Myanmar monthly food price reports (series)",
+  "last_verified": "2026-10-09",
+  "citation": "IFPRI Myanmar monthly food price reports (series) - IFPRI - National, 2024-09 to 2026-08 - https://cgspace.cgiar.org/"
+ },
+ {
+  "dataset_id": "D26",
+  "name": "GloFAS river discharge and flood forecasts",
+  "producer": "Copernicus Emergency Management Service",
+  "tier": 2,
+  "description": "Global river discharge reanalysis and forecasts.",
+  "variables": [
+   "Discharge",
+   "Flood probability"
+  ],
+  "unit": "m3/s",
+  "geography": "Global",
+  "spatial_resolution": "0.05 deg",
+  "temporal_resolution": "Daily",
+  "start_date": "1979",
+  "end_date": "Ongoing",
+  "update_frequency": "Daily",
+  "access_method": "CDS / web",
+  "api_available": "Yes",
+  "download_format": "NetCDF",
+  "license": "Copernicus",
+  "cost": "Free",
+  "access_class": "Registration (free)",
+  "data_quality": "Model-based",
+  "missingness": "None",
+  "methodology": "Hydrological model",
+  "known_limitations": [
+   "Delta tidal dynamics poorly represented"
+  ],
+  "source_url": "https://globalfloods.eu/",
+  "documentation_url": "https://globalfloods.eu/",
+  "data_types": [
+   "Weather / climate"
+  ],
+  "problem_ids": [
+   "P05"
+  ],
+  "study_ids": [],
+  "verified": "URL resolves (HTTP 200)",
+  "record_type": "Dataset",
+  "id": "D26",
+  "title": "GloFAS river discharge and flood forecasts",
+  "last_verified": "2026-10-09",
+  "citation": "GloFAS river discharge and flood forecasts - Copernicus Emergency Management Service - Global, 1979 to Ongoing - https://globalfloods.eu/"
+ },
+ {
+  "dataset_id": "D27",
+  "name": "ESA WorldCover 10 m land cover",
+  "producer": "ESA",
+  "tier": 2,
+  "description": "Global 10 m land cover (2020, 2021).",
+  "variables": [
+   "Land cover class"
+  ],
+  "unit": "Class",
+  "geography": "Global",
+  "spatial_resolution": "10 m",
+  "temporal_resolution": "Annual (2 epochs)",
+  "start_date": "2020",
+  "end_date": "2021",
+  "update_frequency": "Static",
+  "access_method": "Web / Earth Engine",
+  "api_available": "Yes",
+  "download_format": "GeoTIFF",
+  "license": "CC BY 4.0",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "Good",
+  "missingness": "n/a",
+  "methodology": "S1+S2 classification",
+  "known_limitations": [
+   "No rice-specific class"
+  ],
+  "source_url": "https://esa-worldcover.org/en",
+  "documentation_url": "https://esa-worldcover.org/en",
+  "data_types": [
+   "Satellite / remote sensing"
+  ],
+  "problem_ids": [
+   "P16"
+  ],
+  "study_ids": [],
+  "verified": "URL resolves (HTTP 200)",
+  "record_type": "Dataset",
+  "id": "D27",
+  "title": "ESA WorldCover 10 m land cover",
+  "last_verified": "2026-10-09",
+  "citation": "ESA WorldCover 10 m land cover - ESA - Global, 2020 to 2021 - https://esa-worldcover.org/en"
+ },
+ {
+  "dataset_id": "D28",
+  "name": "Global Yield Gap Atlas (GYGA)",
+  "producer": "Wageningen University & Univ. of Nebraska",
+  "tier": 3,
+  "description": "Yield potential and gaps by climate zone (coverage of Myanmar not verified in this build).",
+  "variables": [
+   "Yield potential",
+   "Water-limited yield"
+  ],
+  "unit": "t/ha",
+  "geography": "Selected countries",
+  "spatial_resolution": "Climate zone",
+  "temporal_resolution": "Static",
+  "start_date": "n/a",
+  "end_date": "n/a",
+  "update_frequency": "Periodic",
+  "access_method": "Web",
+  "api_available": "No",
+  "download_format": "CSV",
+  "license": "See site",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "Peer-reviewed protocol",
+  "missingness": "Myanmar coverage Not independently verified",
+  "methodology": "Crop simulation",
+  "known_limitations": [
+   "Check Myanmar coverage"
+  ],
+  "source_url": "https://www.yieldgap.org/",
+  "documentation_url": "https://www.yieldgap.org/",
+  "data_types": [
+   "Experimental / plot data"
+  ],
+  "problem_ids": [
+   "P01"
+  ],
+  "study_ids": [
+   "S189"
+  ],
+  "verified": "URL resolves (HTTP 200); Myanmar coverage Not independently verified",
+  "record_type": "Dataset",
+  "id": "D28",
+  "title": "Global Yield Gap Atlas (GYGA)",
+  "last_verified": "2026-10-09",
+  "citation": "Global Yield Gap Atlas (GYGA) - Wageningen University & Univ. of Nebraska - Selected countries, n/a to n/a - https://www.yieldgap.org/"
+ },
+ {
+  "dataset_id": "D29",
+  "name": "Official agricultural statistics (MOALI / CSO yearbooks)",
+  "producer": "Ministry of Agriculture, Livestock and Irrigation; Central Statistical Organization",
+  "tier": 1,
+  "description": "Sown/harvested area, production and yield by state/region and season.",
+  "variables": [
+   "Sown area",
+   "Harvested area",
+   "Production",
+   "Yield"
+  ],
+  "unit": "acres; baskets; t",
+  "geography": "State/region (township in some tables)",
+  "spatial_resolution": "Admin-1",
+  "temporal_resolution": "Seasonal / annual",
+  "start_date": "Historical",
+  "end_date": "Public to ~2020 (S251)",
+  "update_frequency": "Irregular since 2021",
+  "access_method": "Printed/PDF yearbooks; request",
+  "api_available": "No",
+  "download_format": "PDF",
+  "license": "Unknown",
+  "cost": "Unknown",
+  "access_class": "Unknown",
+  "data_quality": "Official; known reliability concerns",
+  "missingness": "No public subnational release after 2020 (S251)",
+  "methodology": "Administrative reporting",
+  "known_limitations": [
+   "Access uncertain post-2021",
+   "Methods not documented publicly"
+  ],
+  "source_url": "",
+  "documentation_url": "",
+  "data_types": [
+   "Administrative / official statistics"
+  ],
+  "problem_ids": [
+   "P16",
+   "P01"
+  ],
+  "study_ids": [
+   "S251"
+  ],
+  "verified": "Current access Not independently verified",
+  "record_type": "Dataset",
+  "id": "D29",
+  "title": "Official agricultural statistics (MOALI / CSO yearbooks)",
+  "last_verified": "2026-10-09",
+  "citation": "Official agricultural statistics (MOALI / CSO yearbooks) - Ministry of Agriculture, Livestock and Irrigation; Central Statistical Organization - State/region (township in some tables), Historical to Public to ~2020 (S251) - access URL not available"
+ },
+ {
+  "dataset_id": "D30",
+  "name": "Myanmar Migration Assessment (MMA)",
+  "producer": "IFPRI",
+  "tier": 2,
+  "description": "Survey on migration impacts and processes drawn from the MHWS sample.",
+  "variables": [
+   "Migration",
+   "Remittances",
+   "Destinations"
+  ],
+  "unit": "Household/individual",
+  "geography": "National",
+  "spatial_resolution": "Township identifiers (per IFPRI)",
+  "temporal_resolution": "Event-based (single survey)",
+  "start_date": "2023",
+  "end_date": "2024",
+  "update_frequency": "One-off",
+  "access_method": "Harvard Dataverse",
+  "api_available": "Dataverse API",
+  "download_format": "Stata/CSV",
+  "license": "IFPRI Terms",
+  "cost": "Free",
+  "access_class": "Registration (free)",
+  "data_quality": "Institutional",
+  "missingness": "Unknown",
+  "methodology": "Phone survey",
+  "known_limitations": [
+   "Not rice-specific"
+  ],
+  "source_url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BLYQ4K",
+  "documentation_url": "https://myanmar.ifpri.info/",
+  "data_types": [
+   "Phone panel survey",
+   "Labor"
+  ],
+  "problem_ids": [
+   "P03"
+  ],
+  "study_ids": [
+   "S193"
+  ],
+  "verified": "Dataverse search API",
+  "record_type": "Dataset",
+  "id": "D30",
+  "title": "Myanmar Migration Assessment (MMA)",
+  "last_verified": "2026-10-09",
+  "citation": "Myanmar Migration Assessment (MMA) - IFPRI - National, 2023 to 2024 - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BLYQ4K"
+ },
+ {
+  "dataset_id": "D31",
+  "name": "FAO DIEM (Data in Emergencies) household surveys - Myanmar",
+  "producer": "FAO",
+  "tier": 2,
+  "description": "Repeated household surveys on agricultural livelihoods, shocks and needs (multiple rounds 2021-2025).",
+  "variables": [
+   "Crop production",
+   "Shocks",
+   "Input access",
+   "Needs"
+  ],
+  "unit": "Household",
+  "geography": "National",
+  "spatial_resolution": "Admin-1/2",
+  "temporal_resolution": "Event-based (rounds)",
+  "start_date": "2021",
+  "end_date": "2025",
+  "update_frequency": "Periodic rounds",
+  "access_method": "World Bank Microdata Library (FAO collection)",
+  "api_available": "Catalog API",
+  "download_format": "CSV/Stata",
+  "license": "Per catalog",
+  "cost": "Free",
+  "access_class": "Registration (free)",
+  "data_quality": "Institutional",
+  "missingness": "Varies",
+  "methodology": "Phone/household survey",
+  "known_limitations": [
+   "Not rice-plot-specific"
+  ],
+  "source_url": "https://microdata.worldbank.org/index.php/catalog/8355",
+  "documentation_url": "https://microdata.worldbank.org/index.php/catalog/8355",
+  "data_types": [
+   "Farmer survey"
+  ],
+  "problem_ids": [
+   "P05",
+   "P08"
+  ],
+  "study_ids": [],
+  "verified": "Catalog API search by this build",
+  "record_type": "Dataset",
+  "id": "D31",
+  "title": "FAO DIEM (Data in Emergencies) household surveys - Myanmar",
+  "last_verified": "2026-10-09",
+  "citation": "FAO DIEM (Data in Emergencies) household surveys - Myanmar - FAO - National, 2021 to 2025 - https://microdata.worldbank.org/index.php/catalog/8355"
+ },
+ {
+  "dataset_id": "D32",
+  "name": "IFPRI agri-food enterprise phone surveys (rice millers, traders, input retailers, mechanization service providers)",
+  "producer": "IFPRI",
+  "tier": 2,
+  "description": "Repeated surveys of value-chain enterprises 2020-2025, published as report series.",
+  "variables": [
+   "Mill throughput and prices",
+   "Trader margins",
+   "Input retail prices and stocks",
+   "Mechanization fees"
+  ],
+  "unit": "Enterprise",
+  "geography": "National",
+  "spatial_resolution": "Region",
+  "temporal_resolution": "Event-based (rounds)",
+  "start_date": "2020",
+  "end_date": "2025",
+  "update_frequency": "Irregular",
+  "access_method": "Reports on CGSpace; microdata availability Unknown",
+  "api_available": "CGSpace API (reports)",
+  "download_format": "PDF",
+  "license": "CC BY (reports)",
+  "cost": "Free",
+  "access_class": "Unknown",
+  "data_quality": "Institutional",
+  "missingness": "Microdata not located",
+  "methodology": "Phone surveys",
+  "known_limitations": [
+   "Microdata not public (not located)"
+  ],
+  "source_url": "https://myanmar.ifpri.info/",
+  "documentation_url": "https://myanmar.ifpri.info/",
+  "data_types": [
+   "Enterprise survey (mills, traders, retailers)"
+  ],
+  "problem_ids": [
+   "P11",
+   "P12",
+   "P15"
+  ],
+  "study_ids": [
+   "S140",
+   "S174",
+   "S229",
+   "S284",
+   "S286",
+   "S287",
+   "S304",
+   "S305"
+  ],
+  "verified": "Report series located (65+ reports)",
+  "record_type": "Dataset",
+  "id": "D32",
+  "title": "IFPRI agri-food enterprise phone surveys (rice millers, traders, input retailers, mechanization service providers)",
+  "last_verified": "2026-10-09",
+  "citation": "IFPRI agri-food enterprise phone surveys (rice millers, traders, input retailers, mechanization service providers) - IFPRI - National, 2020 to 2025 - https://myanmar.ifpri.info/"
+ },
+ {
+  "dataset_id": "D33",
+  "name": "UNOSAT flood extent vectors (2015 Myanmar floods)",
+  "producer": "UNITAR-UNOSAT",
+  "tier": 2,
+  "description": "Event-based flood extent analyses from Sentinel-1/RADARSAT-2 (July-August 2015).",
+  "variables": [
+   "Flood extent polygons"
+  ],
+  "unit": "Polygons",
+  "geography": "Affected regions",
+  "spatial_resolution": "Vector",
+  "temporal_resolution": "Event-based",
+  "start_date": "2015-07",
+  "end_date": "2015-08",
+  "update_frequency": "Event-based",
+  "access_method": "HDX",
+  "api_available": "HDX API",
+  "download_format": "Shapefile",
+  "license": "See HDX",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "Rapid mapping",
+  "missingness": "Event only",
+  "methodology": "SAR classification",
+  "known_limitations": [
+   "Single event"
+  ],
+  "source_url": "https://data.humdata.org/dataset/fl20150703mmr-flood-vectors-sentinel1-11-august-2015",
+  "documentation_url": "https://data.humdata.org/dataset/fl20150703mmr-flood-vectors-sentinel1-11-august-2015",
+  "data_types": [
+   "Satellite / remote sensing"
+  ],
+  "problem_ids": [
+   "P05"
+  ],
+  "study_ids": [],
+  "verified": "HDX API returned package",
+  "record_type": "Dataset",
+  "id": "D33",
+  "title": "UNOSAT flood extent vectors (2015 Myanmar floods)",
+  "last_verified": "2026-10-09",
+  "citation": "UNOSAT flood extent vectors (2015 Myanmar floods) - UNITAR-UNOSAT - Affected regions, 2015-07 to 2015-08 - https://data.humdata.org/dataset/fl20150703mmr-flood-vectors-sentinel1-11-august-2015"
+ },
+ {
+  "dataset_id": "D34",
+  "name": "Replication dataset: climate change, adaptation and rice farming outcomes (Delta)",
+  "producer": "Harvard Dataverse depositor (derived from IFPRI data)",
+  "tier": 3,
+  "description": "Cleaned dataset derived from publicly available IFPRI data for a study of adaptation in the Delta.",
+  "variables": [
+   "Adaptation practices",
+   "Economic outcomes"
+  ],
+  "unit": "Household",
+  "geography": "Ayeyarwady Delta",
+  "spatial_resolution": "Unknown",
+  "temporal_resolution": "Seasonal",
+  "start_date": "Unknown",
+  "end_date": "Unknown",
+  "update_frequency": "Static",
+  "access_method": "Harvard Dataverse",
+  "api_available": "Dataverse API",
+  "download_format": "Unknown",
+  "license": "See Dataverse",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "Derived",
+  "missingness": "Unknown",
+  "methodology": "Derived",
+  "known_limitations": [
+   "Derived from IFPRI data; check terms"
+  ],
+  "source_url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FGDDSP",
+  "documentation_url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FGDDSP",
+  "data_types": [
+   "Farmer survey"
+  ],
+  "problem_ids": [
+   "P05"
+  ],
+  "study_ids": [],
+  "verified": "Dataverse search API",
+  "record_type": "Dataset",
+  "id": "D34",
+  "title": "Replication dataset: climate change, adaptation and rice farming outcomes (Delta)",
+  "last_verified": "2026-10-09",
+  "citation": "Replication dataset: climate change, adaptation and rice farming outcomes (Delta) - Harvard Dataverse depositor (derived from IFPRI data) - Ayeyarwady Delta, Unknown to Unknown - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FGDDSP"
+ },
+ {
+  "dataset_id": "D35",
+  "name": "World Bank RTFP monthly food price estimates by product and market (Myanmar)",
+  "producer": "World Bank (Real-Time Food Prices)",
+  "tier": 5,
+  "description": "Modelled monthly price estimates filling gaps in market price series, 2007-2026.",
+  "variables": [
+   "Estimated food prices incl. rice"
+  ],
+  "unit": "Local currency",
+  "geography": "Markets",
+  "spatial_resolution": "Market",
+  "temporal_resolution": "Monthly",
+  "start_date": "2007",
+  "end_date": "2026",
+  "update_frequency": "Monthly",
+  "access_method": "World Bank Microdata Library",
+  "api_available": "Catalog API",
+  "download_format": "CSV",
+  "license": "CC BY 4.0 (per catalog)",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "Modelled estimates - do not treat as observations",
+  "missingness": "Gap-filled by model",
+  "methodology": "Machine-learning imputation of price series",
+  "known_limitations": [
+   "Imputed values; distinguish from observed"
+  ],
+  "source_url": "https://microdata.worldbank.org/index.php/catalog/4501",
+  "documentation_url": "https://microdata.worldbank.org/index.php/catalog/4501",
+  "data_types": [
+   "Market / price"
+  ],
+  "problem_ids": [
+   "P02",
+   "P15"
+  ],
+  "study_ids": [],
+  "verified": "Catalog API search by this build",
+  "record_type": "Dataset",
+  "id": "D35",
+  "title": "World Bank RTFP monthly food price estimates by product and market (Myanmar)",
+  "last_verified": "2026-10-09",
+  "citation": "World Bank RTFP monthly food price estimates by product and market (Myanmar) - World Bank (Real-Time Food Prices) - Markets, 2007 to 2026 - https://microdata.worldbank.org/index.php/catalog/4501"
+ },
+ {
+  "dataset_id": "D36",
+  "name": "World Bank RTFX monthly exchange rate estimates by market (Myanmar)",
+  "producer": "World Bank",
+  "tier": 5,
+  "description": "Monthly market exchange-rate estimates 2007-2026.",
+  "variables": [
+   "Market exchange rate"
+  ],
+  "unit": "MMK/USD",
+  "geography": "Markets",
+  "spatial_resolution": "Market",
+  "temporal_resolution": "Monthly",
+  "start_date": "2007",
+  "end_date": "2026",
+  "update_frequency": "Monthly",
+  "access_method": "World Bank Microdata Library",
+  "api_available": "Catalog API",
+  "download_format": "CSV",
+  "license": "CC BY 4.0 (per catalog)",
+  "cost": "Free",
+  "access_class": "Open",
+  "data_quality": "Modelled estimates",
+  "missingness": "Gap-filled",
+  "methodology": "Model-based",
+  "known_limitations": [
+   "Estimates, not official rates"
+  ],
+  "source_url": "https://microdata.worldbank.org/index.php/catalog/6150",
+  "documentation_url": "https://microdata.worldbank.org/index.php/catalog/6150",
+  "data_types": [
+   "Market / price"
+  ],
+  "problem_ids": [
+   "P15",
+   "P02"
+  ],
+  "study_ids": [
+   "S239"
+  ],
+  "verified": "Catalog API search by this build",
+  "record_type": "Dataset",
+  "id": "D36",
+  "title": "World Bank RTFX monthly exchange rate estimates by market (Myanmar)",
+  "last_verified": "2026-10-09",
+  "citation": "World Bank RTFX monthly exchange rate estimates by market (Myanmar) - World Bank - Markets, 2007 to 2026 - https://microdata.worldbank.org/index.php/catalog/6150"
+ }
+]

@@ -1,0 +1,92 @@
+[
+ {
+  "query": "Myanmar rice",
+  "total_hits": 2063,
+  "new": 400
+ },
+ {
+  "query": "Myanmar paddy",
+  "total_hits": 667,
+  "new": 206
+ },
+ {
+  "query": "Myanmar mechanization",
+  "total_hits": 1815,
+  "new": 149
+ },
+ {
+  "query": "Myanmar agricultural performance survey",
+  "total_hits": 1248,
+  "new": 153
+ },
+ {
+  "query": "Myanmar fertilizer",
+  "total_hits": 1543,
+  "new": 75
+ },
+ {
+  "query": "Myanmar farmers",
+  "total_hits": 2404,
+  "new": 49
+ },
+ {
+  "query": "Myanmar irrigation",
+  "total_hits": 1512,
+  "new": 45
+ },
+ {
+  "query": "Myanmar Ayeyarwady",
+  "total_hits": 307,
+  "new": 38
+ },
+ {
+  "query": "Myanmar dry zone",
+  "total_hits": 971,
+  "new": 27
+ },
+ {
+  "query": "Myanmar climate-smart",
+  "total_hits": 808,
+  "new": 169
+ },
+ {
+  "query": "Myanmar postharvest",
+  "total_hits": 689,
+  "new": 146
+ },
+ {
+  "query": "Myanmar labor migration rural",
+  "total_hits": 528,
+  "new": 136
+ },
+ {
+  "query": "Myanmar seed",
+  "total_hits": 1592,
+  "new": 13
+ },
+ {
+  "query": "Myanmar extension",
+  "total_hits": 1959,
+  "new": 22
+ },
+ {
+  "query": "Myanmar agricultural wages",
+  "total_hits": 616,
+  "new": 53
+ },
+ {
+  "query": "Myanmar rice value chain",
+  "total_hits": 1105,
+  "new": 21
+ },
+ {
+  "query": "Myanmar conflict agriculture",
+  "total_hits": 1079,
+  "new": 36
+ },
+ {
+  "query": "Myanmar household welfare survey",
+  "total_hits": 630,
+  "new": 69
+ }
+]

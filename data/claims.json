@@ -1,0 +1,1767 @@
+[
+ {
+  "claim_id": "P01-C1",
+  "record_id": "P01",
+  "claim": "USDA PSD national rough-rice yield ranged 2.43-3.10 t/ha over 2000-2025 (3.10 in 2000, 2.71 in 2024); Vietnam reported 6.12 t/ha in 2024.",
+  "source_ids": [
+   "D01"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P01-C2",
+  "record_id": "P01",
+  "claim": "Exploitable rice yield gaps are relatively large in Myanmar compared with Indonesia and Vietnam; the regional average gap is 48% of yield potential.",
+  "source_ids": [
+   "S189"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P01-C3",
+  "record_id": "P01",
+  "claim": "Monsoon yields in Taikkyi (Yangon) varied 0.8-4.1 t/ha, mean 2.6 t/ha (100 households, 2010).",
+  "source_ids": [
+   "S090"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P01-C4",
+  "record_id": "P01",
+  "claim": "ORYZA-simulated climatic yield potential ranged from 5.4 t/ha upward at dry-zone and delta sites, far above farmers' yields.",
+  "source_ids": [
+   "S114"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P01-C5",
+  "record_id": "P01",
+  "claim": "Ayeyarwady rice growers (n=300) showed mean technical, allocative and economic efficiency of 76.1%, 47.9% and 34.2%.",
+  "source_ids": [
+   "S154"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P01-C6",
+  "record_id": "P01",
+  "claim": "Yields rose 16.3% from 2010 to 2020 but fell 4.9% between 2020 and 2022.",
+  "source_ids": [
+   "S255"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P01-C7",
+  "record_id": "P01",
+  "claim": "National monsoon yields on farmers' largest plots fell 8% in 2025 versus 2023.",
+  "source_ids": [
+   "S302"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P01-C8",
+  "record_id": "P01",
+  "claim": "The widening yield gap with Vietnam is attributed more to differences in public investment in technology than to price policy.",
+  "source_ids": [
+   "S029"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P02-C1",
+  "record_id": "P02",
+  "claim": "Between the 2023 and 2025 monsoons: urea +23%, plowing costs +55%, wages +88% (men) and +83% (women), input expenditure per acre +63%, farmgate paddy -6%, nominal profit per acre -40% (lowest in six years).",
+  "source_ids": [
+   "S302"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P02-C2",
+  "record_id": "P02",
+  "claim": "Real paddy profits in the 2024 dry season fell 15% versus 2023 after a 41% rise the year before - profitability is volatile.",
+  "source_ids": [
+   "S253",
+   "S217"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P02-C3",
+  "record_id": "P02",
+  "claim": "The dual exchange-rate system acted as an across-the-board export tax of about 24% (Aug 2022-Aug 2024) and raised fertilizer prices ~10% relative to Thailand.",
+  "source_ids": [
+   "S239"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P02-C4",
+  "record_id": "P02",
+  "claim": "By end-June 2026 diesel was 34% and petrol 57% higher than end-February; urea reference prices were 28-49% above the previous monsoon.",
+  "source_ids": [
+   "S304"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P03-C1",
+  "record_id": "P03",
+  "claim": "Since 2011 farmers faced labour shortages and rising wages as workers moved to urban sectors; they responded by mechanizing rapidly.",
+  "source_ids": [
+   "S132",
+   "S162"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P03-C2",
+  "record_id": "P03",
+  "claim": "Farm wages rose 88% (men) and 83% (women) between the 2023 and 2025 monsoons.",
+  "source_ids": [
+   "S302"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P03-C3",
+  "record_id": "P03",
+  "claim": "Farmers in the most insecure areas were 7-15 percentage points more likely to report lacking access to agricultural labourers.",
+  "source_ids": [
+   "S239"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P03-C4",
+  "record_id": "P03",
+  "claim": "Labour shortages and water constraints are the primary reasons for adopting direct-seeded rice.",
+  "source_ids": [
+   "S301"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P03-C5",
+  "record_id": "P03",
+  "claim": "Women perform 39% of household farm labour days and are 43% of agricultural wage workers.",
+  "source_ids": [
+   "S164"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P03-C6",
+  "record_id": "P03",
+  "claim": "Combine harvester use releases family labour into more remunerative dry-season non-farm employment.",
+  "source_ids": [
+   "S263"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P04-C1",
+  "record_id": "P04",
+  "claim": "Greater intensity of violent events is associated with higher fertilizer prices (especially far from import points), lower use, lower rice yield response at given N, and a decline in fertilizer use efficiency each year since the conflict began.",
+  "source_ids": [
+   "S269"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P04-C2",
+  "record_id": "P04",
+  "claim": "Monsoon fertilizer use fell about 20% across 2020-2022 monsoons.",
+  "source_ids": [
+   "S255"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P04-C3",
+  "record_id": "P04",
+  "claim": "In the 2022 dry season fertilizer use fell only 6% despite a 51% price increase.",
+  "source_ids": [
+   "S184"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P04-C4",
+  "record_id": "P04",
+  "claim": "Fertilizer use on rice rose 20% in the 2023 monsoon as urea prices fell 16%, contributing to a 7% yield gain.",
+  "source_ids": [
+   "S252"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P04-C5",
+  "record_id": "P04",
+  "claim": "In 2025, doubling chemical fertilizer use was associated with a 9% higher yield, and doubling commercial input spending with 34% higher yield (ceteris paribus, correlational).",
+  "source_ids": [
+   "S302"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P04-C6",
+  "record_id": "P04",
+  "claim": "Surveyed rice farmers in central Myanmar (n=600) applied more fertilizer than previously reported national averages, but timing departed from recommended practices.",
+  "source_ids": [
+   "S158"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P05-C1",
+  "record_id": "P05",
+  "claim": "In the 2025 monsoon, 10% of paddy farmers reported floods (yields -34% when affected) and 15% heavy rains (-15%).",
+  "source_ids": [
+   "S302"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P05-C2",
+  "record_id": "P05",
+  "claim": "In the 2023 monsoon floods affected 7% of farmers with 32% yield losses.",
+  "source_ids": [
+   "S252"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P05-C3",
+  "record_id": "P05",
+  "claim": "Cyclone Mocha affected 13% of crop farmers; 3% lost their whole dry-season harvest; coastal yields fell 29%.",
+  "source_ids": [
+   "S217"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P05-C4",
+  "record_id": "P05",
+  "claim": "Of 1,046 cyclone events (1970-2018) in four countries, 138 were associated with recorded rice damage; agricultural losses are under-reported in disaster databases.",
+  "source_ids": [
+   "S168"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P05-C5",
+  "record_id": "P05",
+  "claim": "Tropical cyclone track hot spots along Myanmar's coast changed over 1983-2012.",
+  "source_ids": [
+   "S148"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P06-C1",
+  "record_id": "P06",
+  "claim": "Drought-affected farmers (5%) saw 51% lower paddy yields in the 2023 monsoon.",
+  "source_ids": [
+   "S252"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P06-C2",
+  "record_id": "P06",
+  "claim": "MODIS NDVI and CHIRPS rainfall are strongly correlated in the Dry Zone (R2 0.74 and 0.82), supporting satellite drought monitoring.",
+  "source_ids": [
+   "S072"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P06-C3",
+  "record_id": "P06",
+  "claim": "The Central Dry Zone hosts ~12 million people and 35% of Myanmar's grain cropping but is food-insecure.",
+  "source_ids": [
+   "S115"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P06-C4",
+  "record_id": "P06",
+  "claim": "Erratic rainfall, dry spells and untimely rain were the critical challenge in rice-based farming; timely machinery use was a major adaptation.",
+  "source_ids": [
+   "S096"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P07-C1",
+  "record_id": "P07",
+  "claim": "Summer rice cannot be grown near the Ayeyarwady coast because river water salinity is high in the dry season; Sentinel-2 visible reflectance correlates with electrical conductivity.",
+  "source_ids": [
+   "S155"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P07-C2",
+  "record_id": "P07",
+  "claim": "Past exposure to saltwater intrusion reduced adoption of high-value varieties in coastal townships (298 households).",
+  "source_ids": [
+   "S143"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P07-C3",
+  "record_id": "P07",
+  "claim": "Coastal agro-ecological zone yields fell 22% in the 2025 monsoon versus 2023, the largest decline of any zone (partly due to Rakhine market isolation).",
+  "source_ids": [
+   "S302"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P07-C4",
+  "record_id": "P07",
+  "claim": "Delta land elevation datasets differ substantially, affecting sea-level-rise exposure estimates.",
+  "source_ids": [
+   "S195"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P08-C1",
+  "record_id": "P08",
+  "claim": "Increases in fatal violent events (2020-2021) reduced rice total factor productivity by ~4% on average in the short run; poorer, less-capitalised farmers were more affected.",
+  "source_ids": [
+   "S200",
+   "S234"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P08-C2",
+  "record_id": "P08",
+  "claim": "Conflict reduced paddy production, yield, farmgate prices and value of production; events targeting civilians had larger effects.",
+  "source_ids": [
+   "S228"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P08-C3",
+  "record_id": "P08",
+  "claim": "Formal agricultural credit declined sharply in conflict areas while informal credit stayed resilient.",
+  "source_ids": [
+   "S286"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P08-C4",
+  "record_id": "P08",
+  "claim": "Rice distribution costs rose 31% (monsoon) and 146% (dry season), partly linked to conflict.",
+  "source_ids": [
+   "S255"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P08-C5",
+  "record_id": "P08",
+  "claim": "Rakhine State was largely cut off from commercial input and output markets in 2025.",
+  "source_ids": [
+   "S302"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P09-C1",
+  "record_id": "P09",
+  "claim": "Using off-farm seed is associated with higher monsoon yields; off-farm seed use declined in 2021-2023 and fell after rainfall, temperature, flood and violence shocks, but less so in townships hosting EGS seed or research farms.",
+  "source_ids": [
+   "S299"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P09-C2",
+  "record_id": "P09",
+  "claim": "Use of self-preserved seed rose 17 percentage points compared with 2020.",
+  "source_ids": [
+   "S252"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P09-C3",
+  "record_id": "P09",
+  "claim": "Improved varieties benefit farmers only if adopted; demand for quality seed in the Dry Zone is constrained.",
+  "source_ids": [
+   "S139"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P10-C1",
+  "record_id": "P10",
+  "claim": "Of ~12 million ha cropped in 2014, about 7 million ha were rice; irrigation expansion potential was assessed.",
+  "source_ids": [
+   "S103"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P10-C2",
+  "record_id": "P10",
+  "claim": "Water users' associations in pump schemes enabled farmers to double irrigated area 1.5 years after the project ended (self-reported).",
+  "source_ids": [
+   "S133"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P10-C3",
+  "record_id": "P10",
+  "claim": "MODIS VI time series identified a canal with limited water supply inside the Thapanzeik irrigation district (2001-2020).",
+  "source_ids": [
+   "S214"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P10-C4",
+  "record_id": "P10",
+  "claim": "A dam in Yedashe enabled double rice cropping and higher incomes (95-farmer before/after comparison).",
+  "source_ids": [
+   "S059"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Low",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P11-C1",
+  "record_id": "P11",
+  "claim": "In an Ayeyarwady field experiment, mechanized practices raised net income 30-50% versus traditional practice and significantly reduced post-harvest losses without raising life-cycle GHG.",
+  "source_ids": [
+   "S119"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P11-C2",
+  "record_id": "P11",
+  "claim": "Rodent losses in granaries ranged 1.2-14% across two townships and two years.",
+  "source_ids": [
+   "S052"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P11-C3",
+  "record_id": "P11",
+  "claim": "Reversible-airflow flatbed dryers were the best option on cost-benefit, labour and energy across four countries including Myanmar.",
+  "source_ids": [
+   "S070"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P12-C1",
+  "record_id": "P12",
+  "claim": "Extremely rapid mechanization occurred 2011-2020; land preparation, harvesting and threshing became near scale-neutral via outsourcing markets.",
+  "source_ids": [
+   "S162"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P12-C2",
+  "record_id": "P12",
+  "claim": "Over about ten years, tractor plowing rose 43 pp and combine harvesting 41 pp.",
+  "source_ids": [
+   "S255"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P12-C3",
+  "record_id": "P12",
+  "claim": "Combine use on rice in the 2023 monsoon was 12 pp lower than in 2020; mechanization costs rose 42% (2022-2023) and 55% (2023-2025).",
+  "source_ids": [
+   "S252",
+   "S302"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P12-C4",
+  "record_id": "P12",
+  "claim": "Small rice plots were ~30% more productive than large ones; rising mechanization fees attenuated this inverse relationship, more so in conflict-affected townships.",
+  "source_ids": [
+   "S192"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P13-C1",
+  "record_id": "P13",
+  "claim": "Formal credit receipt declined sharply in conflict areas, especially from government schemes and MFIs; informal credit (family, agribusiness) remained resilient.",
+  "source_ids": [
+   "S286"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P13-C2",
+  "record_id": "P13",
+  "claim": "A large subsidised rice credit programme showed little evidence of raising yields or output but some positive effect on household income (fuzzy RDD).",
+  "source_ids": [
+   "S082"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P13-C3",
+  "record_id": "P13",
+  "claim": "Credit-labour interlinked transactions persist in the Delta because subsistence needs dominate.",
+  "source_ids": [
+   "S161"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P14-C1",
+  "record_id": "P14",
+  "claim": "Conflict reduced farmers' access to extension, which otherwise helps maintain productivity with limited capital.",
+  "source_ids": [
+   "S200",
+   "S269"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P14-C2",
+  "record_id": "P14",
+  "claim": "A Rice Crop Manager prototype for Myanmar was developed and shared with the Department of Agriculture in 2019; no evidence of scale-up was found.",
+  "source_ids": [
+   "S112"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P14-C3",
+  "record_id": "P14",
+  "claim": "A private digital climate-advisory platform scaled to 139,000 farmers (10 commodities) in 2025.",
+  "source_ids": [
+   "S298"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P14-C4",
+  "record_id": "P14",
+  "claim": "An RCT in post-coup Myanmar evaluated direct SMS vs lead-farmer-supported SMS extension for fall armyworm management.",
+  "source_ids": [
+   "S274"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P15-C1",
+  "record_id": "P15",
+  "claim": "Exchange-rate policies were much more harmful to farm incentives than domestic trade effects of insecurity.",
+  "source_ids": [
+   "S239"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P15-C2",
+  "record_id": "P15",
+  "claim": "Myanmar became the world's 5th-largest rice exporter by end-2019; exports proved resilient during the crisis years.",
+  "source_ids": [
+   "S229"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P15-C3",
+  "record_id": "P15",
+  "claim": "Rice markets showed partial integration under a halfway-liberalised system (co-integration and VAR analysis).",
+  "source_ids": [
+   "S013"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P16-C1",
+  "record_id": "P16",
+  "claim": "Agricultural production data were publicly available at regional scale only for 2012-2020.",
+  "source_ids": [
+   "S251"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P16-C2",
+  "record_id": "P16",
+  "claim": "WFP's Myanmar retail rice price records (2008-2026; 298 markets report low-quality rice) contain no markets in Ayeyarwady, Bago (West) or Nay Pyi Taw - including the main rice basket (Ayeyarwady).",
+  "source_ids": [
+   "D06"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary) - Derived by this project from the HDX file downloaded 2026-10-09.",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P16-C3",
+  "record_id": "P16",
+  "claim": "Recall bias in reported wages is modest and does not increase with conflict severity.",
+  "source_ids": [
+   "S297"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P16-C4",
+  "record_id": "P16",
+  "claim": "Agriculture-related cyclone damage is under-reported in major multi-peril disaster databases.",
+  "source_ids": [
+   "S168"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P17-C1",
+  "record_id": "P17",
+  "claim": "Pests, diseases and weeds were the most frequent shock in the 2023 monsoon (13% of farmers).",
+  "source_ids": [
+   "S252"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P17-C2",
+  "record_id": "P17",
+  "claim": "Asynchronous planting after Cyclone Nargis extended rodent breeding, followed by an outbreak 15 months later.",
+  "source_ids": [
+   "S022"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P17-C3",
+  "record_id": "P17",
+  "claim": "Weed infestation reduced the productivity of hybrid and inbred rice.",
+  "source_ids": [
+   "S149"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P18-C1",
+  "record_id": "P18",
+  "claim": "Direct-seeded rice is used by ~50% of farmers in the monsoon and ~75% in the dry season, mostly by broadcasting; farmers perceive a transplanting yield advantage of ~11 baskets per acre.",
+  "source_ids": [
+   "S301"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P18-C2",
+  "record_id": "P18",
+  "claim": "Lower 2025 productivity was associated with reduced labour inputs and more broadcasting.",
+  "source_ids": [
+   "S302"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P18-C3",
+  "record_id": "P18",
+  "claim": "Direct seeding rose ~20 pp over about a decade.",
+  "source_ids": [
+   "S255"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P19-C1",
+  "record_id": "P19",
+  "claim": "Field experiments compared AWD with continuous flooding and manure levels for GHG and water productivity.",
+  "source_ids": [
+   "S127",
+   "S124",
+   "S121"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "P19-C2",
+  "record_id": "P19",
+  "claim": "Mechanized post-harvest did not increase life-cycle GHG emissions.",
+  "source_ids": [
+   "S119"
+  ],
+  "evidence_type": "Problem evidence",
+  "verification_status": "Source located and read (abstract/summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B01-C1",
+  "record_id": "B01",
+  "claim": "Rice, wheat, maize yields +10.8-11.5%",
+  "source_ids": [
+   "S076"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B01-C2",
+  "record_id": "B01",
+  "claim": "N fertilizer -14.7-18.1% (1.2 Mt saved)",
+  "source_ids": [
+   "S076"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B01-C3",
+  "record_id": "B01",
+  "claim": "Rice GHG intensity 941 → 812 kg CO2e/Mg",
+  "source_ids": [
+   "S076"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B02-C1",
+  "record_id": "B02",
+  "claim": "Farmers perceived lower input use and livelihood gains",
+  "source_ids": [
+   "S308",
+   "S201",
+   "S075"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B02-C2",
+  "record_id": "B02",
+  "claim": "Seed and fertilizer rates remained particularly high - overuse persists",
+  "source_ids": [
+   "S308",
+   "S201",
+   "S075"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B03-C1",
+  "record_id": "B03",
+  "claim": "Seed -50%",
+  "source_ids": [
+   "S309",
+   "S301"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B03-C2",
+  "record_id": "B03",
+  "claim": "Fertilizer -20%",
+  "source_ids": [
+   "S309",
+   "S301"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B03-C3",
+  "record_id": "B03",
+  "claim": "Yield +5%",
+  "source_ids": [
+   "S309",
+   "S301"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B03-C4",
+  "record_id": "B03",
+  "claim": "Profit +US$200/ha",
+  "source_ids": [
+   "S309",
+   "S301"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B03-C5",
+  "record_id": "B03",
+  "claim": "Carbon footprint -10%",
+  "source_ids": [
+   "S309",
+   "S301"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B04-C1",
+  "record_id": "B04",
+  "claim": "Harvesting 'almost fully mechanised' in Vietnam and Cambodia by 2019 (IRRI)",
+  "source_ids": [
+   "S310",
+   "S107",
+   "S091"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B05-C1",
+  "record_id": "B05",
+  "claim": "Yields unchanged",
+  "source_ids": [
+   "S128"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B05-C2",
+  "record_id": "B05",
+  "claim": "No water saving under seasonal per-acre water charges",
+  "source_ids": [
+   "S128"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B05-C3",
+  "record_id": "B05",
+  "claim": "Under volumetric pricing: standing water -18%, profit +~7% (1,870 taka/acre)",
+  "source_ids": [
+   "S128"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B06-C1",
+  "record_id": "B06",
+  "claim": "High-allocation areas: yields +6-13%, labour costs -38-70%, production costs -12-26% (earlier causal analysis as cited)",
+  "source_ids": [
+   "S311"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B06-C2",
+  "record_id": "B06",
+  "claim": "Female agricultural self-employment -2.6 pp",
+  "source_ids": [
+   "S311"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B07-C1",
+  "record_id": "B07",
+  "claim": "~45% higher yield after 10 days of submergence",
+  "source_ids": [
+   "S023"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B07-C2",
+  "record_id": "B07",
+  "claim": "No significant yield penalty without flooding",
+  "source_ids": [
+   "S023"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B07-C3",
+  "record_id": "B07",
+  "claim": "Larger benefits for low-lying, disadvantaged farmers",
+  "source_ids": [
+   "S023"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B08-C1",
+  "record_id": "B08",
+  "claim": "Yield +17-19% vs farmer practice",
+  "source_ids": [
+   "S267",
+   "S112"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B08-C2",
+  "record_id": "B08",
+  "claim": "P rates -8.6 to -18.1 kg/ha; N higher in kharif, lower in rabi",
+  "source_ids": [
+   "S267",
+   "S112"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B09-C1",
+  "record_id": "B09",
+  "claim": "Government-commissioned study reports chemical fertilizer -8-10% and paddy cost of cultivation -16-25%",
+  "source_ids": [
+   "S312"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Low",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B10-C1",
+  "record_id": "B10",
+  "claim": "Household income +20% (project-reported)",
+  "source_ids": [
+   "S313"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B10-C2",
+  "record_id": "B10",
+  "claim": "1.87 Mt CO2e reduced",
+  "source_ids": [
+   "S313"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B11-C1",
+  "record_id": "B11",
+  "claim": "370.55 million baht paid on 310,000 rai (2020)",
+  "source_ids": [
+   "S314"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B12-C1",
+  "record_id": "B12",
+  "claim": "Loss and quality impacts not quantified in source",
+  "source_ids": [
+   "S315",
+   "S070"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B13-C1",
+  "record_id": "B13",
+  "claim": "Yield +0.3-0.6 t/ha (surveys)",
+  "source_ids": [
+   "S316"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B13-C2",
+  "record_id": "B13",
+  "claim": "Benefit:cost ~146:1 (ex-post assessment)",
+  "source_ids": [
+   "S316"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B13-C3",
+  "record_id": "B13",
+  "claim": "Fertilizer use stayed very low due to cost",
+  "source_ids": [
+   "S316"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B14-C1",
+  "record_id": "B14",
+  "claim": "Productivity +2.44 t/ha/season (PSM)",
+  "source_ids": [
+   "S317"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "B14-C2",
+  "record_id": "B14",
+  "claim": "Long-term access +1.56 t/ha (DID)",
+  "source_ids": [
+   "S317"
+  ],
+  "evidence_type": "Benchmark outcome",
+  "verification_status": "Source located and read (page summary)",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I01-C1",
+  "record_id": "I01",
+  "claim": "Labour savings, timeliness and reduced harvest losses (S162)",
+  "source_ids": [
+   "S162",
+   "S131",
+   "S132",
+   "S263",
+   "S192",
+   "S252",
+   "S255",
+   "S119",
+   "S287",
+   "S284"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I01-C2",
+  "record_id": "I01",
+  "claim": "Net income +30-50% for mechanized vs traditional harvest/post-harvest in a Delta field experiment (S119)",
+  "source_ids": [
+   "S162",
+   "S131",
+   "S132",
+   "S263",
+   "S192",
+   "S252",
+   "S255",
+   "S119",
+   "S287",
+   "S284"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I01-C3",
+  "record_id": "I01",
+  "claim": "Combine adoption not associated with lower labour costs or higher paddy margins; benefit is released family labour for non-farm work (S263)",
+  "source_ids": [
+   "S162",
+   "S131",
+   "S132",
+   "S263",
+   "S192",
+   "S252",
+   "S255",
+   "S119",
+   "S287",
+   "S284"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I01-C4",
+  "record_id": "I01",
+  "claim": "Combine use 12 pp lower in 2023 than 2020 (S252)",
+  "source_ids": [
+   "S162",
+   "S131",
+   "S132",
+   "S263",
+   "S192",
+   "S252",
+   "S255",
+   "S119",
+   "S287",
+   "S284"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I02-C1",
+  "record_id": "I02",
+  "claim": "Adopters and non-adopters both experienced substantial positive changes 2012-2017; farmer-group effect on yields mediated (S186)",
+  "source_ids": [
+   "S186",
+   "S079",
+   "S201",
+   "S084"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I03-C1",
+  "record_id": "I03",
+  "claim": "Prototype developed and shared with DoA; user interface revised after focus groups (S112)",
+  "source_ids": [
+   "S112",
+   "S267"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I03-C2",
+  "record_id": "I03",
+  "claim": "Comparable tool raised yields 17-19% in Odisha, India on-farm trials (S267)",
+  "source_ids": [
+   "S112",
+   "S267"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I04-C1",
+  "record_id": "I04",
+  "claim": "Treatment vs control areas (n=484): yields 3.77 vs 3.13 t/ha (+20.4%), net income US$237 vs US$57/ha; BCR reported 155:1 (S262, S259)",
+  "source_ids": [
+   "S230",
+   "S259",
+   "S262",
+   "S298",
+   "S285"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I05-C1",
+  "record_id": "I05",
+  "claim": "Both direct SMS and hybrid lead-farmer SMS designs were evaluated for knowledge and behaviour (S274)",
+  "source_ids": [
+   "S274",
+   "S191",
+   "S291"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I06-C1",
+  "record_id": "I06",
+  "claim": "Farmers prefer packages covering cyclone, flood and drought over salt damage (S153)",
+  "source_ids": [
+   "S153",
+   "S156",
+   "S163"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I06-C2",
+  "record_id": "I06",
+  "claim": "Optimum rainfall-index flood contract derived (S156)",
+  "source_ids": [
+   "S153",
+   "S156",
+   "S163"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I07-C1",
+  "record_id": "I07",
+  "claim": "Little evidence of yield/output effects; some positive household income effects (S082)",
+  "source_ids": [
+   "S082",
+   "S034",
+   "S286"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I08-C1",
+  "record_id": "I08",
+  "claim": "Farmers reported doubling irrigated area 1.5 years after project end despite drought (S133)",
+  "source_ids": [
+   "S133",
+   "S083",
+   "S223"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I09-C1",
+  "record_id": "I09",
+  "claim": "Double cropping and income gains after Swar dam (S059)",
+  "source_ids": [
+   "S059",
+   "S214",
+   "S002",
+   "S006",
+   "S030"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I09-C2",
+  "record_id": "I09",
+  "claim": "Improved VI in Thapanzeik district 2001-2020 but some canals water-limited (S214)",
+  "source_ids": [
+   "S059",
+   "S214",
+   "S002",
+   "S006",
+   "S030"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I10-C1",
+  "record_id": "I10",
+  "claim": "Flatbed dryer best on cost-benefit, labour and energy (S070)",
+  "source_ids": [
+   "S070",
+   "S095",
+   "S106"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I12-C1",
+  "record_id": "I12",
+  "claim": "FFS study-field SRI yields 6.4 t/ha vs farmers' prior 2.1 t/ha (S008)",
+  "source_ids": [
+   "S008",
+   "S306"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Low",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I13-C1",
+  "record_id": "I13",
+  "claim": "Benefit-cost assessment of extension methods (S101)",
+  "source_ids": [
+   "S101",
+   "S069",
+   "S078",
+   "S111"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Low",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I14-C1",
+  "record_id": "I14",
+  "claim": "Cost-return comparisons vs non-Paw San rice (S039, S049)",
+  "source_ids": [
+   "S039",
+   "S049",
+   "S264"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Low",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I15-C1",
+  "record_id": "I15",
+  "claim": "Townships hosting EGS seed/research farms mitigated shock-induced declines in off-farm seed use (S299)",
+  "source_ids": [
+   "S299",
+   "S136",
+   "S265",
+   "S282",
+   "S035"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "High",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I16-C1",
+  "record_id": "I16",
+  "claim": "GHG and water productivity measured in split-plot experiments (S127)",
+  "source_ids": [
+   "S127",
+   "S121",
+   "S124",
+   "S128"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I17-C1",
+  "record_id": "I17",
+  "claim": "Ecosystem service valuation (S257); socio-economic analysis (S188)",
+  "source_ids": [
+   "S188",
+   "S257",
+   "S102"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Low",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I18-C1",
+  "record_id": "I18",
+  "claim": "Recommended synchronous planting and similar-maturity varieties after major weather events (S022)",
+  "source_ids": [
+   "S022",
+   "S052"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I20-C1",
+  "record_id": "I20",
+  "claim": "Cost-benefit analysis of a climate-smart village (S171)",
+  "source_ids": [
+   "S171",
+   "S172",
+   "S109"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Low",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I20-C2",
+  "record_id": "I20",
+  "claim": "Framework for CSA policies and investments (S109)",
+  "source_ids": [
+   "S171",
+   "S172",
+   "S109"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Low",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I21-C1",
+  "record_id": "I21",
+  "claim": "Strategy launched with IRRI involvement (S307)",
+  "source_ids": [
+   "S307"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Low",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I22-C1",
+  "record_id": "I22",
+  "claim": "Pre-final maps discussed at all DoA levels prior to adoption for the 2020 monsoon (S093)",
+  "source_ids": [
+   "S093",
+   "S100"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Low",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I23-C1",
+  "record_id": "I23",
+  "claim": "Research prototype; limited by reference-data quality and regional-only official statistics (S251)",
+  "source_ids": [
+   "S251",
+   "S060"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Medium",
+  "last_verified": "2026-10-09"
+ },
+ {
+  "claim_id": "I26-C1",
+  "record_id": "I26",
+  "claim": "Handbooks and curricula published (S177, S173)",
+  "source_ids": [
+   "S177",
+   "S173"
+  ],
+  "evidence_type": "Implementation outcome",
+  "verification_status": "Source located",
+  "confidence": "Low",
+  "last_verified": "2026-10-09"
+ }
+]
