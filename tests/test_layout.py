@@ -166,3 +166,13 @@ def test_scroll_targets_land_below_sticky_header(app_factory, w, h):
     hdr, top = app.ev("[document.querySelector('header.top').getBoundingClientRect().bottom, document.querySelector('#pdetail').getBoundingClientRect().top]")
     assert top >= hdr - 1, (hdr, top)
     assert app.ev("parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--hdr-h'))") == pytest.approx(app.ev("document.querySelector('header.top').getBoundingClientRect().height"), abs=1)
+
+
+@pytest.mark.parametrize("w", [1280, 1920, 2560])
+def test_card_text_keeps_a_readable_measure_on_wide_screens(app_factory, w):
+    """Production QA: at 1920px card text ran to ~244 characters per line; it is now capped at the 1280px measure."""
+    app = app_factory(w=w, h=900, hash_="search")
+    longest = app.ev("""(() => { let best = 0; document.querySelectorAll('#cards .card .kv > span:not(.k)').forEach(s => { const rg = document.createRange(); rg.selectNodeContents(s);
+        best = Math.max(best, s.textContent.length / Math.max(1, [...rg.getClientRects()].filter(x => x.width > 40).length)); }); return best; })()""")
+    assert longest <= 155, f"{longest:.0f} characters per line at {w}px"
+    assert app.ev("document.querySelector('#cards .card').getBoundingClientRect().width") > 0.6 * (w - 300)   # cards still use the column

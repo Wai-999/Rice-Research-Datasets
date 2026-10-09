@@ -367,3 +367,7 @@ html.lock,html.lock body{overflow:hidden}
 .tgrp{display:inline-flex;align-items:center;gap:6px;min-width:0;max-width:100%}
 .tgrp select{min-width:0}
 @media (max-width:860px){table.cardify td>:not(div){justify-self:start}}
+/* Readable measure on wide screens: card text stops growing at the width it has at 1280px
+   (~135 characters per line) instead of stretching to ~240 characters on 1920px displays.
+   The card itself (border, chips row, action bar) still spans the full column. */
+.card>h3,.card>.meta,.card>.kv,.card>p{max-width:58rem}

@@ -53,3 +53,12 @@ MRRI_BASE_URL=https://wai-999.github.io/Rice-Research-Datasets/ MRRI_STRICT_NET=
 ```
 
 This runs the same suite against the live site. `MRRI_STRICT_NET=1` also fails on any external resource that does not load.
+
+## Production fixes found during the first deployment (2026-10-09)
+
+| Issue | Cause | Fix | Guard |
+|---|---|---|---|
+| Phones would lay the page out ~980 px wide and zoom out | The app was authored for the claude.ai artifact host, which supplies the HTML document shell; served raw it had no `<!doctype>`, `<meta charset>` or `<meta name="viewport">` (quirks mode) | `build_site.py` wraps it in a complete standards-mode document | `test_real_mobile_device_emulation`, `test_document_shell_is_standards_mode_and_described` |
+| Card text ran to ~244 characters per line on 1920 px screens | Result cards span the full column with no text measure | Card text blocks capped at the 1280 px measure (58 rem); layouts up to 1280 px unchanged | `test_card_text_keeps_a_readable_measure_on_wide_screens` |
+| First workflow run failed at *Configure Pages* | GitHub Pages was not yet enabled for the repository | Pages source set to **GitHub Actions** | — |
+| `ubuntu-latest` moves to Ubuntu 26 on 2026-10-19 | Playwright's `install --with-deps` supports known releases only | Jobs pinned to `ubuntu-24.04` | — |
